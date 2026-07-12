@@ -1,0 +1,19 @@
+{
+  "id": "firestore",
+  "name": "Firestore (Firebase)",
+  "category": "database",
+  "description": "Flexible, scalable NoSQL cloud database for mobile and web apps with real-time synchronization",
+  "official_website": "https://firebase.google.com/products/firestore",
+  "documentation": "https://firebase.google.com/docs/firestore",
+  "github_repository": "https://github.com/firebase/firebase-ios-sdk",
+  "license": "Proprietary",
+  "latest_version": "N/A",
+  "programming_languages": ["TypeScript", "JavaScript", "Kotlin", "Swift"],
+  "platforms": ["Cloud", "Android", "iOS", "Web"],
+  "package_manager": "npm",
+  "installation_examples": {"npm": "npm install firebase firebase-admin"},
+  "tags": ["database", "nosql", "cloud", "realtime", "firebase"],
+  "alternatives": ["Supabase", "MongoDB Atlas", "AWS DynamoDB"],
+  "popularity": 9, "maintained": true, "archived": false, "open_source": false,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

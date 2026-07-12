@@ -1,0 +1,19 @@
+{
+  "id": "insomnia",
+  "name": "Insomnia",
+  "category": "tools",
+  "description": "Open-source API client for GraphQL, REST, and gRPC with design, debugging, and testing features",
+  "official_website": "https://insomnia.rest",
+  "documentation": "https://docs.insomnia.rest",
+  "github_repository": "https://github.com/Kong/insomnia",
+  "license": "MIT",
+  "latest_version": "9.1.0",
+  "programming_languages": ["TypeScript", "JavaScript"],
+  "platforms": ["Linux", "macOS", "Windows"],
+  "package_manager": "brew",
+  "installation_examples": {"brew": "brew install --cask insomnia"},
+  "tags": ["tool", "api", "testing", "graphql", "rest"],
+  "alternatives": ["Postman", "Bruno", "Hoppscotch", "curl"],
+  "popularity": 8, "maintained": true, "archived": false, "open_source": true,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

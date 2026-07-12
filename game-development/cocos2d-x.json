@@ -1,0 +1,44 @@
+{
+  "id": "cocos2d-x",
+  "name": "cocos2d-x",
+  "category": "game-development",
+  "description": "Cocos2d-x is a suite of open-source, cross-platform, game-development tools utilized by millions of developers across the globe. Its core has evolved to serve as the foundation for Cocos Creator 1.x &",
+  "official_website": "https://www.cocos.com/en/cocos2d-x",
+  "documentation": "https://github.com/cocos2d/cocos2d-x#readme",
+  "github_repository": "https://github.com/cocos2d/cocos2d-x",
+  "license": "MIT",
+  "latest_version": "v4",
+  "programming_languages": [
+    "C++"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "android",
+    "c-plus-plus",
+    "cocos2d",
+    "cocos2d-x",
+    "game-development",
+    "game-engine",
+    "gamedev",
+    "ios"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 19103,
+    "forks": 7057,
+    "open_issues": 1604,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "pytest",
+  "name": "Pytest",
+  "category": "libraries",
+  "description": "Python testing framework with fixture support and plugin ecosystem",
+  "official_website": "https://pytest.org",
+  "documentation": "https://docs.pytest.org",
+  "github_repository": "https://github.com/pytest-dev/pytest",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Python",
+    "Gherkin"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install pytest"
+  },
+  "tags": [
+    "libraries",
+    "tool",
+    "library",
+    "hacktoberfest",
+    "python",
+    "test",
+    "testing",
+    "unit-testing"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 14337,
+    "forks": 3230,
+    "open_issues": 979,
+    "watchers": 196
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "pytorch-forecasting",
+  "name": "PyTorch Forecasting",
+  "category": "machine-learning",
+  "description": "PyTorch-based library for time series forecasting with neural networks",
+  "official_website": "https://pytorch-forecasting.readthedocs.io",
+  "documentation": "https://pytorch-forecasting.readthedocs.io",
+  "github_repository": "https://github.com/readthedocs",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install pytorch-forecasting"
+  },
+  "tags": [
+    "machine-learning",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

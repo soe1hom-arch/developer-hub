@@ -1,0 +1,46 @@
+{
+  "id": "daytona",
+  "name": "daytona",
+  "category": "tools",
+  "description": "Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code",
+  "official_website": "https://daytona.io",
+  "documentation": "https://github.com/daytonaio/daytona#readme",
+  "github_repository": "https://github.com/daytonaio/daytona",
+  "license": "MIT",
+  "latest_version": "main",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "agentic-workflow",
+    "ai",
+    "ai-agents",
+    "ai-runtime",
+    "ai-sandboxes",
+    "code-execution",
+    "code-interpreter",
+    "developer-tools"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 72220,
+    "forks": 5663,
+    "open_issues": 444,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

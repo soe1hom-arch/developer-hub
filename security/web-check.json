@@ -1,0 +1,43 @@
+{
+  "id": "web-check",
+  "name": "web-check",
+  "category": "security",
+  "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f All-in-one OSINT tool for analysing any website",
+  "official_website": "https://web-check.xyz",
+  "documentation": "https://github.com/lissy93/web-check#readme",
+  "github_repository": "https://github.com/lissy93/web-check",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "osint",
+    "privacy",
+    "security",
+    "security-tools",
+    "sysadmin"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 34119,
+    "forks": 2815,
+    "open_issues": 80,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

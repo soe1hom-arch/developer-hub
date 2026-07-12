@@ -1,0 +1,45 @@
+{
+  "id": "gdevelop",
+  "name": "GDevelop",
+  "category": "game-development",
+  "description": "\ud83c\udfae Open-source, cross-platform 2D/3D/multiplayer game engine designed for everyone.",
+  "official_website": "https://gdevelop.io",
+  "documentation": "https://github.com/4ian/GDevelop#readme",
+  "github_repository": "https://github.com/4ian/GDevelop",
+  "license": "NOASSERTION",
+  "latest_version": "master",
+  "programming_languages": [
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android"
+  ],
+  "tags": [
+    "2d-game",
+    "2d-game-engine",
+    "3d",
+    "3d-game",
+    "3d-game-engine",
+    "game",
+    "game-development",
+    "game-engine"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 24583,
+    "forks": 1450,
+    "open_issues": 607,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "chroma",
+  "name": "Chroma",
+  "category": "ai",
+  "description": "AI-native open-source embedding database designed for simplicity and developer productivity",
+  "official_website": "https://trychroma.com",
+  "documentation": "https://docs.trychroma.com",
+  "github_repository": "https://github.com/chroma-core/chroma",
+  "license": "Apache-2.0",
+  "latest_version": "0.5.0",
+  "programming_languages": ["Python", "TypeScript", "Rust"],
+  "platforms": ["Linux", "macOS", "Windows"],
+  "package_manager": "pip",
+  "installation_examples": {"pip": "pip install chromadb"},
+  "tags": ["ai", "vector-database", "embeddings", "python", "open-source"],
+  "alternatives": ["Pinecone", "Weaviate", "Qdrant", "Milvus"],
+  "popularity": 9, "maintained": true, "archived": false, "open_source": true,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

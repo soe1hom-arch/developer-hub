@@ -1,0 +1,42 @@
+{
+  "id": "tbomb",
+  "name": "TBomb",
+  "category": "termux",
+  "description": "This is a SMS And Call Bomber For Linux And Termux",
+  "official_website": "https://github.com/TheSpeedX/TBomb",
+  "documentation": "https://github.com/TheSpeedX/TBomb#readme",
+  "github_repository": "https://github.com/TheSpeedX/TBomb",
+  "license": "NOASSERTION",
+  "latest_version": "master",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux"
+  ],
+  "tags": [
+    "and-bombing",
+    "android",
+    "bomb",
+    "bomber",
+    "bombing",
+    "call-bomb",
+    "linux",
+    "python"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": false,
+  "archived": true,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 5519,
+    "forks": 1853,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

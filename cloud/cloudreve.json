@@ -1,0 +1,45 @@
+{
+  "id": "cloudreve",
+  "name": "cloudreve",
+  "category": "cloud",
+  "description": "\ud83c\udf29 Self-hosted file management and sharing system, supports multiple storage providers",
+  "official_website": "https://cloudreve.org",
+  "documentation": "https://github.com/cloudreve/cloudreve#readme",
+  "github_repository": "https://github.com/cloudreve/cloudreve",
+  "license": "GPL-3.0",
+  "latest_version": "master",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "cloud",
+    "cloud-storage",
+    "cloudreve",
+    "file",
+    "file-manager",
+    "file-sharing",
+    "golang"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 28277,
+    "forks": 3858,
+    "open_issues": 154,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

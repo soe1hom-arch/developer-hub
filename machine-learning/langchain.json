@@ -1,0 +1,25 @@
+{
+  "id": "langchain",
+  "name": "LangChain",
+  "category": "machine-learning",
+  "description": "Framework for developing applications powered by language models with composability and context awareness",
+  "official_website": "https://langchain.com",
+  "documentation": "https://docs.langchain.com",
+  "github_repository": "https://github.com/langchain-ai/langchain",
+  "license": "MIT",
+  "latest_version": "0.2.5",
+  "programming_languages": ["Python", "TypeScript", "JavaScript"],
+  "platforms": ["Linux", "macOS", "Windows"],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install langchain langchain-openai"
+  },
+  "tags": ["llm", "ai", "machine-learning", "nlp", "agents", "chains"],
+  "alternatives": ["LlamaIndex", "Haystack", "Semantic Kernel", "DSPy"],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

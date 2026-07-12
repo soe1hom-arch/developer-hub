@@ -1,0 +1,32 @@
+{
+  "id": "docusaurus",
+  "name": "Docusaurus",
+  "category": "frontend",
+  "description": "Documentation website generator for open-source projects with MDX",
+  "official_website": "https://docusaurus.io",
+  "documentation": "https://docusaurus.io/docs",
+  "github_repository": "https://github.com/Docusaurus",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install docusaurus"
+  },
+  "tags": [
+    "frontend",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

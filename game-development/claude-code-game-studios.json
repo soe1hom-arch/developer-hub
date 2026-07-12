@@ -1,0 +1,45 @@
+{
+  "id": "claude-code-game-studios",
+  "name": "Claude-Code-Game-Studios",
+  "category": "game-development",
+  "description": "Turn Claude Code into a full game dev studio \u2014 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
+  "official_website": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+  "documentation": "https://github.com/Donchitos/Claude-Code-Game-Studios#readme",
+  "github_repository": "https://github.com/Donchitos/Claude-Code-Game-Studios",
+  "license": "MIT",
+  "latest_version": "main",
+  "programming_languages": [
+    "Shell"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android"
+  ],
+  "tags": [
+    "ai-agents",
+    "ai-assisted-development",
+    "anthropic",
+    "claude",
+    "claude-code",
+    "game-design",
+    "game-development",
+    "gamedev"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 22873,
+    "forks": 3285,
+    "open_issues": 50,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

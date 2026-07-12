@@ -1,0 +1,47 @@
+{
+  "id": "langchain-openai",
+  "name": "LangChain OpenAI",
+  "category": "ai",
+  "description": "Integration package for using OpenAI models with LangChain",
+  "official_website": "https://python.langchain.com",
+  "documentation": "https://python.langchain.com/docs",
+  "github_repository": "https://github.com/microsoft/markitdown",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Python",
+    "Dockerfile"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install langchain-openai"
+  },
+  "tags": [
+    "ai",
+    "tool",
+    "library",
+    "autogen",
+    "autogen-extension",
+    "langchain",
+    "markdown",
+    "microsoft-office",
+    "openai",
+    "pdf"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 164955,
+    "forks": 11761,
+    "open_issues": 835,
+    "watchers": 521
+  }
+}

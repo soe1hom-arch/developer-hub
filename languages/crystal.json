@@ -1,0 +1,42 @@
+{
+  "id": "crystal",
+  "name": "crystal",
+  "category": "languages",
+  "description": "The Crystal Programming Language",
+  "official_website": "https://crystal-lang.org",
+  "documentation": "https://github.com/crystal-lang/crystal#readme",
+  "github_repository": "https://github.com/crystal-lang/crystal",
+  "license": "Apache-2.0",
+  "latest_version": "master",
+  "programming_languages": [
+    "Crystal"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android"
+  ],
+  "tags": [
+    "compiler",
+    "crystal",
+    "crystal-language",
+    "hacktoberfest",
+    "programming-language"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 20326,
+    "forks": 1687,
+    "open_issues": 2000,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

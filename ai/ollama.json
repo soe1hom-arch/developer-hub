@@ -1,0 +1,26 @@
+{
+  "id": "ollama",
+  "name": "Ollama",
+  "category": "ai",
+  "description": "Run large language models locally on your machine with a simple CLI and API",
+  "official_website": "https://ollama.com",
+  "documentation": "https://github.com/ollama/ollama/tree/main/docs",
+  "github_repository": "https://github.com/ollama/ollama",
+  "license": "MIT",
+  "latest_version": "0.3.0",
+  "programming_languages": ["Go", "C++"],
+  "platforms": ["Linux", "macOS", "Windows"],
+  "package_manager": "brew",
+  "installation_examples": {
+    "brew": "brew install ollama",
+    "curl": "curl -fsSL https://ollama.com/install.sh | sh"
+  },
+  "tags": ["ai", "llm", "local", "inference", "cli", "self-hosted"],
+  "alternatives": ["LocalAI", "llama.cpp", "vLLM", "LM Studio"],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

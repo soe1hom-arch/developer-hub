@@ -1,0 +1,44 @@
+{
+  "id": "bevy",
+  "name": "bevy",
+  "category": "game-development",
+  "description": "A refreshingly simple data-driven game engine built in Rust",
+  "official_website": "https://bevy.org",
+  "documentation": "https://github.com/bevyengine/bevy#readme",
+  "github_repository": "https://github.com/bevyengine/bevy",
+  "license": "Apache-2.0",
+  "latest_version": "main",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "bevy",
+    "game-development",
+    "game-engine",
+    "gamedev",
+    "open-source",
+    "rust"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 47125,
+    "forks": 4697,
+    "open_issues": 3326,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

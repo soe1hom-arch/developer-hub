@@ -1,0 +1,43 @@
+{
+  "id": "cosmos",
+  "name": "cosmos",
+  "category": "libraries",
+  "description": "World's largest Contributor driven code dataset | Used in Quark Search Engine, @OpenGenus IQ, OpenGenus Visual Project",
+  "official_website": "http://internship.opengenus.org",
+  "documentation": "https://github.com/OpenGenus/cosmos#readme",
+  "github_repository": "https://github.com/OpenGenus/cosmos",
+  "license": "GPL-3.0",
+  "latest_version": "master",
+  "programming_languages": [
+    "C++"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS"
+  ],
+  "tags": [
+    "algorithm",
+    "datastructures",
+    "hacktoberfest",
+    "hacktoberfest-accepted",
+    "hacktoberfest2022",
+    "hacktoberfest2023",
+    "hacktoberfest2024",
+    "internship"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 13724,
+    "forks": 3663,
+    "open_issues": 2603,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

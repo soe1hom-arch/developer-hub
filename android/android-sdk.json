@@ -1,0 +1,26 @@
+{
+  "id": "android-sdk",
+  "name": "Android SDK",
+  "category": "android",
+  "description": "Official software development kit for building Android applications with tools, libraries, and platform APIs",
+  "official_website": "https://developer.android.com/studio",
+  "documentation": "https://developer.android.com/docs",
+  "github_repository": "https://github.com/android",
+  "license": "Apache-2.0",
+  "latest_version": "35",
+  "programming_languages": ["Java", "Kotlin"],
+  "platforms": ["Android", "Linux", "macOS", "Windows"],
+  "package_manager": "sdkmanager",
+  "installation_examples": {
+    "sdkmanager": "sdkmanager \"platforms;android-35\"",
+    "android-studio": "Download from https://developer.android.com/studio"
+  },
+  "tags": ["android", "sdk", "development", "mobile", "google"],
+  "alternatives": ["Flutter SDK", "React Native", "Xamarin SDK"],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

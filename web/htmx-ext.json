@@ -1,0 +1,42 @@
+{
+  "id": "htmx-ext",
+  "name": "htmx Extensions",
+  "category": "web",
+  "description": "Community extensions for htmx including JSON encoding and WebSocket support",
+  "official_website": "https://htmx.org/extensions",
+  "documentation": "https://htmx.org/extensions",
+  "github_repository": "https://github.com/adamchainz/django-htmx",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "JavaScript",
+    "Python",
+    "HTML",
+    "CSS"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install htmx-ext"
+  },
+  "tags": [
+    "web",
+    "tool",
+    "django"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 1997,
+    "forks": 155,
+    "open_issues": 16,
+    "watchers": 35
+  }
+}

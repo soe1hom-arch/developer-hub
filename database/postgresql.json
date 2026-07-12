@@ -1,0 +1,44 @@
+{
+  "id": "postgresql",
+  "name": "PostgreSQL",
+  "category": "database",
+  "description": "Powerful, open source object-relational database system with strong reputation for reliability and feature robustness",
+  "official_website": "https://postgresql.org",
+  "documentation": "https://postgresql.org/docs",
+  "github_repository": "https://github.com/postgres/postgres",
+  "license": "PostgreSQL",
+  "latest_version": "16.3",
+  "programming_languages": [
+    "C"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "package_manager": "apt",
+  "installation_examples": {
+    "apt": "sudo apt install postgresql",
+    "brew": "brew install postgresql",
+    "docker": "docker run --name pg -e POSTGRES_PASSWORD=<your-password> -d postgres"
+  },
+  "tags": [
+    "database",
+    "relational",
+    "sql",
+    "acid",
+    "open-source"
+  ],
+  "alternatives": [
+    "MySQL",
+    "MariaDB",
+    "SQLite",
+    "Oracle DB"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

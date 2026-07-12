@@ -1,0 +1,32 @@
+{
+  "id": "swift-lang",
+  "name": "Swift",
+  "category": "languages",
+  "description": "Multi-paradigm compiled language for Apple platforms and Linux",
+  "official_website": "https://swift.org",
+  "documentation": "https://docs.swift.org/swift-book",
+  "github_repository": "https://github.com/swift",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install swift-lang"
+  },
+  "tags": [
+    "languages",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

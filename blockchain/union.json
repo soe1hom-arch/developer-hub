@@ -1,0 +1,46 @@
+{
+  "id": "union",
+  "name": "union",
+  "category": "blockchain",
+  "description": "The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.",
+  "official_website": "https://union.build",
+  "documentation": "https://github.com/unionlabs/union#readme",
+  "github_repository": "https://github.com/unionlabs/union",
+  "license": "Apache-2.0",
+  "latest_version": "main",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "astro",
+    "blockchain",
+    "cosmos",
+    "cosmwasm",
+    "ethereum",
+    "evm",
+    "golang",
+    "indexer"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 73913,
+    "forks": 3900,
+    "open_issues": 194,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

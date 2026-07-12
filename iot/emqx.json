@@ -1,0 +1,44 @@
+{
+  "id": "emqx",
+  "name": "emqx",
+  "category": "iot",
+  "description": "The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles",
+  "official_website": "https://www.emqx.com",
+  "documentation": "https://github.com/emqx/emqx#readme",
+  "github_repository": "https://github.com/emqx/emqx",
+  "license": "NOASSERTION",
+  "latest_version": "master",
+  "programming_languages": [
+    "Erlang"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "aiot",
+    "broker",
+    "coap",
+    "emqx",
+    "erlang",
+    "iiot",
+    "industry-40",
+    "iot"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 16499,
+    "forks": 2532,
+    "open_issues": 264,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

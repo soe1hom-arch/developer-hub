@@ -1,0 +1,46 @@
+{
+  "id": "marktext",
+  "name": "marktext",
+  "category": "macos",
+  "description": "\ud83d\udcddA simple and elegant markdown editor, available for Linux, macOS and Windows.",
+  "official_website": "https://www.marktext.me",
+  "documentation": "https://github.com/marktext/marktext#readme",
+  "github_repository": "https://github.com/marktext/marktext",
+  "license": "MIT",
+  "latest_version": "develop",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "dark-mode",
+    "editor",
+    "electron",
+    "focus-mode",
+    "latex",
+    "linux",
+    "mac",
+    "macos"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 58536,
+    "forks": 4355,
+    "open_issues": 472,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

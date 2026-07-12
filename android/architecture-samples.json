@@ -1,0 +1,42 @@
+{
+  "id": "architecture-samples",
+  "name": "architecture-samples",
+  "category": "android",
+  "description": "A collection of samples to discuss and showcase different architectural tools and patterns for Android apps.",
+  "official_website": "https://github.com/android/architecture-samples",
+  "documentation": "https://github.com/android/architecture-samples#readme",
+  "github_repository": "https://github.com/android/architecture-samples",
+  "license": "Apache-2.0",
+  "latest_version": "main",
+  "programming_languages": [
+    "Kotlin"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "android",
+    "android-architecture",
+    "sample",
+    "samples"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 45746,
+    "forks": 11862,
+    "open_issues": 221,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

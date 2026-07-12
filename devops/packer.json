@@ -1,0 +1,43 @@
+{
+  "id": "packer",
+  "name": "Packer",
+  "category": "devops",
+  "description": "HashiCorp tool for building identical machine images from configuration",
+  "official_website": "https://packer.io",
+  "documentation": "https://developer.hashicorp.com/packer/docs",
+  "github_repository": "https://github.com/upx/upx",
+  "license": "NOASSERTION",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "C++",
+    "Assembly",
+    "C",
+    "Makefile",
+    "Python"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install packer"
+  },
+  "tags": [
+    "devops",
+    "tool",
+    "library"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 17672,
+    "forks": 1526,
+    "open_issues": 25,
+    "watchers": 270
+  }
+}

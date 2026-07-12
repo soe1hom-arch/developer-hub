@@ -1,0 +1,19 @@
+{
+  "id": "sonarqube",
+  "name": "SonarQube",
+  "category": "security",
+  "description": "Continuous code quality and security inspection platform for detecting bugs, vulnerabilities, and code smells",
+  "official_website": "https://sonarsource.com/products/sonarqube",
+  "documentation": "https://docs.sonarsource.com/sonarqube",
+  "github_repository": "https://github.com/SonarSource/sonarqube",
+  "license": "LGPL-3.0",
+  "latest_version": "10.6.0",
+  "programming_languages": ["Java", "TypeScript", "Python"],
+  "platforms": ["Linux", "macOS", "Windows", "Cloud"],
+  "package_manager": "docker",
+  "installation_examples": {"docker": "docker run -d -p 9000:9000 sonarqube:latest"},
+  "tags": ["security", "code-quality", "static-analysis", "linting", "vulnerability"],
+  "alternatives": ["Snyk", "Checkmarx", "Fortify", "Trivy"],
+  "popularity": 9, "maintained": true, "archived": false, "open_source": true,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

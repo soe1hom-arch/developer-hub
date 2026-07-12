@@ -1,0 +1,32 @@
+{
+  "id": "vim",
+  "name": "Vim",
+  "category": "linux",
+  "description": "Highly configurable text editor for efficient text editing in terminal",
+  "official_website": "https://vim.org",
+  "documentation": "https://vim.org/docs",
+  "github_repository": "https://github.com/vim",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install vim"
+  },
+  "tags": [
+    "linux",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

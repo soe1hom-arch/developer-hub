@@ -1,0 +1,43 @@
+{
+  "id": "bash",
+  "name": "Bash",
+  "category": "linux",
+  "description": "Unix shell and command language for system administration and scripting",
+  "official_website": "https://gnu.org/software/bash",
+  "documentation": "https://gnu.org/software/bash/manual",
+  "github_repository": "https://github.com/jlevy/the-art-of-command-line",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install bash"
+  },
+  "tags": [
+    "linux",
+    "tool",
+    "bash",
+    "documentation",
+    "macos",
+    "unix",
+    "windows"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 161706,
+    "forks": 14827,
+    "open_issues": 256,
+    "watchers": 2785
+  }
+}

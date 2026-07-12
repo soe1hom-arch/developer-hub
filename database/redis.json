@@ -1,0 +1,27 @@
+{
+  "id": "redis",
+  "name": "Redis",
+  "category": "database",
+  "description": "In-memory data structure store used as a database, cache, and message broker",
+  "official_website": "https://redis.io",
+  "documentation": "https://redis.io/docs",
+  "github_repository": "https://github.com/redis/redis",
+  "license": "BSD-3-Clause",
+  "latest_version": "7.2.5",
+  "programming_languages": ["C"],
+  "platforms": ["Linux", "macOS", "Windows"],
+  "package_manager": "apt",
+  "installation_examples": {
+    "apt": "sudo apt install redis-server",
+    "brew": "brew install redis",
+    "docker": "docker run --name redis -d redis"
+  },
+  "tags": ["database", "cache", "key-value", "in-memory", "message-broker"],
+  "alternatives": ["Memcached", "Hazelcast", "Aerospike", "Dragonfly"],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

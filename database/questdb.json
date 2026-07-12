@@ -1,0 +1,33 @@
+{
+  "id": "questdb",
+  "name": "QuestDB",
+  "category": "database",
+  "description": "High-performance time-series database with SQL and PostgreSQL wire protocol",
+  "official_website": "https://questdb.io",
+  "documentation": "https://questdb.io/docs",
+  "github_repository": "https://github.com/questdb",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install questdb"
+  },
+  "tags": [
+    "database",
+    "tool",
+    "library"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

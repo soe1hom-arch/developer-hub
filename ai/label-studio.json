@@ -1,0 +1,63 @@
+{
+  "id": "label-studio",
+  "name": "Label Studio",
+  "category": "ai",
+  "description": "Open-source data labeling platform for ML projects with multiple annotation types",
+  "official_website": "https://labelstud.io",
+  "documentation": "https://labelstud.io/guide",
+  "github_repository": "https://github.com/HumanSignal/label-studio",
+  "license": "Apache-2.0",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "TypeScript",
+    "JavaScript",
+    "Python",
+    "CSS",
+    "HTML"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install label-studio"
+  },
+  "tags": [
+    "ai",
+    "tool",
+    "library",
+    "annotation",
+    "annotation-tool",
+    "annotations",
+    "boundingbox",
+    "computer-vision",
+    "data-labeling",
+    "dataset",
+    "datasets",
+    "deep-learning",
+    "image-annotation",
+    "image-classification",
+    "image-labeling",
+    "image-labelling-tool",
+    "label-studio",
+    "labeling",
+    "labeling-tool",
+    "mlops",
+    "semantic-segmentation",
+    "text-annotation",
+    "yolo"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 27816,
+    "forks": 3616,
+    "open_issues": 893,
+    "watchers": 181
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "matplotlib",
+  "name": "Matplotlib",
+  "category": "libraries",
+  "description": "Comprehensive Python plotting library for creating static, animated, and interactive visualizations",
+  "official_website": "https://matplotlib.org",
+  "documentation": "https://matplotlib.org/stable",
+  "github_repository": "https://github.com/matplotlib/matplotlib",
+  "license": "BSD-3-Clause",
+  "latest_version": "3.9.1",
+  "programming_languages": ["Python", "C++"],
+  "platforms": ["Linux", "macOS", "Windows"],
+  "package_manager": "pip",
+  "installation_examples": {"pip": "pip install matplotlib"},
+  "tags": ["python", "visualization", "plotting", "chart", "scientific"],
+  "alternatives": ["Seaborn", "Plotly", "Bokeh", "Altair"],
+  "popularity": 10, "maintained": true, "archived": false, "open_source": true,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

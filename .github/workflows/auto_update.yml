@@ -1,0 +1,61 @@
+name: Auto Index & Update
+
+on:
+  schedule:
+    - cron: '0 2 * * *'   # Daily at 02:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Discover new entries from GitHub
+        run: python scripts/auto_discover.py --max-per-category 5
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Scrape external sources (F-Droid, Termux, Binaries)
+        run: python scripts/scrape_external.py --sources fdroid,termux,binary,cli
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Auto-fix placeholder entries
+        run: python scripts/auto_fix.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Auto-update existing entries
+        run: python scripts/auto_update.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Validate all JSON
+        run: python scripts/validate.py
+
+      - name: Rebuild search index
+        run: |
+          python scripts/build_index.py
+          python scripts/search_engine.py --build-index
+
+      - name: Commit & push changes
+        run: |
+          git config user.name "developer-hub-bot"
+          git config user.email "bot@developer-hub.dev"
+          git add -A
+          if ! git diff --cached --quiet; then
+            git commit -m "Auto: discover, fix, update entries & rebuild index"
+            git push
+          else
+            echo "No changes"
+          fi

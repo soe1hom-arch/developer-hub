@@ -1,0 +1,45 @@
+{
+  "id": "bind",
+  "name": "BIND 9",
+  "category": "network",
+  "description": "Most widely used DNS server software for name resolution",
+  "official_website": "https://isc.org/bind",
+  "documentation": "https://bind9.readthedocs.io",
+  "github_repository": "https://github.com/isc-projects/bind9",
+  "license": "MPL-2.0",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "C",
+    "Shell",
+    "Python",
+    "Jinja",
+    "Perl"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install bind"
+  },
+  "tags": [
+    "network",
+    "tool",
+    "dns",
+    "dns-server",
+    "isc"
+  ],
+  "alternatives": [],
+  "popularity": 7,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 753,
+    "forks": 181,
+    "open_issues": 0,
+    "watchers": 4
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "it-tools",
+  "name": "it-tools",
+  "category": "tools",
+  "description": "Collection of handy online tools for developers, with great UX.",
+  "official_website": "https://it-tools.tech",
+  "documentation": "https://github.com/CorentinTh/it-tools#readme",
+  "github_repository": "https://github.com/CorentinTh/it-tools",
+  "license": "GPL-3.0",
+  "latest_version": "main",
+  "programming_languages": [
+    "Vue"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "converter",
+    "developer-productivity",
+    "developer-tools",
+    "frontend",
+    "javascript",
+    "productivity",
+    "tool",
+    "tools"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 39752,
+    "forks": 5169,
+    "open_issues": 813,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

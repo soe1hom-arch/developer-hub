@@ -1,0 +1,38 @@
+{
+  "id": "rails-api",
+  "name": "Rails API",
+  "category": "frameworks",
+  "description": "Ruby on Rails in API mode for building JSON APIs exclusively",
+  "official_website": "https://guides.rubyonrails.org/api_app",
+  "documentation": "https://guides.rubyonrails.org/api_app",
+  "github_repository": "https://github.com/rails-api/rails-api",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Ruby"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install rails-api"
+  },
+  "tags": [
+    "frameworks",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 5131,
+    "forks": 272,
+    "open_issues": 13,
+    "watchers": 155
+  }
+}

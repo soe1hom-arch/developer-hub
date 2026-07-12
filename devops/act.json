@@ -1,0 +1,42 @@
+{
+  "id": "act",
+  "name": "act",
+  "category": "devops",
+  "description": "Run your GitHub Actions locally \ud83d\ude80",
+  "official_website": "https://nektosact.com",
+  "documentation": "https://github.com/nektos/act#readme",
+  "github_repository": "https://github.com/nektos/act",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "ci",
+    "devops",
+    "github-actions",
+    "golang"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 71031,
+    "forks": 1971,
+    "open_issues": 345,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

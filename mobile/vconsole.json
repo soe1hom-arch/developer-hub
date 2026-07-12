@@ -1,0 +1,39 @@
+{
+  "id": "vconsole",
+  "name": "vConsole",
+  "category": "mobile",
+  "description": "A lightweight, extendable front-end developer tool for mobile web page.",
+  "official_website": "https://github.com/Tencent/vConsole",
+  "documentation": "https://github.com/Tencent/vConsole#readme",
+  "github_repository": "https://github.com/Tencent/vConsole",
+  "license": "NOASSERTION",
+  "latest_version": "dev",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "console",
+    "mobile",
+    "wechat"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 17498,
+    "forks": 2965,
+    "open_issues": 45,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

@@ -1,0 +1,54 @@
+{
+  "id": "zod",
+  "name": "Zod",
+  "category": "libraries",
+  "description": "TypeScript-first schema validation library with static type inference",
+  "official_website": "https://zod.dev",
+  "documentation": "https://zod.dev",
+  "github_repository": "https://github.com/calcom/cal.diy",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "TypeScript",
+    "CSS",
+    "HTML",
+    "PLpgSQL",
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install zod"
+  },
+  "tags": [
+    "libraries",
+    "tool",
+    "library",
+    "next-auth",
+    "nextjs",
+    "open-source",
+    "postgresql",
+    "prisma",
+    "t3-stack",
+    "tailwindcss",
+    "trpc",
+    "turborepo",
+    "typescript",
+    "zod"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 46322,
+    "forks": 14422,
+    "open_issues": 1318,
+    "watchers": 193
+  }
+}

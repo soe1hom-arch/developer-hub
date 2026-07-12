@@ -1,0 +1,19 @@
+{
+  "id": "lottie",
+  "name": "Lottie",
+  "category": "android",
+  "description": "Library for rendering Adobe After Effects animations natively in Android and iOS apps",
+  "official_website": "https://airbnb.design/lottie",
+  "documentation": "https://lottiefiles.com/what-is-lottie",
+  "github_repository": "https://github.com/airbnb/lottie-android",
+  "license": "Apache-2.0",
+  "latest_version": "6.4.0",
+  "programming_languages": ["Java", "Kotlin"],
+  "platforms": ["Android", "iOS", "Web"],
+  "package_manager": "gradle",
+  "installation_examples": {"gradle": "implementation 'com.airbnb.android:lottie:6.4.0'"},
+  "tags": ["android", "animation", "ui", "after-effects", "airbnb"],
+  "alternatives": ["Rive", "SVG Animation", "Property Animation"],
+  "popularity": 9, "maintained": true, "archived": false, "open_source": true,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

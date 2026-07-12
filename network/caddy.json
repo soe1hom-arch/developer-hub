@@ -1,0 +1,19 @@
+{
+  "id": "caddy",
+  "name": "Caddy",
+  "category": "network",
+  "description": "Web server with automatic HTTPS, HTTP/2, and a simple configuration syntax written in Go",
+  "official_website": "https://caddyserver.com",
+  "documentation": "https://caddyserver.com/docs",
+  "github_repository": "https://github.com/caddyserver/caddy",
+  "license": "Apache-2.0",
+  "latest_version": "2.8.0",
+  "programming_languages": ["Go"],
+  "platforms": ["Linux", "macOS", "Windows"],
+  "package_manager": "brew",
+  "installation_examples": {"brew": "brew install caddy"},
+  "tags": ["network", "web-server", "reverse-proxy", "auto-https", "http"],
+  "alternatives": ["Nginx", "Apache", "Traefik", "HAProxy"],
+  "popularity": 8, "maintained": true, "archived": false, "open_source": true,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

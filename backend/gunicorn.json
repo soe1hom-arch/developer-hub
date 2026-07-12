@@ -1,0 +1,33 @@
+{
+  "id": "gunicorn",
+  "name": "Gunicorn",
+  "category": "backend",
+  "description": "Python WSGI HTTP server for UNIX with pre-fork worker model",
+  "official_website": "https://gunicorn.org",
+  "documentation": "https://docs.gunicorn.org",
+  "github_repository": "https://github.com/gunicorn",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install gunicorn"
+  },
+  "tags": [
+    "backend",
+    "tool",
+    "library"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

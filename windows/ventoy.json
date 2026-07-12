@@ -1,0 +1,46 @@
+{
+  "id": "ventoy",
+  "name": "Ventoy",
+  "category": "windows",
+  "description": "A new bootable USB solution.",
+  "official_website": "https://www.ventoy.net",
+  "documentation": "https://github.com/ventoy/Ventoy#readme",
+  "github_repository": "https://github.com/ventoy/Ventoy",
+  "license": "GPL-3.0",
+  "latest_version": "master",
+  "programming_languages": [
+    "C"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "arm64",
+    "auto-install",
+    "bootable-usb",
+    "bsd",
+    "chromeos",
+    "iso-files",
+    "legacy",
+    "linux"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 77957,
+    "forks": 4868,
+    "open_issues": 991,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

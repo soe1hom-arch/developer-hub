@@ -1,0 +1,42 @@
+{
+  "id": "ncdu",
+  "name": "ncdu",
+  "category": "tools",
+  "description": "Disk usage analyzer with ncurses interface for finding large files",
+  "official_website": "https://dev.yorhel.nl/ncdu",
+  "documentation": "https://dev.yorhel.nl/ncdu/man",
+  "github_repository": "https://github.com/rofl0r/ncdu",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "C",
+    "Shell",
+    "M4",
+    "Makefile"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install ncdu"
+  },
+  "tags": [
+    "tools",
+    "tool",
+    "library"
+  ],
+  "alternatives": [],
+  "popularity": 7,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 714,
+    "forks": 43,
+    "open_issues": 0,
+    "watchers": 5
+  }
+}

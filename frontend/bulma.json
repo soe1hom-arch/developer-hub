@@ -1,0 +1,48 @@
+{
+  "id": "bulma",
+  "name": "Bulma",
+  "category": "frontend",
+  "description": "CSS framework based on Flexbox with responsive grid and components",
+  "official_website": "https://bulma.io",
+  "documentation": "https://bulma.io/documentation",
+  "github_repository": "https://github.com/jgthms/bulma",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "CSS",
+    "SCSS",
+    "JavaScript",
+    "Shell",
+    "Sass"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install bulma"
+  },
+  "tags": [
+    "frontend",
+    "tool",
+    "library",
+    "css",
+    "css-framework",
+    "design",
+    "flexbox",
+    "html"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 50069,
+    "forks": 3888,
+    "open_issues": 523,
+    "watchers": 570
+  }
+}

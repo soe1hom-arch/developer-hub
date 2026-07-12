@@ -1,0 +1,58 @@
+{
+  "id": "scala",
+  "name": "Scala",
+  "category": "languages",
+  "description": "Scalable language combining OOP and functional programming on JVM",
+  "official_website": "https://scala-lang.org",
+  "documentation": "https://docs.scala-lang.org",
+  "github_repository": "https://github.com/binhnguyennus/awesome-scalability",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install scala"
+  },
+  "tags": [
+    "languages",
+    "tool",
+    "architecture",
+    "awesome",
+    "awesome-list",
+    "backend",
+    "big-data",
+    "computer-science",
+    "design-patterns",
+    "devops",
+    "distributed-systems",
+    "interview",
+    "interview-practice",
+    "interview-questions",
+    "lists",
+    "machine-learning",
+    "programming",
+    "resources",
+    "scalability",
+    "system",
+    "system-design",
+    "web-development"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 72354,
+    "forks": 7042,
+    "open_issues": 25,
+    "watchers": 1882
+  }
+}

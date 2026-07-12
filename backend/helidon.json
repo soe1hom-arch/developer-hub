@@ -1,0 +1,47 @@
+{
+  "id": "helidon",
+  "name": "Helidon",
+  "category": "backend",
+  "description": "Java microservices framework by Oracle with reactive and imperative APIs",
+  "official_website": "https://helidon.io",
+  "documentation": "https://helidon.io/docs",
+  "github_repository": "https://github.com/helidon-io/helidon",
+  "license": "Apache-2.0",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Java",
+    "Shell",
+    "Mustache",
+    "ANTLR",
+    "Groovy"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install helidon"
+  },
+  "tags": [
+    "backend",
+    "tool",
+    "java",
+    "microprofile",
+    "microservice-framework",
+    "netty",
+    "reactive"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 3801,
+    "forks": 604,
+    "open_issues": 564,
+    "watchers": 122
+  }
+}

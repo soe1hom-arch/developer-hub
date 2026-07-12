@@ -1,0 +1,26 @@
+{
+  "id": "supabase",
+  "name": "Supabase",
+  "category": "database",
+  "description": "Open-source Firebase alternative with PostgreSQL, realtime subscriptions, authentication, and storage",
+  "official_website": "https://supabase.com",
+  "documentation": "https://supabase.com/docs",
+  "github_repository": "https://github.com/supabase/supabase",
+  "license": "Apache-2.0",
+  "latest_version": "1.190.0",
+  "programming_languages": ["TypeScript", "Go", "Rust", "Dart"],
+  "platforms": ["Cloud", "Self-hosted"],
+  "package_manager": "npm",
+  "installation_examples": {
+    "npm": "npm install @supabase/supabase-js",
+    "pip": "pip install supabase"
+  },
+  "tags": ["database", "baas", "postgresql", "realtime", "authentication", "open-source"],
+  "alternatives": ["Firebase", "Appwrite", "PocketBase", "Nhost"],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "fiber",
+  "name": "Fiber",
+  "category": "backend",
+  "description": "Go web framework inspired by Express.js with zero memory allocation",
+  "official_website": "https://gofiber.io",
+  "documentation": "https://docs.gofiber.io",
+  "github_repository": "https://github.com/gofiber",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install fiber"
+  },
+  "tags": [
+    "backend",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

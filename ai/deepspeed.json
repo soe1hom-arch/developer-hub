@@ -1,0 +1,56 @@
+{
+  "id": "deepspeed",
+  "name": "DeepSpeed",
+  "category": "ai",
+  "description": "Deep learning optimization library by Microsoft for large model training",
+  "official_website": "https://deepspeed.ai",
+  "documentation": "https://www.deepspeed.ai/docs",
+  "github_repository": "https://github.com/deepspeedai/DeepSpeed",
+  "license": "Apache-2.0",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Python",
+    "C++",
+    "Cuda",
+    "C",
+    "Shell"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install deepspeed"
+  },
+  "tags": [
+    "ai",
+    "tool",
+    "library",
+    "billion-parameters",
+    "compression",
+    "data-parallelism",
+    "deep-learning",
+    "gpu",
+    "inference",
+    "machine-learning",
+    "mixture-of-experts",
+    "model-parallelism",
+    "pipeline-parallelism",
+    "pytorch",
+    "trillion-parameters",
+    "zero"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 42685,
+    "forks": 4884,
+    "open_issues": 1298,
+    "watchers": 359
+  }
+}

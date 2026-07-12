@@ -1,0 +1,46 @@
+{
+  "id": "swiper",
+  "name": "swiper",
+  "category": "mobile",
+  "description": "Most modern mobile touch slider with hardware accelerated transitions",
+  "official_website": "https://swiperjs.com",
+  "documentation": "https://github.com/nolimits4web/swiper#readme",
+  "github_repository": "https://github.com/nolimits4web/swiper",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "carousel",
+    "gallery",
+    "mobile",
+    "slider",
+    "swipe",
+    "swiper",
+    "touch",
+    "touch-events"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 41870,
+    "forks": 9657,
+    "open_issues": 249,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

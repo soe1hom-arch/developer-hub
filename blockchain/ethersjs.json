@@ -1,0 +1,49 @@
+{
+  "id": "ethersjs",
+  "name": "ethers.js",
+  "category": "blockchain",
+  "description": "Compact JavaScript library for Ethereum wallet and contract interactions",
+  "official_website": "https://ethers.org",
+  "documentation": "https://docs.ethers.org",
+  "github_repository": "https://github.com/WTFAcademy/WTF-Ethers",
+  "license": "NOASSERTION",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "JavaScript",
+    "Solidity",
+    "HTML",
+    "CSS"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install ethersjs"
+  },
+  "tags": [
+    "blockchain",
+    "tool",
+    "ethereum",
+    "ethers",
+    "ethersjs",
+    "javascript",
+    "nodejs",
+    "solidity",
+    "typescript",
+    "web3"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 3527,
+    "forks": 578,
+    "open_issues": 34,
+    "watchers": 33
+  }
+}

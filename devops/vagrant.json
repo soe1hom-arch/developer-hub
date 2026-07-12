@@ -1,0 +1,47 @@
+{
+  "id": "vagrant",
+  "name": "Vagrant",
+  "category": "devops",
+  "description": "Tool for building and managing virtualized development environments",
+  "official_website": "https://vagrantup.com",
+  "documentation": "https://developer.hashicorp.com/vagrant/docs",
+  "github_repository": "https://github.com/hashicorp/vagrant",
+  "license": "NOASSERTION",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Ruby",
+    "Shell",
+    "PowerShell",
+    "Go",
+    "HTML"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install vagrant"
+  },
+  "tags": [
+    "devops",
+    "tool",
+    "library",
+    "automation",
+    "ruby",
+    "vagrant",
+    "virtualization"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 27184,
+    "forks": 4407,
+    "open_issues": 752,
+    "watchers": 704
+  }
+}

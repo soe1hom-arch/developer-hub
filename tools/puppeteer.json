@@ -1,0 +1,46 @@
+{
+  "id": "puppeteer",
+  "name": "puppeteer",
+  "category": "tools",
+  "description": "JavaScript API for Chrome and Firefox",
+  "official_website": "https://pptr.dev",
+  "documentation": "https://github.com/puppeteer/puppeteer#readme",
+  "github_repository": "https://github.com/puppeteer/puppeteer",
+  "license": "Apache-2.0",
+  "latest_version": "main",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "automation",
+    "chrome",
+    "chromium",
+    "developer-tools",
+    "firefox",
+    "headless-chrome",
+    "node-module",
+    "testing"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 95413,
+    "forks": 9644,
+    "open_issues": 272,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

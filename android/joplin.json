@@ -1,0 +1,46 @@
+{
+  "id": "joplin",
+  "name": "joplin",
+  "category": "android",
+  "description": "Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.",
+  "official_website": "https://joplinapp.org",
+  "documentation": "https://github.com/laurent22/joplin#readme",
+  "github_repository": "https://github.com/laurent22/joplin",
+  "license": "NOASSERTION",
+  "latest_version": "dev",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "android",
+    "dropbox",
+    "electron",
+    "enex-files",
+    "evernote",
+    "javascript",
+    "joplin",
+    "nextcloud"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 55543,
+    "forks": 6181,
+    "open_issues": 590,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

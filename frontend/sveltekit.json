@@ -1,0 +1,33 @@
+{
+  "id": "sveltekit",
+  "name": "SvelteKit",
+  "category": "frontend",
+  "description": "Application framework for building Svelte apps with SSR and routing",
+  "official_website": "https://kit.svelte.dev",
+  "documentation": "https://kit.svelte.dev/docs",
+  "github_repository": "https://github.com/svelte",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install sveltekit"
+  },
+  "tags": [
+    "frontend",
+    "tool",
+    "library"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

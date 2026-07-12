@@ -1,0 +1,44 @@
+{
+  "id": "the-art-of-command-line",
+  "name": "the-art-of-command-line",
+  "category": "macos",
+  "description": "Master the command line, in one page",
+  "official_website": "https://github.com/jlevy/the-art-of-command-line",
+  "documentation": "https://github.com/jlevy/the-art-of-command-line#readme",
+  "github_repository": "https://github.com/jlevy/the-art-of-command-line",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "bash",
+    "documentation",
+    "linux",
+    "macos",
+    "unix",
+    "windows"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 161706,
+    "forks": 14827,
+    "open_issues": 256,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

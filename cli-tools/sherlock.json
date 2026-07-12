@@ -1,0 +1,46 @@
+{
+  "id": "sherlock",
+  "name": "sherlock",
+  "category": "cli-tools",
+  "description": "Hunt down social media accounts by username across social networks",
+  "official_website": "https://sherlockproject.xyz",
+  "documentation": "https://github.com/sherlock-project/sherlock#readme",
+  "github_repository": "https://github.com/sherlock-project/sherlock",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "cli",
+    "cti",
+    "cybersecurity",
+    "forensics",
+    "hacktoberfest",
+    "information-gathering",
+    "infosec",
+    "linux"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 86408,
+    "forks": 10116,
+    "open_issues": 309,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

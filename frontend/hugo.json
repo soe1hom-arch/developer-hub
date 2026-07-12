@@ -1,0 +1,49 @@
+{
+  "id": "hugo",
+  "name": "Hugo",
+  "category": "frontend",
+  "description": "World's fastest static site generator built in Go",
+  "official_website": "https://gohugo.io",
+  "documentation": "https://gohugo.io/documentation",
+  "github_repository": "https://github.com/gohugoio/hugo",
+  "license": "Apache-2.0",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Go",
+    "C",
+    "JavaScript",
+    "HTML",
+    "Makefile"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install hugo"
+  },
+  "tags": [
+    "frontend",
+    "tool",
+    "blog-engine",
+    "cms",
+    "content-management-system",
+    "documentation-tool",
+    "go",
+    "hugo",
+    "static-site-generator"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 88938,
+    "forks": 8296,
+    "open_issues": 236,
+    "watchers": 1079
+  }
+}

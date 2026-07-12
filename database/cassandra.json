@@ -1,0 +1,19 @@
+{
+  "id": "cassandra",
+  "name": "Apache Cassandra",
+  "category": "database",
+  "description": "Highly scalable NoSQL database for handling large amounts of data with no single point of failure",
+  "official_website": "https://cassandra.apache.org",
+  "documentation": "https://cassandra.apache.org/doc/latest",
+  "github_repository": "https://github.com/apache/cassandra",
+  "license": "Apache-2.0",
+  "latest_version": "5.0.0",
+  "programming_languages": ["Java"],
+  "platforms": ["Linux", "macOS", "Windows"],
+  "package_manager": "apt",
+  "installation_examples": {"docker": "docker run -d --name cassandra cassandra:latest"},
+  "tags": ["database", "nosql", "wide-column", "distributed", "scalable"],
+  "alternatives": ["MongoDB", "HBase", "ScyllaDB", "Couchbase"],
+  "popularity": 8, "maintained": true, "archived": false, "open_source": true,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "calico",
+  "name": "Calico",
+  "category": "devops",
+  "description": "Kubernetes networking and network policy engine for secure connectivity",
+  "official_website": "https://tigera.io/project-calico",
+  "documentation": "https://docs.tigera.io/calico",
+  "github_repository": "https://github.com/tigera",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install calico"
+  },
+  "tags": [
+    "devops",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

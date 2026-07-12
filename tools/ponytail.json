@@ -1,0 +1,46 @@
+{
+  "id": "ponytail",
+  "name": "ponytail",
+  "category": "tools",
+  "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+  "official_website": "https://ponytail.dev",
+  "documentation": "https://github.com/DietrichGebert/ponytail#readme",
+  "github_repository": "https://github.com/DietrichGebert/ponytail",
+  "license": "MIT",
+  "latest_version": "main",
+  "programming_languages": [
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "agent-skills",
+    "ai-agents",
+    "claude",
+    "claude-code",
+    "claude-code-plugin",
+    "cursor-rules",
+    "developer-tools",
+    "llm"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 80887,
+    "forks": 4367,
+    "open_issues": 62,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

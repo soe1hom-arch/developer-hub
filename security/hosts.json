@@ -1,0 +1,46 @@
+{
+  "id": "hosts",
+  "name": "hosts",
+  "category": "security",
+  "description": "\ud83d\udd12 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.",
+  "official_website": "https://github.com/StevenBlack/hosts",
+  "documentation": "https://github.com/StevenBlack/hosts#readme",
+  "github_repository": "https://github.com/StevenBlack/hosts",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "ad-blocker",
+    "anti-virus",
+    "curated-sources",
+    "gambling-filter",
+    "hosts",
+    "malware",
+    "porn-filter",
+    "pornblocker"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 30695,
+    "forks": 2425,
+    "open_issues": 151,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

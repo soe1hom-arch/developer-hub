@@ -1,0 +1,19 @@
+{
+  "id": "snyk",
+  "name": "Snyk",
+  "category": "security",
+  "description": "Developer security platform for finding and fixing vulnerabilities in dependencies and containers",
+  "official_website": "https://snyk.io",
+  "documentation": "https://docs.snyk.io",
+  "github_repository": "https://github.com/snyk",
+  "license": "Apache-2.0",
+  "latest_version": "N/A",
+  "programming_languages": ["TypeScript", "Go", "Python"],
+  "platforms": ["Cloud", "CLI", "IDE"],
+  "package_manager": "npm",
+  "installation_examples": {"npm": "npm install -g snyk && snyk auth"},
+  "tags": ["security", "vulnerability", "dependencies", "scanner", "devsecops"],
+  "alternatives": ["GitHub Dependabot", "Trivy", "SonarQube", "Checkmarx"],
+  "popularity": 8, "maintained": true, "archived": false, "open_source": false,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

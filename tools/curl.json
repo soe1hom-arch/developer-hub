@@ -1,0 +1,19 @@
+{
+  "id": "curl",
+  "name": "cURL",
+  "category": "tools",
+  "description": "Command-line tool for transferring data with URL syntax supporting HTTP, FTP, and many protocols",
+  "official_website": "https://curl.se",
+  "documentation": "https://curl.se/docs",
+  "github_repository": "https://github.com/curl/curl",
+  "license": "MIT",
+  "latest_version": "8.8.0",
+  "programming_languages": ["C"],
+  "platforms": ["Linux", "macOS", "Windows"],
+  "package_manager": "apt",
+  "installation_examples": {"apt": "sudo apt install curl", "brew": "brew install curl"},
+  "tags": ["tool", "http", "cli", "networking", "api-testing"],
+  "alternatives": ["wget", "httpie", "Postman CLI", "aria2"],
+  "popularity": 10, "maintained": true, "archived": false, "open_source": true,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

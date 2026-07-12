@@ -1,0 +1,27 @@
+{
+  "id": "sqlite",
+  "name": "SQLite",
+  "category": "database",
+  "description": "Self-contained, serverless, zero-configuration SQL database engine embedded in applications",
+  "official_website": "https://sqlite.org",
+  "documentation": "https://sqlite.org/docs.html",
+  "github_repository": "https://github.com/sqlite/sqlite",
+  "license": "Public Domain",
+  "latest_version": "3.46.0",
+  "programming_languages": ["C"],
+  "platforms": ["Linux", "macOS", "Windows", "Android", "iOS", "Web"],
+  "package_manager": "apt",
+  "installation_examples": {
+    "apt": "sudo apt install sqlite3",
+    "brew": "brew install sqlite",
+    "choco": "choco install sqlite"
+  },
+  "tags": ["database", "relational", "sql", "embedded", "serverless", "lightweight"],
+  "alternatives": ["DuckDB", "H2", "Berkeley DB", "LevelDB"],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

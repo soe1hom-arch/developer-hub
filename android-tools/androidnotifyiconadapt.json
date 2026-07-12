@@ -1,0 +1,38 @@
+{
+  "id": "androidnotifyiconadapt",
+  "name": "AndroidNotifyIconAdapt",
+  "category": "android-tools",
+  "description": "An online rules platform that adapts native notification icons and standard icon repairs for non-standard Android apps and manufacturers.",
+  "official_website": "https://github.com/fankes/AndroidNotifyIconAdapt",
+  "documentation": "https://github.com/fankes/AndroidNotifyIconAdapt#readme",
+  "github_repository": "https://github.com/fankes/AndroidNotifyIconAdapt",
+  "license": "AGPL-3.0",
+  "latest_version": "main",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "tags": [
+    "android",
+    "android-notifications",
+    "android-toolkit",
+    "android-tools",
+    "xposedmodule"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 417,
+    "forks": 115,
+    "open_issues": 104,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

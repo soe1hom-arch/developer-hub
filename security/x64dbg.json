@@ -1,0 +1,46 @@
+{
+  "id": "x64dbg",
+  "name": "x64dbg",
+  "category": "security",
+  "description": "An open-source user mode debugger for Windows. Optimized for reverse engineering and malware analysis.",
+  "official_website": "http://x64dbg.com",
+  "documentation": "https://github.com/x64dbg/x64dbg#readme",
+  "github_repository": "https://github.com/x64dbg/x64dbg",
+  "license": "NOASSERTION",
+  "latest_version": "development",
+  "programming_languages": [
+    "C++"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "binary-analysis",
+    "ctf",
+    "cybersecurity",
+    "debugger",
+    "debugging",
+    "disassembler",
+    "dynamic-analysis",
+    "exploit-development"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 48858,
+    "forks": 2778,
+    "open_issues": 577,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "qbot",
+  "name": "Qbot",
+  "category": "blockchain",
+  "description": "[\ud83d\udd25updating ...] AI \u81ea\u52a8\u91cf\u5316\u4ea4\u6613\u673a\u5668\u4eba(\u5b8c\u5168\u672c\u5730\u90e8\u7f72) AI-powered Quantitative Investment Research Platform. \ud83d\udcc3 online docs: https://ufund-me.github.io/Qbot   \u2728 :news: qbot-mini: https://github.com/Charmve/iQuant",
+  "official_website": "https://github.com/Charmve",
+  "documentation": "https://github.com/UFund-Me/Qbot#readme",
+  "github_repository": "https://github.com/UFund-Me/Qbot",
+  "license": "MIT",
+  "latest_version": "main",
+  "programming_languages": [
+    "Jupyter Notebook"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "backtest",
+    "bitcoin",
+    "blockchain",
+    "deep-learning",
+    "fintech",
+    "funds",
+    "machine-learning",
+    "pytrade"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 18044,
+    "forks": 2535,
+    "open_issues": 70,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

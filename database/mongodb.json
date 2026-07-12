@@ -1,0 +1,27 @@
+{
+  "id": "mongodb",
+  "name": "MongoDB",
+  "category": "database",
+  "description": "Document-oriented NoSQL database for modern application development",
+  "official_website": "https://mongodb.com",
+  "documentation": "https://mongodb.com/docs",
+  "github_repository": "https://github.com/mongodb/mongo",
+  "license": "SSPL-1.0",
+  "latest_version": "7.0.11",
+  "programming_languages": ["C++", "JavaScript", "Python"],
+  "platforms": ["Linux", "macOS", "Windows"],
+  "package_manager": "apt",
+  "installation_examples": {
+    "apt": "sudo apt install mongodb-org",
+    "brew": "brew install mongodb-community",
+    "docker": "docker run --name mongo -d mongo"
+  },
+  "tags": ["database", "nosql", "document", "json", "scalable"],
+  "alternatives": ["CouchDB", "Firestore", "DynamoDB", "RavenDB"],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

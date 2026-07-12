@@ -1,0 +1,50 @@
+{
+  "id": "bazel",
+  "name": "Bazel",
+  "category": "tools",
+  "description": "Google's build and test tool for multi-language projects",
+  "official_website": "https://bazel.build",
+  "documentation": "https://bazel.build/docs",
+  "github_repository": "https://github.com/bazelbuild/bazel",
+  "license": "Apache-2.0",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Java",
+    "Python",
+    "Shell",
+    "C++",
+    "HTML"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install bazel"
+  },
+  "tags": [
+    "tools",
+    "tool",
+    "bazel",
+    "build",
+    "build-system",
+    "correct",
+    "fast",
+    "multi-language",
+    "scalable",
+    "test"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 25611,
+    "forks": 4533,
+    "open_issues": 1931,
+    "watchers": 594
+  }
+}

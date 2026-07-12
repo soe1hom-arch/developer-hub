@@ -1,0 +1,58 @@
+{
+  "id": "kotlin-multiplatform",
+  "name": "Kotlin Multiplatform",
+  "category": "mobile",
+  "description": "JetBrains technology for sharing Kotlin code across platforms",
+  "official_website": "https://kotlinlang.org/docs/multiplatform",
+  "documentation": "https://kotlinlang.org/docs/multiplatform",
+  "github_repository": "https://github.com/JetBrains/compose-multiplatform",
+  "license": "Apache-2.0",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Kotlin",
+    "Shell",
+    "JavaScript",
+    "Swift",
+    "Dockerfile"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install kotlin-multiplatform"
+  },
+  "tags": [
+    "mobile",
+    "tool",
+    "android",
+    "awt",
+    "compose",
+    "declarative-ui",
+    "desktop",
+    "gui",
+    "ios",
+    "javascript",
+    "kotlin",
+    "multiplatform",
+    "reactive",
+    "swing",
+    "ui",
+    "wasm",
+    "web",
+    "webassembly"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 19197,
+    "forks": 1409,
+    "open_issues": 75,
+    "watchers": 244
+  }
+}

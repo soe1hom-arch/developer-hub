@@ -1,0 +1,42 @@
+{
+  "id": "face-recognition",
+  "name": "face_recognition",
+  "category": "machine-learning",
+  "description": "The world's simplest facial recognition api for Python and the command line",
+  "official_website": "https://github.com/ageitgey/face_recognition",
+  "documentation": "https://github.com/ageitgey/face_recognition#readme",
+  "github_repository": "https://github.com/ageitgey/face_recognition",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "face-detection",
+    "face-recognition",
+    "machine-learning",
+    "python"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 56574,
+    "forks": 13696,
+    "open_issues": 831,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

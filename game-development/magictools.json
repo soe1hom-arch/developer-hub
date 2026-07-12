@@ -1,0 +1,44 @@
+{
+  "id": "magictools",
+  "name": "magictools",
+  "category": "game-development",
+  "description": ":video_game: :pencil: A list of Game Development resources to make magic happen.",
+  "official_website": "https://github.com/ellisonleao/magictools",
+  "documentation": "https://github.com/ellisonleao/magictools#readme",
+  "github_repository": "https://github.com/ellisonleao/magictools",
+  "license": "MIT",
+  "latest_version": "main",
+  "programming_languages": [
+    "Markdown"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "art",
+    "awesome",
+    "awesome-list",
+    "board-games",
+    "curated",
+    "design",
+    "frameworks",
+    "game-design"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 16961,
+    "forks": 1203,
+    "open_issues": 11,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

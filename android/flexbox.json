@@ -1,0 +1,33 @@
+{
+  "id": "flexbox",
+  "name": "FlexboxLayout",
+  "category": "android",
+  "description": "Android layout library implementing CSS Flexbox for responsive layouts",
+  "official_website": "https://github.com/google/flexbox-layout",
+  "documentation": "https://github.com/google/flexbox-layout",
+  "github_repository": "https://github.com/github",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install flexbox"
+  },
+  "tags": [
+    "android",
+    "tool",
+    "library"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

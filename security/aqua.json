@@ -1,0 +1,45 @@
+{
+  "id": "aqua",
+  "name": "Aqua Security",
+  "category": "security",
+  "description": "Cloud-native security platform for containers and Kubernetes",
+  "official_website": "https://aquasec.com",
+  "documentation": "https://docs.aquasec.com",
+  "github_repository": "https://github.com/michenriksen/aquatone",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Go",
+    "HTML",
+    "Shell"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install aqua"
+  },
+  "tags": [
+    "security",
+    "tool",
+    "chrome-headless",
+    "chromium",
+    "golang",
+    "osint",
+    "reconnaissance"
+  ],
+  "alternatives": [],
+  "popularity": 9,
+  "maintained": true,
+  "archived": true,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 5951,
+    "forks": 905,
+    "open_issues": 106,
+    "watchers": 1
+  }
+}

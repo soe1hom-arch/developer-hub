@@ -1,0 +1,45 @@
+{
+  "id": "mysql",
+  "name": "MySQL",
+  "category": "database",
+  "description": "Popular open-source relational database management system known for reliability and performance",
+  "official_website": "https://mysql.com",
+  "documentation": "https://dev.mysql.com/doc",
+  "github_repository": "https://github.com/mysql/mysql-server",
+  "license": "GPL-2.0",
+  "latest_version": "8.4.0",
+  "programming_languages": [
+    "C",
+    "C++"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "package_manager": "apt",
+  "installation_examples": {
+    "apt": "sudo apt install mysql-server",
+    "brew": "brew install mysql",
+    "docker": "docker run --name mysql -e MYSQL_ROOT_PASSWORD=<your-password> -d mysql"
+  },
+  "tags": [
+    "database",
+    "relational",
+    "sql",
+    "open-source",
+    "acid"
+  ],
+  "alternatives": [
+    "PostgreSQL",
+    "MariaDB",
+    "SQLite",
+    "Oracle DB"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

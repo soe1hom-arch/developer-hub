@@ -1,0 +1,19 @@
+{
+  "id": "tauri",
+  "name": "Tauri",
+  "category": "desktop",
+  "description": "Framework for building lightweight, secure desktop applications with web technologies and Rust backend",
+  "official_website": "https://tauri.app",
+  "documentation": "https://tauri.app/v1/guides",
+  "github_repository": "https://github.com/tauri-apps/tauri",
+  "license": "MIT",
+  "latest_version": "1.6.0",
+  "programming_languages": ["Rust", "TypeScript", "JavaScript"],
+  "platforms": ["Linux", "macOS", "Windows"],
+  "package_manager": "npm",
+  "installation_examples": {"npm": "npm create tauri-app@latest"},
+  "tags": ["desktop", "rust", "webview", "cross-platform", "lightweight"],
+  "alternatives": ["Electron", "Flutter Desktop", "Qt", "JavaFX"],
+  "popularity": 9, "maintained": true, "archived": false, "open_source": true,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

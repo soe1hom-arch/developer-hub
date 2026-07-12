@@ -1,0 +1,57 @@
+{
+  "id": "sentry",
+  "name": "Sentry",
+  "category": "devops",
+  "description": "Application performance monitoring and error tracking platform",
+  "official_website": "https://sentry.io",
+  "documentation": "https://docs.sentry.io",
+  "github_repository": "https://github.com/getsentry/sentry",
+  "license": "NOASSERTION",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Python",
+    "TypeScript",
+    "MDX",
+    "HTML",
+    "Less"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install sentry"
+  },
+  "tags": [
+    "devops",
+    "tool",
+    "library",
+    "apm",
+    "crash-reporting",
+    "crash-reports",
+    "csp-report",
+    "django",
+    "error-logging",
+    "error-monitoring",
+    "fair-source",
+    "hacktoberfest",
+    "monitor",
+    "monitoring",
+    "python",
+    "sentry",
+    "tag-production"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 44269,
+    "forks": 4746,
+    "open_issues": 2132,
+    "watchers": 665
+  }
+}

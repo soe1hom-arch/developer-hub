@@ -1,0 +1,39 @@
+{
+  "id": "garble",
+  "name": "garble",
+  "category": "binary",
+  "description": "Obfuscate Go builds",
+  "official_website": "https://github.com/burrowers/garble",
+  "documentation": "https://github.com/burrowers/garble#readme",
+  "github_repository": "https://github.com/burrowers/garble",
+  "license": "BSD-3-Clause",
+  "latest_version": "master",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux"
+  ],
+  "tags": [
+    "binary",
+    "build",
+    "code-obfuscator",
+    "golang",
+    "obfuscation"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 5594,
+    "forks": 361,
+    "open_issues": 34,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

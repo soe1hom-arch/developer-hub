@@ -1,0 +1,45 @@
+{
+  "id": "carbon-lang",
+  "name": "carbon-lang",
+  "category": "languages",
+  "description": "Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)",
+  "official_website": "http://docs.carbon-lang.dev/",
+  "documentation": "https://github.com/carbon-language/carbon-lang#readme",
+  "github_repository": "https://github.com/carbon-language/carbon-lang",
+  "license": "NOASSERTION",
+  "latest_version": "trunk",
+  "programming_languages": [
+    "C++"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "carbon-lang",
+    "compiler",
+    "cpp",
+    "experimental",
+    "experimental-language",
+    "language",
+    "programming-language"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 33909,
+    "forks": 1704,
+    "open_issues": 243,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "gitlab-ci",
+  "name": "GitLab CI/CD",
+  "category": "devops",
+  "description": "Integrated CI/CD platform within GitLab for building, testing, and deploying applications",
+  "official_website": "https://docs.gitlab.com/ee/ci",
+  "documentation": "https://docs.gitlab.com/ee/ci",
+  "github_repository": "https://gitlab.com/gitlab-org/gitlab",
+  "license": "MIT",
+  "latest_version": "17.1",
+  "programming_languages": ["Ruby", "Go", "YAML"],
+  "platforms": ["Cloud", "Self-hosted"],
+  "package_manager": null,
+  "installation_examples": {},
+  "tags": ["devops", "ci/cd", "automation", "gitlab", "pipeline"],
+  "alternatives": ["GitHub Actions", "Jenkins", "CircleCI", "Argo CD"],
+  "popularity": 8, "maintained": true, "archived": false, "open_source": true,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

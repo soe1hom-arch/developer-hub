@@ -1,0 +1,61 @@
+{
+  "id": "dart",
+  "name": "Dart",
+  "category": "languages",
+  "description": "Optimized language for cross-platform UIs with Flutter framework",
+  "official_website": "https://dart.dev",
+  "documentation": "https://dart.dev/guides",
+  "github_repository": "https://github.com/flutter/flutter",
+  "license": "BSD-3-Clause",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Dart",
+    "C++",
+    "Objective-C++",
+    "Java",
+    "Objective-C"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install dart"
+  },
+  "tags": [
+    "languages",
+    "tool",
+    "android",
+    "app-framework",
+    "cross-platform",
+    "dart",
+    "dart-platform",
+    "desktop",
+    "flutter",
+    "flutter-package",
+    "fuchsia",
+    "ios",
+    "linux-desktop",
+    "macos",
+    "material-design",
+    "mobile",
+    "mobile-development",
+    "skia",
+    "web",
+    "web-framework",
+    "windows"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 177847,
+    "forks": 30788,
+    "open_issues": 12928,
+    "watchers": 3593
+  }
+}

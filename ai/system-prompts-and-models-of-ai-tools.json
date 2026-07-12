@@ -1,0 +1,46 @@
+{
+  "id": "system-prompts-and-models-of-ai-tools",
+  "name": "system-prompts-and-models-of-ai-tools",
+  "category": "ai",
+  "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V",
+  "official_website": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+  "documentation": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools#readme",
+  "github_repository": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+  "license": "GPL-3.0",
+  "latest_version": "main",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "ai",
+    "bolt",
+    "cluely",
+    "copilot",
+    "cursor",
+    "cursorai",
+    "devin",
+    "github-copilot"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 141820,
+    "forks": 34808,
+    "open_issues": 155,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "appsmith",
+  "name": "appsmith",
+  "category": "tools",
+  "description": "Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.",
+  "official_website": "https://www.appsmith.com",
+  "documentation": "https://github.com/appsmithorg/appsmith#readme",
+  "github_repository": "https://github.com/appsmithorg/appsmith",
+  "license": "Apache-2.0",
+  "latest_version": "release",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "admin-dashboard",
+    "admin-panels",
+    "app-builder",
+    "automation",
+    "crud",
+    "custom-internal",
+    "developer-tools",
+    "gui"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 40315,
+    "forks": 4644,
+    "open_issues": 4457,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

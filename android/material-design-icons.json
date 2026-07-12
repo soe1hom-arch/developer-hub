@@ -1,0 +1,45 @@
+{
+  "id": "material-design-icons",
+  "name": "material-design-icons",
+  "category": "android",
+  "description": "Material Design icons by Google (Material Symbols)",
+  "official_website": "http://google.github.io/material-design-icons/",
+  "documentation": "https://github.com/google/material-design-icons#readme",
+  "github_repository": "https://github.com/google/material-design-icons",
+  "license": "Apache-2.0",
+  "latest_version": "master",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "android",
+    "icons",
+    "ios",
+    "material",
+    "material-design",
+    "sprites",
+    "web"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 53575,
+    "forks": 9737,
+    "open_issues": 411,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

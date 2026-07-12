@@ -1,0 +1,46 @@
+{
+  "id": "open-webui",
+  "name": "open-webui",
+  "category": "ai",
+  "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+  "official_website": "https://openwebui.com",
+  "documentation": "https://github.com/open-webui/open-webui#readme",
+  "github_repository": "https://github.com/open-webui/open-webui",
+  "license": "NOASSERTION",
+  "latest_version": "main",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "ai",
+    "llm",
+    "llm-ui",
+    "llm-webui",
+    "llms",
+    "mcp",
+    "ollama",
+    "ollama-webui"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 145108,
+    "forks": 21018,
+    "open_issues": 404,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

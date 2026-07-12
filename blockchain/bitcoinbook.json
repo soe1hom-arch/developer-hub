@@ -1,0 +1,43 @@
+{
+  "id": "bitcoinbook",
+  "name": "bitcoinbook",
+  "category": "blockchain",
+  "description": "Mastering Bitcoin 3rd Edition - Programming the Open Blockchain",
+  "official_website": "https://aantonop.com/books",
+  "documentation": "https://github.com/bitcoinbook/bitcoinbook#readme",
+  "github_repository": "https://github.com/bitcoinbook/bitcoinbook",
+  "license": "NOASSERTION",
+  "latest_version": "develop",
+  "programming_languages": [
+    "HTML"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "bitcoin",
+    "bitcoin-api",
+    "blockchain",
+    "oreilly",
+    "oreilly-books"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 25238,
+    "forks": 6184,
+    "open_issues": 194,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "twistlock",
+  "name": "Prisma Cloud (Twistlock)",
+  "category": "security",
+  "description": "Cloud security platform for containers and serverless workloads",
+  "official_website": "https://prismacloud.com/prisma-cloud",
+  "documentation": "https://docs.prismacloud.io",
+  "github_repository": "https://github.com/twistlock/sample-code",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "HTML",
+    "Shell",
+    "Python",
+    "Open Policy Agent",
+    "PowerShell"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install twistlock"
+  },
+  "tags": [
+    "security",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": true,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 92,
+    "forks": 94,
+    "open_issues": 13,
+    "watchers": 3
+  }
+}

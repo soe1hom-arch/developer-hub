@@ -1,0 +1,42 @@
+{
+  "id": "redux",
+  "name": "Redux",
+  "category": "libraries",
+  "description": "Predictable state container for JavaScript apps with DevTools support",
+  "official_website": "https://redux.js.org",
+  "documentation": "https://redux.js.org/introduction/getting-started",
+  "github_repository": "https://github.com/reduxjs/redux",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "TypeScript",
+    "JavaScript",
+    "CSS"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install redux"
+  },
+  "tags": [
+    "libraries",
+    "tool",
+    "library",
+    "redux"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 61594,
+    "forks": 15221,
+    "open_issues": 48,
+    "watchers": 1331
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "htop",
+  "name": "htop",
+  "category": "tools",
+  "description": "Interactive system monitor for viewing processes and system resources",
+  "official_website": "https://htop.dev",
+  "documentation": "https://htop.dev/docs",
+  "github_repository": "https://github.com/nicolargo/glances",
+  "license": "NOASSERTION",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Python",
+    "Vue",
+    "Makefile",
+    "Shell",
+    "Jupyter Notebook"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install htop"
+  },
+  "tags": [
+    "tools",
+    "tool",
+    "library",
+    "monitoring",
+    "multi-platform",
+    "python",
+    "restful",
+    "restful-api",
+    "system",
+    "terminal",
+    "web"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 33077,
+    "forks": 1764,
+    "open_issues": 101,
+    "watchers": 497
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "planetscale",
+  "name": "PlanetScale",
+  "category": "database",
+  "description": "Serverless MySQL-compatible database platform with branching, non-blocking schema changes, and scaling",
+  "official_website": "https://planetscale.com",
+  "documentation": "https://planetscale.com/docs",
+  "github_repository": "https://github.com/planetscale",
+  "license": "Proprietary",
+  "latest_version": "N/A",
+  "programming_languages": ["Go", "TypeScript"],
+  "platforms": ["Cloud"],
+  "package_manager": "npm",
+  "installation_examples": {"npm": "npm install @planetscale/database"},
+  "tags": ["database", "mysql", "serverless", "cloud", "branching"],
+  "alternatives": ["Supabase", "Neon", "Turso", "AWS RDS"],
+  "popularity": 8, "maintained": true, "archived": false, "open_source": false,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

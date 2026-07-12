@@ -1,0 +1,32 @@
+{
+  "id": "rest",
+  "name": "REST API",
+  "category": "api",
+  "description": "Architectural style for designing networked applications with HTTP methods",
+  "official_website": "https://restfulapi.net",
+  "documentation": "https://restfulapi.net",
+  "github_repository": "https://github.com/restfulapi",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install rest"
+  },
+  "tags": [
+    "api",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

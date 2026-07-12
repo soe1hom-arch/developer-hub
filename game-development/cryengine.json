@@ -1,0 +1,58 @@
+{
+  "id": "cryengine",
+  "name": "CryEngine",
+  "category": "game-development",
+  "description": "CRYENGINE is a game engine designed for creating high-fidelity games",
+  "official_website": "https://cryengine.com",
+  "documentation": "https://docs.cryengine.com",
+  "github_repository": "https://github.com/StrongPC123/Far-Cry-1-Source-Full",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "C++",
+    "C",
+    "HTML",
+    "Makefile",
+    "Python"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install cryengine"
+  },
+  "tags": [
+    "game-development",
+    "tool",
+    "cryengine",
+    "discord",
+    "far-cry",
+    "far-cry-1",
+    "far-cry-1-community",
+    "far-cry-1-discord",
+    "far-cry-1-modding",
+    "far-cry-1-mods",
+    "farcry",
+    "farcry1",
+    "full",
+    "game",
+    "modding",
+    "modding-games",
+    "sandbox",
+    "source"
+  ],
+  "alternatives": [],
+  "popularity": 7,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 957,
+    "forks": 282,
+    "open_issues": 6,
+    "watchers": 16
+  }
+}

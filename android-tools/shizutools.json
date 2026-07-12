@@ -1,0 +1,41 @@
+{
+  "id": "shizutools",
+  "name": "ShizuTools",
+  "category": "android-tools",
+  "description": "Contains many tools to control android system via shizuku.",
+  "official_website": "https://github.com/legendsayantan/ShizuTools",
+  "documentation": "https://github.com/legendsayantan/ShizuTools#readme",
+  "github_repository": "https://github.com/legendsayantan/ShizuTools",
+  "license": "GPL-3.0",
+  "latest_version": "master",
+  "programming_languages": [
+    "Kotlin"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "tags": [
+    "adb",
+    "android",
+    "android-tools",
+    "app-volume",
+    "audiofocus",
+    "debloat",
+    "debloater",
+    "downgrade"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 7,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 2347,
+    "forks": 69,
+    "open_issues": 24,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

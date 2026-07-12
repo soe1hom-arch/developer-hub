@@ -1,0 +1,32 @@
+{
+  "id": "rkt",
+  "name": "rkt (Rocket)",
+  "category": "containers",
+  "description": "Pod-native container engine for application deployment on Linux",
+  "official_website": "https://rocket.github.io",
+  "documentation": "https://rocket.github.io/documentation",
+  "github_repository": "https://github.com/github",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install rkt"
+  },
+  "tags": [
+    "containers",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

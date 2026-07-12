@@ -1,0 +1,52 @@
+{
+  "id": "aws-lambda",
+  "name": "AWS Lambda",
+  "category": "cloud",
+  "description": "Serverless compute service for running code without provisioning servers",
+  "official_website": "https://aws.amazon.com/lambda",
+  "documentation": "https://docs.aws.amazon.com/lambda",
+  "github_repository": "https://github.com/serverless/serverless",
+  "license": "NOASSERTION",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "JavaScript",
+    "Python",
+    "Go",
+    "Java",
+    "Shell"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install aws-lambda"
+  },
+  "tags": [
+    "cloud",
+    "tool",
+    "library",
+    "aws",
+    "aws-dynamodb",
+    "aws-lambda",
+    "azure-functions",
+    "google-cloud-functions",
+    "microservice",
+    "serverless",
+    "serverless-architectures",
+    "serverless-framework"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 46918,
+    "forks": 5730,
+    "open_issues": 1221,
+    "watchers": 910
+  }
+}

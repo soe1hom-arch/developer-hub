@@ -1,0 +1,25 @@
+{
+  "id": "arduino",
+  "name": "Arduino",
+  "category": "iot",
+  "description": "Open-source electronics platform for building interactive hardware projects and IoT devices",
+  "official_website": "https://arduino.cc",
+  "documentation": "https://docs.arduino.cc",
+  "github_repository": "https://github.com/arduino",
+  "license": "LGPL-2.1",
+  "latest_version": "2.3.2",
+  "programming_languages": ["C", "C++"],
+  "platforms": ["Linux", "macOS", "Windows", "Embedded"],
+  "package_manager": null,
+  "installation_examples": {
+    "download": "https://arduino.cc/en/software"
+  },
+  "tags": ["iot", "embedded", "microcontroller", "electronics", "hardware"],
+  "alternatives": ["Raspberry Pi", "ESP32", "STM32", "Micro:bit"],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

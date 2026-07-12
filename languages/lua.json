@@ -1,0 +1,32 @@
+{
+  "id": "lua",
+  "name": "Lua",
+  "category": "languages",
+  "description": "Lightweight scripting language for embedded applications and games",
+  "official_website": "https://lua.org",
+  "documentation": "https://lua.org/docs",
+  "github_repository": "https://github.com/lua",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install lua"
+  },
+  "tags": [
+    "languages",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

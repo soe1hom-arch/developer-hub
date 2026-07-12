@@ -1,0 +1,44 @@
+{
+  "id": "dayjs",
+  "name": "Day.js",
+  "category": "libraries",
+  "description": "Lightweight JavaScript date manipulation library with Moment.js compatibility",
+  "official_website": "https://day.js.org",
+  "documentation": "https://day.js.org/docs",
+  "github_repository": "https://github.com/iamkun/dayjs",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install dayjs"
+  },
+  "tags": [
+    "libraries",
+    "tool",
+    "date",
+    "date-formatting",
+    "datetime",
+    "dayjs",
+    "moment",
+    "time"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 48667,
+    "forks": 2454,
+    "open_issues": 1284,
+    "watchers": 271
+  }
+}

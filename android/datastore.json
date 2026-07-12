@@ -1,0 +1,19 @@
+{
+  "id": "datastore",
+  "name": "DataStore",
+  "category": "android",
+  "description": "Jetpack library for asynchronous key-value and object data storage using Coroutines and Flow",
+  "official_website": "https://developer.android.com/topic/libraries/architecture/datastore",
+  "documentation": "https://developer.android.com/topic/libraries/architecture/datastore",
+  "github_repository": "https://github.com/androidx/androidx",
+  "license": "Apache-2.0",
+  "latest_version": "1.1.1",
+  "programming_languages": ["Kotlin", "Java"],
+  "platforms": ["Android"],
+  "package_manager": "gradle",
+  "installation_examples": {"gradle": "implementation 'androidx.datastore:datastore-preferences:1.1.1'"},
+  "tags": ["android", "jetpack", "storage", "preferences", "coroutines"],
+  "alternatives": ["SharedPreferences", "MMKV", "SQLite"],
+  "popularity": 8, "maintained": true, "archived": false, "open_source": true,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

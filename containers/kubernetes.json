@@ -1,0 +1,26 @@
+{
+  "id": "kubernetes",
+  "name": "Kubernetes",
+  "category": "containers",
+  "description": "Production-grade container orchestration system for automating deployment, scaling, and management",
+  "official_website": "https://kubernetes.io",
+  "documentation": "https://kubernetes.io/docs",
+  "github_repository": "https://github.com/kubernetes/kubernetes",
+  "license": "Apache-2.0",
+  "latest_version": "1.30.2",
+  "programming_languages": ["Go"],
+  "platforms": ["Linux", "macOS", "Windows"],
+  "package_manager": "apt",
+  "installation_examples": {
+    "brew": "brew install kubectl",
+    "curl": "curl -LO https://dl.k8s.io/release/v1.30.2/bin/linux/amd64/kubectl"
+  },
+  "tags": ["orchestration", "containers", "devops", "cloud-native", "scaling"],
+  "alternatives": ["Docker Swarm", "Nomad", "Apache Mesos", "Amazon ECS"],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

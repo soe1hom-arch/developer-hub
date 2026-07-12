@@ -1,0 +1,71 @@
+name: Daily Update
+
+on:
+  schedule:
+    - cron: "0 6 * * *"  # Every day at 6:00 UTC
+  workflow_dispatch:
+
+jobs:
+  daily-update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+      - name: Run health check
+        run: python scripts/health_check.py --quick --report
+      - name: Check for new releases
+        run: |
+          python3 -c "
+          import json, urllib.request, os, sys
+          from pathlib import Path
+          repo_root = Path('.')
+          repos = [
+              ('facebook/react', 'frontend/react.json'),
+              ('django/django', 'backend/django.json'),
+              ('python/cpython', 'languages/python.json'),
+              ('microsoft/TypeScript', 'languages/typescript.json'),
+              ('rust-lang/rust', 'languages/rust.json'),
+              ('golang/go', 'languages/go.json'),
+              ('nodejs/node', 'web/nodejs.json'),
+              ('spring-projects/spring-boot', 'frameworks/spring-boot.json'),
+              ('expressjs/express', 'backend/express.json'),
+              ('tiangolo/fastapi', 'backend/fastapi.json'),
+          ]
+          for repo, json_path in repos:
+              json_file = repo_root / json_path
+              if not json_file.exists():
+                  continue
+              with open(json_file) as f:
+                  data = json.load(f)
+              current = data.get('latest_version', '')
+              try:
+                  api_url = f'https://api.github.com/repos/{repo}/releases/latest'
+                  req = urllib.request.Request(api_url, headers={'User-Agent': 'DeveloperHub-CI', 'Accept': 'application/vnd.github+json'})
+                  resp = urllib.request.urlopen(req, timeout=10)
+                  release = json.loads(resp.read().decode())
+                  latest = release.get('tag_name', '').lstrip('v')
+                  if latest and latest != current:
+                      print(f'New version: {repo} {current} -> {latest}')
+                      data['latest_version'] = latest
+                      import datetime
+                      today = datetime.date.today().isoformat()
+                      data['last_checked'] = today
+                      data['last_updated'] = today
+                      with open(json_file, 'w') as f:
+                          json.dump(data, f, indent=2)
+              except:
+                  pass
+          "
+      - name: Rebuild index
+        run: python scripts/build_index.py
+      - name: Generate daily report
+        run: python scripts/generate_report.py
+      - name: Commit updates
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet || (git add -A && git commit -m "Daily update: versions, health check, index rebuild" && git push)

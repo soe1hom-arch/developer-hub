@@ -1,0 +1,42 @@
+{
+  "id": "heroui",
+  "name": "heroui",
+  "category": "libraries",
+  "description": "\ud83d\ude80 Beautiful, fast and modern React UI library. (Previously NextUI)",
+  "official_website": "https://heroui.com",
+  "documentation": "https://github.com/heroui-inc/heroui#readme",
+  "github_repository": "https://github.com/heroui-inc/heroui",
+  "license": "Apache-2.0",
+  "latest_version": "v3",
+  "programming_languages": [
+    "MDX"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "component-library",
+    "components",
+    "library",
+    "reactjs"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 29872,
+    "forks": 2177,
+    "open_issues": 45,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

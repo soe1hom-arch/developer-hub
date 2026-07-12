@@ -1,0 +1,32 @@
+{
+  "id": "platformio",
+  "name": "PlatformIO",
+  "category": "iot",
+  "description": "Professional IoT development platform with IDE and CLI tools",
+  "official_website": "https://platformio.org",
+  "documentation": "https://docs.platformio.org",
+  "github_repository": "https://github.com/platformio",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install platformio"
+  },
+  "tags": [
+    "iot",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "spring-security",
+  "name": "Spring Security",
+  "category": "backend",
+  "description": "Powerful authentication and access-control framework for Java applications with comprehensive security features",
+  "official_website": "https://spring.io/projects/spring-security",
+  "documentation": "https://docs.spring.io/spring-security",
+  "github_repository": "https://github.com/spring-projects/spring-security",
+  "license": "Apache-2.0",
+  "latest_version": "6.3.1",
+  "programming_languages": ["Java", "Kotlin", "Groovy"],
+  "platforms": ["Linux", "macOS", "Windows"],
+  "package_manager": "maven",
+  "installation_examples": {"maven": "<dependency><groupId>org.springframework.boot</groupId><artifactId>spring-boot-starter-security</artifactId></dependency>"},
+  "tags": ["backend", "security", "authentication", "java", "spring"],
+  "alternatives": ["Apache Shiro", "Keycloak", "Auth0", "OAuth"],
+  "popularity": 9, "maintained": true, "archived": false, "open_source": true,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

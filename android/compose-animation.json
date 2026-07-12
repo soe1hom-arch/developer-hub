@@ -1,0 +1,33 @@
+{
+  "id": "compose-animation",
+  "name": "Compose Animation",
+  "category": "android",
+  "description": "Jetpack Compose animation library for building fluid UI animations",
+  "official_website": "https://developer.android.com/jetpack/compose/animation",
+  "documentation": "https://developer.android.com/jetpack/compose/animation",
+  "github_repository": "https://github.com/android",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install compose-animation"
+  },
+  "tags": [
+    "android",
+    "tool",
+    "library"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

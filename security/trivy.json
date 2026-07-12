@@ -1,0 +1,19 @@
+{
+  "id": "trivy",
+  "name": "Trivy",
+  "category": "security",
+  "description": "Open-source vulnerability scanner for containers, file systems, and Git repositories",
+  "official_website": "https://trivy.dev",
+  "documentation": "https://trivy.dev/docs",
+  "github_repository": "https://github.com/aquasecurity/trivy",
+  "license": "Apache-2.0",
+  "latest_version": "0.53.0",
+  "programming_languages": ["Go"],
+  "platforms": ["Linux", "macOS", "Windows"],
+  "package_manager": "brew",
+  "installation_examples": {"brew": "brew install trivy", "curl": "curl -sfL https://raw.githubusercontent.com/aquasecurity/trivy/main/contrib/install.sh | sh"},
+  "tags": ["security", "vulnerability", "container", "scanner", "open-source"],
+  "alternatives": ["Snyk", "Clair", "Anchore", "Grype"],
+  "popularity": 9, "maintained": true, "archived": false, "open_source": true,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "anoma",
+  "name": "anoma",
+  "category": "blockchain",
+  "description": "Reference implementation of Anoma",
+  "official_website": "https://anoma.net",
+  "documentation": "https://github.com/anoma/anoma#readme",
+  "github_repository": "https://github.com/anoma/anoma",
+  "license": "MIT",
+  "latest_version": "base",
+  "programming_languages": [
+    "Elixir"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "blockchain",
+    "consensus",
+    "cryptography",
+    "distributed-systems",
+    "elixir",
+    "erlang",
+    "operating-system",
+    "p2p"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 33737,
+    "forks": 4113,
+    "open_issues": 122,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

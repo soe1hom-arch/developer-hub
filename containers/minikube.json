@@ -1,0 +1,44 @@
+{
+  "id": "minikube",
+  "name": "minikube",
+  "category": "containers",
+  "description": "Run Kubernetes locally",
+  "official_website": "https://minikube.sigs.k8s.io/",
+  "documentation": "https://github.com/kubernetes/minikube#readme",
+  "github_repository": "https://github.com/kubernetes/minikube",
+  "license": "Apache-2.0",
+  "latest_version": "master",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "cluster",
+    "cncf",
+    "containers",
+    "go",
+    "kubernetes",
+    "minikube"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 31946,
+    "forks": 5267,
+    "open_issues": 527,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

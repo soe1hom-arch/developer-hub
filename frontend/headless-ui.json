@@ -1,0 +1,32 @@
+{
+  "id": "headless-ui",
+  "name": "Headless UI",
+  "category": "frontend",
+  "description": "Unstyled accessible React and Vue UI components by Tailwind Labs",
+  "official_website": "https://headlessui.com",
+  "documentation": "https://headlessui.com/react",
+  "github_repository": "https://github.com/headlessui",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install headless-ui"
+  },
+  "tags": [
+    "frontend",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

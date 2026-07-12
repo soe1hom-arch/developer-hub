@@ -1,0 +1,19 @@
+{
+  "id": "haystack",
+  "name": "Haystack",
+  "category": "ai",
+  "description": "Open-source framework for building search systems and conversational AI with LLMs",
+  "official_website": "https://haystack.deepset.ai",
+  "documentation": "https://docs.haystack.deepset.ai",
+  "github_repository": "https://github.com/deepset-ai/haystack",
+  "license": "Apache-2.0",
+  "latest_version": "2.4.0",
+  "programming_languages": ["Python"],
+  "platforms": ["Linux", "macOS", "Windows"],
+  "package_manager": "pip",
+  "installation_examples": {"pip": "pip install haystack-ai"},
+  "tags": ["ai", "llm", "rag", "search", "nlp", "framework"],
+  "alternatives": ["LangChain", "LlamaIndex", "Semantic Kernel", "DSPy"],
+  "popularity": 8, "maintained": true, "archived": false, "open_source": true,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

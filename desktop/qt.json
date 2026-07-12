@@ -1,0 +1,32 @@
+{
+  "id": "qt",
+  "name": "Qt",
+  "category": "desktop",
+  "description": "Cross-platform C++ framework for building GUI applications and widgets",
+  "official_website": "https://qt.io",
+  "documentation": "https://doc.qt.io",
+  "github_repository": "https://github.com/qt",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install qt"
+  },
+  "tags": [
+    "desktop",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

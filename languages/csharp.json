@@ -1,0 +1,19 @@
+{
+  "id": "csharp",
+  "name": "C#",
+  "category": "languages",
+  "description": "Modern, object-oriented programming language by Microsoft for building .NET applications",
+  "official_website": "https://learn.microsoft.com/dotnet/csharp",
+  "documentation": "https://learn.microsoft.com/dotnet/csharp",
+  "github_repository": "https://github.com/dotnet/csharplang",
+  "license": "MIT",
+  "latest_version": "12.0",
+  "programming_languages": ["C#"],
+  "platforms": ["Linux", "macOS", "Windows", "Mobile", "Web"],
+  "package_manager": "nuget",
+  "installation_examples": {"brew": "brew install dotnet"},
+  "tags": ["programming-language", "dotnet", "microsoft", "object-oriented"],
+  "alternatives": ["Java", "Kotlin", "Go", "F#"],
+  "popularity": 9, "maintained": true, "archived": false, "open_source": true,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

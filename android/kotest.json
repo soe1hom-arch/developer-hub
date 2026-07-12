@@ -1,0 +1,33 @@
+{
+  "id": "kotest",
+  "name": "Kotest",
+  "category": "android",
+  "description": "Multiplatform Kotlin testing framework with property-based testing and assertions",
+  "official_website": "https://kotest.io",
+  "documentation": "https://kotest.io/docs",
+  "github_repository": "https://github.com/kotest",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install kotest"
+  },
+  "tags": [
+    "android",
+    "tool",
+    "library"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

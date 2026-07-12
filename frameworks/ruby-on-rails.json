@@ -1,0 +1,26 @@
+{
+  "id": "ruby-on-rails",
+  "name": "Ruby on Rails",
+  "category": "frameworks",
+  "description": "Server-side web application framework written in Ruby following the MVC pattern",
+  "official_website": "https://rubyonrails.org",
+  "documentation": "https://guides.rubyonrails.org",
+  "github_repository": "https://github.com/rails/rails",
+  "license": "MIT",
+  "latest_version": "7.1.3",
+  "programming_languages": ["Ruby", "JavaScript"],
+  "platforms": ["Linux", "macOS", "Windows"],
+  "package_manager": "gem",
+  "installation_examples": {
+    "gem": "gem install rails",
+    "brew": "brew install rails"
+  },
+  "tags": ["web", "framework", "mvc", "ruby", "full-stack"],
+  "alternatives": ["Django", "Laravel", "Phoenix", "Spring"],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

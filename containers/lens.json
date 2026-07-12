@@ -1,0 +1,43 @@
+{
+  "id": "lens",
+  "name": "lens",
+  "category": "containers",
+  "description": "Lens - The way the world runs Kubernetes",
+  "official_website": "https://k8slens.dev/",
+  "documentation": "https://github.com/lensapp/lens#readme",
+  "github_repository": "https://github.com/lensapp/lens",
+  "license": "MIT",
+  "latest_version": "lens-desktop",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android"
+  ],
+  "tags": [
+    "cloud-native",
+    "containers",
+    "devops",
+    "kubernetes",
+    "kubernetes-dashboard",
+    "kubernetes-ui"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 23188,
+    "forks": 1482,
+    "open_issues": 1184,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "radix-ui",
+  "name": "Radix UI",
+  "category": "frontend",
+  "description": "Unstyled, accessible React UI primitives for building design systems",
+  "official_website": "https://radix-ui.com",
+  "documentation": "https://radix-ui.com/primitives",
+  "github_repository": "https://github.com/radix-ui",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install radix-ui"
+  },
+  "tags": [
+    "frontend",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

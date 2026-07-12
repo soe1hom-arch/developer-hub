@@ -1,0 +1,19 @@
+{
+  "id": "material3",
+  "name": "Material 3 (Material You)",
+  "category": "android",
+  "description": "Google's open-source design system for building modern Android UIs with Material Design 3",
+  "official_website": "https://m3.material.io",
+  "documentation": "https://developer.android.com/jetpack/androidx/releases/compose-material3",
+  "github_repository": "https://github.com/androidx/androidx",
+  "license": "Apache-2.0",
+  "latest_version": "1.2.1",
+  "programming_languages": ["Kotlin", "Java"],
+  "platforms": ["Android"],
+  "package_manager": "gradle",
+  "installation_examples": {"gradle": "implementation 'androidx.compose.material3:material3:1.2.1'"},
+  "tags": ["android", "ui", "design", "material-design", "compose", "material-you"],
+  "alternatives": ["Material 2", "Tailwind CSS", "Jetpack Compose"],
+  "popularity": 10, "maintained": true, "archived": false, "open_source": true,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

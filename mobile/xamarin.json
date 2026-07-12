@@ -1,0 +1,19 @@
+{
+  "id": "xamarin",
+  "name": "Xamarin",
+  "category": "mobile",
+  "description": "Microsoft's cross-platform mobile development framework using C# and .NET for iOS and Android apps",
+  "official_website": "https://dotnet.microsoft.com/apps/xamarin",
+  "documentation": "https://learn.microsoft.com/xamarin",
+  "github_repository": "https://github.com/xamarin",
+  "license": "MIT",
+  "latest_version": "17.0",
+  "programming_languages": ["C#", "F#"],
+  "platforms": ["Android", "iOS"],
+  "package_manager": "nuget",
+  "installation_examples": {},
+  "tags": ["mobile", "cross-platform", "dotnet", "csharp", "microsoft"],
+  "alternatives": ["Flutter", "React Native", ".NET MAUI"],
+  "popularity": 6, "maintained": true, "archived": false, "open_source": true,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

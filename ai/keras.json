@@ -1,0 +1,39 @@
+{
+  "id": "keras",
+  "name": "Keras",
+  "category": "ai",
+  "description": "High-level neural networks API for building and training deep learning models",
+  "official_website": "https://keras.io",
+  "documentation": "https://keras.io/api",
+  "github_repository": "https://github.com/fighting41love/funNLP",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install keras"
+  },
+  "tags": [
+    "ai",
+    "tool",
+    "library"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 81744,
+    "forks": 15251,
+    "open_issues": 52,
+    "watchers": 1624
+  }
+}

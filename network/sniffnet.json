@@ -1,0 +1,46 @@
+{
+  "id": "sniffnet",
+  "name": "sniffnet",
+  "category": "network",
+  "description": "Comfortably monitor your Internet traffic \ud83d\udd75\ufe0f\u200d\u2642\ufe0f",
+  "official_website": "https://sniffnet.app",
+  "documentation": "https://github.com/GyulyVGC/sniffnet#readme",
+  "github_repository": "https://github.com/GyulyVGC/sniffnet",
+  "license": "Apache-2.0",
+  "latest_version": "main",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "application",
+    "gui",
+    "iced",
+    "linux",
+    "macos",
+    "network",
+    "network-analysis",
+    "network-monitoring"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 40081,
+    "forks": 1886,
+    "open_issues": 75,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "cypress",
+  "name": "Cypress",
+  "category": "frontend",
+  "description": "Frontend testing framework for end-to-end and component testing",
+  "official_website": "https://cypress.io",
+  "documentation": "https://docs.cypress.io",
+  "github_repository": "https://github.com/cypress-io/cypress",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "TypeScript",
+    "JavaScript",
+    "Vue",
+    "HTML",
+    "SCSS"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install cypress"
+  },
+  "tags": [
+    "frontend",
+    "tool",
+    "library",
+    "angular-testing-library",
+    "component-testing",
+    "cypress",
+    "cypress-cloud",
+    "cypress-schematic",
+    "end-to-end-testing",
+    "react-testing-library",
+    "svelte-testing-library",
+    "test-replay",
+    "testing-framework",
+    "testing-library",
+    "testing-tool",
+    "vue-testing-library"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 50646,
+    "forks": 3591,
+    "open_issues": 1102,
+    "watchers": 664
+  }
+}

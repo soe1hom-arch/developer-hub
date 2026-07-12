@@ -1,0 +1,33 @@
+{
+  "id": "prisma",
+  "name": "Prisma",
+  "category": "libraries",
+  "description": "Next-generation ORM for Node.js and TypeScript with auto-generated queries",
+  "official_website": "https://prisma.io",
+  "documentation": "https://prisma.io/docs",
+  "github_repository": "https://github.com/prisma",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install prisma"
+  },
+  "tags": [
+    "libraries",
+    "tool",
+    "library"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "crowdsec",
+  "name": "CrowdSec",
+  "category": "security",
+  "description": "Open-source collaborative security solution for detecting attacks",
+  "official_website": "https://crowdsec.net",
+  "documentation": "https://docs.crowdsec.net",
+  "github_repository": "https://github.com/crowdsecurity/crowdsec",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Go",
+    "Shell",
+    "Python",
+    "Go Template",
+    "HTML"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install crowdsec"
+  },
+  "tags": [
+    "security",
+    "tool",
+    "library",
+    "attacks-prevention",
+    "detection",
+    "ids",
+    "ips",
+    "linux",
+    "protection",
+    "waf"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 14182,
+    "forks": 674,
+    "open_issues": 288,
+    "watchers": 121
+  }
+}

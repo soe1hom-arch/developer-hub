@@ -1,0 +1,25 @@
+{
+  "id": "fastapi",
+  "name": "FastAPI",
+  "category": "backend",
+  "description": "Modern, fast web framework for building APIs with Python based on Starlette and Pydantic",
+  "official_website": "https://fastapi.tiangolo.com",
+  "documentation": "https://fastapi.tiangolo.com",
+  "github_repository": "https://github.com/tiangolo/fastapi",
+  "license": "MIT",
+  "latest_version": "0.111.0",
+  "programming_languages": ["Python"],
+  "platforms": ["Linux", "macOS", "Windows"],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install fastapi\npip install uvicorn"
+  },
+  "tags": ["web", "framework", "python", "api", "async", "openapi", "pydantic"],
+  "alternatives": ["Flask", "Django", "Starlette", "Sanic"],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

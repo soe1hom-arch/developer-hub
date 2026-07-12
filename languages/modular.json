@@ -1,0 +1,45 @@
+{
+  "id": "modular",
+  "name": "modular",
+  "category": "languages",
+  "description": "The Modular Platform (includes MAX & Mojo)",
+  "official_website": "https://docs.modular.com/",
+  "documentation": "https://github.com/modular/modular#readme",
+  "github_repository": "https://github.com/modular/modular",
+  "license": "NOASSERTION",
+  "latest_version": "main",
+  "programming_languages": [
+    "Mojo"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "ai",
+    "language",
+    "machine-learning",
+    "max",
+    "modular",
+    "mojo",
+    "programming-language"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 26537,
+    "forks": 2881,
+    "open_issues": 1074,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

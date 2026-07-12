@@ -1,0 +1,32 @@
+{
+  "id": "ruby",
+  "name": "Ruby",
+  "category": "languages",
+  "description": "Dynamic, interpreted language focused on simplicity and productivity",
+  "official_website": "https://ruby-lang.org",
+  "documentation": "https://ruby-doc.org",
+  "github_repository": "https://github.com/ruby-lang",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install ruby"
+  },
+  "tags": [
+    "languages",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

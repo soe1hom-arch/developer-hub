@@ -1,0 +1,42 @@
+{
+  "id": "homebrew",
+  "name": "Homebrew",
+  "category": "tools",
+  "description": "Package manager for macOS and Linux",
+  "official_website": "https://brew.sh",
+  "documentation": "https://docs.brew.sh",
+  "github_repository": "https://github.com/Homebrew/brew",
+  "license": "BSD-2-Clause",
+  "latest_version": "4.3.0",
+  "programming_languages": [
+    "Ruby",
+    "Shell"
+  ],
+  "platforms": [
+    "macOS",
+    "Linux"
+  ],
+  "package_manager": "brew",
+  "installation_examples": {
+    "curl": "/bin/bash -c \"$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)\""
+  },
+  "tags": [
+    "tool",
+    "package-manager",
+    "macos",
+    "linux",
+    "cli"
+  ],
+  "alternatives": [
+    "MacPorts",
+    "Nix",
+    "apt",
+    "yum"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

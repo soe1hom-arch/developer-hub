@@ -1,0 +1,46 @@
+{
+  "id": "firecrawl",
+  "name": "firecrawl",
+  "category": "ai",
+  "description": "The API to search, scrape, and interact with the web at scale. \ud83d\udd25",
+  "official_website": "https://firecrawl.dev",
+  "documentation": "https://github.com/firecrawl/firecrawl#readme",
+  "github_repository": "https://github.com/firecrawl/firecrawl",
+  "license": "AGPL-3.0",
+  "latest_version": "main",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "ai",
+    "ai-agents",
+    "ai-crawler",
+    "ai-scraping",
+    "ai-search",
+    "crawler",
+    "data-extraction",
+    "html-to-markdown"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 149505,
+    "forks": 8554,
+    "open_issues": 400,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

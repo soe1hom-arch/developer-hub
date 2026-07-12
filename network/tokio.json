@@ -1,0 +1,41 @@
+{
+  "id": "tokio",
+  "name": "tokio",
+  "category": "network",
+  "description": "A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...",
+  "official_website": "https://tokio.rs",
+  "documentation": "https://github.com/tokio-rs/tokio#readme",
+  "github_repository": "https://github.com/tokio-rs/tokio",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "asynchronous",
+    "networking",
+    "rust"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 32510,
+    "forks": 3157,
+    "open_issues": 436,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

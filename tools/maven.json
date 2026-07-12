@@ -1,0 +1,27 @@
+{
+  "id": "maven",
+  "name": "Apache Maven",
+  "category": "tools",
+  "description": "Build automation and project management tool primarily for Java projects with declarative configuration",
+  "official_website": "https://maven.apache.org",
+  "documentation": "https://maven.apache.org/guides",
+  "github_repository": "https://github.com/apache/maven",
+  "license": "Apache-2.0",
+  "latest_version": "3.9.7",
+  "programming_languages": ["Java"],
+  "platforms": ["Linux", "macOS", "Windows"],
+  "package_manager": "sdkman",
+  "installation_examples": {
+    "sdkman": "sdk install maven",
+    "brew": "brew install maven",
+    "apt": "sudo apt install maven"
+  },
+  "tags": ["build-tool", "java", "automation", "jvm", "project-management"],
+  "alternatives": ["Gradle", "Bazel", "Ant", "Mill"],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

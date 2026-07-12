@@ -1,0 +1,33 @@
+{
+  "id": "bat",
+  "name": "bat",
+  "category": "tools",
+  "description": "Cat clone with syntax highlighting and Git integration",
+  "official_website": "https://github.com/sharkdp/bat",
+  "documentation": "https://github.com/sharkdp/bat",
+  "github_repository": "https://github.com/github",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install bat"
+  },
+  "tags": [
+    "tools",
+    "tool",
+    "library"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

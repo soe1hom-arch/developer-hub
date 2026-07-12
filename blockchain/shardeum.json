@@ -1,0 +1,46 @@
+{
+  "id": "shardeum",
+  "name": "shardeum",
+  "category": "blockchain",
+  "description": "Shardeum is an EVM based autoscaling blockchain",
+  "official_website": "https://shardeum.org/",
+  "documentation": "https://github.com/shardeum/shardeum#readme",
+  "github_repository": "https://github.com/shardeum/shardeum",
+  "license": "MIT",
+  "latest_version": "dev",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "blockchain",
+    "dapp",
+    "ethereum",
+    "evm",
+    "evm-blockchain",
+    "payments",
+    "sharding",
+    "typescript"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 31351,
+    "forks": 704,
+    "open_issues": 86,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

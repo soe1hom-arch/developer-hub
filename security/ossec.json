@@ -1,0 +1,32 @@
+{
+  "id": "ossec",
+  "name": "OSSEC",
+  "category": "security",
+  "description": "Host-based intrusion detection system with log analysis and file integrity",
+  "official_website": "https://ossec.net",
+  "documentation": "https://ossec.net/docs",
+  "github_repository": "https://github.com/ossec",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install ossec"
+  },
+  "tags": [
+    "security",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

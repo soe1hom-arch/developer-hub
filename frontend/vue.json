@@ -1,0 +1,26 @@
+{
+  "id": "vue",
+  "name": "Vue.js",
+  "category": "frontend",
+  "description": "Progressive JavaScript framework for building user interfaces on the web",
+  "official_website": "https://vuejs.org",
+  "documentation": "https://vuejs.org/guide",
+  "github_repository": "https://github.com/vuejs/vue",
+  "license": "MIT",
+  "latest_version": "3.4.27",
+  "programming_languages": ["JavaScript", "TypeScript"],
+  "platforms": ["Web"],
+  "package_manager": "npm",
+  "installation_examples": {
+    "npm": "npm create vue@latest",
+    "yarn": "yarn create vue"
+  },
+  "tags": ["ui", "components", "reactive", "frontend", "spa", "framework"],
+  "alternatives": ["React", "Angular", "Svelte", "Solid", "Alpine"],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

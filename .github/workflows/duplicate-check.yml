@@ -1,0 +1,42 @@
+name: Duplicate Detection
+
+on:
+  pull_request:
+    paths:
+      - "**/*.json"
+  workflow_dispatch:
+
+jobs:
+  check-duplicates:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Check for duplicate entries
+        run: |
+          python3 -c "
+          import json, sys
+          from pathlib import Path
+          seen = {}
+          duplicates = []
+          for f in Path('.').rglob('*.json'):
+              if '.git' in f.parts:
+                  continue
+              try:
+                  data = json.loads(f.read_text())
+                  name = data.get('name', '').lower()
+                  if name in seen:
+                      duplicates.append((seen[name], str(f), name))
+                  else:
+                      seen[name] = str(f)
+              except: pass
+          if duplicates:
+              print('Duplicate entries found:')
+              for orig, dup, name in duplicates:
+                  print(f'  \"{name}\" appears in {orig} and {dup}')
+              sys.exit(1)
+          else:
+              print('No duplicates found.')
+          "

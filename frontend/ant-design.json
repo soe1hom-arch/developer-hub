@@ -1,0 +1,50 @@
+{
+  "id": "ant-design",
+  "name": "Ant Design",
+  "category": "frontend",
+  "description": "Enterprise-class UI design system with React implementation",
+  "official_website": "https://ant.design",
+  "documentation": "https://ant.design/docs",
+  "github_repository": "https://github.com/ant-design/ant-design",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "TypeScript",
+    "JavaScript",
+    "CSS",
+    "HTML",
+    "Shell"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install ant-design"
+  },
+  "tags": [
+    "frontend",
+    "tool",
+    "library",
+    "ant-design",
+    "antd",
+    "design-systems",
+    "react",
+    "typescript",
+    "ui-kit",
+    "ui-library"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 98664,
+    "forks": 54640,
+    "open_issues": 1274,
+    "watchers": 248
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "docker-compose",
+  "name": "Docker Compose",
+  "category": "containers",
+  "description": "Tool for defining and running multi-container Docker applications with YAML configuration",
+  "official_website": "https://docs.docker.com/compose",
+  "documentation": "https://docs.docker.com/compose",
+  "github_repository": "https://github.com/docker/compose",
+  "license": "Apache-2.0",
+  "latest_version": "2.28.0",
+  "programming_languages": ["Go"],
+  "platforms": ["Linux", "macOS", "Windows"],
+  "package_manager": "pip",
+  "installation_examples": {"pip": "pip install docker-compose"},
+  "tags": ["containers", "docker", "orchestration", "devops", "multi-container"],
+  "alternatives": ["Kubernetes", "Docker Swarm", "Podman Compose"],
+  "popularity": 10, "maintained": true, "archived": false, "open_source": true,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

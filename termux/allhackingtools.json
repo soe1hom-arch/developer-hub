@@ -1,0 +1,42 @@
+{
+  "id": "allhackingtools",
+  "name": "AllHackingTools",
+  "category": "termux",
+  "description": "All-in-One Hacking Tools For Hackers! And more hacking tools! For termux.",
+  "official_website": "https://github.com/mishakorzik/AllHackingTools",
+  "documentation": "https://github.com/mishakorzik/AllHackingTools#readme",
+  "github_repository": "https://github.com/mishakorzik/AllHackingTools",
+  "license": "GPL-3.0",
+  "latest_version": "main",
+  "programming_languages": [
+    "Shell"
+  ],
+  "platforms": [
+    "Web",
+    "Linux"
+  ],
+  "tags": [
+    "all-in-one",
+    "bruteforce",
+    "cibersecurity",
+    "ctf-tools",
+    "ddos-attacks",
+    "hacking",
+    "hacking-tool",
+    "packages"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 5868,
+    "forks": 968,
+    "open_issues": 10,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

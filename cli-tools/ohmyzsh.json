@@ -1,0 +1,46 @@
+{
+  "id": "ohmyzsh",
+  "name": "ohmyzsh",
+  "category": "cli-tools",
+  "description": "\ud83d\ude43   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,",
+  "official_website": "https://ohmyz.sh",
+  "documentation": "https://github.com/ohmyzsh/ohmyzsh#readme",
+  "github_repository": "https://github.com/ohmyzsh/ohmyzsh",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "Shell"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "cli",
+    "cli-app",
+    "oh-my-zsh",
+    "oh-my-zsh-plugin",
+    "oh-my-zsh-theme",
+    "ohmyzsh",
+    "plugin-framework",
+    "plugins"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 188650,
+    "forks": 26553,
+    "open_issues": 576,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

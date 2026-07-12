@@ -1,0 +1,32 @@
+{
+  "id": "warp",
+  "name": "Warp",
+  "category": "backend",
+  "description": "Lightweight Rust web framework with composable filters and WebSocket support",
+  "official_website": "https://github.com/seanmonstar/warp",
+  "documentation": "https://docs.rs/warp",
+  "github_repository": "https://github.com/github",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install warp"
+  },
+  "tags": [
+    "backend",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

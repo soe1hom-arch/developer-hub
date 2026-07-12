@@ -1,0 +1,46 @@
+{
+  "id": "pake",
+  "name": "Pake",
+  "category": "macos",
+  "description": "\ud83e\udd31\ud83c\udffb Turn any webpage into a desktop app with one command.",
+  "official_website": "https://github.com/tw93/Pake",
+  "documentation": "https://github.com/tw93/Pake#readme",
+  "github_repository": "https://github.com/tw93/Pake",
+  "license": "GPL-3.0",
+  "latest_version": "main",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "chatgpt",
+    "claude",
+    "desktop",
+    "gemini",
+    "hight-performance",
+    "linux",
+    "macos",
+    "no-electron"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 59764,
+    "forks": 12061,
+    "open_issues": 2,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "material-ui",
+  "name": "Material UI",
+  "category": "frontend",
+  "description": "Comprehensive React component library implementing Google's Material Design with advanced theming",
+  "official_website": "https://mui.com",
+  "documentation": "https://mui.com/material-ui",
+  "github_repository": "https://github.com/mui/material-ui",
+  "license": "MIT",
+  "latest_version": "5.16.1",
+  "programming_languages": ["TypeScript", "JavaScript"],
+  "platforms": ["Web"],
+  "package_manager": "npm",
+  "installation_examples": {"npm": "npm install @mui/material @emotion/react @emotion/styled"},
+  "tags": ["ui", "react", "components", "material-design", "design-system"],
+  "alternatives": ["Chakra UI", "Ant Design", "Shadcn/ui", "Radix UI"],
+  "popularity": 9, "maintained": true, "archived": false, "open_source": true,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "catboost",
+  "name": "CatBoost",
+  "category": "machine-learning",
+  "description": "Gradient boosting library by Yandex with native categorical feature support",
+  "official_website": "https://catboost.ai",
+  "documentation": "https://catboost.ai/docs",
+  "github_repository": "https://github.com/catboost",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install catboost"
+  },
+  "tags": [
+    "machine-learning",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

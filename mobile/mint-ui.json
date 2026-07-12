@@ -1,0 +1,41 @@
+{
+  "id": "mint-ui",
+  "name": "mint-ui",
+  "category": "mobile",
+  "description": "Mobile UI elements for Vue.js",
+  "official_website": "http://mint-ui.github.io/#!/en",
+  "documentation": "https://github.com/ElemeFE/mint-ui#readme",
+  "github_repository": "https://github.com/ElemeFE/mint-ui",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "Vue"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "component",
+    "mobile",
+    "ui-kit",
+    "vue",
+    "vue-components"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 16450,
+    "forks": 3488,
+    "open_issues": 291,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

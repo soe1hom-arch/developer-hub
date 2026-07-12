@@ -1,0 +1,42 @@
+{
+  "id": "jadx",
+  "name": "jadx",
+  "category": "android",
+  "description": "Dex to Java decompiler",
+  "official_website": "https://github.com/skylot/jadx",
+  "documentation": "https://github.com/skylot/jadx#readme",
+  "github_repository": "https://github.com/skylot/jadx",
+  "license": "Apache-2.0",
+  "latest_version": "master",
+  "programming_languages": [
+    "Java"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "android",
+    "decompiler",
+    "dex",
+    "java"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 49660,
+    "forks": 5729,
+    "open_issues": 435,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

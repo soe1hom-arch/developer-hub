@@ -1,0 +1,46 @@
+{
+  "id": "julia",
+  "name": "julia",
+  "category": "languages",
+  "description": "The Julia Programming Language",
+  "official_website": "https://julialang.org/",
+  "documentation": "https://github.com/JuliaLang/julia#readme",
+  "github_repository": "https://github.com/JuliaLang/julia",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "Julia"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "hacktoberfest",
+    "hpc",
+    "julia",
+    "julia-language",
+    "julialang",
+    "machine-learning",
+    "numerical",
+    "programming-language"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 49023,
+    "forks": 5928,
+    "open_issues": 4693,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

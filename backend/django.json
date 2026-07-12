@@ -1,0 +1,26 @@
+{
+  "id": "django",
+  "name": "Django",
+  "category": "backend",
+  "description": "High-level Python web framework that encourages rapid development and clean, pragmatic design",
+  "official_website": "https://djangoproject.com",
+  "documentation": "https://docs.djangoproject.com",
+  "github_repository": "https://github.com/django/django",
+  "license": "BSD-3-Clause",
+  "latest_version": "5.0.6",
+  "programming_languages": ["Python"],
+  "platforms": ["Linux", "macOS", "Windows"],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install django",
+    "pipenv": "pipenv install django"
+  },
+  "tags": ["web", "framework", "python", "orm", "mvc", "batteries-included"],
+  "alternatives": ["Flask", "FastAPI", "Ruby on Rails", "Laravel", "Spring"],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

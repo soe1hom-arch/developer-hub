@@ -1,0 +1,46 @@
+{
+  "id": "taste-skill",
+  "name": "taste-skill",
+  "category": "frontend",
+  "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+  "official_website": "https://tasteskill.dev",
+  "documentation": "https://github.com/Leonxlnx/taste-skill#readme",
+  "github_repository": "https://github.com/Leonxlnx/taste-skill",
+  "license": "MIT",
+  "latest_version": "main",
+  "programming_languages": [
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "agent",
+    "ai",
+    "claude",
+    "claude-code",
+    "codex",
+    "coding",
+    "design",
+    "frontend"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 62201,
+    "forks": 4385,
+    "open_issues": 44,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "freerdp",
+  "name": "FreeRDP",
+  "category": "libraries",
+  "description": "FreeRDP is a free remote desktop protocol library and clients",
+  "official_website": "http://www.freerdp.com/",
+  "documentation": "https://github.com/FreeRDP/FreeRDP#readme",
+  "github_repository": "https://github.com/FreeRDP/FreeRDP",
+  "license": "Apache-2.0",
+  "latest_version": "master",
+  "programming_languages": [
+    "C"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS"
+  ],
+  "tags": [
+    "android",
+    "c",
+    "freerdp",
+    "library",
+    "rdp",
+    "rdp-client",
+    "rdp-connection",
+    "remote-desktop"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 13417,
+    "forks": 15374,
+    "open_issues": 171,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

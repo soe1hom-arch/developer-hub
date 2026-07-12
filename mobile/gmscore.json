@@ -1,0 +1,43 @@
+{
+  "id": "gmscore",
+  "name": "GmsCore",
+  "category": "mobile",
+  "description": "Free implementation of Play Services",
+  "official_website": "https://microg.org",
+  "documentation": "https://github.com/microg/GmsCore#readme",
+  "github_repository": "https://github.com/microg/GmsCore",
+  "license": "Apache-2.0",
+  "latest_version": "master",
+  "programming_languages": [
+    "Java"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS"
+  ],
+  "tags": [
+    "android",
+    "auth",
+    "cloud-messaging",
+    "firebase",
+    "geolocation",
+    "google",
+    "google-cloud-messaging",
+    "java"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 13877,
+    "forks": 2940,
+    "open_issues": 1332,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

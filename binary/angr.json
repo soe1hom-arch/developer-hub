@@ -1,0 +1,38 @@
+{
+  "id": "angr",
+  "name": "angr",
+  "category": "binary",
+  "description": "A powerful and user-friendly binary analysis platform!",
+  "official_website": "http://angr.io",
+  "documentation": "https://github.com/angr/angr#readme",
+  "github_repository": "https://github.com/angr/angr",
+  "license": "BSD-2-Clause",
+  "latest_version": "master",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux"
+  ],
+  "tags": [
+    "analysis",
+    "angr",
+    "binary",
+    "hacktoberfest"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 8936,
+    "forks": 1178,
+    "open_issues": 619,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

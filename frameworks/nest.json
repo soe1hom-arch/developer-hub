@@ -1,0 +1,46 @@
+{
+  "id": "nest",
+  "name": "nest",
+  "category": "frameworks",
+  "description": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript \ud83d\ude80",
+  "official_website": "https://nestjs.com",
+  "documentation": "https://github.com/nestjs/nest#readme",
+  "github_repository": "https://github.com/nestjs/nest",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "framework",
+    "hacktoberfest",
+    "javascript",
+    "javascript-framework",
+    "microservices",
+    "nest",
+    "nestjs",
+    "node"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 76235,
+    "forks": 8450,
+    "open_issues": 37,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

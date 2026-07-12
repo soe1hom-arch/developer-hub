@@ -1,0 +1,32 @@
+{
+  "id": "ibm-cloud",
+  "name": "IBM Cloud",
+  "category": "cloud",
+  "description": "Enterprise cloud platform with AI, data, and security services",
+  "official_website": "https://ibm.com/cloud",
+  "documentation": "https://cloud.ibm.com/docs",
+  "github_repository": "https://github.com/IBM",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install ibm-cloud"
+  },
+  "tags": [
+    "cloud",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

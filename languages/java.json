@@ -1,0 +1,19 @@
+{
+  "id": "java",
+  "name": "Java",
+  "category": "languages",
+  "description": "General-purpose, object-oriented programming language that runs on billions of devices via the JVM",
+  "official_website": "https://java.com",
+  "documentation": "https://docs.oracle.com/en/java",
+  "github_repository": "https://github.com/openjdk/jdk",
+  "license": "GPL-2.0",
+  "latest_version": "22",
+  "programming_languages": ["Java"],
+  "platforms": ["Linux", "macOS", "Windows", "JVM"],
+  "package_manager": "sdkman",
+  "installation_examples": {"sdkman": "sdk install java", "apt": "sudo apt install openjdk-22-jdk"},
+  "tags": ["programming-language", "jvm", "object-oriented", "enterprise"],
+  "alternatives": ["Kotlin", "C#", "Go", "Python"],
+  "popularity": 10, "maintained": true, "archived": false, "open_source": true,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

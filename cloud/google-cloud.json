@@ -1,0 +1,26 @@
+{
+  "id": "google-cloud",
+  "name": "Google Cloud Platform",
+  "category": "cloud",
+  "description": "Suite of cloud computing services by Google including compute, storage, data analytics, and ML",
+  "official_website": "https://cloud.google.com",
+  "documentation": "https://cloud.google.com/docs",
+  "github_repository": "https://github.com/GoogleCloudPlatform",
+  "license": "Proprietary",
+  "latest_version": "N/A",
+  "programming_languages": ["Python", "Go", "Java", "TypeScript", "C#"],
+  "platforms": ["Cloud"],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install google-cloud-storage",
+    "brew": "brew install google-cloud-sdk"
+  },
+  "tags": ["cloud", "compute", "storage", "serverless", "big-data", "ml"],
+  "alternatives": ["AWS", "Azure", "DigitalOcean", "Linode"],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": false,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

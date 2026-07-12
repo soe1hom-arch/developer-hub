@@ -1,0 +1,25 @@
+{
+  "id": "deepseek",
+  "name": "DeepSeek",
+  "category": "ai",
+  "description": "Advanced open-source language models with strong reasoning capabilities and competitive performance",
+  "official_website": "https://deepseek.com",
+  "documentation": "https://platform.deepseek.com/docs",
+  "github_repository": "https://github.com/deepseek-ai",
+  "license": "MIT",
+  "latest_version": "DeepSeek-V2",
+  "programming_languages": ["Python"],
+  "platforms": ["Cloud", "API", "Self-hosted"],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install deepseek-sdk"
+  },
+  "tags": ["ai", "llm", "machine-learning", "nlp", "open-source", "reasoning"],
+  "alternatives": ["OpenAI GPT", "Mistral", "Meta LLaMA", "Qwen"],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

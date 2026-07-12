@@ -1,0 +1,41 @@
+{
+  "id": "bombers",
+  "name": "Bombers",
+  "category": "termux",
+  "description": "SMS/Email/Whatsapp/Twitter/Instagram bombers Collection :bomb::bomb::bomb: :boom: Also added collection of some Fake SMS utilities which helps in skip phone number based SMS verification by using a te",
+  "official_website": "https://github.com/bhattsameer/Bombers",
+  "documentation": "https://github.com/bhattsameer/Bombers#readme",
+  "github_repository": "https://github.com/bhattsameer/Bombers",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "tags": [
+    "bomber",
+    "bombers-collection",
+    "bombing",
+    "email-bomb",
+    "email-bomber",
+    "fake-sms",
+    "fakesms",
+    "numspy-bomber"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": false,
+  "archived": true,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 3679,
+    "forks": 1223,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

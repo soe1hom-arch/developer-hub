@@ -1,0 +1,33 @@
+{
+  "id": "primevue",
+  "name": "PrimeVue",
+  "category": "frontend",
+  "description": "Rich Vue.js UI component library with 90+ components",
+  "official_website": "https://primevue.org",
+  "documentation": "https://primevue.org/docs",
+  "github_repository": "https://github.com/primevue",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install primevue"
+  },
+  "tags": [
+    "frontend",
+    "tool",
+    "library"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

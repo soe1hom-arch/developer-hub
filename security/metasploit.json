@@ -1,0 +1,33 @@
+{
+  "id": "metasploit",
+  "name": "Metasploit",
+  "category": "security",
+  "description": "Penetration testing framework for developing and executing exploit code",
+  "official_website": "https://metasploit.com",
+  "documentation": "https://docs.metasploit.com",
+  "github_repository": "https://github.com/metasploit",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install metasploit"
+  },
+  "tags": [
+    "security",
+    "tool",
+    "library"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

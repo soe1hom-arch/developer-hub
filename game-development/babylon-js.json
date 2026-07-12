@@ -1,0 +1,46 @@
+{
+  "id": "babylon-js",
+  "name": "Babylon.js",
+  "category": "game-development",
+  "description": "Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.",
+  "official_website": "http://www.babylonjs.com",
+  "documentation": "https://github.com/BabylonJS/Babylon.js#readme",
+  "github_repository": "https://github.com/BabylonJS/Babylon.js",
+  "license": "Apache-2.0",
+  "latest_version": "master",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "3d",
+    "babylon",
+    "game-development",
+    "game-engine",
+    "game-engine-3d",
+    "typescript",
+    "webaudio",
+    "webgl"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 25772,
+    "forks": 3661,
+    "open_issues": 22,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "designoverlay-android",
+  "name": "DesignOverlay-Android",
+  "category": "android-tools",
+  "description": "Android app which displays design image with grid lines to facilitate the tedious design implementation process",
+  "official_website": "https://github.com/Manabu-GT/DesignOverlay-Android",
+  "documentation": "https://github.com/Manabu-GT/DesignOverlay-Android#readme",
+  "github_repository": "https://github.com/Manabu-GT/DesignOverlay-Android",
+  "license": "Apache-2.0",
+  "latest_version": "master",
+  "programming_languages": [
+    "Java"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "tags": [
+    "android",
+    "android-application",
+    "android-tools",
+    "grid",
+    "java",
+    "overlay"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": false,
+  "archived": true,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 202,
+    "forks": 29,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

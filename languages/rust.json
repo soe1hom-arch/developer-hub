@@ -1,0 +1,26 @@
+{
+  "id": "rust",
+  "name": "Rust",
+  "category": "languages",
+  "description": "Multi-paradigm, high-performance language focused on safety, concurrency, and zero-cost abstractions",
+  "official_website": "https://rust-lang.org",
+  "documentation": "https://doc.rust-lang.org",
+  "github_repository": "https://github.com/rust-lang/rust",
+  "license": "MIT AND Apache-2.0",
+  "latest_version": "1.79.0",
+  "programming_languages": ["Rust"],
+  "platforms": ["Linux", "macOS", "Windows"],
+  "package_manager": "cargo",
+  "installation_examples": {
+    "curl": "curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh",
+    "brew": "brew install rust"
+  },
+  "tags": ["programming-language", "systems", "safe", "concurrent", "performance"],
+  "alternatives": ["C", "C++", "Go", "Zig"],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

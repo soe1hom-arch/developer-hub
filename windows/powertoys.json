@@ -1,0 +1,46 @@
+{
+  "id": "powertoys",
+  "name": "PowerToys",
+  "category": "windows",
+  "description": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+  "official_website": "https://github.com/microsoft/PowerToys",
+  "documentation": "https://github.com/microsoft/PowerToys#readme",
+  "github_repository": "https://github.com/microsoft/PowerToys",
+  "license": "MIT",
+  "latest_version": "main",
+  "programming_languages": [
+    "C"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "advanced-paste",
+    "color-picker",
+    "command-palette",
+    "desktop",
+    "fancyzones",
+    "keyboard-manager",
+    "microsoft-powertoys",
+    "powerrename"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 136471,
+    "forks": 8366,
+    "open_issues": 7353,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

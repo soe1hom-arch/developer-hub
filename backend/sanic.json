@@ -1,0 +1,45 @@
+{
+  "id": "sanic",
+  "name": "Sanic",
+  "category": "backend",
+  "description": "Python async web framework for building fast HTTP servers",
+  "official_website": "https://sanic.dev",
+  "documentation": "https://sanic.dev/en/guide",
+  "github_repository": "https://github.com/ibraheemdev/modern-unix",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install sanic"
+  },
+  "tags": [
+    "backend",
+    "tool",
+    "cli",
+    "command-line",
+    "lists",
+    "shell",
+    "terminal",
+    "tools",
+    "unix"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 32967,
+    "forks": 829,
+    "open_issues": 69,
+    "watchers": 396
+  }
+}

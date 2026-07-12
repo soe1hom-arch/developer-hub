@@ -1,0 +1,33 @@
+{
+  "id": "loki",
+  "name": "Grafana Loki",
+  "category": "devops",
+  "description": "Log aggregation system designed for cost-effective log storage",
+  "official_website": "https://grafana.com/oss/loki",
+  "documentation": "https://grafana.com/docs/loki",
+  "github_repository": "https://github.com/grafana",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install loki"
+  },
+  "tags": [
+    "devops",
+    "tool",
+    "library"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

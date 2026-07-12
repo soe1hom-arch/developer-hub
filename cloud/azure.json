@@ -1,0 +1,26 @@
+{
+  "id": "azure",
+  "name": "Microsoft Azure",
+  "category": "cloud",
+  "description": "Cloud computing service for building, testing, deploying, and managing applications through Microsoft-managed data centers",
+  "official_website": "https://azure.microsoft.com",
+  "documentation": "https://docs.microsoft.com/azure",
+  "github_repository": "https://github.com/Azure",
+  "license": "Proprietary",
+  "latest_version": "N/A",
+  "programming_languages": ["Python", "Java", "Go", "TypeScript", "C#"],
+  "platforms": ["Cloud"],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install azure-identity azure-storage-blob",
+    "brew": "brew install azure-cli"
+  },
+  "tags": ["cloud", "compute", "storage", "serverless", "microsoft"],
+  "alternatives": ["AWS", "GCP", "DigitalOcean", "Linode"],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": false,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "ray",
+  "name": "Ray",
+  "category": "ai",
+  "description": "Unified compute framework for scaling AI and Python applications",
+  "official_website": "https://ray.io",
+  "documentation": "https://docs.ray.io",
+  "github_repository": "https://github.com/2dust/v2rayN",
+  "license": "GPL-3.0",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "C#",
+    "Shell"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install ray"
+  },
+  "tags": [
+    "ai",
+    "tool",
+    "proxy",
+    "shadowsocks",
+    "socks5",
+    "trojan",
+    "v2fly",
+    "v2ray",
+    "vless",
+    "vmess",
+    "windows",
+    "xray",
+    "xtls"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 111141,
+    "forks": 15504,
+    "open_issues": 10,
+    "watchers": 930
+  }
+}

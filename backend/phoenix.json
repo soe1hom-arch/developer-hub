@@ -1,0 +1,19 @@
+{
+  "id": "phoenix",
+  "name": "Phoenix",
+  "category": "backend",
+  "description": "Productive web framework for Elixir with real-time features via channels and LiveView",
+  "official_website": "https://phoenixframework.org",
+  "documentation": "https://hexdocs.pm/phoenix",
+  "github_repository": "https://github.com/phoenixframework/phoenix",
+  "license": "MIT",
+  "latest_version": "1.7.14",
+  "programming_languages": ["Elixir", "JavaScript"],
+  "platforms": ["Linux", "macOS", "Windows"],
+  "package_manager": "mix",
+  "installation_examples": {"mix": "mix phx.new my_app"},
+  "tags": ["backend", "framework", "elixir", "real-time", "liveview"],
+  "alternatives": ["Ruby on Rails", "Django", "Laravel", "Spring Boot"],
+  "popularity": 7, "maintained": true, "archived": false, "open_source": true,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "meteor",
+  "name": "meteor",
+  "category": "frameworks",
+  "description": "Meteor, the JavaScript App Platform",
+  "official_website": "https://meteor.com",
+  "documentation": "https://github.com/meteor/meteor#readme",
+  "github_repository": "https://github.com/meteor/meteor",
+  "license": "NOASSERTION",
+  "latest_version": "devel",
+  "programming_languages": [
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "build-system",
+    "framework",
+    "hacktoberfest",
+    "javascript",
+    "meteor",
+    "mongodb",
+    "nodejs",
+    "npm"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 44800,
+    "forks": 5243,
+    "open_issues": 453,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

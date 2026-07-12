@@ -1,0 +1,19 @@
+{
+  "id": "whisper",
+  "name": "OpenAI Whisper",
+  "category": "ai",
+  "description": "Open-source speech recognition system trained on multilingual audio data for transcription and translation",
+  "official_website": "https://openai.com/research/whisper",
+  "documentation": "https://github.com/openai/whisper",
+  "github_repository": "https://github.com/openai/whisper",
+  "license": "MIT",
+  "latest_version": "20231117",
+  "programming_languages": ["Python", "CUDA"],
+  "platforms": ["Linux", "macOS", "Windows"],
+  "package_manager": "pip",
+  "installation_examples": {"pip": "pip install openai-whisper"},
+  "tags": ["ai", "speech-recognition", "transcription", "multilingual", "open-source"],
+  "alternatives": ["Deepgram", "Google Speech-to-Text", "Azure Speech", "wav2vec"],
+  "popularity": 9, "maintained": true, "archived": false, "open_source": true,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

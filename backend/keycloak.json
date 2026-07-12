@@ -1,0 +1,19 @@
+{
+  "id": "keycloak",
+  "name": "Keycloak",
+  "category": "backend",
+  "description": "Open-source identity and access management solution with single sign-on and social login",
+  "official_website": "https://keycloak.org",
+  "documentation": "https://keycloak.org/documentation",
+  "github_repository": "https://github.com/keycloak/keycloak",
+  "license": "Apache-2.0",
+  "latest_version": "25.0.0",
+  "programming_languages": ["Java", "TypeScript"],
+  "platforms": ["Linux", "macOS", "Windows", "Cloud"],
+  "package_manager": "docker",
+  "installation_examples": {"docker": "docker run -d -p 8080:8080 -e KC_BOOTSTRAP_ADMIN_USERNAME=admin -e KC_BOOTSTRAP_ADMIN_PASSWORD=admin quay.io/keycloak/keycloak:25.0.0 start-dev"},
+  "tags": ["backend", "security", "authentication", "sso", "identity", "open-source"],
+  "alternatives": ["Auth0", "Okta", "Firebase Auth", "Ory Hydra"],
+  "popularity": 9, "maintained": true, "archived": false, "open_source": true,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "pinecone",
+  "name": "Pinecone",
+  "category": "ai",
+  "description": "Managed vector database for high-performance similarity search and RAG applications",
+  "official_website": "https://pinecone.io",
+  "documentation": "https://docs.pinecone.io",
+  "github_repository": "https://github.com/pinecone-io",
+  "license": "Proprietary",
+  "latest_version": "N/A",
+  "programming_languages": ["Python", "TypeScript", "Go", "Java"],
+  "platforms": ["Cloud", "API"],
+  "package_manager": "pip",
+  "installation_examples": {"pip": "pip install pinecone-client"},
+  "tags": ["ai", "vector-database", "similarity-search", "rag", "embeddings"],
+  "alternatives": ["Weaviate", "Qdrant", "Milvus", "Chroma"],
+  "popularity": 9, "maintained": true, "archived": false, "open_source": false,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "spinnaker",
+  "name": "Spinnaker",
+  "category": "devops",
+  "description": "Multi-cloud continuous delivery platform for rapid deployments",
+  "official_website": "https://spinnaker.io",
+  "documentation": "https://spinnaker.io/docs",
+  "github_repository": "https://github.com/spinnaker",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install spinnaker"
+  },
+  "tags": [
+    "devops",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

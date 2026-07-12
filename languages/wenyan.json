@@ -1,0 +1,41 @@
+{
+  "id": "wenyan",
+  "name": "wenyan",
+  "category": "languages",
+  "description": "\u6587\u8a00\u6587\u7de8\u7a0b\u8a9e\u8a00 A programming language for the ancient Chinese.",
+  "official_website": "https://wy-lang.org/",
+  "documentation": "https://github.com/wenyan-lang/wenyan#readme",
+  "github_repository": "https://github.com/wenyan-lang/wenyan",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android"
+  ],
+  "tags": [
+    "classical-chinese",
+    "esoteric-language",
+    "programming-language",
+    "wenyan-lang"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 20250,
+    "forks": 1103,
+    "open_issues": 216,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

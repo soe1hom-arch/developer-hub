@@ -1,0 +1,46 @@
+{
+  "id": "chatgpt",
+  "name": "ChatGPT",
+  "category": "macos",
+  "description": "\ud83d\udd2e ChatGPT Desktop Application (Mac, Windows and Linux)",
+  "official_website": "https://github.com/lencx/ChatGPT",
+  "documentation": "https://github.com/lencx/ChatGPT#readme",
+  "github_repository": "https://github.com/lencx/ChatGPT",
+  "license": "MIT",
+  "latest_version": "v2-dev",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "ai",
+    "app",
+    "application",
+    "chatgpt",
+    "desktop-app",
+    "gpt",
+    "gpt-3",
+    "linux"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 54386,
+    "forks": 6154,
+    "open_issues": 937,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

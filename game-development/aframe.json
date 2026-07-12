@@ -1,0 +1,44 @@
+{
+  "id": "aframe",
+  "name": "aframe",
+  "category": "game-development",
+  "description": ":a: Web framework for building virtual reality experiences.",
+  "official_website": "https://aframe.io/",
+  "documentation": "https://github.com/aframevr/aframe#readme",
+  "github_repository": "https://github.com/aframevr/aframe",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "3d",
+    "aframe",
+    "augmented-reality",
+    "daydream",
+    "ecs",
+    "game-development",
+    "game-engine",
+    "gamedev"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 17588,
+    "forks": 4383,
+    "open_issues": 339,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

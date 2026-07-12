@@ -1,0 +1,41 @@
+{
+  "id": "tensorflow-windows-wheel",
+  "name": "tensorflow-windows-wheel",
+  "category": "binary",
+  "description": "Tensorflow prebuilt binary for Windows",
+  "official_website": "https://github.com/fo40225/tensorflow-windows-wheel",
+  "documentation": "https://github.com/fo40225/tensorflow-windows-wheel#readme",
+  "github_repository": "https://github.com/fo40225/tensorflow-windows-wheel",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "tags": [
+    "binary",
+    "build",
+    "cpp",
+    "library",
+    "python",
+    "tensorflow",
+    "wheel",
+    "windows"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 3674,
+    "forks": 1504,
+    "open_issues": 129,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

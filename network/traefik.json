@@ -1,0 +1,19 @@
+{
+  "id": "traefik",
+  "name": "Traefik",
+  "category": "network",
+  "description": "Cloud-native application proxy with automatic SSL, Kubernetes Ingress, Docker discovery, and dashboard",
+  "official_website": "https://traefik.io",
+  "documentation": "https://doc.traefik.io/traefik",
+  "github_repository": "https://github.com/traefik/traefik",
+  "license": "MIT",
+  "latest_version": "3.1.0",
+  "programming_languages": ["Go"],
+  "platforms": ["Linux", "macOS", "Windows"],
+  "package_manager": "brew",
+  "installation_examples": {"docker": "docker run -d -p 80:80 -p 8080:8080 traefik:v3.1"},
+  "tags": ["network", "proxy", "load-balancer", "kubernetes", "reverse-proxy"],
+  "alternatives": ["Nginx", "HAProxy", "Caddy", "Envoy"],
+  "popularity": 8, "maintained": true, "archived": false, "open_source": true,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

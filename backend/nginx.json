@@ -1,0 +1,19 @@
+{
+  "id": "nginx-server",
+  "name": "Nginx",
+  "category": "backend",
+  "description": "High-performance HTTP server, reverse proxy, and load balancer for backend infrastructure",
+  "official_website": "https://nginx.org",
+  "documentation": "https://nginx.org/en/docs",
+  "github_repository": "https://github.com/nginx/nginx",
+  "license": "BSD-2-Clause",
+  "latest_version": "1.26.1",
+  "programming_languages": ["C", "Perl"],
+  "platforms": ["Linux", "macOS", "Windows"],
+  "package_manager": "apt",
+  "installation_examples": {"apt": "sudo apt install nginx", "docker": "docker run -d -p 80:80 nginx"},
+  "tags": ["backend", "web-server", "reverse-proxy", "load-balancer", "http"],
+  "alternatives": ["Apache HTTPD", "Caddy", "HAProxy", "Traefik"],
+  "popularity": 10, "maintained": true, "archived": false, "open_source": true,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

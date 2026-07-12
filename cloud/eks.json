@@ -1,0 +1,47 @@
+{
+  "id": "eks",
+  "name": "AWS EKS",
+  "category": "cloud",
+  "description": "Amazon's managed Kubernetes service for container orchestration",
+  "official_website": "https://aws.amazon.com/eks",
+  "documentation": "https://docs.aws.amazon.com/eks",
+  "github_repository": "https://github.com/aws/containers-roadmap",
+  "license": "NOASSERTION",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Shell",
+    "PowerShell"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install eks"
+  },
+  "tags": [
+    "cloud",
+    "tool",
+    "aws",
+    "containers",
+    "ecr",
+    "ecs",
+    "eks",
+    "fargate",
+    "kubernetes",
+    "roadmap"
+  ],
+  "alternatives": [],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 5358,
+    "forks": 335,
+    "open_issues": 1584,
+    "watchers": 642
+  }
+}

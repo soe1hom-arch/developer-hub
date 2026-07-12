@@ -1,0 +1,46 @@
+{
+  "id": "ionic-framework",
+  "name": "ionic-framework",
+  "category": "frontend",
+  "description": "A powerful cross-platform UI toolkit for building native-quality iOS, Android, and Progressive Web Apps with HTML, CSS, and JavaScript.",
+  "official_website": "https://ionicframework.com",
+  "documentation": "https://github.com/ionic-team/ionic-framework#readme",
+  "github_repository": "https://github.com/ionic-team/ionic-framework",
+  "license": "MIT",
+  "latest_version": "main",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "angular",
+    "capacitor",
+    "framework",
+    "frontend",
+    "ionic",
+    "ios",
+    "javascript",
+    "material-design"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 52574,
+    "forks": 13353,
+    "open_issues": 630,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

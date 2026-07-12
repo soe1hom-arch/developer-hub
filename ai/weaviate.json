@@ -1,0 +1,19 @@
+{
+  "id": "weaviate",
+  "name": "Weaviate",
+  "category": "ai",
+  "description": "Open-source vector database with built-in vectorization, hybrid search, and RAG capabilities",
+  "official_website": "https://weaviate.io",
+  "documentation": "https://weaviate.io/developers/weaviate",
+  "github_repository": "https://github.com/weaviate/weaviate",
+  "license": "BSD-3-Clause",
+  "latest_version": "1.25.0",
+  "programming_languages": ["Go", "Python"],
+  "platforms": ["Linux", "macOS", "Cloud"],
+  "package_manager": "docker",
+  "installation_examples": {"docker": "docker run -d -p 8080:8080 semitechnologies/weaviate:latest"},
+  "tags": ["ai", "vector-database", "similarity-search", "rag", "open-source"],
+  "alternatives": ["Pinecone", "Qdrant", "Milvus", "Chroma"],
+  "popularity": 8, "maintained": true, "archived": false, "open_source": true,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

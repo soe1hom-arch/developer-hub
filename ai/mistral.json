@@ -1,0 +1,25 @@
+{
+  "id": "mistral",
+  "name": "Mistral AI",
+  "category": "ai",
+  "description": "Open-weight language models with strong performance, available via API and for self-deployment",
+  "official_website": "https://mistral.ai",
+  "documentation": "https://docs.mistral.ai",
+  "github_repository": "https://github.com/mistralai",
+  "license": "Apache-2.0",
+  "latest_version": "Mistral Large 2",
+  "programming_languages": ["Python", "TypeScript", "Go"],
+  "platforms": ["Cloud", "API", "Self-hosted"],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install mistralai"
+  },
+  "tags": ["ai", "llm", "machine-learning", "nlp", "open-weight", "text-generation"],
+  "alternatives": ["OpenAI GPT", "Anthropic Claude", "Google Gemini", "Meta LLaMA"],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "riverpod",
+  "name": "Riverpod",
+  "category": "frameworks",
+  "description": "State management for Flutter apps with compile-time safety and testing",
+  "official_website": "https://riverpod.dev",
+  "documentation": "https://riverpod.dev/docs",
+  "github_repository": "https://github.com/rrousselGit/riverpod",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Dart",
+    "MDX",
+    "JavaScript",
+    "TypeScript",
+    "SCSS"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install riverpod"
+  },
+  "tags": [
+    "frameworks",
+    "tool",
+    "library",
+    "dart",
+    "flutter",
+    "hacktoberfest",
+    "inheritedwidget",
+    "provider",
+    "riverpod",
+    "service-locator",
+    "state-management"
+  ],
+  "alternatives": [],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 7336,
+    "forks": 1097,
+    "open_issues": 167,
+    "watchers": 76
+  }
+}

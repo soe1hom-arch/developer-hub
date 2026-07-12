@@ -1,0 +1,26 @@
+{
+  "id": "express",
+  "name": "Express",
+  "category": "backend",
+  "description": "Fast, unopinionated, minimalist web framework for Node.js",
+  "official_website": "https://expressjs.com",
+  "documentation": "https://expressjs.com/en/api.html",
+  "github_repository": "https://github.com/expressjs/express",
+  "license": "MIT",
+  "latest_version": "4.19.2",
+  "programming_languages": ["JavaScript", "TypeScript"],
+  "platforms": ["Linux", "macOS", "Windows"],
+  "package_manager": "npm",
+  "installation_examples": {
+    "npm": "npm install express",
+    "yarn": "yarn add express"
+  },
+  "tags": ["web", "framework", "nodejs", "http", "middleware", "api"],
+  "alternatives": ["Fastify", "Koa", "Hapi", "NestJS"],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

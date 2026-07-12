@@ -1,0 +1,57 @@
+{
+  "id": "hardhat",
+  "name": "Hardhat",
+  "category": "blockchain",
+  "description": "Ethereum development environment for testing, compiling, and deploying",
+  "official_website": "https://hardhat.org",
+  "documentation": "https://hardhat.org/docs",
+  "github_repository": "https://github.com/smartcontractkit/full-blockchain-solidity-course-js",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install hardhat"
+  },
+  "tags": [
+    "blockchain",
+    "tool",
+    "alchemy",
+    "chainlink",
+    "dao",
+    "defi",
+    "eth-security-toolbox",
+    "ethereum",
+    "hardhat",
+    "ipfs",
+    "javascript",
+    "moralis",
+    "nextjs",
+    "nft",
+    "openzeppelin",
+    "reactjs",
+    "remix",
+    "smart-contracts",
+    "solidity",
+    "thegraphprotocol",
+    "typescript"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 14025,
+    "forks": 3279,
+    "open_issues": 104,
+    "watchers": 260
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "fly-io",
+  "name": "Fly.io",
+  "category": "cloud",
+  "description": "Platform for running full-stack apps close to users with global deployment",
+  "official_website": "https://fly.io",
+  "documentation": "https://fly.io/docs",
+  "github_repository": "https://github.com/serverless-dns/serverless-dns",
+  "license": "MPL-2.0",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "JavaScript",
+    "TypeScript",
+    "Shell",
+    "Dockerfile"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install fly-io"
+  },
+  "tags": [
+    "cloud",
+    "tool",
+    "library",
+    "adblock",
+    "cloudflare",
+    "cloudflare-workers",
+    "deno",
+    "dns-over-https",
+    "dns-over-tls",
+    "doh",
+    "fastly",
+    "fastly-compute-at-edge",
+    "flyio",
+    "nodejs",
+    "pihole",
+    "serverless",
+    "workers"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 3738,
+    "forks": 2297,
+    "open_issues": 46,
+    "watchers": 18
+  }
+}

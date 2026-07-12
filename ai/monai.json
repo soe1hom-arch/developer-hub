@@ -1,0 +1,49 @@
+{
+  "id": "monai",
+  "name": "MONAI",
+  "category": "ai",
+  "description": "Medical Open Network for AI - PyTorch-based framework for healthcare imaging",
+  "official_website": "https://monai.io",
+  "documentation": "https://docs.monai.io",
+  "github_repository": "https://github.com/Project-MONAI/MONAI",
+  "license": "Apache-2.0",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Python",
+    "C++",
+    "Cuda",
+    "Shell",
+    "C"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install monai"
+  },
+  "tags": [
+    "ai",
+    "tool",
+    "deep-learning",
+    "healthcare-imaging",
+    "medical-image-computing",
+    "medical-image-processing",
+    "monai",
+    "python3",
+    "pytorch"
+  ],
+  "alternatives": [],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 8412,
+    "forks": 1559,
+    "open_issues": 494,
+    "watchers": 100
+  }
+}

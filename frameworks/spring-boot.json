@@ -1,0 +1,26 @@
+{
+  "id": "spring-boot",
+  "name": "Spring Boot",
+  "category": "frameworks",
+  "description": "Framework for building production-ready Java applications with minimal configuration",
+  "official_website": "https://spring.io/projects/spring-boot",
+  "documentation": "https://docs.spring.io/spring-boot",
+  "github_repository": "https://github.com/spring-projects/spring-boot",
+  "license": "Apache-2.0",
+  "latest_version": "3.3.1",
+  "programming_languages": ["Java", "Kotlin", "Groovy"],
+  "platforms": ["Linux", "macOS", "Windows"],
+  "package_manager": "maven",
+  "installation_examples": {
+    "maven": "<parent>\n  <groupId>org.springframework.boot</groupId>\n  <artifactId>spring-boot-starter-parent</artifactId>\n  <version>3.3.1</version>\n</parent>",
+    "gradle": "implementation 'org.springframework.boot:spring-boot-starter-web:3.3.1'"
+  },
+  "tags": ["java", "framework", "backend", "enterprise", "microservices"],
+  "alternatives": ["Quarkus", "Micronaut", "Helidon", "Dropwizard"],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

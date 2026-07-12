@@ -1,0 +1,46 @@
+{
+  "id": "server",
+  "name": "server",
+  "category": "cloud",
+  "description": "\u2601\ufe0f Nextcloud server, a safe home for all your data",
+  "official_website": "https://nextcloud.com",
+  "documentation": "https://github.com/nextcloud/server#readme",
+  "github_repository": "https://github.com/nextcloud/server",
+  "license": "AGPL-3.0",
+  "latest_version": "master",
+  "programming_languages": [
+    "PHP"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "cloud",
+    "collaboration",
+    "decentralized",
+    "design",
+    "distributed",
+    "enterprise",
+    "federation",
+    "file-sharing"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 36105,
+    "forks": 5070,
+    "open_issues": 3462,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

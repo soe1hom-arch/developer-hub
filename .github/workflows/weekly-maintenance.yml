@@ -1,0 +1,61 @@
+name: Weekly Maintenance
+
+on:
+  schedule:
+    - cron: "0 8 * * 0"  # Every Sunday at 8:00 UTC
+  workflow_dispatch:
+
+jobs:
+  weekly-maintenance:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+      - name: Comprehensive validation
+        run: python scripts/validate.py
+      - name: Generate full validation report
+        run: python scripts/generate_report.py
+      - name: Health check with network verification
+        run: python scripts/health_check.py --report
+      - name: AI categorization checks
+        run: python scripts/ai_categorize.py --detect-deprecated --check-docs
+      - name: Find abandoned projects
+        run: |
+          python3 -c "
+          import json, datetime
+          from pathlib import Path
+          today = datetime.date.today()
+          abandoned = []
+          for f in Path('.').rglob('*.json'):
+              if '.git' in f.parts: continue
+              try:
+                  data = json.loads(f.read_text())
+                  last_check = data.get('last_checked', '')
+                  if last_check:
+                      d = datetime.datetime.strptime(last_check, '%Y-%m-%d').date()
+                      if (today - d).days > 180:
+                          abandoned.append((data.get('name', f.name), last_check))
+              except: pass
+          if abandoned:
+              print('⚠ Potentially abandoned entries (not checked in 6+ months):')
+              for name, date in abandoned:
+                  print(f'  - {name} (last checked: {date})')
+          else:
+              print('✅ No abandoned entries found')
+          "
+      - name: Duplicate check
+        run: python3 scripts/build_index.py
+      - name: Upload reports
+        uses: actions/upload-artifact@v4
+        with:
+          name: weekly-reports
+          path: reports/
+      - name: Commit updates
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet || (git add -A && git commit -m "Weekly maintenance: validation, health check, reports" && git push)

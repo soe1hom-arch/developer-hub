@@ -1,0 +1,43 @@
+{
+  "id": "homebrew-cask",
+  "name": "Homebrew Cask",
+  "category": "macos",
+  "description": "Extension to Homebrew for installing macOS GUI applications",
+  "official_website": "https://brew.sh",
+  "documentation": "https://docs.brew.sh/Cask",
+  "github_repository": "https://github.com/Homebrew/homebrew-cask",
+  "license": "BSD-2-Clause",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Ruby",
+    "Python",
+    "Shell"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install homebrew-cask"
+  },
+  "tags": [
+    "macos",
+    "tool",
+    "cask",
+    "hacktoberfest",
+    "homebrew"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 22112,
+    "forks": 11680,
+    "open_issues": 42,
+    "watchers": 308
+  }
+}

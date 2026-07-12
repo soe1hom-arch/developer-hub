@@ -1,0 +1,32 @@
+{
+  "id": "flutter-desktop",
+  "name": "Flutter Desktop",
+  "category": "desktop",
+  "description": "Flutter framework for building desktop apps on macOS, Windows, Linux",
+  "official_website": "https://flutter.dev/desktop",
+  "documentation": "https://docs.flutter.dev/desktop",
+  "github_repository": "https://github.com/flutter",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install flutter-desktop"
+  },
+  "tags": [
+    "desktop",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

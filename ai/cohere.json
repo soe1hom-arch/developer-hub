@@ -1,0 +1,19 @@
+{
+  "id": "cohere",
+  "name": "Cohere",
+  "category": "ai",
+  "description": "Natural language processing platform providing embeddings, classification, and generation models via API",
+  "official_website": "https://cohere.com",
+  "documentation": "https://docs.cohere.com",
+  "github_repository": "https://github.com/cohere-ai",
+  "license": "Proprietary",
+  "latest_version": "2024-07",
+  "programming_languages": ["Python", "TypeScript"],
+  "platforms": ["Cloud", "API"],
+  "package_manager": "pip",
+  "installation_examples": {"pip": "pip install cohere"},
+  "tags": ["ai", "nlp", "embeddings", "llm", "text-generation", "classification"],
+  "alternatives": ["OpenAI", "Anthropic", "Google Gemini", "Mistral"],
+  "popularity": 8, "maintained": true, "archived": false, "open_source": false,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

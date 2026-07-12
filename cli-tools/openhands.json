@@ -1,0 +1,46 @@
+{
+  "id": "openhands",
+  "name": "OpenHands",
+  "category": "cli-tools",
+  "description": "\ud83d\ude4c OpenHands: AI-Driven Development",
+  "official_website": "https://openhands.dev",
+  "documentation": "https://github.com/OpenHands/OpenHands#readme",
+  "github_repository": "https://github.com/OpenHands/OpenHands",
+  "license": "NOASSERTION",
+  "latest_version": "main",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "agent",
+    "artificial-intelligence",
+    "chatgpt",
+    "claude-ai",
+    "cli",
+    "developer-tools",
+    "gpt",
+    "llm"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 80508,
+    "forks": 10270,
+    "open_issues": 360,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

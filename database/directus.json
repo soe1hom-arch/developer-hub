@@ -1,0 +1,46 @@
+{
+  "id": "directus",
+  "name": "directus",
+  "category": "database",
+  "description": "The flexible backend for all your projects \ud83d\udc30 Turn your DB into a headless CMS, admin panels, or apps with a custom UI, instant APIs, auth & more.",
+  "official_website": "https://directus.com",
+  "documentation": "https://github.com/directus/directus#readme",
+  "github_repository": "https://github.com/directus/directus",
+  "license": "NOASSERTION",
+  "latest_version": "main",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "api",
+    "app",
+    "cms",
+    "composable",
+    "data-visualization",
+    "database",
+    "directus",
+    "graphql"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 36458,
+    "forks": 4834,
+    "open_issues": 401,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

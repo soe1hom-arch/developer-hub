@@ -1,0 +1,26 @@
+{
+  "id": "lodash",
+  "name": "Lodash",
+  "category": "libraries",
+  "description": "Modern JavaScript utility library delivering modularity, performance, and extras",
+  "official_website": "https://lodash.com",
+  "documentation": "https://lodash.com/docs",
+  "github_repository": "https://github.com/lodash/lodash",
+  "license": "MIT",
+  "latest_version": "4.17.21",
+  "programming_languages": ["JavaScript"],
+  "platforms": ["Web", "Node.js"],
+  "package_manager": "npm",
+  "installation_examples": {
+    "npm": "npm install lodash",
+    "yarn": "yarn add lodash"
+  },
+  "tags": ["utility", "javascript", "functional", "collection", "array"],
+  "alternatives": ["Ramda", "Underscore", "Lazy.js"],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

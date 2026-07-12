@@ -1,0 +1,276 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://developer-hub.github.io/schemas/project.schema.json",
+  "title": "Developer Hub Project Entry",
+  "description": "Schema for a developer resource entry in the Developer Hub repository",
+  "type": "object",
+  "required": [
+    "id",
+    "name",
+    "category",
+    "description",
+    "official_website",
+    "documentation",
+    "github_repository",
+    "license",
+    "latest_version",
+    "programming_languages",
+    "platforms",
+    "tags",
+    "popularity",
+    "maintained",
+    "archived",
+    "open_source",
+    "last_checked",
+    "last_updated"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique identifier for the project (lowercase, hyphen-separated)",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+    },
+    "name": {
+      "type": "string",
+      "description": "Official project name"
+    },
+    "category": {
+      "type": "string",
+      "description": "Category the project belongs to",
+      "enum": [
+        "ai",
+        "android",
+        "api",
+        "backend",
+        "frontend",
+        "database",
+        "cloud",
+        "security",
+        "languages",
+        "frameworks",
+        "libraries",
+        "tools",
+        "operating-systems",
+        "linux",
+        "windows",
+        "macos",
+        "network",
+        "devops",
+        "containers",
+        "firmware",
+        "embedded",
+        "iot",
+        "game-development",
+        "mobile",
+        "desktop",
+        "web",
+        "blockchain",
+        "machine-learning",
+        "robotics",
+    "android-tools",
+    "binary",
+    "cli-tools",
+    "termux"
+      ]
+    },
+    "description": {
+      "type": "string",
+      "description": "Concise description of the project",
+      "maxLength": 500
+    },
+    "official_website": {
+      "type": "string",
+      "format": "uri",
+      "description": "URL to the official project website"
+    },
+    "documentation": {
+      "type": "string",
+      "format": "uri",
+      "description": "URL to the official documentation"
+    },
+    "github_repository": {
+      "type": "string",
+      "format": "uri",
+      "description": "URL to the GitHub repository"
+    },
+    "license": {
+      "type": "string",
+      "description": "SPDX license identifier or custom license name"
+    },
+    "latest_version": {
+      "type": "string",
+      "description": "Latest stable version of the project"
+    },
+    "programming_languages": {
+      "type": "array",
+      "description": "Programming languages used by the project",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 1
+    },
+    "platforms": {
+      "type": "array",
+      "description": "Supported platforms",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 1
+    },
+    "package_manager": {
+      "type": [
+        "string",
+        "null"
+      ],
+      "description": "Primary package manager for installation"
+    },
+    "installation_examples": {
+      "type": [
+        "object",
+        "null"
+      ],
+      "description": "Installation commands by package manager",
+      "additionalProperties": {
+        "type": "string"
+      }
+    },
+    "tags": {
+      "type": "array",
+      "description": "Searchable tags for the project",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 1
+    },
+    "alternatives": {
+      "type": "array",
+      "description": "Alternative or competing projects",
+      "items": {
+        "type": "string"
+      }
+    },
+    "popularity": {
+      "type": "integer",
+      "description": "Popularity rating from 1 (low) to 10 (high)",
+      "minimum": 1,
+      "maximum": 10
+    },
+    "maintained": {
+      "type": "boolean",
+      "description": "Whether the project is actively maintained"
+    },
+    "archived": {
+      "type": "boolean",
+      "description": "Whether the project has been archived by its maintainers"
+    },
+    "open_source": {
+      "type": "boolean",
+      "description": "Whether the project is open source"
+    },
+    "examples": {
+      "type": "array",
+      "description": "Example code snippets or projects",
+      "items": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string",
+            "format": "uri"
+          },
+          "description": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "tutorials": {
+      "type": "array",
+      "description": "Tutorial resources",
+      "items": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string",
+            "format": "uri"
+          },
+          "platform": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "videos": {
+      "type": "array",
+      "description": "Video resources",
+      "items": {
+        "type": "object",
+        "properties": {
+          "title": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string",
+            "format": "uri"
+          },
+          "platform": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "icon": {
+      "type": "string",
+      "description": "URL to an icon or logo for the project"
+    },
+    "screenshots": {
+      "type": "array",
+      "description": "Screenshot URLs",
+      "items": {
+        "type": "string",
+        "format": "uri"
+      }
+    },
+    "author": {
+      "type": "string",
+      "description": "Primary author or creator"
+    },
+    "organization": {
+      "type": "string",
+      "description": "Organization maintaining the project"
+    },
+    "repository_statistics": {
+      "type": "object",
+      "description": "GitHub repository statistics",
+      "properties": {
+        "stars": {
+          "type": "integer"
+        },
+        "forks": {
+          "type": "integer"
+        },
+        "open_issues": {
+          "type": "integer"
+        },
+        "watchers": {
+          "type": "integer"
+        }
+      }
+    },
+    "last_checked": {
+      "type": "string",
+      "format": "date",
+      "description": "Date when this entry was last verified"
+    },
+    "last_updated": {
+      "type": "string",
+      "format": "date",
+      "description": "Date when this entry's metadata was last updated"
+    }
+  }
+}

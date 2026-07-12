@@ -1,0 +1,32 @@
+{
+  "id": "ovhcloud",
+  "name": "OVHcloud",
+  "category": "cloud",
+  "description": "European cloud provider with VPS, dedicated servers, and web hosting",
+  "official_website": "https://ovhcloud.com",
+  "documentation": "https://docs.ovhcloud.com",
+  "github_repository": "https://github.com/ovhcloud",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install ovhcloud"
+  },
+  "tags": [
+    "cloud",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

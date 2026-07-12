@@ -1,0 +1,33 @@
+{
+  "id": "heroku",
+  "name": "Heroku",
+  "category": "cloud",
+  "description": "Platform as a service for deploying and scaling applications effortlessly",
+  "official_website": "https://heroku.com",
+  "documentation": "https://devcenter.heroku.com",
+  "github_repository": "https://github.com/heroku",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install heroku"
+  },
+  "tags": [
+    "cloud",
+    "tool",
+    "library"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "qiling",
+  "name": "qiling",
+  "category": "binary",
+  "description": "A True Instrumentable Binary Emulation Framework",
+  "official_website": "https://qiling.io",
+  "documentation": "https://github.com/qilingframework/qiling#readme",
+  "github_repository": "https://github.com/qilingframework/qiling",
+  "license": "GPL-2.0",
+  "latest_version": "master",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux"
+  ],
+  "tags": [
+    "analysis",
+    "binary",
+    "cross-architecture",
+    "emulator",
+    "framework",
+    "malware",
+    "qiling",
+    "reverse-engineering"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 6006,
+    "forks": 789,
+    "open_issues": 119,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "androidtoolsexample",
+  "name": "AndroidToolsExample",
+  "category": "android-tools",
+  "description": "Android \u4e2d tools \u547d\u540d\u7684\u4f7f\u7528\u6848\u4f8b",
+  "official_website": "https://github.com/xiaweizi/AndroidToolsExample",
+  "documentation": "https://github.com/xiaweizi/AndroidToolsExample#readme",
+  "github_repository": "https://github.com/xiaweizi/AndroidToolsExample",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "Java"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "tags": [
+    "android-tools"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 237,
+    "forks": 28,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

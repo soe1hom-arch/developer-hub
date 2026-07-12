@@ -1,0 +1,46 @@
+{
+  "id": "yazi",
+  "name": "yazi",
+  "category": "tools",
+  "description": "\ud83d\udca5 Blazing fast terminal file manager written in Rust, based on async I/O.",
+  "official_website": "https://yazi-rs.github.io",
+  "documentation": "https://github.com/sxyazi/yazi#readme",
+  "github_repository": "https://github.com/sxyazi/yazi",
+  "license": "MIT",
+  "latest_version": "main",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "android",
+    "asyncio",
+    "cli",
+    "command-line",
+    "concurrency",
+    "cross-platform",
+    "developer-tools",
+    "file-explorer"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 40219,
+    "forks": 933,
+    "open_issues": 74,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

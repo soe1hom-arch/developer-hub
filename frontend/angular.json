@@ -1,0 +1,26 @@
+{
+  "id": "angular",
+  "name": "Angular",
+  "category": "frontend",
+  "description": "Platform for building mobile and desktop web applications with TypeScript, RxJS, and dependency injection",
+  "official_website": "https://angular.dev",
+  "documentation": "https://angular.dev/docs",
+  "github_repository": "https://github.com/angular/angular",
+  "license": "MIT",
+  "latest_version": "18.0.5",
+  "programming_languages": ["TypeScript", "JavaScript", "HTML", "CSS"],
+  "platforms": ["Web", "Mobile", "Desktop"],
+  "package_manager": "npm",
+  "installation_examples": {
+    "npm": "npm install -g @angular/cli\nng new my-app",
+    "yarn": "yarn global add @angular/cli\nyarn ng new my-app"
+  },
+  "tags": ["ui", "components", "typescript", "framework", "spa", "rxjs"],
+  "alternatives": ["React", "Vue", "Svelte", "Solid"],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "go-ethereum",
+  "name": "go-ethereum",
+  "category": "blockchain",
+  "description": "Go implementation of the Ethereum protocol",
+  "official_website": "https://geth.ethereum.org",
+  "documentation": "https://github.com/ethereum/go-ethereum#readme",
+  "github_repository": "https://github.com/ethereum/go-ethereum",
+  "license": "LGPL-3.0",
+  "latest_version": "master",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "blockchain",
+    "ethereum",
+    "geth",
+    "go",
+    "p2p"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 51338,
+    "forks": 22092,
+    "open_issues": 394,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

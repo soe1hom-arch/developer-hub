@@ -1,0 +1,26 @@
+{
+  "id": "swift",
+  "name": "Swift",
+  "category": "macos",
+  "description": "Powerful and intuitive programming language for iOS, macOS, watchOS, and tvOS app development",
+  "official_website": "https://swift.org",
+  "documentation": "https://docs.swift.org/swift-book",
+  "github_repository": "https://github.com/swiftlang/swift",
+  "license": "Apache-2.0",
+  "latest_version": "5.10",
+  "programming_languages": ["Swift"],
+  "platforms": ["macOS", "iOS", "watchOS", "tvOS", "Linux"],
+  "package_manager": "spm",
+  "installation_examples": {
+    "xcode": "Install Xcode from App Store",
+    "brew": "brew install swift"
+  },
+  "tags": ["programming-language", "apple", "ios", "macos", "compiled", "safe"],
+  "alternatives": ["Kotlin", "Objective-C", "Rust", "C#"],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

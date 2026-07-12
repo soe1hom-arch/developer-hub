@@ -1,0 +1,32 @@
+{
+  "id": "notion",
+  "name": "Notion",
+  "category": "tools",
+  "description": "All-in-one workspace for notes, docs, and project management",
+  "official_website": "https://notion.so",
+  "documentation": "https://notion.so/help",
+  "github_repository": "https://github.com/notion",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install notion"
+  },
+  "tags": [
+    "tools",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

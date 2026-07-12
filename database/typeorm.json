@@ -1,0 +1,46 @@
+{
+  "id": "typeorm",
+  "name": "typeorm",
+  "category": "database",
+  "description": "TypeScript & JavaScript ORM for Node.js \u2014 supports PostgreSQL, MySQL, MariaDB, SQLite, SQL Server, Oracle, and more.",
+  "official_website": "http://typeorm.io",
+  "documentation": "https://github.com/typeorm/typeorm#readme",
+  "github_repository": "https://github.com/typeorm/typeorm",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "active-record",
+    "cockroachdb",
+    "data-mapper",
+    "database",
+    "hacktoberfest",
+    "javascript",
+    "mariadb",
+    "mysql"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 36585,
+    "forks": 6636,
+    "open_issues": 554,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

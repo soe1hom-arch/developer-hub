@@ -1,0 +1,19 @@
+{
+  "id": "bun",
+  "name": "Bun",
+  "category": "web",
+  "description": "All-in-one JavaScript runtime, bundler, and package manager with native TypeScript support",
+  "official_website": "https://bun.sh",
+  "documentation": "https://bun.sh/docs",
+  "github_repository": "https://github.com/oven-sh/bun",
+  "license": "MIT",
+  "latest_version": "1.1.17",
+  "programming_languages": ["Zig", "TypeScript", "JavaScript"],
+  "platforms": ["Linux", "macOS", "Windows"],
+  "package_manager": "curl",
+  "installation_examples": {"curl": "curl -fsSL https://bun.sh/install | bash", "brew": "brew install oven-sh/bun/bun"},
+  "tags": ["runtime", "javascript", "typescript", "bundler", "package-manager"],
+  "alternatives": ["Node.js", "Deno", "npm"],
+  "popularity": 8, "maintained": true, "archived": false, "open_source": true,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

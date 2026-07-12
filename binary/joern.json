@@ -1,0 +1,41 @@
+{
+  "id": "joern",
+  "name": "joern",
+  "category": "binary",
+  "description": "Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc",
+  "official_website": "https://joern.io/",
+  "documentation": "https://github.com/joernio/joern#readme",
+  "github_repository": "https://github.com/joernio/joern",
+  "license": "Apache-2.0",
+  "latest_version": "master",
+  "programming_languages": [
+    "Scala"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "tags": [
+    "binary",
+    "c",
+    "code-analysis",
+    "code-browser",
+    "code-property-graph",
+    "controlflow",
+    "cpg",
+    "cpp"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 3318,
+    "forks": 427,
+    "open_issues": 343,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

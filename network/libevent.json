@@ -1,0 +1,39 @@
+{
+  "id": "libevent",
+  "name": "libevent",
+  "category": "network",
+  "description": "Event notification library",
+  "official_website": "https://libevent.org",
+  "documentation": "https://github.com/libevent/libevent#readme",
+  "github_repository": "https://github.com/libevent/libevent",
+  "license": "NOASSERTION",
+  "latest_version": "master",
+  "programming_languages": [
+    "C"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS"
+  ],
+  "tags": [
+    "async",
+    "c",
+    "cross-platform",
+    "networking"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 11925,
+    "forks": 3463,
+    "open_issues": 149,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "tidb",
+  "name": "tidb",
+  "category": "database",
+  "description": "TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructur",
+  "official_website": "https://www.tidb.io/",
+  "documentation": "https://github.com/pingcap/tidb#readme",
+  "github_repository": "https://github.com/pingcap/tidb",
+  "license": "Apache-2.0",
+  "latest_version": "master",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "agent",
+    "agent-context",
+    "agent-memory",
+    "agentic",
+    "ai",
+    "cloud-native",
+    "database",
+    "distributed-database"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 40280,
+    "forks": 6225,
+    "open_issues": 6478,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

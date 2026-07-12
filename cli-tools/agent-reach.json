@@ -1,0 +1,46 @@
+{
+  "id": "agent-reach",
+  "name": "Agent-Reach",
+  "category": "cli-tools",
+  "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu \u2014 one CLI, zero API fees.",
+  "official_website": "https://github.com/Panniantong/Agent-Reach",
+  "documentation": "https://github.com/Panniantong/Agent-Reach#readme",
+  "github_repository": "https://github.com/Panniantong/Agent-Reach",
+  "license": "MIT",
+  "latest_version": "main",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "agent-infrastructure",
+    "ai-agent",
+    "ai-search",
+    "automation",
+    "bilibili",
+    "claude-code",
+    "cli",
+    "cursor"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 55022,
+    "forks": 4531,
+    "open_issues": 145,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

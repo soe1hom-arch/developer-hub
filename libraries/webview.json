@@ -1,0 +1,43 @@
+{
+  "id": "webview",
+  "name": "webview",
+  "category": "libraries",
+  "description": "Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).",
+  "official_website": "https://github.com/webview/webview",
+  "documentation": "https://github.com/webview/webview#readme",
+  "github_repository": "https://github.com/webview/webview",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "C++"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS"
+  ],
+  "tags": [
+    "c",
+    "cpp",
+    "cross-platform",
+    "css",
+    "gtk",
+    "gui",
+    "html",
+    "javascript"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 14150,
+    "forks": 1081,
+    "open_issues": 205,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

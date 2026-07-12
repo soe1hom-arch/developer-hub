@@ -1,0 +1,51 @@
+{
+  "id": "gtk",
+  "name": "GTK",
+  "category": "desktop",
+  "description": "Multi-platform toolkit for creating graphical user interfaces in C",
+  "official_website": "https://gtk.org",
+  "documentation": "https://docs.gtk.org",
+  "github_repository": "https://github.com/matplotlib/matplotlib",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Python",
+    "C++",
+    "Jupyter Notebook",
+    "Objective-C",
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install gtk"
+  },
+  "tags": [
+    "desktop",
+    "tool",
+    "data-science",
+    "data-visualization",
+    "gtk",
+    "matplotlib",
+    "plotting",
+    "python",
+    "qt",
+    "tk",
+    "wx"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 22981,
+    "forks": 8385,
+    "open_issues": 1471,
+    "watchers": 579
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "gitea",
+  "name": "gitea",
+  "category": "devops",
+  "description": "Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD",
+  "official_website": "https://gitea.com",
+  "documentation": "https://github.com/go-gitea/gitea#readme",
+  "github_repository": "https://github.com/go-gitea/gitea",
+  "license": "MIT",
+  "latest_version": "main",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "bitbucket",
+    "cicd",
+    "devops",
+    "docker-registry-v2",
+    "git",
+    "git-gui",
+    "git-lfs",
+    "git-server"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 56786,
+    "forks": 6908,
+    "open_issues": 2682,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

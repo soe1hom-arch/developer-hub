@@ -1,0 +1,46 @@
+{
+  "id": "dubbo",
+  "name": "dubbo",
+  "category": "frameworks",
+  "description": "The java implementation of Apache Dubbo. An RPC and microservice framework.",
+  "official_website": "https://dubbo.apache.org/",
+  "documentation": "https://github.com/apache/dubbo#readme",
+  "github_repository": "https://github.com/apache/dubbo",
+  "license": "Apache-2.0",
+  "latest_version": "3.3",
+  "programming_languages": [
+    "Java"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "distributed-systems",
+    "dubbo",
+    "framework",
+    "grpc",
+    "http",
+    "java",
+    "microservices",
+    "restful"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 41527,
+    "forks": 26421,
+    "open_issues": 1002,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

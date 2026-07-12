@@ -1,0 +1,46 @@
+{
+  "id": "phaser",
+  "name": "phaser",
+  "category": "game-development",
+  "description": "Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.",
+  "official_website": "https://phaser.io",
+  "documentation": "https://github.com/phaserjs/phaser#readme",
+  "github_repository": "https://github.com/phaserjs/phaser",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "canvas",
+    "discord-activities",
+    "facebook-instant-games",
+    "game-development",
+    "game-frameworks",
+    "gamedev",
+    "html5-game-development",
+    "javascript"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 39937,
+    "forks": 7145,
+    "open_issues": 112,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

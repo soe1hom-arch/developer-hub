@@ -1,0 +1,38 @@
+{
+  "id": "llm4decompile",
+  "name": "LLM4Decompile",
+  "category": "binary",
+  "description": "Reverse Engineering: Decompiling Binary Code with Large Language Models",
+  "official_website": "https://aclanthology.org/2024.emnlp-main.203",
+  "documentation": "https://github.com/albertan017/LLM4Decompile#readme",
+  "github_repository": "https://github.com/albertan017/LLM4Decompile",
+  "license": "MIT",
+  "latest_version": "main",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux"
+  ],
+  "tags": [
+    "binary",
+    "decompile",
+    "large-language-models",
+    "reverse-engineering"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 6751,
+    "forks": 536,
+    "open_issues": 46,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

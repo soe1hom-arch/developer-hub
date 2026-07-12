@@ -1,0 +1,32 @@
+{
+  "id": "rxjs",
+  "name": "RxJS",
+  "category": "libraries",
+  "description": "Reactive Extensions for JavaScript with observables and operators",
+  "official_website": "https://rxjs.dev",
+  "documentation": "https://rxjs.dev/guide",
+  "github_repository": "https://github.com/rxjs",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install rxjs"
+  },
+  "tags": [
+    "libraries",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

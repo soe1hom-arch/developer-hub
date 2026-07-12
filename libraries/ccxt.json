@@ -1,0 +1,46 @@
+{
+  "id": "ccxt",
+  "name": "ccxt",
+  "category": "libraries",
+  "description": "A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go / Java",
+  "official_website": "https://docs.ccxt.com",
+  "documentation": "https://github.com/ccxt/ccxt#readme",
+  "github_repository": "https://github.com/ccxt/ccxt",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "altcoin",
+    "api",
+    "arbitrage",
+    "bitcoin",
+    "bot",
+    "btc",
+    "crypto",
+    "cryptocurrencies"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 43286,
+    "forks": 8736,
+    "open_issues": 1297,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

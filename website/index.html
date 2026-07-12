@@ -1,0 +1,1427 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Developer Hub — Discover 700+ Developer Tools & Resources</title>
+<meta name="description" content="Discover 700+ curated developer resources: APIs, SDKs, libraries, frameworks, tools, and languages across 33 categories. Open-source and searchable.">
+<meta name="keywords" content="developer tools, APIs, SDKs, libraries, frameworks, programming, open source, dev resources">
+<meta name="author" content="Developer Hub">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://developer-hub-production.up.railway.app">
+<meta property="og:title" content="Developer Hub — Discover Developer Resources">
+<meta property="og:description" content="700+ curated developer tools, APIs, SDKs, frameworks, and libraries across 33 categories.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://developer-hub-production.up.railway.app">
+<meta property="og:image" content="/android-logo.svg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Developer Hub — Discover Developer Resources">
+<meta name="twitter:description" content="700+ curated developer tools, APIs, SDKs, frameworks, and libraries across 33 categories.">
+<link rel="icon" type="image/svg+xml" href="/android-logo.svg">
+<link rel="apple-touch-icon" href="/android-logo.svg">
+<style>
+*, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+:root {
+  --bg: #0a0b0f;
+  --bg2: #12141c;
+  --bg3: #1c1f2e;
+  --bg4: #252840;
+  --border: #2a2d3e;
+  --border-hover: #3d4160;
+  --text: #e8eaf0;
+  --text2: #8b8fa3;
+  --text3: #5a5e72;
+  --accent: #7c5cfc;
+  --accent2: #a78bfa;
+  --accent-glow: rgba(124, 92, 252, 0.15);
+  --success: #34d399;
+  --warn: #fbbf24;
+  --danger: #f87171;
+  --radius: 12px;
+  --radius-sm: 8px;
+  --shadow: 0 4px 24px rgba(0,0,0,0.4);
+  --shadow-lg: 0 8px 48px rgba(0,0,0,0.5);
+  --transition: 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+html { scroll-behavior: smooth; overflow-x: hidden; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, sans-serif;
+  background: var(--bg); color: var(--text); min-height: 100vh; line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+}
+.container { max-width: 1280px; margin: 0 auto; padding: 0 24px; }
+
+/* Category colors */
+.cat-ai { --cat-color: #7c5cfc; --cat-bg: rgba(124,92,252,0.12); }
+.cat-android { --cat-color: #34d399; --cat-bg: rgba(52,211,153,0.12); }
+.cat-frontend { --cat-color: #f59e0b; --cat-bg: rgba(245,158,11,0.12); }
+.cat-backend { --cat-color: #3b82f6; --cat-bg: rgba(59,130,246,0.12); }
+.cat-database { --cat-color: #10b981; --cat-bg: rgba(16,185,129,0.12); }
+.cat-cloud { --cat-color: #06b6d4; --cat-bg: rgba(6,182,212,0.12); }
+.cat-security { --cat-color: #ef4444; --cat-bg: rgba(239,68,68,0.12); }
+.cat-devops { --cat-color: #f97316; --cat-bg: rgba(249,115,22,0.12); }
+.cat-tools { --cat-color: #8b5cf6; --cat-bg: rgba(139,92,246,0.12); }
+.cat-languages { --cat-color: #ec4899; --cat-bg: rgba(236,72,153,0.12); }
+.cat-mobile { --cat-color: #14b8a6; --cat-bg: rgba(20,184,166,0.12); }
+.cat-libraries { --cat-color: #6366f1; --cat-bg: rgba(99,102,241,0.12); }
+.cat-frameworks { --cat-color: #a855f7; --cat-bg: rgba(168,85,247,0.12); }
+.cat-blockchain { --cat-color: #f59e0b; --cat-bg: rgba(245,158,11,0.12); }
+.cat-containers { --cat-color: #0ea5e9; --cat-bg: rgba(14,165,233,0.12); }
+.cat-game-development { --cat-color: #22c55e; --cat-bg: rgba(34,197,94,0.12); }
+.cat-iot { --cat-color: #06b6d4; --cat-bg: rgba(6,182,212,0.12); }
+.cat-network { --cat-color: #3b82f6; --cat-bg: rgba(59,130,246,0.12); }
+.cat-linux { --cat-color: #facc15; --cat-bg: rgba(250,204,21,0.12); }
+.cat-windows { --cat-color: #38bdf8; --cat-bg: rgba(56,189,248,0.12); }
+.cat-macos { --cat-color: #a78bfa; --cat-bg: rgba(167,139,250,0.12); }
+.cat-termux { --cat-color: #4ade80; --cat-bg: rgba(74,222,128,0.12); }
+.cat-cli-tools { --cat-color: #d4d4d8; --cat-bg: rgba(212,212,216,0.12); }
+.cat-android-tools { --cat-color: #34d399; --cat-bg: rgba(52,211,153,0.12); }
+.cat-binary { --cat-color: #f472b6; --cat-bg: rgba(244,114,182,0.12); }
+.cat-api { --cat-color: #818cf8; --cat-bg: rgba(129,140,248,0.12); }
+.cat-operating-systems { --cat-color: #94a3b8; --cat-bg: rgba(148,163,184,0.12); }
+.cat-robotics { --cat-color: #22d3ee; --cat-bg: rgba(34,211,238,0.12); }
+.cat-firmware { --cat-color: #fb923c; --cat-bg: rgba(251,146,60,0.12); }
+.cat-embedded { --cat-color: #a3e635; --cat-bg: rgba(163,230,53,0.12); }
+.cat-machine-learning { --cat-color: #c084fc; --cat-bg: rgba(192,132,252,0.12); }
+.cat-web { --cat-color: #60a5fa; --cat-bg: rgba(96,165,250,0.12); }
+.cat-desktop { --cat-color: #cbd5e1; --cat-bg: rgba(203,213,225,0.12); }
+.cat-schemas { --cat-color: #64748b; --cat-bg: rgba(100,116,139,0.12); }
+
+/* Cat badge in cards */
+.cat-badge { font-size: 10px; padding: 3px 10px; border-radius: 20px; background: var(--cat-bg, var(--accent-glow)); color: var(--cat-color, var(--accent2)); white-space: nowrap; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; border: 1px solid transparent; transition: var(--transition); }
+
+/* Fade-in animation */
+@keyframes fadeUp { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
+.project-card, .category-card { animation: fadeUp 0.3s ease forwards; opacity: 0; }
+.project-card:nth-child(2), .category-card:nth-child(2) { animation-delay: 0.05s; }
+.project-card:nth-child(3), .category-card:nth-child(3) { animation-delay: 0.1s; }
+.project-card:nth-child(4), .category-card:nth-child(4) { animation-delay: 0.15s; }
+.project-card:nth-child(5), .category-card:nth-child(5) { animation-delay: 0.2s; }
+.project-card:nth-child(6), .category-card:nth-child(6) { animation-delay: 0.25s; }
+.project-card:nth-child(7), .category-card:nth-child(7) { animation-delay: 0.3s; }
+.project-card:nth-child(8), .category-card:nth-child(8) { animation-delay: 0.35s; }
+.project-card:nth-child(9), .category-card:nth-child(9) { animation-delay: 0.4s; }
+.project-card:nth-child(10), .category-card:nth-child(10) { animation-delay: 0.45s; }
+
+/* Star count in card */
+.card-stars { font-size: 11px; color: var(--warn); display: flex; align-items: center; gap: 3px; }
+.card-lang { font-size: 10px; color: var(--text3); padding: 2px 8px; border-radius: 4px; background: var(--bg3); }
+
+/* Section fade-in */
+@keyframes slideDown { from { opacity: 0; transform: translateY(-8px); } to { opacity: 1; transform: translateY(0); } }
+.section-header { animation: slideDown 0.3s ease forwards; }
+::-webkit-scrollbar-track { background: var(--bg2); }
+::-webkit-scrollbar-thumb { background: var(--bg4); border-radius: 4px; }
+::-webkit-scrollbar-thumb:hover { background: var(--border-hover); }
+
+/* Nav */
+nav {
+  background: rgba(18, 20, 28, 0.85);
+  border-bottom: 1px solid var(--border);
+  padding: 14px 0;
+  position: sticky; top: 0; z-index: 100;
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+}
+nav .container { display: flex; align-items: center; justify-content: space-between; gap: 16px; }
+nav .logo { display: flex; align-items: center; gap: 10px; text-decoration: none; }
+nav .logo-icon { width: 36px; height: 36px; background: linear-gradient(135deg, #3ddc84, #1a8c4a); border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 18px; }
+nav h1 { font-size: 18px; font-weight: 700; letter-spacing: -0.3px; color: var(--text); }
+nav h1 span { color: #3ddc84; }
+nav .nav-stats { display: flex; gap: 20px; }
+nav .nav-stat { text-align: center; }
+nav .nav-stat .num { font-size: 16px; font-weight: 700; color: var(--text); }
+nav .nav-stat .lbl { font-size: 11px; color: var(--text3); text-transform: uppercase; letter-spacing: 0.5px; }
+
+/* Hero */
+.hero {
+  text-align: center;
+  padding: 80px 24px 60px;
+  position: relative;
+  overflow: hidden;
+}
+.hero::before {
+  content: '';
+  position: absolute; inset: 0;
+  background: radial-gradient(ellipse 600px 400px at 50% 0%, rgba(124, 92, 252, 0.08) 0%, transparent 70%);
+  pointer-events: none;
+}
+.hero h2 {
+  font-size: clamp(32px, 5vw, 52px);
+  font-weight: 800;
+  letter-spacing: -1px;
+  line-height: 1.15;
+  margin-bottom: 16px;
+  background: linear-gradient(135deg, var(--text) 0%, var(--accent2) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.hero p {
+  color: var(--text2);
+  font-size: 18px;
+  max-width: 640px;
+  margin: 0 auto 32px;
+  line-height: 1.7;
+}
+.hero .quick-stats {
+  display: flex; gap: 32px; justify-content: center;
+  flex-wrap: wrap; margin-bottom: 40px;
+}
+.hero .qs-item { text-align: center; }
+.hero .qs-item .qs-num {
+  font-size: 28px; font-weight: 800;
+  background: linear-gradient(135deg, var(--accent2), var(--accent));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.hero .qs-item .qs-lbl { font-size: 13px; color: var(--text3); margin-top: 2px; }
+
+/* Search */
+.search-wrapper {
+  max-width: 700px; margin: 0 auto;
+  position: relative;
+}
+.search-box {
+  display: flex; gap: 0;
+  background: var(--bg3);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  overflow: hidden;
+  transition: var(--transition);
+}
+.search-box:focus-within {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 4px var(--accent-glow);
+}
+.search-box input {
+  flex: 1; padding: 16px 20px; border: none;
+  background: transparent; color: var(--text);
+  font-size: 16px; outline: none;
+}
+.search-box input::placeholder { color: var(--text3); }
+.search-box button {
+  padding: 16px 28px; border: none;
+  background: linear-gradient(135deg, var(--accent), var(--accent2));
+  color: white; font-size: 15px; font-weight: 600;
+  cursor: pointer; transition: var(--transition);
+  display: flex; align-items: center; gap: 8px;
+}
+.search-box button:hover { opacity: 0.9; }
+.search-box button svg { width: 18px; height: 18px; }
+
+/* Autocomplete */
+.autocomplete {
+  position: absolute; top: calc(100% + 4px); left: 0; right: 0;
+  background: var(--bg3); border: 1px solid var(--border);
+  border-radius: 12px; overflow: hidden;
+  display: none; z-index: 50;
+  box-shadow: var(--shadow-lg);
+}
+.autocomplete.show { display: block; }
+.autocomplete-item {
+  padding: 10px 16px; cursor: pointer;
+  display: flex; align-items: center; justify-content: space-between;
+  transition: var(--transition);
+}
+.autocomplete-item:hover, .autocomplete-item.active { background: var(--bg4); }
+.autocomplete-item .ai-name { font-size: 14px; color: var(--text); }
+.autocomplete-item .ai-count { font-size: 12px; color: var(--text3); }
+
+/* Filters */
+.filters {
+  display: flex; gap: 8px; flex-wrap: wrap; justify-content: center;
+  max-width: 800px; margin: 20px auto 0;
+}
+.filters select {
+  padding: 8px 14px; border-radius: var(--radius-sm);
+  border: 1px solid var(--border); background: var(--bg3);
+  color: var(--text2); font-size: 13px; cursor: pointer; outline: none;
+  transition: var(--transition); appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%238b8fa3' stroke-width='2'%3E%3Cpath d='m6 9 6 6 6-6'/%3E%3C/svg%3E");
+  background-repeat: no-repeat; background-position: right 10px center;
+  padding-right: 32px;
+}
+.filters select:focus { border-color: var(--accent); }
+
+/* Section titles */
+.section-header {
+  display: flex; align-items: center; justify-content: space-between;
+  margin: 48px 0 20px;
+}
+.section-header h2 { font-size: 22px; font-weight: 700; }
+.section-header .see-all {
+  font-size: 13px; color: var(--accent2); cursor: pointer;
+  text-decoration: none; transition: var(--transition);
+}
+.section-header .see-all:hover { color: var(--accent); }
+
+/* Category Grid */
+.category-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 10px; margin-bottom: 48px;
+}
+.category-card {
+  background: var(--bg2);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 20px 16px;
+  text-align: center;
+  cursor: pointer;
+  transition: var(--transition);
+  position: relative;
+  overflow: hidden;
+}
+.category-card::before {
+  content: '';
+  position: absolute; inset: 0;
+  background: linear-gradient(135deg, rgba(124,92,252,0.03), transparent);
+  opacity: 0; transition: var(--transition);
+}
+.category-card:hover {
+  border-color: var(--accent);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 32px rgba(124,92,252,0.1);
+}
+.category-card:hover::before { opacity: 1; }
+.category-card .icon { font-size: 24px; margin-bottom: 6px; display: block; }
+.category-card .name { font-size: 13px; font-weight: 600; }
+.category-card .count {
+  font-size: 11px; color: var(--text3); margin-top: 3px;
+}
+
+/* Project Grid */
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+  gap: 14px; margin-bottom: 48px;
+}
+.project-card {
+  background: var(--bg2);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 22px;
+  cursor: pointer;
+  transition: var(--transition);
+  position: relative;
+}
+.project-card:hover {
+  border-color: var(--accent);
+  transform: translateY(-2px);
+  box-shadow: 0 8px 32px rgba(124,92,252,0.08);
+}
+.project-card .card-top {
+  display: flex; justify-content: space-between; align-items: flex-start;
+  gap: 12px; margin-bottom: 8px;
+}
+.project-card h3 { font-size: 16px; font-weight: 700; line-height: 1.3; }
+.project-card .cat-badge {
+  font-size: 10px; padding: 3px 8px; border-radius: 20px;
+  background: var(--accent-glow); color: var(--accent2);
+  white-space: nowrap; font-weight: 500;
+  text-transform: uppercase; letter-spacing: 0.3px;
+}
+.project-card .desc {
+  font-size: 13px; color: var(--text2); line-height: 1.6;
+  display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;
+  overflow: hidden; margin-bottom: 12px;
+}
+.project-card .meta { display: flex; gap: 6px; flex-wrap: wrap; }
+.project-card .tag {
+  padding: 2px 10px; border-radius: 20px;
+  background: var(--bg3); font-size: 11px; color: var(--text3);
+  border: 1px solid transparent;
+  transition: var(--transition);
+}
+.project-card .tag:hover { border-color: var(--border-hover); color: var(--text2); }
+.project-card .pop-score {
+  position: absolute; top: 16px; right: 16px;
+  font-size: 11px; color: var(--warn);
+  display: flex; align-items: center; gap: 3px;
+}
+
+/* Detail Page */
+.detail-page { display: none; padding: 32px 0; }
+.detail-back {
+  background: var(--bg3); border: 1px solid var(--border);
+  color: var(--text2); padding: 8px 18px;
+  border-radius: var(--radius-sm); cursor: pointer;
+  font-size: 13px; transition: var(--transition);
+  display: inline-flex; align-items: center; gap: 6px;
+}
+.detail-back:hover { border-color: var(--border-hover); color: var(--text); }
+.detail-card {
+  background: var(--bg2); border-radius: var(--radius);
+  border: 1px solid var(--border);
+  padding: 36px; max-width: 860px; margin-top: 20px;
+}
+.detail-card h2 { font-size: 30px; font-weight: 800; margin-bottom: 4px; }
+.detail-card .detail-cat {
+  font-size: 12px; color: var(--accent2); text-transform: uppercase;
+  letter-spacing: 0.5px; font-weight: 600; margin-bottom: 12px;
+}
+.detail-card .subtitle {
+  color: var(--text2); line-height: 1.7; font-size: 15px; margin-bottom: 24px;
+}
+.detail-card .info-grid {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px; margin: 24px 0;
+}
+.detail-card .info-item .label {
+  font-size: 10px; text-transform: uppercase; color: var(--text3);
+  letter-spacing: 0.8px; font-weight: 600; margin-bottom: 4px;
+}
+.detail-card .info-item .value {
+  font-size: 14px; color: var(--text); word-break: break-all;
+}
+.detail-card .actions {
+  display: flex; gap: 10px; flex-wrap: wrap; margin-top: 24px;
+}
+.btn-primary, .btn-secondary {
+  padding: 10px 22px; border-radius: var(--radius-sm);
+  font-size: 14px; font-weight: 600; text-decoration: none;
+  transition: var(--transition); display: inline-flex; align-items: center; gap: 6px;
+}
+.btn-primary {
+  background: linear-gradient(135deg, var(--accent), var(--accent2));
+  color: white; border: none;
+}
+.btn-primary:hover { opacity: 0.9; transform: translateY(-1px); }
+.btn-secondary {
+  background: var(--bg3); color: var(--text2);
+  border: 1px solid var(--border);
+}
+.btn-secondary:hover { border-color: var(--border-hover); color: var(--text); }
+
+/* Loading */
+.loading-spinner {
+  display: flex; justify-content: center; padding: 60px 0;
+}
+.spinner {
+  width: 32px; height: 32px;
+  border: 3px solid var(--bg3);
+  border-top-color: var(--accent);
+  border-radius: 50%;
+  animation: spin 0.7s linear infinite;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+
+.skeleton {
+  background: var(--bg3); border-radius: var(--radius);
+  height: 120px; animation: pulse 1.5s ease-in-out infinite;
+}
+@keyframes pulse {
+  0%, 100% { opacity: 0.5; }
+  50% { opacity: 1; }
+}
+
+/* Empty state */
+.empty-state {
+  text-align: center; padding: 60px 20px; color: var(--text3);
+}
+.empty-state .big-icon { font-size: 48px; margin-bottom: 12px; }
+.empty-state p { font-size: 15px; }
+
+/* Error */
+.error {
+  text-align: center; padding: 40px;
+  color: var(--danger); font-size: 15px;
+}
+
+/* Toast */
+.toast {
+  position: fixed; bottom: 24px; left: 50%; transform: translateX(-50%);
+  background: var(--bg3); border: 1px solid var(--border);
+  color: var(--text2); padding: 10px 24px;
+  border-radius: var(--radius-sm); font-size: 13px;
+  z-index: 200; opacity: 0; transition: var(--transition);
+  pointer-events: none; backdrop-filter: blur(12px);
+}
+.toast.show { opacity: 1; }
+
+/* Back to top */
+.back-top {
+  position: fixed; bottom: 24px; right: 24px;
+  width: 44px; height: 44px; border-radius: 50%;
+  background: var(--bg3); border: 1px solid var(--border);
+  color: var(--text2); cursor: pointer;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 18px; transition: var(--transition);
+  opacity: 0; pointer-events: none; z-index: 100;
+}
+.back-top.show { opacity: 1; pointer-events: auto; }
+.back-top:hover { border-color: var(--accent); color: var(--accent); }
+
+/* Footer */
+footer {
+  text-align: center; padding: 40px 24px;
+  border-top: 1px solid var(--border); margin-top: 40px;
+}
+footer p { font-size: 13px; color: var(--text3); }
+footer a { color: var(--accent2); text-decoration: none; }
+footer a:hover { text-decoration: underline; }
+
+/* Responsive */
+@media (max-width: 768px) {
+  nav .nav-stats { display: none; }
+  .project-grid { grid-template-columns: 1fr; }
+  .category-grid { grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); }
+  .hero { padding: 48px 16px 32px; }
+  .hero .quick-stats { gap: 20px; }
+  .detail-card { padding: 24px; }
+  .detail-card .info-grid { grid-template-columns: 1fr; }
+}
+@media (max-width: 480px) {
+  .search-box { flex-direction: column; border-radius: var(--radius-sm); }
+  .search-box button { justify-content: center; }
+  nav .container { flex-direction: column; gap: 8px; }
+}
+
+/* =============================================
+   Skeleton Loading
+   ============================================= */
+@keyframes shimmer {
+  0% { background-position: -200px 0; }
+  100% { background-position: calc(200px + 100%) 0; }
+}
+.skeleton {
+  background: linear-gradient(90deg, var(--bg3) 25%, var(--bg4) 50%, var(--bg3) 75%);
+  background-size: 200px 100%;
+  animation: shimmer 1.5s ease-in-out infinite;
+  border-radius: var(--radius-sm);
+}
+.skeleton-card {
+  height: 180px; border-radius: var(--radius); margin-bottom: 16px;
+}
+.skeleton-line { height: 14px; margin-bottom: 8px; width: 80%; }
+.skeleton-line.short { width: 50%; }
+.skeleton-line.long { width: 95%; }
+
+
+/* =============================================
+   Sidebar / Hamburger Menu
+   ============================================= */
+.hamburger {
+  display: none;
+  width: 36px; height: 36px; border: none; background: none;
+  cursor: pointer; padding: 6px; border-radius: 8px;
+  transition: var(--transition); position: relative;
+  flex-direction: column; justify-content: center; gap: 5px;
+  z-index: 201;
+}
+.hamburger span {
+  display: block; width: 22px; height: 2px;
+  background: var(--text); border-radius: 2px;
+  transition: var(--transition); transform-origin: center;
+}
+.hamburger:hover { background: var(--bg3); }
+.hamburger.active span:nth-child(1) { transform: rotate(45deg) translate(5px, 5px); }
+.hamburger.active span:nth-child(2) { opacity: 0; }
+.hamburger.active span:nth-child(3) { transform: rotate(-45deg) translate(5px, -5px); }
+
+/* Sidebar overlay */
+.sidebar-overlay {
+  position: fixed; inset: 0; z-index: 150;
+  background: rgba(0,0,0,0.5); backdrop-filter: blur(4px);
+  opacity: 0; visibility: hidden; transition: var(--transition);
+}
+.sidebar-overlay.open { opacity: 1; visibility: visible; }
+
+/* Sidebar */
+.sidebar {
+  position: fixed; top: 0; left: -280px; bottom: 0; z-index: 200;
+  width: 280px; max-width: 85vw;
+  background: var(--bg2); border-right: 1px solid var(--border);
+  transform: translateX(0); transition: left 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  overflow-y: auto; padding: 20px 0;
+}
+.sidebar.open { left: 0; }
+.sidebar.open { transform: translateX(0); }
+
+
+.sidebar-section { padding: 0 16px; margin-bottom: 8px; }
+.sidebar-section h3 {
+  font-size: 10px; text-transform: uppercase; letter-spacing: 1px;
+  color: var(--text3); padding: 12px 4px 6px; font-weight: 600;
+}
+
+.sidebar-link {
+  display: flex; align-items: center; gap: 10px;
+  padding: 8px 12px; border-radius: var(--radius-sm);
+  color: var(--text2); text-decoration: none; font-size: 13px;
+  transition: var(--transition); cursor: pointer; border: none; background: none;
+  width: 100%; text-align: left;
+}
+.sidebar-link:hover { background: var(--bg3); color: var(--text); }
+.sidebar-link .count {
+  margin-left: auto; font-size: 10px; color: var(--text3);
+  background: var(--bg3); padding: 1px 8px; border-radius: 10px;
+}
+
+/* Show hamburger on mobile */
+@media (max-width: 768px) {
+  .hamburger { display: flex; }
+}
+
+/* =============================================
+   Improved Responsive Breakpoints
+   ============================================= */
+@media (max-width: 1024px) {
+  .hero h2 { font-size: 2rem; }
+  .project-grid { grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); }
+  .stats-grid { grid-template-columns: repeat(2, 1fr); }
+}
+@media (max-width: 768px) {
+  .container { padding: 0 16px; }
+  .hero { padding: 60px 0; }
+  .hero h2 { font-size: 1.6rem; }
+  .hero p { font-size: 0.95rem; }
+  .project-grid { grid-template-columns: 1fr; gap: 12px; }
+  .stats-grid { grid-template-columns: repeat(2, 1fr); gap: 8px; }
+  .nav-stats { display: none; }
+  nav .container { justify-content: center; }
+  .search-row { flex-direction: column; }
+  .filters { flex-wrap: wrap; }
+  .detail-card { padding: 20px; }
+  .detail-card .actions { flex-direction: column; }
+  .detail-card .actions a { width: 100%; text-align: center; }
+  
+  .about-content { flex-direction: column; }
+}
+@media (max-width: 480px) {
+  .hero h2 { font-size: 1.3rem; }
+  .hero p { font-size: 0.85rem; }
+  .quick-stats { gap: 8px; }
+  .qs-item { padding: 8px; }
+  .qs-num { font-size: 1.3rem; }
+  .qs-lbl { font-size: 0.65rem; }
+  .card-top { flex-direction: column; align-items: flex-start; gap: 4px; }
+}
+
+/* =============================================
+   Smooth Transitions
+   ============================================= */
+.section { transition: opacity 0.3s ease, transform 0.3s ease; }
+.section.hidden { display: none; }
+.fade-in { animation: fadeUp 0.4s ease forwards; }
+
+/* Button hover effects */
+.btn-primary, .btn-secondary {
+  transition: var(--transition);
+  position: relative; overflow: hidden;
+}
+.btn-primary:hover { transform: translateY(-2px); box-shadow: 0 6px 20px rgba(124,92,252,0.3); }
+.btn-secondary:hover { transform: translateY(-2px); border-color: var(--accent); color: var(--accent2); }
+
+/* Project card hover */
+.project-card { transition: var(--transition); }
+.project-card:hover { transform: translateY(-4px); box-shadow: var(--shadow-lg); }
+
+/* =============================================
+   Footer Styles
+   ============================================= */
+.footer {
+  margin-top: 60px; padding: 32px 0 20px;
+  background: var(--bg2); border-top: 1px solid var(--border);
+}
+.footer-grid {
+  display: grid; grid-template-columns: 2fr 1fr 1fr;
+  gap: 24px; margin-bottom: 24px;
+}
+.footer-brand .logo-icon { display: inline-block; vertical-align: middle; margin-right: 8px; }
+.footer-brand h3 { display: inline-block; vertical-align: middle; font-size: 1.2rem; }
+.footer-brand h3 span { color: var(--accent); }
+.footer-brand p { color: var(--text2); font-size: 0.85rem; margin-top: 8px; max-width: 300px; }
+.footer-col h4 { font-size: 0.8rem; text-transform: uppercase; letter-spacing: 1px; color: var(--text3); margin-bottom: 12px; }
+.footer-col a {
+  display: block; color: var(--text2); text-decoration: none;
+  font-size: 0.85rem; padding: 4px 0; transition: var(--transition);
+}
+.footer-col a:hover { color: var(--accent2); padding-left: 4px; }
+.footer-bottom {
+  padding-top: 20px; border-top: 1px solid var(--border);
+  display: flex; justify-content: space-between; align-items: center;
+  font-size: 0.8rem; color: var(--text3); flex-wrap: wrap; gap: 12px;
+}
+.footer-social { display: flex; gap: 12px; }
+.footer-social a {
+  width: 36px; height: 36px; border-radius: 50%; background: var(--bg3);
+  display: flex; align-items: center; justify-content: center;
+  color: var(--text2); text-decoration: none; transition: var(--transition);
+  font-size: 0.9rem;
+}
+.footer-social a:hover { background: var(--accent-glow); color: var(--accent2); transform: translateY(-2px); }
+
+/* =============================================
+   About & Legal Pages
+   ============================================= */
+.page-content {
+  display: none; max-width: 800px; margin: 80px auto; padding: 0 24px;
+}
+.page-content.active { display: block; animation: fadeUp 0.4s ease forwards; }
+.page-content h2 { font-size: 2rem; margin-bottom: 8px; }
+.page-content .subtitle { color: var(--text2); font-size: 1rem; margin-bottom: 32px; }
+.page-content h3 { font-size: 1.2rem; margin: 28px 0 12px; color: var(--accent2); }
+.page-content p, .page-content li { color: var(--text2); line-height: 1.8; margin-bottom: 12px; }
+.page-content ul { margin: 8px 0 16px 20px; }
+.page-content .back-link {
+  display: inline-flex; align-items: center; gap: 6px;
+  color: var(--accent2); text-decoration: none; font-size: 0.9rem;
+  margin-bottom: 24px; cursor: pointer; transition: var(--transition);
+}
+.page-content .back-link:hover { color: var(--accent); gap: 10px; }
+.about-content { display: flex; gap: 40px; align-items: flex-start; }
+.about-avatar {
+  width: 120px; height: 120px; border-radius: 50%;
+  background: var(--bg3); border: 3px solid var(--accent-glow);
+  flex-shrink: 0; overflow: hidden;
+  display: flex; align-items: center; justify-content: center;
+}
+.about-avatar svg { width: 70px; height: 70px; }
+.dev-stack { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; }
+.dev-stack span {
+  font-size: 0.75rem; padding: 4px 12px; border-radius: 20px;
+  background: var(--bg3); color: var(--text2); border: 1px solid var(--border);
+}
+
+/* Legal page styles */
+.legal-section { margin-bottom: 24px; }
+.legal-section h4 { color: var(--accent2); margin-bottom: 8px; }
+
+/* Back to top enhancement */
+.back-top {
+  position: fixed; bottom: 24px; right: 24px; z-index: 100;
+  width: 44px; height: 44px; border-radius: 50%;
+  background: var(--accent); color: white; border: none; cursor: pointer;
+  opacity: 0; visibility: hidden; transition: var(--transition);
+  display: flex; align-items: center; justify-content: center;
+  font-size: 1.2rem; box-shadow: 0 4px 16px rgba(124,92,252,0.3);
+}
+.back-top.show { opacity: 1; visibility: visible; }
+.back-top:hover { transform: translateY(-3px); box-shadow: 0 6px 24px rgba(124,92,252,0.5); }
+
+/* Section transitions */
+#mainView { transition: opacity 0.3s ease; }
+#detailView { transition: opacity 0.3s ease; }
+
+
+/* Loader dots */
+.loader-dots { display: inline-flex; gap: 4px; align-items: center; }
+.loader-dots span { width: 6px; height: 6px; border-radius: 50%; background: var(--text3); animation: dotPulse 1.4s ease-in-out infinite; }
+.loader-dots span:nth-child(2) { animation-delay: 0.2s; }
+.loader-dots span:nth-child(3) { animation-delay: 0.4s; }
+@keyframes dotPulse { 0%,80%,100% { opacity: 0.3; transform: scale(0.8); } 40% { opacity: 1; transform: scale(1); } }
+</style>
+</head>
+<body>
+
+<nav>
+  <div class="container">
+    <a class="logo" href="/" onclick="showMain();return false">
+      <div class="logo-icon"><svg viewBox="0 0 120 120" width="22" height="22">
+        <rect x="10" y="10" width="100" height="100" rx="22" fill="rgba(61,220,132,0.12)"/>
+        <rect x="10" y="10" width="100" height="100" rx="22" fill="none" stroke="#3ddc84" stroke-width="2" opacity="0.3"/>
+        <rect x="40" y="14" width="5" height="16" rx="2.5" fill="#3ddc84"/>
+        <rect x="75" y="14" width="5" height="16" rx="2.5" fill="#3ddc84"/>
+        <rect x="25" y="28" width="70" height="62" rx="16" fill="#3ddc84"/>
+        <ellipse cx="42" cy="56" rx="6" ry="7" fill="#0a0b0f"/>
+        <ellipse cx="78" cy="56" rx="6" ry="7" fill="#0a0b0f"/>
+        <path d="M 48 70 Q 60 80 72 70" fill="none" stroke="#0a0b0f" stroke-width="3.5" stroke-linecap="round"/>
+      </svg></div>
+      <h1>Developer<span>Hub</span></h1>
+    </a>
+    <button class="hamburger" id="hamburgerBtn" onclick="toggleSidebar()" aria-label="Menu">
+      <span></span><span></span><span></span>
+    </button>
+    <div class="nav-stats" id="navStats">
+      <div class="nav-stat"><div class="num" id="navEntries">—</div><div class="lbl">Entries</div></div>
+      <div class="nav-stat"><div class="num" id="navCats">—</div><div class="lbl">Categories</div></div>
+      <div class="nav-stat"><div class="num" id="navOpenSrc">—</div><div class="lbl">Open Source</div></div>
+    </div>
+  </div>
+</nav>
+
+<div class="hero">
+  <div class="container">
+    <h2>Discover the Best Developer Resources</h2>
+    <p>A curated, searchable database of 500+ APIs, SDKs, libraries, frameworks, tools, and languages — all in one place.</p>
+    <div class="quick-stats" id="quickStats">
+      <div class="qs-item"><div class="qs-num" id="qsEntries">0</div><div class="qs-lbl">Resources</div></div>
+      <div class="qs-item"><div class="qs-num" id="qsCats">0</div><div class="qs-lbl">Categories</div></div>
+      <div class="qs-item"><div class="qs-num" id="qsLangs">0</div><div class="qs-lbl">Languages</div></div>
+      <div class="qs-item"><div class="qs-num" id="qsOpenSrc">0</div><div class="qs-lbl">Open Source</div></div>
+    </div>
+    <div class="search-wrapper" id="searchWrapper">
+      <div class="search-box">
+        <input type="text" id="searchInput" placeholder="Search any tool, library, or framework…" autocomplete="off" />
+        <button id="searchBtn" onclick="search()">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+          Search
+        </button>
+      </div>
+      <div class="autocomplete" id="autocomplete"></div>
+    </div>
+    <div class="filters" id="filterSection">
+      <select id="filterCategory" onchange="search()"><option value="">All Categories</option></select>
+      <select id="filterLanguage" onchange="search()"><option value="">All Languages</option></select>
+      <select id="filterSort" onchange="search()">
+        <option value="relevance">Sort: Relevance</option>
+        <option value="popularity">Sort: Popularity</option>
+        <option value="name">Sort: Name</option>
+      </select>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div id="mainView">
+    <div id="trendingSection">
+    <div class="section-header"><h2>🔥 Trending Now</h2><div class="loader-dots"><span></span><span></span><span></span></div></div>
+    <div class="project-grid" id="trendingGrid"><div class="skeleton skeleton-card"></div><div class="skeleton skeleton-card"></div><div class="skeleton skeleton-card"></div></div>
+  </div>
+    <div id="stacksSection">
+    <div class="section-header"><h2>📦 Tech Stacks</h2><div class="loader-dots"><span></span><span></span><span></span></div></div>
+    <div class="category-grid" id="stackGrid"><div class="skeleton skeleton-card" style="height:100px"></div><div class="skeleton skeleton-card" style="height:100px"></div><div class="skeleton skeleton-card" style="height:100px"></div></div>
+  </div>
+    <div id="categoriesSection">
+    <div class="section-header"><h2>📂 Browse by Category</h2><div class="loader-dots"><span></span><span></span><span></span></div></div>
+    <div class="category-grid" id="catGrid"><div class="skeleton skeleton-card" style="height:80px"></div><div class="skeleton skeleton-card" style="height:80px"></div><div class="skeleton skeleton-card" style="height:80px"></div><div class="skeleton skeleton-card" style="height:80px"></div></div>
+  </div>
+    <div id="recentSection">
+    <div class="section-header"><h2>🕐 Recently Updated</h2><div class="loader-dots"><span></span><span></span><span></span></div></div>
+    <div class="project-grid" id="recentGrid"><div class="skeleton skeleton-card"></div><div class="skeleton skeleton-card"></div><div class="skeleton skeleton-card"></div></div>
+  </div>
+    <div id="searchResults"></div>
+  </div>
+  <div id="detailView" class="detail-page">
+    <button class="detail-back" onclick="showMain()">← Back to Browse</button>
+    <div id="detailContent"></div>
+  </div>
+</div>
+
+<button class="back-top" id="backTop" onclick="window.scrollTo({top:0,behavior:'smooth'})">↑</button>
+<div class="toast" id="toast"></div>
+
+<!-- ===== Footer ===== -->
+<script>
+const API = window.location.origin.includes('localhost') || window.location.origin.includes('127.0.0.1') 
+  ? 'http://localhost:8000' 
+  : window.location.origin;
+
+let allEntries = [];
+let allStats = null;
+
+async function fetchAPI(path) {
+  const r = await fetch(`${API}${path}`);
+  if (!r.ok) throw new Error(`HTTP ${r.status}`);
+  return r.json();
+}
+
+function showToast(msg) {
+  const t = document.getElementById('toast');
+  t.textContent = msg; t.classList.add('show');
+  clearTimeout(t._hide); t._hide = setTimeout(() => t.classList.remove('show'), 2500);
+}
+
+// Animate counters
+function animateCounter(el, target, duration=1500) {
+  const start = parseInt(el.textContent) || 0;
+  const startTime = performance.now();
+  function step(now) {
+    const p = Math.min((now - startTime) / duration, 1);
+    const ease = 1 - Math.pow(1 - p, 3);
+    el.textContent = Math.floor(start + (target - start) * ease);
+    if (p < 1) requestAnimationFrame(step);
+  }
+  requestAnimationFrame(step);
+}
+
+async function init() {
+  try {
+    const stats = await fetchAPI('/stats');
+    allStats = stats;
+    const o = stats.overview;
+    
+    // Nav stats
+    document.getElementById('navEntries').textContent = o.total_projects;
+    document.getElementById('navCats').textContent = o.total_categories;
+    document.getElementById('navOpenSrc').textContent = o.open_source;
+    
+    // Animated hero stats
+    animateCounter(document.getElementById('qsEntries'), o.total_projects);
+    animateCounter(document.getElementById('qsCats'), o.total_categories);
+    animateCounter(document.getElementById('qsLangs'), o.total_languages);
+    animateCounter(document.getElementById('qsOpenSrc'), o.open_source);
+
+    // Populate sidebar categories
+    populateSidebarCategories(stats.categories);
+
+    // Populate category filter
+    const catSelect = document.getElementById('filterCategory');
+    for (const [cat, count] of Object.entries(stats.categories || {}).sort((a,b) => b[1]-a[1])) {
+      const opt = document.createElement('option');
+      opt.value = cat;
+      const lbl = cat.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+      opt.textContent = `${lbl} (${count})`;
+      catSelect.appendChild(opt);
+    }
+
+    // Populate language filter
+    const langSelect = document.getElementById('filterLanguage');
+    for (const [lang, count] of Object.entries(stats.top_languages || {}).sort((a,b) => b[1]-a[1])) {
+      const opt = document.createElement('option');
+      opt.value = lang;
+      opt.textContent = `${lang} (${count})`;
+      langSelect.appendChild(opt);
+    }
+
+    // Load all entries
+    const allData = await fetchAPI('/projects?per_page=200');
+    allEntries = allData.results || [];
+
+    // Render sections (await each to catch errors properly)
+    await renderTrending();
+    await renderStacks();
+    renderCategories(stats.categories);
+    await renderRecent();
+
+  } catch(e) {
+    console.error('Init error:', e);
+  }
+}
+
+function renderProjects(projects, containerId) {
+  const grid = document.getElementById(containerId);
+  if (!grid || !projects || projects.length === 0) {
+    if (grid) grid.innerHTML = '<div class="empty-state"><div class="big-icon">🔍</div><p>No results found</p></div>';
+    return;
+  }
+  grid.innerHTML = projects.map(p => {
+    const tags = (p.tags || []).slice(0, 4);
+    return `<div class="project-card" onclick="showDetail('${p.id}')">
+      <div class="card-top">
+        <h3>${p.name}</h3>
+        <span class="cat-badge">${p.category}</span>
+      </div>
+      <div class="desc">${(p.description||'').substring(0,180)}</div>
+      <div class="meta">${tags.map(t => `<span class="tag">${t}</span>`).join('')}</div>
+      ${p.popularity ? `<div class="pop-score">⭐ ${p.popularity}/10</div>` : ''}
+    </div>`;
+  }).join('');
+}
+
+async function renderTrending() {
+  try {
+    const data = await fetchAPI('/trending?limit=6');
+    if (!data.trending || data.trending.length === 0) return;
+    const section = document.getElementById('trendingSection');
+    section.innerHTML = `
+      <div class="section-header"><h2>🔥 Trending Now</h2></div>
+      <div class="project-grid" id="trendingGrid"></div>`;
+    // Convert trending to project-like objects
+    const projects = data.trending.map(t => ({
+      id: t.id,
+      name: t.name,
+      category: t.category,
+      description: '',
+      tags: [],
+      popularity: t.trend_score
+    }));
+    renderProjects(projects, 'trendingGrid');
+  } catch(e) { console.error("renderTrending:", e); }
+}
+
+async function renderStacks() {
+  try {
+    const data = await fetchAPI('/stacks');
+    if (!data.stacks || data.stacks.length === 0) return;
+    const section = document.getElementById('stacksSection');
+    section.innerHTML = `
+      <div class="section-header"><h2>📦 Tech Stacks</h2></div>
+      <div class="category-grid" id="stackGrid"></div>`;
+    const grid = document.getElementById('stackGrid');
+    grid.innerHTML = data.stacks.map(s => `
+      <div class="category-card" onclick="showStack('${s.id}')">
+        <span class="icon">📦</span>
+        <div class="name">${s.name}</div>
+        <div class="count">${s.project_count} projects</div>
+      </div>
+    `).join('');
+  } catch(e) { console.error('renderStacks:', e); }
+}
+
+async function renderCategories(cats) {
+  if (!cats) return;
+  const section = document.getElementById('categoriesSection');
+  section.innerHTML = `
+    <div class="section-header"><h2>📂 Browse by Category</h2></div>
+    <div class="category-grid" id="catGrid"></div>`;
+  const grid = document.getElementById('catGrid');
+  const icons = { ai:'🤖', android:'📱', frontend:'🎨', backend:'⚙️', database:'🗄️', cloud:'☁️', security:'🔒', languages:'💻', tools:'🔧', devops:'🚀', frameworks:'🏗️', libraries:'📦', 'game-development':'🎮', mobile:'📲', desktop:'🖥️', web:'🌐', blockchain:'⛓️', 'machine-learning':'🧠', iot:'📡', linux:'🐧', windows:'🪟', macos:'🍎', network:'🌐', containers:'🐳', 'operating-systems':'💿', embedded:'🔌', firmware:'⚡', robotics:'🦾', api:'🔗' };
+  const sorted = Object.entries(cats).sort((a,b) => b[1]-a[1]);
+  grid.innerHTML = sorted.map(([cat, count]) => {
+    const lbl = cat.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+    const icon = icons[cat] || '📁';
+    return `<div class="category-card" onclick="filterByCategory('${cat}')">
+      <span class="icon">${icon}</span>
+      <div class="name">${lbl}</div>
+      <div class="count">${count} entries</div>
+    </div>`;
+  }).join('');
+}
+
+async function renderRecent() {
+  try {
+    const data = await fetchAPI('/recent?limit=6');
+    if (!data.recent || data.recent.length === 0) return;
+    const section = document.getElementById('recentSection');
+    section.innerHTML = `
+      <div class="section-header"><h2>🕐 Recently Updated</h2></div>
+      <div class="project-grid" id="recentGrid"></div>`;
+    const projects = data.recent.map(r => ({
+      id: r.id,
+      name: r.name,
+      category: r.category,
+      description: r.description || '',
+      tags: []
+    }));
+    renderProjects(projects, 'recentGrid');
+  } catch(e) { console.error("renderRecent:", e); }
+}
+
+async function search() {
+  const q = document.getElementById('searchInput').value.trim();
+  const cat = document.getElementById('filterCategory').value;
+  const lang = document.getElementById('filterLanguage').value;
+  const sort = document.getElementById('filterSort').value;
+
+  // Build URL with API-side filtering
+  const params = new URLSearchParams();
+  params.set('per_page', '200');
+  if (sort && sort !== 'relevance') params.set('sort_by', sort);
+  
+  let url;
+  if (q) {
+    params.set('q', q);
+    url = `/search?${params.toString()}`;
+  } else {
+    if (cat) params.set('category', cat);
+    url = `/projects?${params.toString()}`;
+  }
+
+  try {
+    const data = await fetchAPI(url);
+    let results = data.results || data.projects || [];
+    
+    // Client-side language filter (API doesn't support it)
+    if (lang) results = results.filter(r => (r.programming_languages || []).includes(lang));
+    // Client-side category filter for search (API search doesn't have category param)
+    if (q && cat) results = results.filter(r => r.category === cat);
+    
+    let section = document.getElementById('searchResults');
+    if (!section) {
+      section = document.createElement('div');
+      section.id = 'searchResults';
+      document.querySelector('#mainView').appendChild(section);
+    }
+    section.innerHTML = `
+      <div class="section-header">
+        <h2>${q ? `Results for "${q}"` : 'All Resources'}</h2>
+        <span class="see-all">${results.length} found</span>
+      </div>
+      <div class="project-grid" id="resultGrid"></div>`;
+    renderProjects(results, 'resultGrid');
+    if (results.length > 0) section.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  } catch(e) {
+    showToast('Search failed');
+  }
+}
+
+function filterByCategory(cat) {
+  document.getElementById('filterCategory').value = cat;
+  document.getElementById('searchInput').value = '';
+  search();
+}
+
+// Autocomplete
+let acTimer = null;
+document.getElementById('searchInput').addEventListener('input', function() {
+  clearTimeout(acTimer);
+  const q = this.value.trim();
+  if (q.length < 2) { document.getElementById('autocomplete').classList.remove('show'); return; }
+  acTimer = setTimeout(async () => {
+    try {
+      const data = await fetchAPI(`/suggest?q=${encodeURIComponent(q)}`);
+      const ac = document.getElementById('autocomplete');
+      if (!data.suggestions || data.suggestions.length === 0) { ac.classList.remove('show'); return; }
+      ac.innerHTML = data.suggestions.slice(0, 6).map(s => 
+        `<div class="autocomplete-item" onclick="document.getElementById('searchInput').value='${s.term}';document.getElementById('autocomplete').classList.remove('show');search()">
+          <span class="ai-name">${s.term}</span>
+          <span class="ai-count">${s.results} results</span>
+        </div>`
+      ).join('');
+      ac.classList.add('show');
+    } catch(e) { document.getElementById('autocomplete').classList.remove('show'); }
+  }, 200);
+});
+document.addEventListener('click', e => {
+  if (!e.target.closest('.search-wrapper')) document.getElementById('autocomplete').classList.remove('show');
+});
+document.getElementById('searchInput').addEventListener('keydown', e => {
+  if (e.key === 'Enter') { document.getElementById('autocomplete').classList.remove('show'); search(); }
+});
+
+async function showDetail(id) {
+  document.getElementById('mainView').style.display = 'none';
+  const dv = document.getElementById('detailView');
+  dv.style.display = 'block';
+  dv.innerHTML = '<button class="detail-back" onclick="showMain()">← Back to Browse</button><div class="detail-card"><div class="loading-spinner"><div class="spinner"></div></div></div>';
+  window.scrollTo({top: 0, behavior: 'smooth'});
+
+  try {
+    const p = await fetchAPI(`/projects/${id}`);
+    const stars = p.repository_statistics?.stars 
+      ? '⭐ ' + (p.repository_statistics.stars >= 1000 ? (p.repository_statistics.stars/1000).toFixed(1)+'k' : p.repository_statistics.stars)
+      : '';
+    
+    let html = `<div class="detail-card">
+      <div class="detail-cat">${p.category}</div>
+      <h2>${p.name}</h2>
+      <div class="subtitle">${p.description||''}</div>
+      <div class="info-grid">
+        ${p.license ? `<div class="info-item"><div class="label">License</div><div class="value">${p.license}</div></div>` : ''}
+        ${p.latest_version ? `<div class="info-item"><div class="label">Version</div><div class="value">${p.latest_version}</div></div>` : ''}
+        <div class="info-item"><div class="label">Maintained</div><div class="value">${p.maintained ? '✅ Active' : '❌ Inactive'}</div></div>
+        <div class="info-item"><div class="label">Open Source</div><div class="value">${p.open_source ? '✅ Yes' : '❌ No'}</div></div>
+        ${p.popularity ? `<div class="info-item"><div class="label">Popularity</div><div class="value">${stars || p.popularity+'/10'}</div></div>` : ''}
+        ${p.package_manager ? `<div class="info-item"><div class="label">Package Manager</div><div class="value">${p.package_manager}</div></div>` : ''}
+      </div>
+      ${p.programming_languages?.length ? `<div class="info-item" style="margin-bottom:12px"><div class="label">Languages</div><div class="meta" style="margin-top:4px">${p.programming_languages.map(l => `<span class="tag">${l}</span>`).join('')}</div></div>` : ''}
+      ${p.tags?.length ? `<div class="info-item" style="margin-bottom:12px"><div class="label">Tags</div><div class="meta" style="margin-top:4px">${p.tags.map(t => `<span class="tag">${t}</span>`).join('')}</div></div>` : ''}
+      ${p.alternatives?.length ? `<div class="info-item"><div class="label">Alternatives</div><div class="meta" style="margin-top:4px">${p.alternatives.map(a => `<span class="tag" style="cursor:pointer;color:var(--accent2);border-color:var(--accent-glow)" onclick="showDetail('${a.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/(^-|-$)/g,'')}')">${a}</span>`).join('')}</div></div>` : ''}
+      <div class="actions">
+        ${p.official_website ? `<a href="${p.official_website}" target="_blank" class="btn-primary">🌐 Website</a>` : ''}
+        ${p.documentation ? `<a href="${p.documentation}" target="_blank" class="btn-secondary">📖 Docs</a>` : ''}
+        ${p.github_repository ? `<a href="${p.github_repository}" target="_blank" class="btn-secondary">💻 GitHub</a>` : ''}
+      </div>
+      <div style="margin-top:20px;font-size:12px;color:var(--text3)">
+        Last checked: ${p.last_checked||'?'} · Last updated: ${p.last_updated||'?'}
+      </div>
+    </div>`;
+
+    document.getElementById('detailView').innerHTML = html;
+
+    // Load relationships & recommendations asynchronously
+    loadRelationships(id);
+    loadRecommendations(id);
+
+  } catch(e) { console.error("showDetail:", e);
+    document.getElementById('detailView').innerHTML = '<button class="detail-back" onclick="showMain()">← Back to Browse</button><div class="error">Failed to load project details.</div>';
+  }
+}
+
+async function loadRelationships(id) {
+  try {
+    const relData = await fetchAPI(`/relationships/${id}`);
+    const rels = relData.relationships;
+    let relHtml = '';
+    if (rels.alternatives?.length > 0) {
+      relHtml += '<div style="margin-top:16px"><div class="label" style="font-size:10px;text-transform:uppercase;color:var(--text3);letter-spacing:0.8px">🔄 Alternatives</div><div class="meta" style="margin-top:6px">';
+      rels.alternatives.forEach(a => { relHtml += `<span class="tag" style="cursor:pointer;background:var(--accent-glow);color:var(--accent2);border-color:transparent" onclick="showDetail('${a.id}')">${a.name}</span> `; });
+      relHtml += '</div></div>';
+    }
+    if (rels.commonly_used_with?.length > 0) {
+      relHtml += '<div style="margin-top:12px"><div class="label" style="font-size:10px;text-transform:uppercase;color:var(--text3);letter-spacing:0.8px">🔗 Commonly Used With</div><div class="meta" style="margin-top:6px">';
+      rels.commonly_used_with.forEach(a => { relHtml += `<span class="tag" style="cursor:pointer" onclick="showDetail('${a.id}')">${a.name}</span> `; });
+      relHtml += '</div></div>';
+    }
+    if (rels.similar?.length > 0) {
+      relHtml += '<div style="margin-top:12px"><div class="label" style="font-size:10px;text-transform:uppercase;color:var(--text3);letter-spacing:0.8px">📊 Similar Projects</div><div class="meta" style="margin-top:6px">';
+      rels.similar.slice(0,6).forEach(a => { relHtml += `<span class="tag" style="cursor:pointer;background:var(--bg4)" onclick="showDetail('${a.id}')">${a.name}</span> `; });
+      relHtml += '</div></div>';
+    }
+    if (relHtml) {
+      const dv = document.querySelector('.detail-card');
+      if (dv) dv.insertAdjacentHTML('beforeend', '<div style="margin-top:24px;padding-top:20px;border-top:1px solid var(--border)">' + relHtml + '</div>');
+    }
+  } catch(e) { console.error("loadRelationships:", e); }
+}
+
+async function loadRecommendations(id) {
+  try {
+    const recData = await fetchAPI(`/recommendations/${id}`);
+    if (recData.recommendations?.length > 0) {
+      const dv = document.querySelector('.detail-card');
+      if (dv) {
+        dv.insertAdjacentHTML('beforeend', `<div style="margin-top:24px;padding-top:20px;border-top:1px solid var(--border)">
+          <div class="label" style="font-size:10px;text-transform:uppercase;color:var(--text3);letter-spacing:0.8px">💡 Recommendations</div>
+          <div class="project-grid" style="margin-top:12px" id="recGrid"></div>
+        </div>`);
+        renderProjects(recData.recommendations, 'recGrid');
+      }
+    }
+  } catch(e) { console.error("showStack:", e); }
+}
+
+async function showStack(stackId) {
+  try {
+    const data = await fetchAPI(`/stacks/${stackId}`);
+    let section = document.getElementById('searchResults');
+    if (!section) {
+      section = document.createElement('div');
+      section.id = 'searchResults';
+      document.querySelector('#mainView').appendChild(section);
+    }
+    section.innerHTML = `
+      <div class="section-header"><h2>📦 Stack: ${data.name}</h2><span class="see-all">${data.description||''}</span></div>
+      <div class="project-grid" id="stackGrid"></div>`;
+    renderProjects(data.projects, 'stackGrid');
+    section.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  } catch(e) { console.error('showStack:', e); }
+}
+
+// Page navigation
+function showPage(page) {
+  const pages = ['mainView', 'detailView', 'pageAbout', 'pagePrivacy', 'pageLegal'];
+  pages.forEach(id => {
+    const el = document.getElementById(id);
+    if (el) el.style.display = (id === 'mainView' && page === 'main') || 
+                               (id === 'pageAbout' && page === 'about') ||
+                               (id === 'pagePrivacy' && page === 'privacy') ||
+                               (id === 'pageLegal' && page === 'legal')
+      ? 'block' : 'none';
+  });
+  if (page !== 'main') {
+    document.getElementById('footer').scrollIntoView({behavior:'smooth'});
+  } else {
+    window.scrollTo({top:0,behavior:'smooth'});
+  }
+}
+
+// Sidebar toggle
+function toggleSidebar() {
+  document.getElementById('sidebar').classList.toggle('open');
+  document.getElementById('sidebarOverlay').classList.toggle('open');
+  document.getElementById('hamburgerBtn').classList.toggle('active');
+}
+
+// Populate sidebar categories
+function populateSidebarCategories(cats) {
+  const container = document.getElementById('sidebarCategories');
+  if (!container || !cats) return;
+  container.innerHTML = Object.entries(cats)
+    .sort((a,b) => b[1]-a[1])
+    .map(([cat, count]) => {
+      const icons = { ai:'🤖', android:'📱', frontend:'🎨', backend:'⚙️', database:'🗄️', cloud:'☁️', security:'🔒', languages:'💻', tools:'🔧', devops:'🚀', frameworks:'🏗️', libraries:'📦', 'game-development':'🎮', mobile:'📲', desktop:'🖥️', web:'🌐', blockchain:'⛓️', 'machine-learning':'🧠', iot:'📡', linux:'🐧', windows:'🪟', macos:'🍎', network:'🌐', containers:'🐳', 'operating-systems':'💿', embedded:'🔌', firmware:'⚡', robotics:'🦾', api:'🔗' };
+      const icon = icons[cat] || '📁';
+      const lbl = cat.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+      return `<button class="sidebar-link" onclick="filterByCategory('${cat}');toggleSidebar()">
+        ${icon} ${lbl} <span class="count">${count}</span>
+      </button>`;
+    }).join('');
+}
+
+function showMain() {
+  document.getElementById('mainView').style.display = 'block';
+  document.getElementById('detailView').style.display = 'none';
+  window.scrollTo({top: 0});
+}
+
+// Back to top visibility
+window.addEventListener('scroll', () => {
+  document.getElementById('backTop').classList.toggle('show', window.scrollY > 400);
+});
+
+init();
+</script>
+
+<!-- ===== Sidebar Overlay ===== -->
+<div class="sidebar-overlay" id="sidebarOverlay" onclick="toggleSidebar()"></div>
+
+<!-- ===== Sidebar Navigation ===== -->
+<div class="sidebar" id="sidebar">
+  <div class="sidebar-section" style="padding-top:20px">
+    <h3>📂 All Categories</h3>
+    <div id="sidebarCategories">
+      <div class="sidebar-link">⏳ Loading...</div>
+    </div>
+  </div>
+</div>
+
+<!-- ===== Footer ===== -->
+<footer class="footer" id="footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <div class="logo-icon" style="display:inline-block;vertical-align:middle;margin-right:8px">
+          <svg viewBox="0 0 120 120" width="28" height="28">
+        <rect x="10" y="10" width="100" height="100" rx="22" fill="rgba(61,220,132,0.12)"/>
+        <rect x="10" y="10" width="100" height="100" rx="22" fill="none" stroke="#3ddc84" stroke-width="2" opacity="0.3"/>
+        <rect x="40" y="14" width="5" height="16" rx="2.5" fill="#3ddc84"/>
+        <rect x="75" y="14" width="5" height="16" rx="2.5" fill="#3ddc84"/>
+        <rect x="25" y="28" width="70" height="62" rx="16" fill="#3ddc84"/>
+        <ellipse cx="42" cy="56" rx="6" ry="7" fill="#0a0b0f"/>
+        <ellipse cx="78" cy="56" rx="6" ry="7" fill="#0a0b0f"/>
+        <path d="M 48 70 Q 60 80 72 70" fill="none" stroke="#0a0b0f" stroke-width="3.5" stroke-linecap="round"/>
+      </svg>
+        </div>
+        <h3 style="display:inline;vertical-align:middle;font-size:1.2rem">Developer<span style="color:#3ddc84">Hub</span></h3>
+        <p>A curated, open-source database of 700+ developer resources — APIs, SDKs, libraries, frameworks, tools, and languages. Built by the community, for the community.</p>
+      </div>
+
+      <div class="footer-col">
+        <h4>Quick Links</h4>
+        <a href="#" onclick="showPage('main');return false">🏠 Home</a>
+        <a href="#" onclick="showPage('about');return false">👤 About</a>
+        <a href="#" onclick="showPage('privacy');return false">🔒 Privacy</a>
+        <a href="#" onclick="showPage('legal');return false">⚖️ Legal</a>
+        <a href="#" onclick="toggleSidebar();return false">📂 All Categories</a>
+      </div>
+      <div class="footer-col">
+        <h4>Resources</h4>
+        <a href="https://github.com/soe1hom-arch/developer-hub" target="_blank">📦 GitHub Repo</a>
+        <a href="https://github.com/soe1hom-arch/developer-hub/blob/main/CONTRIBUTING.md" target="_blank">🤝 Contributing</a>
+        <a href="https://github.com/soe1hom-arch/developer-hub/blob/main/CODE_OF_CONDUCT.md" target="_blank">📜 Code of Conduct</a>
+        <a href="https://github.com/soe1hom-arch/developer-hub/issues" target="_blank">🐛 Report Issue</a>
+      </div>
+
+    </div>
+    <div class="footer-bottom">
+      <span>© 2026 Developer Hub. Released under the <a href="https://github.com/soe1hom-arch/developer-hub/blob/main/LICENSE" target="_blank" style="color:var(--accent2)">MIT License</a>.</span>
+      <div class="footer-social">
+        <a href="https://github.com/soe1hom-arch/developer-hub" target="_blank" aria-label="GitHub" title="GitHub">🐙</a>
+        <a href="https://github.com/soe1hom-arch" target="_blank" aria-label="Profile" title="Developer Profile">👤</a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<!-- ===== About Page ===== -->
+<div class="page-content" id="pageAbout">
+  <a class="back-link" onclick="showPage('main')">← Back to Home</a>
+  <h2>About Developer Hub</h2>
+  <p class="subtitle">A centralized, open-source knowledge base for developer resources</p>
+  <div class="about-content">
+    <div class="about-avatar">
+      <svg viewBox="0 0 120 120" width="70" height="70">
+        <rect x="10" y="10" width="100" height="100" rx="22" fill="rgba(61,220,132,0.12)"/>
+        <rect x="10" y="10" width="100" height="100" rx="22" fill="none" stroke="#3ddc84" stroke-width="2" opacity="0.3"/>
+        <rect x="40" y="14" width="5" height="16" rx="2.5" fill="#3ddc84"/>
+        <rect x="75" y="14" width="5" height="16" rx="2.5" fill="#3ddc84"/>
+        <rect x="25" y="28" width="70" height="62" rx="16" fill="#3ddc84"/>
+        <ellipse cx="42" cy="56" rx="6" ry="7" fill="#0a0b0f"/>
+        <ellipse cx="78" cy="56" rx="6" ry="7" fill="#0a0b0f"/>
+        <path d="M 48 70 Q 60 80 72 70" fill="none" stroke="#0a0b0f" stroke-width="3.5" stroke-linecap="round"/>
+      </svg>
+    </div>
+    <div>
+      <h3>Our Mission</h3>
+      <p>Developer Hub aims to solve the problem of scattered developer resources by providing a single, organized, machine-readable database. Instead of searching across dozens of websites, developers can find APIs, SDKs, libraries, frameworks, tools, and languages all in one place.</p>
+      
+      <h3>What Makes Us Different</h3>
+      <ul>
+        <li><strong>Comprehensive</strong> — 700+ entries across 33 categories, continuously growing</li>
+        <li><strong>Standardized</strong> — Every entry follows a consistent JSON schema for easy machine processing</li>
+        <li><strong>Automated</strong> — GitHub Actions discover, fix, and update entries daily</li>
+        <li><strong>Searchable</strong> — Full-text search with fuzzy matching, suggestions, and filtering</li>
+        <li><strong>Open Source</strong> — The entire database is freely available under the MIT License</li>
+      </ul>
+
+      <h3>About the Developer</h3>
+      <p>Developer Hub is maintained by <strong>soe1hom-arch</strong>, a developer passionate about building tools that help other developers discover the best resources for their projects.</p>
+      <div class="dev-stack">
+        <span>Android</span>
+        <span>Termux</span>
+        <span>Python</span>
+        <span>JavaScript</span>
+        <span>TypeScript</span>
+        <span>Linux</span>
+        <span>Web</span>
+        <span>Open Source</span>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ===== Privacy Page ===== -->
+<div class="page-content" id="pagePrivacy">
+  <a class="back-link" onclick="showPage('main')">← Back to Home</a>
+  <h2>Privacy Policy</h2>
+  <p class="subtitle">How we handle your data and privacy</p>
+  
+  <div class="legal-section">
+    <h4>1. Information We Collect</h4>
+    <p>Developer Hub is a static, open-source database. We do not collect, store, or process any personal user data. The website does not use cookies, tracking scripts, or analytics services.</p>
+  </div>
+
+  <div class="legal-section">
+    <h4>2. Third-Party Services</h4>
+    <p>This site is hosted on Railway.app and the source code is hosted on GitHub. These platforms may collect standard server logs (IP addresses, browser user agents, timestamps) as part of their normal operations. Please refer to their respective privacy policies for more information.</p>
+  </div>
+
+  <div class="legal-section">
+    <h4>3. Data in the Database</h4>
+    <p>All entries in Developer Hub reference publicly available information about developer tools and resources. The data is aggregated from public sources such as GitHub, official documentation, and project websites. No private or personally identifiable information is stored.</p>
+  </div>
+
+  <div class="legal-section">
+    <h4>4. Contact</h4>
+    <p>If you have any questions about this privacy policy, please open an issue on our <a href="https://github.com/soe1hom-arch/developer-hub/issues" target="_blank" style="color:var(--accent2)">GitHub repository</a>.</p>
+  </div>
+</div>
+
+<!-- ===== Legal Page ===== -->
+<div class="page-content" id="pageLegal">
+  <a class="back-link" onclick="showPage('main')">← Back to Home</a>
+  <h2>Legal & Compliance</h2>
+  <p class="subtitle">License, disclaimers, and compliance information</p>
+
+  <div class="legal-section">
+    <h4>License</h4>
+    <p>Developer Hub is released under the <strong>MIT License</strong>. You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the database and code, subject to the following conditions:</p>
+    <p><em>The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.</em></p>
+    <p>See the <a href="https://github.com/soe1hom-arch/developer-hub/blob/main/LICENSE" target="_blank" style="color:var(--accent2)">full LICENSE file</a> on GitHub for details.</p>
+  </div>
+
+  <div class="legal-section">
+    <h4>Disclaimer</h4>
+    <p>Developer Hub is provided "as is", without warranty of any kind, express or implied. The resource entries are aggregated from public sources and may contain inaccuracies. Always verify critical information (licenses, compatibility, security) from official sources before use.</p>
+    <p>The maintainers make no representations about the accuracy, completeness, or suitability of the information in this database for any purpose.</p>
+  </div>
+
+  <div class="legal-section">
+    <h4>Content Compliance</h4>
+    <p>All entries in Developer Hub reference legitimate developer tools, programming languages, frameworks, libraries, and platforms. We explicitly exclude:</p>
+    <ul>
+      <li>Hacking, cracking, or exploitation tools</li>
+      <li>Malware, viruses, or malicious software</li>
+      <li>Tools that violate intellectual property laws</li>
+      <li>Content promoting illegal activities</li>
+      <li>Pirated software or copyright-infringing content</li>
+    </ul>
+  </div>
+
+  <div class="legal-section">
+    <h4>Attribution</h4>
+    <p>Developer Hub references trademarks and registered trademarks that are the property of their respective owners. All product names, logos, and brands are property of their respective owners. Use of these names does not imply endorsement.</p>
+  </div>
+
+  <div class="legal-section">
+    <h4>Reporting Concerns</h4>
+    <p>If you believe any entry in Developer Hub violates applicable laws or your rights, please <a href="https://github.com/soe1hom-arch/developer-hub/issues" target="_blank" style="color:var(--accent2)">file an issue on GitHub</a> and we will review and address it promptly.</p>
+  </div>
+</div>
+
+<!-- ===== Skeleton Loading Overlay ===== -->
+<div id="loadingOverlay" class="skeleton-overlay" style="display:none">
+  <div class="skeleton-card"></div>
+  <div class="skeleton-card"></div>
+  <div class="skeleton-card"></div>
+</div>
+
+</body>
+</html>
+

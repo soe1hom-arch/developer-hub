@@ -1,0 +1,19 @@
+{
+  "id": "openssl",
+  "name": "OpenSSL",
+  "category": "security",
+  "description": "Robust, full-featured open-source toolkit implementing TLS protocols and general-purpose cryptography",
+  "official_website": "https://openssl.org",
+  "documentation": "https://openssl.org/docs",
+  "github_repository": "https://github.com/openssl/openssl",
+  "license": "Apache-2.0",
+  "latest_version": "3.3.1",
+  "programming_languages": ["C", "Perl", "Assembly"],
+  "platforms": ["Linux", "macOS", "Windows"],
+  "package_manager": "apt",
+  "installation_examples": {"apt": "sudo apt install openssl libssl-dev"},
+  "tags": ["security", "cryptography", "ssl", "tls", "encryption", "certificates"],
+  "alternatives": ["libsodium", "GnuTLS", "BoringSSL", "WolfSSL"],
+  "popularity": 10, "maintained": true, "archived": false, "open_source": true,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

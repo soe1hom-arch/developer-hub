@@ -1,0 +1,46 @@
+{
+  "id": "strix",
+  "name": "strix",
+  "category": "security",
+  "description": "Open-source AI penetration testing tool to find and fix your app\u2019s vulnerabilities.",
+  "official_website": "https://strix.ai",
+  "documentation": "https://github.com/usestrix/strix#readme",
+  "github_repository": "https://github.com/usestrix/strix",
+  "license": "Apache-2.0",
+  "latest_version": "main",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "agents",
+    "ai-hacking",
+    "ai-penetration-testing",
+    "ai-pentesting",
+    "ai-security",
+    "artificial-intelligence",
+    "bug-bounty",
+    "code-quality"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 40633,
+    "forks": 4282,
+    "open_issues": 187,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

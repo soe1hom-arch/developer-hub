@@ -1,0 +1,19 @@
+{
+  "id": "vite",
+  "name": "Vite",
+  "category": "frontend",
+  "description": "Next-generation frontend build tool with instant server start and fast hot module replacement",
+  "official_website": "https://vitejs.dev",
+  "documentation": "https://vitejs.dev/guide",
+  "github_repository": "https://github.com/vitejs/vite",
+  "license": "MIT",
+  "latest_version": "5.3.3",
+  "programming_languages": ["TypeScript", "JavaScript"],
+  "platforms": ["Web", "Linux", "macOS", "Windows"],
+  "package_manager": "npm",
+  "installation_examples": {"npm": "npm create vite@latest"},
+  "tags": ["web", "build-tool", "dev-server", "hmr", "frontend"],
+  "alternatives": ["Webpack", "esbuild", "Parcel", "Rollup"],
+  "popularity": 10, "maintained": true, "archived": false, "open_source": true,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "gamemaker",
+  "name": "GameMaker",
+  "category": "game-development",
+  "description": "Cross-platform game engine for 2D game development with visual scripting",
+  "official_website": "https://gamemaker.io",
+  "documentation": "https://gamemaker.io/en/manual",
+  "github_repository": "https://github.com/4ian/GDevelop",
+  "license": "NOASSERTION",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "JavaScript",
+    "C++",
+    "TypeScript",
+    "CSS",
+    "C"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install gamemaker"
+  },
+  "tags": [
+    "game-development",
+    "tool",
+    "2d-game",
+    "2d-game-engine",
+    "3d",
+    "3d-game",
+    "3d-game-engine",
+    "game",
+    "game-engine",
+    "gamedev",
+    "gamemaker",
+    "gdevelop",
+    "hacktoberfest",
+    "html5",
+    "html5-game-engine",
+    "javascript",
+    "multiplayer",
+    "no-code",
+    "open-source",
+    "vibe-coding"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 24585,
+    "forks": 1450,
+    "open_issues": 607,
+    "watchers": 362
+  }
+}

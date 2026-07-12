@@ -1,0 +1,19 @@
+{
+  "id": "mockk",
+  "name": "MockK",
+  "category": "android",
+  "description": "Mocking library for Kotlin with first-class coroutine support and concise DSL",
+  "official_website": "https://mockk.io",
+  "documentation": "https://mockk.io",
+  "github_repository": "https://github.com/mockk/mockk",
+  "license": "Apache-2.0",
+  "latest_version": "1.13.12",
+  "programming_languages": ["Kotlin"],
+  "platforms": ["Android", "JVM"],
+  "package_manager": "gradle",
+  "installation_examples": {"gradle": "testImplementation 'io.mockk:mockk:1.13.12'"},
+  "tags": ["android", "testing", "mocking", "kotlin", "coroutines"],
+  "alternatives": ["Mockito", "EasyMock", "PowerMock"],
+  "popularity": 8, "maintained": true, "archived": false, "open_source": true,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

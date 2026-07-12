@@ -1,0 +1,46 @@
+{
+  "id": "llm-app",
+  "name": "llm-app",
+  "category": "machine-learning",
+  "description": "Ready-to-run cloud templates for RAG, AI pipelines, and enterprise search with live data. \ud83d\udc33Docker-friendly.\u26a1Always in sync with Sharepoint, Google Drive, S3, Kafka, PostgreSQL, real-time data APIs, an",
+  "official_website": "https://pathway.com/developers/templates/",
+  "documentation": "https://github.com/pathwaycom/llm-app#readme",
+  "github_repository": "https://github.com/pathwaycom/llm-app",
+  "license": "MIT",
+  "latest_version": "main",
+  "programming_languages": [
+    "Jupyter Notebook"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "chatbot",
+    "hugging-face",
+    "llm",
+    "llm-local",
+    "llm-prompting",
+    "llm-security",
+    "llmops",
+    "machine-learning"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 59063,
+    "forks": 1432,
+    "open_issues": 10,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

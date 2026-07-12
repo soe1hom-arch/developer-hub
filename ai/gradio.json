@@ -1,0 +1,58 @@
+{
+  "id": "gradio",
+  "name": "Gradio",
+  "category": "ai",
+  "description": "Python library for quickly creating web UIs for ML model demos",
+  "official_website": "https://gradio.app",
+  "documentation": "https://gradio.app/docs",
+  "github_repository": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+  "license": "AGPL-3.0",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Python",
+    "JavaScript",
+    "CSS",
+    "HTML",
+    "Shell"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install gradio"
+  },
+  "tags": [
+    "ai",
+    "tool",
+    "library",
+    "ai-art",
+    "deep-learning",
+    "diffusion",
+    "gradio",
+    "image-generation",
+    "image2image",
+    "img2img",
+    "pytorch",
+    "stable-diffusion",
+    "text2image",
+    "torch",
+    "txt2img",
+    "unstable",
+    "upscaling",
+    "web"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 164196,
+    "forks": 30537,
+    "open_issues": 2499,
+    "watchers": 1307
+  }
+}

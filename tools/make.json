@@ -1,0 +1,55 @@
+{
+  "id": "make",
+  "name": "Make",
+  "category": "tools",
+  "description": "Build automation tool for compiling programs from source code",
+  "official_website": "https://gnu.org/software/make",
+  "documentation": "https://gnu.org/software/make/manual",
+  "github_repository": "https://github.com/ohmyzsh/ohmyzsh",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Shell",
+    "Python",
+    "Makefile"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install make"
+  },
+  "tags": [
+    "tools",
+    "tool",
+    "cli",
+    "cli-app",
+    "oh-my-zsh",
+    "oh-my-zsh-plugin",
+    "oh-my-zsh-theme",
+    "ohmyzsh",
+    "plugin-framework",
+    "plugins",
+    "productivity",
+    "shell",
+    "terminal",
+    "theme",
+    "themes",
+    "zsh",
+    "zsh-configuration"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 188651,
+    "forks": 26553,
+    "open_issues": 576,
+    "watchers": 2733
+  }
+}

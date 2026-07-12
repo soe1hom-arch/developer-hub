@@ -1,0 +1,26 @@
+{
+  "id": "anthropic",
+  "name": "Anthropic Claude",
+  "category": "ai",
+  "description": "AI assistant and safety-focused language model platform offering Claude API for text generation, analysis, and coding",
+  "official_website": "https://anthropic.com",
+  "documentation": "https://docs.anthropic.com",
+  "github_repository": "https://github.com/anthropics",
+  "license": "Proprietary",
+  "latest_version": "Claude 3.5 Sonnet",
+  "programming_languages": ["Python", "TypeScript", "Go", "Java"],
+  "platforms": ["Cloud", "API", "Web"],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install anthropic",
+    "npm": "npm install @anthropic-ai/sdk"
+  },
+  "tags": ["ai", "llm", "claude", "machine-learning", "nlp", "text-generation", "safety"],
+  "alternatives": ["OpenAI GPT", "Google Gemini", "Mistral", "Meta LLaMA", "Cohere"],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": false,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

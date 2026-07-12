@@ -1,0 +1,46 @@
+{
+  "id": "react-native-android",
+  "name": "react-native",
+  "category": "android",
+  "description": "A framework for building native applications using React",
+  "official_website": "https://reactnative.dev",
+  "documentation": "https://github.com/react/react-native#readme",
+  "github_repository": "https://github.com/react/react-native",
+  "license": "MIT",
+  "latest_version": "main",
+  "programming_languages": [
+    "C++"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "android",
+    "app-framework",
+    "cross-platform",
+    "ios",
+    "mobile",
+    "mobile-development",
+    "react",
+    "react-native"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 126182,
+    "forks": 25183,
+    "open_issues": 1033,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "dotnet",
+  "name": ".NET",
+  "category": "windows",
+  "description": "Free, cross-platform, open source developer platform for building many types of applications",
+  "official_website": "https://dotnet.microsoft.com",
+  "documentation": "https://learn.microsoft.com/dotnet",
+  "github_repository": "https://github.com/dotnet",
+  "license": "MIT",
+  "latest_version": "8.0.6",
+  "programming_languages": ["C#", "F#", "VB.NET"],
+  "platforms": ["Linux", "macOS", "Windows"],
+  "package_manager": "nuget",
+  "installation_examples": {
+    "brew": "brew install dotnet",
+    "choco": "choco install dotnet-sdk"
+  },
+  "tags": ["framework", "cross-platform", "csharp", "microsoft", "enterprise"],
+  "alternatives": ["Java", "Go", "Python", "Node.js"],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

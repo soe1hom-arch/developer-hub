@@ -1,0 +1,50 @@
+{
+  "id": "bun-hono",
+  "name": "Hono",
+  "category": "backend",
+  "description": "Lightweight ultrafast web framework for Cloudflare Workers and Bun",
+  "official_website": "https://hono.dev",
+  "documentation": "https://hono.dev/docs",
+  "github_repository": "https://github.com/honojs/hono",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "TypeScript",
+    "JavaScript",
+    "HTML"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install bun-hono"
+  },
+  "tags": [
+    "backend",
+    "tool",
+    "library",
+    "aws-lambda",
+    "bun",
+    "cloudflare",
+    "cloudflare-workers",
+    "deno",
+    "npm",
+    "router",
+    "typescript",
+    "web-framework"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 31324,
+    "forks": 1160,
+    "open_issues": 366,
+    "watchers": 86
+  }
+}

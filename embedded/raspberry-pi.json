@@ -1,0 +1,25 @@
+{
+  "id": "raspberry-pi",
+  "name": "Raspberry Pi",
+  "category": "embedded",
+  "description": "Affordable single-board computer for education, prototyping, and embedded applications",
+  "official_website": "https://raspberrypi.com",
+  "documentation": "https://raspberrypi.com/documentation",
+  "github_repository": "https://github.com/raspberrypi",
+  "license": "Various",
+  "latest_version": "5",
+  "programming_languages": ["Python", "C", "C++", "Scratch"],
+  "platforms": ["Linux", "Embedded"],
+  "package_manager": "apt",
+  "installation_examples": {
+    "download": "https://raspberrypi.com/software"
+  },
+  "tags": ["single-board-computer", "embedded", "iot", "education", "maker"],
+  "alternatives": ["Arduino", "BeagleBone", "Orange Pi", "Jetson Nano"],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": false,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

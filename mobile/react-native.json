@@ -1,0 +1,26 @@
+{
+  "id": "react-native",
+  "name": "React Native",
+  "category": "mobile",
+  "description": "Framework for building native mobile apps using React and JavaScript",
+  "official_website": "https://reactnative.dev",
+  "documentation": "https://reactnative.dev/docs",
+  "github_repository": "https://github.com/facebook/react-native",
+  "license": "MIT",
+  "latest_version": "0.74.3",
+  "programming_languages": ["JavaScript", "TypeScript", "Java", "Kotlin", "Objective-C", "Swift"],
+  "platforms": ["Android", "iOS", "Web"],
+  "package_manager": "npm",
+  "installation_examples": {
+    "npm": "npx react-native init MyApp",
+    "expo": "npx create-expo-app MyApp"
+  },
+  "tags": ["mobile", "cross-platform", "react", "native", "ios", "android"],
+  "alternatives": ["Flutter", "Xamarin", "Ionic", "Cordova"],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

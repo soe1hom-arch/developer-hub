@@ -1,0 +1,19 @@
+{
+  "id": "chakra-ui",
+  "name": "Chakra UI",
+  "category": "frontend",
+  "description": "Modular and accessible component library for React with built-in dark mode and theming",
+  "official_website": "https://chakra-ui.com",
+  "documentation": "https://chakra-ui.com/docs",
+  "github_repository": "https://github.com/chakra-ui/chakra-ui",
+  "license": "MIT",
+  "latest_version": "2.8.2",
+  "programming_languages": ["TypeScript", "JavaScript"],
+  "platforms": ["Web"],
+  "package_manager": "npm",
+  "installation_examples": {"npm": "npm install @chakra-ui/react @emotion/react @emotion/styled framer-motion"},
+  "tags": ["ui", "react", "components", "accessible", "design-system"],
+  "alternatives": ["Material UI", "Radix UI", "Ant Design", "Shadcn/ui"],
+  "popularity": 8, "maintained": true, "archived": false, "open_source": true,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

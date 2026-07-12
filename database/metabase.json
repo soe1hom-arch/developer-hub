@@ -1,0 +1,46 @@
+{
+  "id": "metabase",
+  "name": "metabase",
+  "category": "database",
+  "description": "The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:",
+  "official_website": "https://metabase.com",
+  "documentation": "https://github.com/metabase/metabase#readme",
+  "github_repository": "https://github.com/metabase/metabase",
+  "license": "NOASSERTION",
+  "latest_version": "master",
+  "programming_languages": [
+    "Clojure"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "analytics",
+    "bi",
+    "business-intelligence",
+    "businessintelligence",
+    "clojure",
+    "dashboard",
+    "data",
+    "data-analysis"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 48157,
+    "forks": 6658,
+    "open_issues": 4098,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

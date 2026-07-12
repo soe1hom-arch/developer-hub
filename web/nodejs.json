@@ -1,0 +1,27 @@
+{
+  "id": "nodejs",
+  "name": "Node.js",
+  "category": "web",
+  "description": "JavaScript runtime built on Chrome's V8 engine for building fast, scalable network applications",
+  "official_website": "https://nodejs.org",
+  "documentation": "https://nodejs.org/docs",
+  "github_repository": "https://github.com/nodejs/node",
+  "license": "MIT",
+  "latest_version": "22.3.0",
+  "programming_languages": ["JavaScript", "C++", "Python"],
+  "platforms": ["Linux", "macOS", "Windows"],
+  "package_manager": "npm",
+  "installation_examples": {
+    "brew": "brew install node",
+    "apt": "sudo apt install nodejs npm",
+    "choco": "choco install nodejs"
+  },
+  "tags": ["runtime", "server-side", "javascript", "event-driven", "non-blocking"],
+  "alternatives": ["Deno", "Bun", "Java", "Python"],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

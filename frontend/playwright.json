@@ -1,0 +1,49 @@
+{
+  "id": "playwright",
+  "name": "Playwright",
+  "category": "frontend",
+  "description": "Cross-browser automation framework for testing web applications",
+  "official_website": "https://playwright.dev",
+  "documentation": "https://playwright.dev/docs",
+  "github_repository": "https://github.com/browser-use/browser-use",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Python",
+    "Shell",
+    "Dockerfile",
+    "HTML"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install playwright"
+  },
+  "tags": [
+    "frontend",
+    "tool",
+    "library",
+    "ai-agents",
+    "ai-tools",
+    "browser-automation",
+    "browser-use",
+    "llm",
+    "playwright",
+    "python"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 104295,
+    "forks": 11497,
+    "open_issues": 301,
+    "watchers": 440
+  }
+}

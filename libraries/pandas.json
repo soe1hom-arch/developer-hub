@@ -1,0 +1,19 @@
+{
+  "id": "pandas",
+  "name": "Pandas",
+  "category": "libraries",
+  "description": "Fast, powerful data analysis and manipulation library for Python with DataFrame structures",
+  "official_website": "https://pandas.pydata.org",
+  "documentation": "https://pandas.pydata.org/docs",
+  "github_repository": "https://github.com/pandas-dev/pandas",
+  "license": "BSD-3-Clause",
+  "latest_version": "2.2.2",
+  "programming_languages": ["Python", "Cython"],
+  "platforms": ["Linux", "macOS", "Windows"],
+  "package_manager": "pip",
+  "installation_examples": {"pip": "pip install pandas"},
+  "tags": ["python", "data-analysis", "dataframe", "csv", "analytics"],
+  "alternatives": ["Polars", "Dask", "Vaex", "R data.table"],
+  "popularity": 10, "maintained": true, "archived": false, "open_source": true,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

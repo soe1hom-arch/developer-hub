@@ -1,0 +1,46 @@
+{
+  "id": "autogpt",
+  "name": "AutoGPT",
+  "category": "ai",
+  "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+  "official_website": "https://agpt.co",
+  "documentation": "https://github.com/Significant-Gravitas/AutoGPT#readme",
+  "github_repository": "https://github.com/Significant-Gravitas/AutoGPT",
+  "license": "NOASSERTION",
+  "latest_version": "master",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "agentic-ai",
+    "agents",
+    "ai",
+    "artificial-intelligence",
+    "autonomous-agents",
+    "claude",
+    "gpt",
+    "llama-api"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 185484,
+    "forks": 46106,
+    "open_issues": 497,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

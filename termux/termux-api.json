@@ -1,0 +1,35 @@
+{
+  "id": "termux-api",
+  "name": "termux-api",
+  "category": "termux",
+  "description": "Termux add-on app which exposes device functionality as API to command line programs.",
+  "official_website": "https://f-droid.org/en/packages/com.termux.api/",
+  "documentation": "https://github.com/termux/termux-api#readme",
+  "github_repository": "https://github.com/termux/termux-api",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "Java"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "tags": [
+    "android",
+    "termux"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 4016,
+    "forks": 836,
+    "open_issues": 298,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

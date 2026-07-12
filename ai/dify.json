@@ -1,0 +1,46 @@
+{
+  "id": "dify",
+  "name": "dify",
+  "category": "ai",
+  "description": "Production-ready platform for agentic workflow development.",
+  "official_website": "https://dify.ai",
+  "documentation": "https://github.com/langgenius/dify#readme",
+  "github_repository": "https://github.com/langgenius/dify",
+  "license": "NOASSERTION",
+  "latest_version": "main",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "agent",
+    "agentic-ai",
+    "agentic-framework",
+    "agentic-workflow",
+    "ai",
+    "automation",
+    "gemini",
+    "genai"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 148542,
+    "forks": 23418,
+    "open_issues": 954,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

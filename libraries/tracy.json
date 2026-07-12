@@ -1,0 +1,44 @@
+{
+  "id": "tracy",
+  "name": "tracy",
+  "category": "libraries",
+  "description": "Frame profiler",
+  "official_website": "https://tracy.nereid.pl/",
+  "documentation": "https://github.com/wolfpld/tracy#readme",
+  "github_repository": "https://github.com/wolfpld/tracy",
+  "license": "NOASSERTION",
+  "latest_version": "master",
+  "programming_languages": [
+    "C++"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "gamedev",
+    "gamedev-library",
+    "gamedevelopment",
+    "library",
+    "performance",
+    "performance-analysis",
+    "profiler",
+    "profiling"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 16436,
+    "forks": 1260,
+    "open_issues": 248,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

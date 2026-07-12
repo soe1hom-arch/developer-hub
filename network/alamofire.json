@@ -1,0 +1,46 @@
+{
+  "id": "alamofire",
+  "name": "Alamofire",
+  "category": "network",
+  "description": "Elegant HTTP Networking in Swift",
+  "official_website": "https://github.com/Alamofire/Alamofire",
+  "documentation": "https://github.com/Alamofire/Alamofire#readme",
+  "github_repository": "https://github.com/Alamofire/Alamofire",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "Swift"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "alamofire",
+    "carthage",
+    "certificate-pinning",
+    "cocoapods",
+    "httpurlresponse",
+    "networking",
+    "parameter-encoding",
+    "public-key-pinning"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 42406,
+    "forks": 7666,
+    "open_issues": 44,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

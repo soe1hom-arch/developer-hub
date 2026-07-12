@@ -1,0 +1,50 @@
+{
+  "id": "protobuf",
+  "name": "Protocol Buffers",
+  "category": "libraries",
+  "description": "Google's language-neutral mechanism for serializing structured data",
+  "official_website": "https://protobuf.dev",
+  "documentation": "https://protobuf.dev/getting-started",
+  "github_repository": "https://github.com/protocolbuffers/protobuf",
+  "license": "NOASSERTION",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "C++",
+    "C#",
+    "C",
+    "Java",
+    "Objective-C"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install protobuf"
+  },
+  "tags": [
+    "libraries",
+    "tool",
+    "marshalling",
+    "protobuf",
+    "protobuf-runtime",
+    "protoc",
+    "protocol-buffers",
+    "protocol-compiler",
+    "rpc",
+    "serialization"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 71486,
+    "forks": 16178,
+    "open_issues": 273,
+    "watchers": 2008
+  }
+}

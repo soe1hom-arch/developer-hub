@@ -1,0 +1,19 @@
+{
+  "id": "terraform",
+  "name": "Terraform",
+  "category": "devops",
+  "description": "Infrastructure as Code tool by HashiCorp for building, changing, and versioning infrastructure safely",
+  "official_website": "https://terraform.io",
+  "documentation": "https://developer.hashicorp.com/terraform/docs",
+  "github_repository": "https://github.com/hashicorp/terraform",
+  "license": "MPL-2.0",
+  "latest_version": "1.9.0",
+  "programming_languages": ["Go", "HCL"],
+  "platforms": ["Linux", "macOS", "Windows"],
+  "package_manager": "brew",
+  "installation_examples": {"brew": "brew install terraform", "apt": "wget -O- https://apt.releases.hashicorp.com/gpg | sudo gpg --dearmor -o /usr/share/keyrings/hashicorp-archive-keyring.gpg"},
+  "tags": ["devops", "iac", "infrastructure", "cloud", "automation"],
+  "alternatives": ["Pulumi", "AWS CDK", "CloudFormation", "Ansible"],
+  "popularity": 10, "maintained": true, "archived": false, "open_source": true,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

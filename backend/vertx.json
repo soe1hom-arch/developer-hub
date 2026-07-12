@@ -1,0 +1,51 @@
+{
+  "id": "vertx",
+  "name": "Eclipse Vert.x",
+  "category": "backend",
+  "description": "Toolkit for building reactive applications on JVM with polyglot support",
+  "official_website": "https://vertx.io",
+  "documentation": "https://vertx.io/docs",
+  "github_repository": "https://github.com/reactiverse/es4x",
+  "license": "Apache-2.0",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Java",
+    "JavaScript",
+    "Shell",
+    "Dockerfile",
+    "Batchfile"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install vertx"
+  },
+  "tags": [
+    "backend",
+    "tool",
+    "graaljs",
+    "graalvm",
+    "hacktoberfest2021",
+    "java",
+    "javascript",
+    "language-support",
+    "typescript",
+    "typescript-definitions",
+    "vertx"
+  ],
+  "alternatives": [],
+  "popularity": 7,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 891,
+    "forks": 74,
+    "open_issues": 53,
+    "watchers": 22
+  }
+}

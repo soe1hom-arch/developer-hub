@@ -1,0 +1,41 @@
+{
+  "id": "fhevm",
+  "name": "fhevm",
+  "category": "blockchain",
+  "description": "FHEVM, a full-stack framework for integrating Fully Homomorphic Encryption (FHE) with blockchain applications",
+  "official_website": "https://github.com/zama-ai/fhevm",
+  "documentation": "https://github.com/zama-ai/fhevm#readme",
+  "github_repository": "https://github.com/zama-ai/fhevm",
+  "license": "NOASSERTION",
+  "latest_version": "main",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "blockchain",
+    "fhe",
+    "privacy"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 25167,
+    "forks": 2025,
+    "open_issues": 111,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

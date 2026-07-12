@@ -1,0 +1,33 @@
+{
+  "id": "bull",
+  "name": "Bull",
+  "category": "backend",
+  "description": "Redis-backed job queue for Node.js with scheduling and concurrency",
+  "official_website": "https://optimalbits.github.io/bull",
+  "documentation": "https://github.com/OptimalBits/bull",
+  "github_repository": "https://github.com/github",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install bull"
+  },
+  "tags": [
+    "backend",
+    "tool",
+    "library"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "vitest",
+  "name": "Vitest",
+  "category": "frontend",
+  "description": "Blazing fast unit test framework powered by Vite for the modern web",
+  "official_website": "https://vitest.dev",
+  "documentation": "https://vitest.dev/guide",
+  "github_repository": "https://github.com/slymnoyann/hey-1",
+  "license": "GPL-3.0",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "TypeScript",
+    "JavaScript",
+    "CSS",
+    "HTML"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install vitest"
+  },
+  "tags": [
+    "frontend",
+    "tool",
+    "blockchain",
+    "crypto",
+    "dapp",
+    "graphql",
+    "hacktoberfest",
+    "lens-protocol",
+    "nextjs",
+    "react",
+    "social-media",
+    "tailwindcss",
+    "turborepo",
+    "typescript",
+    "vitest",
+    "wagmi",
+    "web3"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 29384,
+    "forks": 1803,
+    "open_issues": 7,
+    "watchers": 162
+  }
+}

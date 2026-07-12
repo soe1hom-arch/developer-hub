@@ -1,0 +1,36 @@
+{
+  "id": "android-methods-profiler",
+  "name": "android-methods-profiler",
+  "category": "android-tools",
+  "description": "Yet another Android Profiler for AOSP .trace files",
+  "official_website": "https://github.com/Grigory-Rylov/android-methods-profiler",
+  "documentation": "https://github.com/Grigory-Rylov/android-methods-profiler#readme",
+  "github_repository": "https://github.com/Grigory-Rylov/android-methods-profiler",
+  "license": "Apache-2.0",
+  "latest_version": "master",
+  "programming_languages": [
+    "Kotlin"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "tags": [
+    "android",
+    "android-tools",
+    "profiler"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 283,
+    "forks": 15,
+    "open_issues": 42,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

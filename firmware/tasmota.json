@@ -1,0 +1,32 @@
+{
+  "id": "tasmota",
+  "name": "Tasmota",
+  "category": "firmware",
+  "description": "Open-source firmware for ESP8266/ESP32 devices with web interface",
+  "official_website": "https://tasmota.github.io",
+  "documentation": "https://tasmota.github.io/docs",
+  "github_repository": "https://github.com/github",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install tasmota"
+  },
+  "tags": [
+    "firmware",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

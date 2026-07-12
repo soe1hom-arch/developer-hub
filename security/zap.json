@@ -1,0 +1,19 @@
+{
+  "id": "zap",
+  "name": "OWASP ZAP",
+  "category": "security",
+  "description": "Open-source web application security scanner for finding vulnerabilities in web applications",
+  "official_website": "https://zaproxy.org",
+  "documentation": "https://zaproxy.org/docs",
+  "github_repository": "https://github.com/zaproxy/zaproxy",
+  "license": "Apache-2.0",
+  "latest_version": "2.15.0",
+  "programming_languages": ["Java", "JavaScript"],
+  "platforms": ["Linux", "macOS", "Windows"],
+  "package_manager": "docker",
+  "installation_examples": {"docker": "docker run -d -p 8080:8080 -p 8090:8090 zaproxy/zap-stable"},
+  "tags": ["security", "web", "scanner", "penetration-testing", "open-source"],
+  "alternatives": ["Burp Suite", "Nessus", "Nikto", "Acunetix"],
+  "popularity": 8, "maintained": true, "archived": false, "open_source": true,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

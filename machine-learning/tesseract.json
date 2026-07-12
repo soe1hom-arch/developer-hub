@@ -1,0 +1,45 @@
+{
+  "id": "tesseract",
+  "name": "tesseract",
+  "category": "machine-learning",
+  "description": "Tesseract Open Source OCR Engine (main repository)",
+  "official_website": "https://tesseract-ocr.github.io/",
+  "documentation": "https://github.com/tesseract-ocr/tesseract#readme",
+  "github_repository": "https://github.com/tesseract-ocr/tesseract",
+  "license": "Apache-2.0",
+  "latest_version": "main",
+  "programming_languages": [
+    "C++"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "hacktoberfest",
+    "lstm",
+    "machine-learning",
+    "ocr",
+    "ocr-engine",
+    "tesseract",
+    "tesseract-ocr"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 75258,
+    "forks": 10687,
+    "open_issues": 480,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

@@ -1,0 +1,26 @@
+{
+  "id": "tailwindcss",
+  "name": "Tailwind CSS",
+  "category": "frontend",
+  "description": "Utility-first CSS framework for rapidly building custom user interfaces",
+  "official_website": "https://tailwindcss.com",
+  "documentation": "https://tailwindcss.com/docs",
+  "github_repository": "https://github.com/tailwindlabs/tailwindcss",
+  "license": "MIT",
+  "latest_version": "3.4.3",
+  "programming_languages": ["CSS", "JavaScript", "TypeScript"],
+  "platforms": ["Web"],
+  "package_manager": "npm",
+  "installation_examples": {
+    "npm": "npm install -D tailwindcss",
+    "yarn": "yarn add -D tailwindcss"
+  },
+  "tags": ["css", "utility-first", "design", "frontend", "responsive"],
+  "alternatives": ["Bootstrap", "Bulma", "Chakra UI", "Material UI"],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "qdrant",
+  "name": "Qdrant",
+  "category": "ai",
+  "description": "High-performance vector similarity search engine written in Rust with rich filtering support",
+  "official_website": "https://qdrant.tech",
+  "documentation": "https://qdrant.tech/documentation",
+  "github_repository": "https://github.com/qdrant/qdrant",
+  "license": "Apache-2.0",
+  "latest_version": "1.9.0",
+  "programming_languages": ["Rust", "Python", "TypeScript"],
+  "platforms": ["Linux", "macOS", "Cloud"],
+  "package_manager": "docker",
+  "installation_examples": {"docker": "docker run -d -p 6333:6333 qdrant/qdrant"},
+  "tags": ["ai", "vector-database", "similarity-search", "rust", "open-source"],
+  "alternatives": ["Pinecone", "Weaviate", "Milvus", "Chroma"],
+  "popularity": 8, "maintained": true, "archived": false, "open_source": true,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

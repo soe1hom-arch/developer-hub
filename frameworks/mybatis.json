@@ -1,0 +1,33 @@
+{
+  "id": "mybatis",
+  "name": "MyBatis",
+  "category": "frameworks",
+  "description": "Persistence framework for Java with SQL mapping and stored procedures",
+  "official_website": "https://mybatis.org",
+  "documentation": "https://mybatis.org/mybatis-3",
+  "github_repository": "https://github.com/mybatis",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install mybatis"
+  },
+  "tags": [
+    "frameworks",
+    "tool",
+    "library"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

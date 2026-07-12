@@ -1,0 +1,32 @@
+{
+  "id": "kubectl",
+  "name": "kubectl",
+  "category": "devops",
+  "description": "Kubernetes command-line tool for managing cluster resources",
+  "official_website": "https://kubernetes.io/docs/reference/kubectl",
+  "documentation": "https://kubernetes.io/docs/reference/kubectl",
+  "github_repository": "https://github.com/kubernetes",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install kubectl"
+  },
+  "tags": [
+    "devops",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

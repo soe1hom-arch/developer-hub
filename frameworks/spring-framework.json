@@ -1,0 +1,41 @@
+{
+  "id": "spring-framework",
+  "name": "spring-framework",
+  "category": "frameworks",
+  "description": "Spring Framework",
+  "official_website": "https://spring.io/projects/spring-framework",
+  "documentation": "https://github.com/spring-projects/spring-framework#readme",
+  "github_repository": "https://github.com/spring-projects/spring-framework",
+  "license": "Apache-2.0",
+  "latest_version": "main",
+  "programming_languages": [
+    "Java"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "framework",
+    "spring",
+    "spring-framework"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 60108,
+    "forks": 38828,
+    "open_issues": 498,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

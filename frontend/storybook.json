@@ -1,0 +1,63 @@
+{
+  "id": "storybook",
+  "name": "Storybook",
+  "category": "frontend",
+  "description": "Frontend workshop for building UI components in isolation",
+  "official_website": "https://storybook.js.org",
+  "documentation": "https://storybook.js.org/docs",
+  "github_repository": "https://github.com/storybookjs/storybook",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "TypeScript",
+    "JavaScript",
+    "MDX",
+    "Svelte",
+    "Vue"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install storybook"
+  },
+  "tags": [
+    "frontend",
+    "tool",
+    "library",
+    "angular",
+    "components",
+    "design-systems",
+    "documentation",
+    "html",
+    "javascript",
+    "react",
+    "react-native",
+    "stories",
+    "storybook",
+    "styleguide",
+    "svelte",
+    "testing",
+    "typescript",
+    "ui",
+    "vite",
+    "vue",
+    "web-components",
+    "webpack",
+    "workshop"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 90663,
+    "forks": 10325,
+    "open_issues": 1796,
+    "watchers": 1021
+  }
+}

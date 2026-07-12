@@ -1,0 +1,19 @@
+{
+  "id": "xgboost",
+  "name": "XGBoost",
+  "category": "ai",
+  "description": "Optimized gradient boosting framework for scalable and accurate machine learning",
+  "official_website": "https://xgboost.ai",
+  "documentation": "https://xgboost.readthedocs.io",
+  "github_repository": "https://github.com/dmlc/xgboost",
+  "license": "Apache-2.0",
+  "latest_version": "2.1.0",
+  "programming_languages": ["C++", "Python", "R", "Java"],
+  "platforms": ["Linux", "macOS", "Windows"],
+  "package_manager": "pip",
+  "installation_examples": {"pip": "pip install xgboost"},
+  "tags": ["ai", "machine-learning", "gradient-boosting", "python"],
+  "alternatives": ["LightGBM", "CatBoost", "Random Forest", "scikit-learn"],
+  "popularity": 9, "maintained": true, "archived": false, "open_source": true,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "johnny-five",
+  "name": "johnny-five",
+  "category": "iot",
+  "description": "JavaScript Robotics and IoT programming framework, developed at Bocoup.",
+  "official_website": "http://johnny-five.io",
+  "documentation": "https://github.com/rwaldron/johnny-five#readme",
+  "github_repository": "https://github.com/rwaldron/johnny-five",
+  "license": "NOASSERTION",
+  "latest_version": "main",
+  "programming_languages": [
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS"
+  ],
+  "tags": [
+    "1-wire",
+    "adc",
+    "arduino",
+    "beaglebone-black",
+    "bluetooth",
+    "chip",
+    "dac",
+    "gpio"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 13404,
+    "forks": 1733,
+    "open_issues": 64,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

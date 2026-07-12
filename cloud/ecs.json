@@ -1,0 +1,52 @@
+{
+  "id": "ecs",
+  "name": "AWS ECS",
+  "category": "cloud",
+  "description": "Amazon's container orchestration service for Docker containers",
+  "official_website": "https://aws.amazon.com/ecs",
+  "documentation": "https://docs.aws.amazon.com/ecs",
+  "github_repository": "https://github.com/floci-io/floci",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Java",
+    "TypeScript",
+    "Python",
+    "Shell",
+    "Go"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install ecs"
+  },
+  "tags": [
+    "cloud",
+    "tool",
+    "aws",
+    "aws-emulation",
+    "devops",
+    "docker",
+    "ec2",
+    "ecs",
+    "localstack",
+    "s3",
+    "sqs",
+    "testcontainers"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 16354,
+    "forks": 1616,
+    "open_issues": 122,
+    "watchers": 58
+  }
+}

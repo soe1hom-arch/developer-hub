@@ -1,0 +1,59 @@
+{
+  "id": "micronaut",
+  "name": "Micronaut",
+  "category": "backend",
+  "description": "JVM-based framework for building serverless and microservice applications",
+  "official_website": "https://micronaut.io",
+  "documentation": "https://docs.micronaut.io",
+  "github_repository": "https://github.com/redisson/redisson",
+  "license": "Apache-2.0",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Java"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install micronaut"
+  },
+  "tags": [
+    "backend",
+    "tool",
+    "library",
+    "cache",
+    "distributed",
+    "distributed-locks",
+    "executor",
+    "hibernate",
+    "java",
+    "json",
+    "lock",
+    "map",
+    "micronaut",
+    "quarkus",
+    "queue",
+    "redis",
+    "redis-client",
+    "scheduler",
+    "session",
+    "spring",
+    "tomcat",
+    "valkey",
+    "valkey-client"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 24373,
+    "forks": 5489,
+    "open_issues": 235,
+    "watchers": 860
+  }
+}

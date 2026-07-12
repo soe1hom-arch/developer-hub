@@ -1,0 +1,46 @@
+{
+  "id": "hello-python",
+  "name": "Hello-Python",
+  "category": "backend",
+  "description": "Curso para aprender el lenguaje de programaci\u00f3n Python desde cero y para principiantes. 100 clases, 44 horas en v\u00eddeo, c\u00f3digo, proyectos y grupo de chat. Fundamentos, frontend, backend, testing, IA...",
+  "official_website": "https://mouredev.link/python",
+  "documentation": "https://github.com/mouredev/Hello-Python#readme",
+  "github_repository": "https://github.com/mouredev/Hello-Python",
+  "license": "Apache-2.0",
+  "latest_version": "main",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "backend",
+    "chatgpt",
+    "chatgpt-api",
+    "fastapi",
+    "frontend",
+    "gpt-3",
+    "gpt-4",
+    "mongodb"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 36344,
+    "forks": 2313,
+    "open_issues": 37,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

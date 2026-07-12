@@ -1,0 +1,42 @@
+{
+  "id": "moya",
+  "name": "Moya",
+  "category": "network",
+  "description": "Network abstraction layer written in Swift.",
+  "official_website": "https://moya.github.io",
+  "documentation": "https://github.com/Moya/Moya#readme",
+  "github_repository": "https://github.com/Moya/Moya",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "Swift"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "alamofire",
+    "hacktoberfest",
+    "networking",
+    "reactiveswift",
+    "rxswift",
+    "swift"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 15360,
+    "forks": 1999,
+    "open_issues": 177,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "payloadsallthethings",
+  "name": "PayloadsAllTheThings",
+  "category": "security",
+  "description": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+  "official_website": "https://swisskyrepo.github.io/PayloadsAllTheThings/",
+  "documentation": "https://github.com/swisskyrepo/PayloadsAllTheThings#readme",
+  "github_repository": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "bounty",
+    "bugbounty",
+    "bypass",
+    "cheatsheet",
+    "enumeration",
+    "hacking",
+    "hacktoberfest",
+    "methodology"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 79089,
+    "forks": 17170,
+    "open_issues": 31,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

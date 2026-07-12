@@ -1,0 +1,45 @@
+{
+  "id": "thingsboard",
+  "name": "thingsboard",
+  "category": "cloud",
+  "description": "Open-source IoT Platform - Device management, data collection, processing and visualization.",
+  "official_website": "https://thingsboard.io",
+  "documentation": "https://github.com/thingsboard/thingsboard#readme",
+  "github_repository": "https://github.com/thingsboard/thingsboard",
+  "license": "Apache-2.0",
+  "latest_version": "master",
+  "programming_languages": [
+    "Java"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android"
+  ],
+  "tags": [
+    "big-data",
+    "cloud",
+    "coap-server",
+    "dashboards",
+    "http",
+    "iiot",
+    "iot",
+    "iot-analytics"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 22043,
+    "forks": 6373,
+    "open_issues": 257,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

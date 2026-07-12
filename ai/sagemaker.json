@@ -1,0 +1,53 @@
+{
+  "id": "sagemaker",
+  "name": "AWS SageMaker",
+  "category": "ai",
+  "description": "AWS platform for building, training, and deploying ML models",
+  "official_website": "https://aws.amazon.com/sagemaker",
+  "documentation": "https://docs.aws.amazon.com/sagemaker",
+  "github_repository": "https://github.com/aws/amazon-sagemaker-examples",
+  "license": "Apache-2.0",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Jupyter Notebook",
+    "Python",
+    "Shell",
+    "JavaScript",
+    "Dockerfile"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install sagemaker"
+  },
+  "tags": [
+    "ai",
+    "tool",
+    "aws",
+    "data-science",
+    "deep-learning",
+    "examples",
+    "inference",
+    "jupyter-notebook",
+    "machine-learning",
+    "mlops",
+    "reinforcement-learning",
+    "sagemaker",
+    "training"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 10972,
+    "forks": 6970,
+    "open_issues": 848,
+    "watchers": 266
+  }
+}

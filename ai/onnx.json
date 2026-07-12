@@ -1,0 +1,32 @@
+{
+  "id": "onnx",
+  "name": "ONNX",
+  "category": "ai",
+  "description": "Open standard for representing machine learning models for interoperability",
+  "official_website": "https://onnx.ai",
+  "documentation": "https://onnx.ai/docs",
+  "github_repository": "https://github.com/onnx",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install onnx"
+  },
+  "tags": [
+    "ai",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

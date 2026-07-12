@@ -1,0 +1,32 @@
+{
+  "id": "pytorch-lightning",
+  "name": "PyTorch Lightning",
+  "category": "ai",
+  "description": "Lightweight PyTorch wrapper for high-performance AI research",
+  "official_website": "https://lightning.ai",
+  "documentation": "https://lightning.ai/docs/pytorch",
+  "github_repository": "https://github.com/lightning",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install pytorch-lightning"
+  },
+  "tags": [
+    "ai",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

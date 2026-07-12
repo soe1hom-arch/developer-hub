@@ -1,0 +1,19 @@
+{
+  "id": "milvus",
+  "name": "Milvus",
+  "category": "ai",
+  "description": "Cloud-native vector database for scalable similarity search and AI applications",
+  "official_website": "https://milvus.io",
+  "documentation": "https://milvus.io/docs",
+  "github_repository": "https://github.com/milvus-io/milvus",
+  "license": "Apache-2.0",
+  "latest_version": "2.4.0",
+  "programming_languages": ["Go", "Python", "C++"],
+  "platforms": ["Linux", "Cloud"],
+  "package_manager": "docker",
+  "installation_examples": {"docker": "docker run -d -p 19530:19530 milvusdb/milvus"},
+  "tags": ["ai", "vector-database", "similarity-search", "cloud-native", "open-source"],
+  "alternatives": ["Pinecone", "Weaviate", "Qdrant", "Chroma"],
+  "popularity": 8, "maintained": true, "archived": false, "open_source": true,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

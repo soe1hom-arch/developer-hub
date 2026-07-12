@@ -1,0 +1,19 @@
+{
+  "id": "swiftui",
+  "name": "SwiftUI",
+  "category": "mobile",
+  "description": "Declarative UI framework for building Apple platform apps with Swift across iOS, macOS, watchOS, and tvOS",
+  "official_website": "https://developer.apple.com/xcode/swiftui",
+  "documentation": "https://developer.apple.com/documentation/swiftui",
+  "github_repository": "https://github.com/apple/swift",
+  "license": "Apache-2.0",
+  "latest_version": "5.10",
+  "programming_languages": ["Swift"],
+  "platforms": ["iOS", "macOS", "watchOS", "tvOS"],
+  "package_manager": "spm",
+  "installation_examples": {},
+  "tags": ["mobile", "ui", "apple", "swift", "declarative", "framework"],
+  "alternatives": ["Jetpack Compose", "Flutter", "React Native"],
+  "popularity": 9, "maintained": true, "archived": false, "open_source": true,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "iii",
+  "name": "iii",
+  "category": "backend",
+  "description": "Effortlessly compose, extend, and observe every service in real-time for the first time ever.",
+  "official_website": "https://iii.dev",
+  "documentation": "https://github.com/iii-hq/iii#readme",
+  "github_repository": "https://github.com/iii-hq/iii",
+  "license": "MIT",
+  "latest_version": "main",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "agents",
+    "ai",
+    "api",
+    "backend",
+    "developer-tools",
+    "engine",
+    "genai",
+    "javascript"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 18433,
+    "forks": 1228,
+    "open_issues": 49,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

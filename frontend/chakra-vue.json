@@ -1,0 +1,33 @@
+{
+  "id": "chakra-vue",
+  "name": "Chakra UI Vue",
+  "category": "frontend",
+  "description": "Component library for Vue.js with accessible, composable building blocks",
+  "official_website": "https://vue.chakra-ui.com",
+  "documentation": "https://vue.chakra-ui.com/getting-started",
+  "github_repository": "https://github.com/chakra-ui",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install chakra-vue"
+  },
+  "tags": [
+    "frontend",
+    "tool",
+    "library"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

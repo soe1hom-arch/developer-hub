@@ -1,0 +1,25 @@
+{
+  "id": "glide",
+  "name": "Glide",
+  "category": "android",
+  "description": "Fast and efficient image loading library for Android with GIF and video thumbnail support",
+  "official_website": "https://bumptech.github.io/glide",
+  "documentation": "https://bumptech.github.io/glide",
+  "github_repository": "https://github.com/bumptech/glide",
+  "license": "BSD-3-Clause",
+  "latest_version": "4.16.0",
+  "programming_languages": ["Java", "Kotlin"],
+  "platforms": ["Android"],
+  "package_manager": "gradle",
+  "installation_examples": {
+    "gradle": "implementation 'com.github.bumptech.glide:glide:4.16.0'\nkapt 'com.github.bumptech.glide:compiler:4.16.0'"
+  },
+  "tags": ["android", "image-loading", "gif", "caching", "library"],
+  "alternatives": ["Coil", "Picasso", "Fresco"],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

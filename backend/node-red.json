@@ -1,0 +1,49 @@
+{
+  "id": "node-red",
+  "name": "Node-RED",
+  "category": "backend",
+  "description": "Flow-based visual programming tool for wiring IoT and API integrations",
+  "official_website": "https://nodered.org",
+  "documentation": "https://nodered.org/docs",
+  "github_repository": "https://github.com/gcgarner/IOTstack",
+  "license": "GPL-3.0",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Shell",
+    "Dockerfile"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install node-red"
+  },
+  "tags": [
+    "backend",
+    "tool",
+    "docker",
+    "docker-compose-commands",
+    "grafana",
+    "influxdb",
+    "mosquitto",
+    "mqtt",
+    "nodered",
+    "portainer",
+    "postgres",
+    "raspberry-pi"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 1523,
+    "forks": 574,
+    "open_issues": 103,
+    "watchers": 99
+  }
+}

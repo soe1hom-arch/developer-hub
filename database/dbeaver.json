@@ -1,0 +1,46 @@
+{
+  "id": "dbeaver",
+  "name": "dbeaver",
+  "category": "database",
+  "description": "Free universal database tool and SQL client",
+  "official_website": "https://dbeaver.io",
+  "documentation": "https://github.com/dbeaver/dbeaver#readme",
+  "github_repository": "https://github.com/dbeaver/dbeaver",
+  "license": "Apache-2.0",
+  "latest_version": "devel",
+  "programming_languages": [
+    "Java"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "ai",
+    "database",
+    "databricks",
+    "db2",
+    "dbeaver",
+    "erd",
+    "gui",
+    "java"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 50967,
+    "forks": 4286,
+    "open_issues": 3306,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

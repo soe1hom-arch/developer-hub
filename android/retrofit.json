@@ -1,0 +1,25 @@
+{
+  "id": "retrofit",
+  "name": "Retrofit",
+  "category": "android",
+  "description": "Type-safe HTTP client for Android and Java with automatic request serialization and response parsing",
+  "official_website": "https://square.github.io/retrofit",
+  "documentation": "https://square.github.io/retrofit",
+  "github_repository": "https://github.com/square/retrofit",
+  "license": "Apache-2.0",
+  "latest_version": "2.11.0",
+  "programming_languages": ["Java", "Kotlin"],
+  "platforms": ["Android", "Linux", "macOS", "Windows"],
+  "package_manager": "gradle",
+  "installation_examples": {
+    "gradle": "implementation 'com.squareup.retrofit2:retrofit:2.11.0'"
+  },
+  "tags": ["android", "http", "client", "networking", "api", "square"],
+  "alternatives": ["OkHttp", "Ktor", "Volley", "Fuel"],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

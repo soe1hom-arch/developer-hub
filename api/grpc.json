@@ -1,0 +1,32 @@
+{
+  "id": "grpc",
+  "name": "gRPC",
+  "category": "api",
+  "description": "High-performance RPC framework using Protocol Buffers for microservices",
+  "official_website": "https://grpc.io",
+  "documentation": "https://grpc.io/docs",
+  "github_repository": "https://github.com/grpc",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install grpc"
+  },
+  "tags": [
+    "api",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

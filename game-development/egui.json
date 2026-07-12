@@ -1,0 +1,45 @@
+{
+  "id": "egui",
+  "name": "egui",
+  "category": "game-development",
+  "description": "egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native",
+  "official_website": "https://www.egui.rs/",
+  "documentation": "https://github.com/emilk/egui#readme",
+  "github_repository": "https://github.com/emilk/egui",
+  "license": "Apache-2.0",
+  "latest_version": "main",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "egui",
+    "game-development",
+    "gamedev",
+    "gui",
+    "imgui",
+    "rust",
+    "wasm"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 29617,
+    "forks": 2064,
+    "open_issues": 1112,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

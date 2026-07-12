@@ -1,0 +1,19 @@
+{
+  "id": "jenkins",
+  "name": "Jenkins",
+  "category": "devops",
+  "description": "Leading open-source automation server for CI/CD with extensive plugin ecosystem",
+  "official_website": "https://jenkins.io",
+  "documentation": "https://www.jenkins.io/doc",
+  "github_repository": "https://github.com/jenkinsci/jenkins",
+  "license": "MIT",
+  "latest_version": "2.462",
+  "programming_languages": ["Java", "Groovy"],
+  "platforms": ["Linux", "macOS", "Windows"],
+  "package_manager": "apt",
+  "installation_examples": {"docker": "docker run -d -p 8080:8080 -p 50000:50000 jenkins/jenkins:lts"},
+  "tags": ["devops", "ci/cd", "automation", "java", "pipeline"],
+  "alternatives": ["GitHub Actions", "GitLab CI", "CircleCI", "Travis CI"],
+  "popularity": 8, "maintained": true, "archived": false, "open_source": true,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

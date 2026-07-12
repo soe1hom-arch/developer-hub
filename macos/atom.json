@@ -1,0 +1,45 @@
+{
+  "id": "atom",
+  "name": "atom",
+  "category": "macos",
+  "description": ":atom: The hackable text editor",
+  "official_website": "https://atom.io",
+  "documentation": "https://github.com/atom/atom#readme",
+  "github_repository": "https://github.com/atom/atom",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "atom",
+    "editor",
+    "electron",
+    "javascript",
+    "linux",
+    "macos",
+    "windows"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": false,
+  "archived": true,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 60809,
+    "forks": 17199,
+    "open_issues": 994,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

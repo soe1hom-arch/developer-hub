@@ -1,0 +1,19 @@
+{
+  "id": "rabbitmq",
+  "name": "RabbitMQ",
+  "category": "backend",
+  "description": "Open-source message broker implementing AMQP for reliable asynchronous messaging between services",
+  "official_website": "https://rabbitmq.com",
+  "documentation": "https://rabbitmq.com/documentation.html",
+  "github_repository": "https://github.com/rabbitmq",
+  "license": "MPL-2.0",
+  "latest_version": "3.13.0",
+  "programming_languages": ["Erlang", "Python", "Java"],
+  "platforms": ["Linux", "macOS", "Windows"],
+  "package_manager": "apt",
+  "installation_examples": {"docker": "docker run -d --name rabbitmq -p 5672:5672 -p 15672:15672 rabbitmq:management"},
+  "tags": ["backend", "message-queue", "amqp", "async", "microservices"],
+  "alternatives": ["Apache Kafka", "NATS", "ZeroMQ", "Redis Pub/Sub"],
+  "popularity": 9, "maintained": true, "archived": false, "open_source": true,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

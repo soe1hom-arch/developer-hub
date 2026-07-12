@@ -1,0 +1,63 @@
+{
+  "id": "cvat",
+  "name": "CVAT",
+  "category": "ai",
+  "description": "Open-source computer vision annotation tool for image and video labeling",
+  "official_website": "https://cvat.ai",
+  "documentation": "https://docs.cvat.ai",
+  "github_repository": "https://github.com/cvat-ai/cvat",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Python",
+    "TypeScript",
+    "JavaScript",
+    "Mustache",
+    "SCSS"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install cvat"
+  },
+  "tags": [
+    "ai",
+    "tool",
+    "library",
+    "annotation",
+    "annotation-tool",
+    "annotations",
+    "boundingbox",
+    "computer-vision",
+    "computer-vision-annotation",
+    "dataset",
+    "deep-learning",
+    "image-annotation",
+    "image-classification",
+    "image-labeling",
+    "image-labelling-tool",
+    "imagenet",
+    "labeling",
+    "labeling-tool",
+    "object-detection",
+    "pytorch",
+    "semantic-segmentation",
+    "tensorflow",
+    "video-annotation"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 16265,
+    "forks": 3741,
+    "open_issues": 607,
+    "watchers": 182
+  }
+}

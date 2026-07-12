@@ -1,0 +1,33 @@
+{
+  "id": "react-hook-form",
+  "name": "React Hook Form",
+  "category": "libraries",
+  "description": "React form library with uncontrolled inputs and validation",
+  "official_website": "https://react-hook-form.com",
+  "documentation": "https://react-hook-form.com/get-started",
+  "github_repository": "https://github.com/react-hook-form",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install react-hook-form"
+  },
+  "tags": [
+    "libraries",
+    "tool",
+    "library"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

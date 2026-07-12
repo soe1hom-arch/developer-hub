@@ -1,0 +1,33 @@
+{
+  "id": "dotnet-maui",
+  "name": ".NET MAUI",
+  "category": "frameworks",
+  "description": "Cross-platform framework for creating native mobile and desktop apps with C#",
+  "official_website": "https://dotnet.microsoft.com/apps/maui",
+  "documentation": "https://learn.microsoft.com/dotnet/maui",
+  "github_repository": "https://github.com/microsoft",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install dotnet-maui"
+  },
+  "tags": [
+    "frameworks",
+    "tool",
+    "library"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

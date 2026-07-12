@@ -1,0 +1,26 @@
+{
+  "id": "react",
+  "name": "React",
+  "category": "frontend",
+  "description": "A JavaScript library for building user interfaces",
+  "official_website": "https://react.dev",
+  "documentation": "https://react.dev/reference/react",
+  "github_repository": "https://github.com/facebook/react",
+  "license": "MIT",
+  "latest_version": "18.3.1",
+  "programming_languages": ["JavaScript", "TypeScript"],
+  "platforms": ["Web", "Mobile", "Desktop"],
+  "package_manager": "npm",
+  "installation_examples": {
+    "npm": "npm install react react-dom",
+    "yarn": "yarn add react react-dom"
+  },
+  "tags": ["ui", "components", "virtual-dom", "jsx", "frontend", "spa"],
+  "alternatives": ["Vue", "Angular", "Svelte", "Solid", "Preact"],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

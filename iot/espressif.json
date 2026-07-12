@@ -1,0 +1,19 @@
+{
+  "id": "espressif",
+  "name": "ESP-IDF (Espressif)",
+  "category": "iot",
+  "description": "Official IoT development framework for Espressif ESP32 and ESP8266 microcontrollers",
+  "official_website": "https://espressif.com",
+  "documentation": "https://docs.espressif.com/projects/esp-idf",
+  "github_repository": "https://github.com/espressif/esp-idf",
+  "license": "Apache-2.0",
+  "latest_version": "5.2.2",
+  "programming_languages": ["C", "C++", "Python"],
+  "platforms": ["ESP32", "ESP8266", "Embedded"],
+  "package_manager": "pip",
+  "installation_examples": {"pip": "pip install esptool"},
+  "tags": ["iot", "embedded", "esp32", "microcontroller", "firmware"],
+  "alternatives": ["Arduino", "PlatformIO", "Zephyr", "FreeRTOS"],
+  "popularity": 9, "maintained": true, "archived": false, "open_source": true,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

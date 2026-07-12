@@ -1,0 +1,45 @@
+{
+  "id": "openclaw",
+  "name": "openclaw",
+  "category": "ai",
+  "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \ud83e\udd9e",
+  "official_website": "https://openclaw.ai",
+  "documentation": "https://github.com/openclaw/openclaw#readme",
+  "github_repository": "https://github.com/openclaw/openclaw",
+  "license": "NOASSERTION",
+  "latest_version": "main",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "ai",
+    "assistant",
+    "crustacean",
+    "molty",
+    "openclaw",
+    "own-your-data",
+    "personal"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 382641,
+    "forks": 80305,
+    "open_issues": 6394,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

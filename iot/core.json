@@ -1,0 +1,46 @@
+{
+  "id": "core",
+  "name": "core",
+  "category": "iot",
+  "description": ":house_with_garden: Open source home automation that puts local control and privacy first.",
+  "official_website": "https://www.home-assistant.io",
+  "documentation": "https://github.com/home-assistant/core#readme",
+  "github_repository": "https://github.com/home-assistant/core",
+  "license": "Apache-2.0",
+  "latest_version": "dev",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "asyncio",
+    "hacktoberfest",
+    "home-automation",
+    "internet-of-things",
+    "iot",
+    "mqtt",
+    "python",
+    "raspberry-pi"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 88766,
+    "forks": 38053,
+    "open_issues": 3342,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "free-rasp-android",
+  "name": "Free-RASP-Android",
+  "category": "android-tools",
+  "description": "SDK providing threat detection and security monitoring for Android devices. Shield your app with free RASP for Android. Detect reverse engineering, root (Magisk), jailbreak, Frida, emulators, bots, ta",
+  "official_website": "https://docs.talsec.app/freerasp?utm_source=github",
+  "documentation": "https://github.com/talsec/Free-RASP-Android#readme",
+  "github_repository": "https://github.com/talsec/Free-RASP-Android",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "Kotlin"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "tags": [
+    "android",
+    "android-app-shielding",
+    "android-library",
+    "android-rasp",
+    "android-security",
+    "android-tools",
+    "freerasp",
+    "frida"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 252,
+    "forks": 22,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

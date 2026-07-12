@@ -1,0 +1,19 @@
+{
+  "id": "deno",
+  "name": "Deno",
+  "category": "web",
+  "description": "Secure JavaScript and TypeScript runtime built on V8 with built-in TypeScript support and modern APIs",
+  "official_website": "https://deno.com",
+  "documentation": "https://docs.deno.com",
+  "github_repository": "https://github.com/denoland/deno",
+  "license": "MIT",
+  "latest_version": "1.45.0",
+  "programming_languages": ["TypeScript", "JavaScript", "Rust"],
+  "platforms": ["Linux", "macOS", "Windows"],
+  "package_manager": "deno",
+  "installation_examples": {"curl": "curl -fsSL https://deno.land/install.sh | sh", "brew": "brew install deno"},
+  "tags": ["runtime", "javascript", "typescript", "secure", "modern"],
+  "alternatives": ["Node.js", "Bun", "Python"],
+  "popularity": 7, "maintained": true, "archived": false, "open_source": true,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

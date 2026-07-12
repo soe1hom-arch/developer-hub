@@ -1,0 +1,19 @@
+{
+  "id": "espresso",
+  "name": "Espresso",
+  "category": "android",
+  "description": "UI testing framework for Android for writing reliable and concise UI tests",
+  "official_website": "https://developer.android.com/training/testing/espresso",
+  "documentation": "https://developer.android.com/training/testing/espresso",
+  "github_repository": "https://github.com/android/android-test",
+  "license": "Apache-2.0",
+  "latest_version": "3.6.1",
+  "programming_languages": ["Java", "Kotlin"],
+  "platforms": ["Android"],
+  "package_manager": "gradle",
+  "installation_examples": {"gradle": "androidTestImplementation 'androidx.test.espresso:espresso-core:3.6.1'"},
+  "tags": ["android", "testing", "ui-test", "automation"],
+  "alternatives": ["Compose UI Test", "Robotium", "Appium"],
+  "popularity": 9, "maintained": true, "archived": false, "open_source": true,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

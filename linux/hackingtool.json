@@ -1,0 +1,46 @@
+{
+  "id": "hackingtool",
+  "name": "hackingtool",
+  "category": "linux",
+  "description": "ALL IN ONE Hacking Tool For Hackers",
+  "official_website": "https://github.com/Z4nzu/hackingtool",
+  "documentation": "https://github.com/Z4nzu/hackingtool#readme",
+  "github_repository": "https://github.com/Z4nzu/hackingtool",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "allinonehackingtool",
+    "besthackingtool",
+    "ctf-tools",
+    "ddos-attack-tool",
+    "hacker",
+    "hacking",
+    "linux",
+    "password-attack"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 78210,
+    "forks": 8883,
+    "open_issues": 120,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

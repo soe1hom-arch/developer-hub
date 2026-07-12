@@ -1,0 +1,46 @@
+{
+  "id": "mitmproxy",
+  "name": "mitmproxy",
+  "category": "security",
+  "description": "An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.",
+  "official_website": "https://mitmproxy.org",
+  "documentation": "https://github.com/mitmproxy/mitmproxy#readme",
+  "github_repository": "https://github.com/mitmproxy/mitmproxy",
+  "license": "MIT",
+  "latest_version": "main",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "debugging",
+    "http",
+    "http2",
+    "man-in-the-middle",
+    "mitmproxy",
+    "proxy",
+    "python",
+    "security"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 44254,
+    "forks": 4623,
+    "open_issues": 458,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

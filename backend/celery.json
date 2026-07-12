@@ -1,0 +1,57 @@
+{
+  "id": "celery",
+  "name": "Celery",
+  "category": "backend",
+  "description": "Distributed task queue for Python async job processing and scheduling",
+  "official_website": "https://docs.celeryq.dev",
+  "documentation": "https://docs.celeryq.dev",
+  "github_repository": "https://github.com/celery/celery",
+  "license": "NOASSERTION",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Python",
+    "Shell",
+    "Dockerfile",
+    "Makefile",
+    "Batchfile"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install celery"
+  },
+  "tags": [
+    "backend",
+    "tool",
+    "library",
+    "amqp",
+    "python",
+    "python-library",
+    "python3",
+    "queue-tasks",
+    "queue-workers",
+    "queued-jobs",
+    "redis",
+    "redis-queue",
+    "sqs",
+    "sqs-queue",
+    "task-manager",
+    "task-runner",
+    "task-scheduler"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 28678,
+    "forks": 5099,
+    "open_issues": 786,
+    "watchers": 451
+  }
+}

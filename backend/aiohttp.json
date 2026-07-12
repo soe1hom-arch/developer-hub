@@ -1,0 +1,32 @@
+{
+  "id": "aiohttp",
+  "name": "aiohttp",
+  "category": "backend",
+  "description": "Async HTTP client/server framework for asyncio Python",
+  "official_website": "https://docs.aiohttp.org",
+  "documentation": "https://docs.aiohttp.org",
+  "github_repository": "https://github.com/aiohttp",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install aiohttp"
+  },
+  "tags": [
+    "backend",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

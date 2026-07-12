@@ -1,0 +1,26 @@
+{
+  "id": "firebase",
+  "name": "Firebase",
+  "category": "cloud",
+  "description": "Google's app development platform with authentication, database, storage, hosting, and serverless functions",
+  "official_website": "https://firebase.google.com",
+  "documentation": "https://firebase.google.com/docs",
+  "github_repository": "https://github.com/firebase",
+  "license": "Proprietary",
+  "latest_version": "N/A",
+  "programming_languages": ["TypeScript", "JavaScript", "Kotlin", "Swift", "Python"],
+  "platforms": ["Cloud", "Android", "iOS", "Web"],
+  "package_manager": "npm",
+  "installation_examples": {
+    "npm": "npm install firebase",
+    "pip": "pip install firebase-admin"
+  },
+  "tags": ["cloud", "baas", "database", "authentication", "hosting", "google"],
+  "alternatives": ["Supabase", "Appwrite", "PocketBase", "Nhost"],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": false,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

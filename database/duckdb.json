@@ -1,0 +1,19 @@
+{
+  "id": "duckdb",
+  "name": "DuckDB",
+  "category": "database",
+  "description": "In-process SQL OLAP database for analytical query workloads with zero external dependencies",
+  "official_website": "https://duckdb.org",
+  "documentation": "https://duckdb.org/docs",
+  "github_repository": "https://github.com/duckdb/duckdb",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": ["C++", "Python"],
+  "platforms": ["Linux", "macOS", "Windows"],
+  "package_manager": "pip",
+  "installation_examples": {"pip": "pip install duckdb"},
+  "tags": ["database", "sql", "olap", "analytics", "embedded", "in-process"],
+  "alternatives": ["SQLite", "ClickHouse", "Apache Spark", "Polars"],
+  "popularity": 9, "maintained": true, "archived": false, "open_source": true,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

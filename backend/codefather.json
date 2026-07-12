@@ -1,0 +1,42 @@
+{
+  "id": "codefather",
+  "name": "codefather",
+  "category": "backend",
+  "description": "\u7a0b\u5e8f\u5458\u9c7c\u76ae\u7684\u7f16\u7a0b\u5b9d\u5178 \u2b50\ufe0f 2026\u5e74\u6700\u5168\u7f16\u7a0b\u5b66\u4e60\u8def\u7ebf\u56fe\uff01\u5305\u542bJava\u5b66\u4e60\u8def\u7ebf\u3001\u524d\u7aef\u5b66\u4e60\u8def\u7ebf\u3001Python\u5b66\u4e60\u8def\u7ebf\u3001C++\u5b66\u4e60\u8def\u7ebf\u3001\u7b97\u6cd5\u5b66\u4e60\u8def\u7ebf\u3001\u8ba1\u7b97\u673a\u57fa\u7840\u5b66\u4e60\u8def\u7ebf\u3001AI\u5e94\u7528\u5f00\u53d1\u5b66\u4e60\u8def\u7ebf\u3001AI Agent\u5f00\u53d1\u5b66\u4e60\u8def\u7ebf\u7b49\u3002\u63d0\u4f9b\u7f16\u7a0b\u5165\u95e8\u6559\u7a0b\u3001AI\u5927\u6a21\u578b\u5e94\u7528\u5f00\u53d1\u6559\u7a0b\u3001RAG\u5f00\u53d1\u5b9e\u6218\u3001MCP\u5f00\u53d1\u6559\u7a0b\u3001Prompt\u5de5\u7a0b\u6307\u5357\u3001LLM\u5e94\u7528\u5f00\u53d1\u3001\u6280\u672f\u77e5\u8bc6\u5206\u4eab\u3001\u5b66\u4e60\u8d44\u6e90\u63a8\u8350\u3001\u9879\u76ee\u5b9e\u6218\u6559\u7a0b\u3001\u70ed\u95e8\u9762\u8bd5\u9898\u3001\u6c42\u804c\u7ecf\u9a8c\u3001\u7b80\u5386",
+  "official_website": "https://codefather.cn",
+  "documentation": "https://github.com/liyupi/codefather#readme",
+  "github_repository": "https://github.com/liyupi/codefather",
+  "license": "MIT",
+  "latest_version": "main",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux"
+  ],
+  "tags": [
+    "ai",
+    "ai-agents",
+    "algorithm",
+    "backend",
+    "cpp",
+    "frontend",
+    "go",
+    "java"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 7925,
+    "forks": 1304,
+    "open_issues": 23,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

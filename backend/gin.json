@@ -1,0 +1,19 @@
+{
+  "id": "gin",
+  "name": "Gin",
+  "category": "backend",
+  "description": "Fast HTTP web framework for Go with middleware support and JSON validation",
+  "official_website": "https://gin-gonic.com",
+  "documentation": "https://gin-gonic.com/docs",
+  "github_repository": "https://github.com/gin-gonic/gin",
+  "license": "MIT",
+  "latest_version": "1.10.0",
+  "programming_languages": ["Go"],
+  "platforms": ["Linux", "macOS", "Windows"],
+  "package_manager": "go mod",
+  "installation_examples": {"go": "go get -u github.com/gin-gonic/gin"},
+  "tags": ["backend", "web", "framework", "go", "http", "api"],
+  "alternatives": ["Echo", "Fiber", "Chi", "FastHTTP"],
+  "popularity": 9, "maintained": true, "archived": false, "open_source": true,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

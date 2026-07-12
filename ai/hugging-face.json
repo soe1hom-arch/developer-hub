@@ -1,0 +1,26 @@
+{
+  "id": "hugging-face",
+  "name": "Hugging Face",
+  "category": "ai",
+  "description": "Platform for machine learning with model hosting, datasets, Spaces apps, and the Transformers library",
+  "official_website": "https://huggingface.co",
+  "documentation": "https://huggingface.co/docs",
+  "github_repository": "https://github.com/huggingface",
+  "license": "Apache-2.0",
+  "latest_version": "4.42.0",
+  "programming_languages": ["Python", "JavaScript", "Rust"],
+  "platforms": ["Cloud", "Web", "Linux", "macOS", "Windows"],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install transformers",
+    "conda": "conda install -c huggingface transformers"
+  },
+  "tags": ["ai", "machine-learning", "nlp", "models", "datasets", "community"],
+  "alternatives": ["Replicate", "GitHub Models", "Modal", "Banana"],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "python",
+  "name": "Python",
+  "category": "languages",
+  "description": "High-level, general-purpose programming language emphasizing code readability and simplicity",
+  "official_website": "https://python.org",
+  "documentation": "https://docs.python.org",
+  "github_repository": "https://github.com/python/cpython",
+  "license": "Python-2.0",
+  "latest_version": "3.12.4",
+  "programming_languages": ["Python", "C"],
+  "platforms": ["Linux", "macOS", "Windows"],
+  "package_manager": "pip",
+  "installation_examples": {
+    "apt": "sudo apt install python3",
+    "brew": "brew install python",
+    "choco": "choco install python"
+  },
+  "tags": ["programming-language", "interpreted", "general-purpose", "scripting"],
+  "alternatives": ["JavaScript", "Ruby", "Go", "Rust"],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

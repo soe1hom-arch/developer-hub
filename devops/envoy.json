@@ -1,0 +1,32 @@
+{
+  "id": "envoy",
+  "name": "Envoy Proxy",
+  "category": "devops",
+  "description": "High-performance L7 proxy and communication bus for microservices",
+  "official_website": "https://envoyproxy.io",
+  "documentation": "https://www.envoyproxy.io/docs",
+  "github_repository": "https://github.com/envoyproxy",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install envoy"
+  },
+  "tags": [
+    "devops",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

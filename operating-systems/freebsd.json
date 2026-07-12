@@ -1,0 +1,25 @@
+{
+  "id": "freebsd",
+  "name": "FreeBSD",
+  "category": "operating-systems",
+  "description": "Advanced UNIX-like operating system known for performance, security, and networking features",
+  "official_website": "https://freebsd.org",
+  "documentation": "https://freebsd.org/doc",
+  "github_repository": "https://github.com/freebsd/freebsd-src",
+  "license": "BSD-2-Clause",
+  "latest_version": "14.1",
+  "programming_languages": ["C", "Assembly"],
+  "platforms": ["x86_64", "ARM", "RISC-V", "PowerPC"],
+  "package_manager": "pkg",
+  "installation_examples": {
+    "iso": "dd if=FreeBSD-14.1.iso of=/dev/sdX bs=1M"
+  },
+  "tags": ["unix", "operating-system", "bsd", "server", "networking"],
+  "alternatives": ["Linux", "OpenBSD", "NetBSD", "illumos"],
+  "popularity": 7,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

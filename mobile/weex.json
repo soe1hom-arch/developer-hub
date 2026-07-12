@@ -1,0 +1,42 @@
+{
+  "id": "weex",
+  "name": "weex",
+  "category": "mobile",
+  "description": "A framework for building Mobile cross-platform UI",
+  "official_website": "https://weexapp.com/",
+  "documentation": "https://github.com/alibaba/weex#readme",
+  "github_repository": "https://github.com/alibaba/weex",
+  "license": "Apache-2.0",
+  "latest_version": "master",
+  "programming_languages": [
+    "C++"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "android",
+    "ios",
+    "mobile",
+    "sdk",
+    "web",
+    "weex"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 18536,
+    "forks": 2122,
+    "open_issues": 65,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

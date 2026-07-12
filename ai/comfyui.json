@@ -1,0 +1,44 @@
+{
+  "id": "comfyui",
+  "name": "ComfyUI",
+  "category": "ai",
+  "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
+  "official_website": "https://www.comfy.org/",
+  "documentation": "https://github.com/Comfy-Org/ComfyUI#readme",
+  "github_repository": "https://github.com/Comfy-Org/ComfyUI",
+  "license": "GPL-3.0",
+  "latest_version": "master",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "ai",
+    "comfy",
+    "comfyui",
+    "python",
+    "pytorch",
+    "stable-diffusion"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 120409,
+    "forks": 14158,
+    "open_issues": 4266,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

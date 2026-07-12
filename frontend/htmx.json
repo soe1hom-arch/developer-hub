@@ -1,0 +1,49 @@
+{
+  "id": "htmx",
+  "name": "htmx",
+  "category": "frontend",
+  "description": "JavaScript library for accessing AJAX and CSS transitions directly in HTML",
+  "official_website": "https://htmx.org",
+  "documentation": "https://htmx.org/docs",
+  "github_repository": "https://github.com/bigskysoftware/htmx",
+  "license": "NOASSERTION",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "TypeScript",
+    "Ruby"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install htmx"
+  },
+  "tags": [
+    "frontend",
+    "tool",
+    "library",
+    "hateoas",
+    "html",
+    "htmx",
+    "hyperscript",
+    "javascript",
+    "rest"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 48432,
+    "forks": 1611,
+    "open_issues": 663,
+    "watchers": 211
+  }
+}

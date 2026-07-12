@@ -1,0 +1,27 @@
+{
+  "id": "gradle",
+  "name": "Gradle",
+  "category": "tools",
+  "description": "Build automation tool for multi-language software development, especially for JVM projects",
+  "official_website": "https://gradle.org",
+  "documentation": "https://docs.gradle.org",
+  "github_repository": "https://github.com/gradle/gradle",
+  "license": "Apache-2.0",
+  "latest_version": "8.8",
+  "programming_languages": ["Java", "Groovy", "Kotlin"],
+  "platforms": ["Linux", "macOS", "Windows"],
+  "package_manager": "sdkman",
+  "installation_examples": {
+    "sdkman": "sdk install gradle",
+    "brew": "brew install gradle",
+    "choco": "choco install gradle"
+  },
+  "tags": ["build-tool", "java", "kotlin", "automation", "jvm"],
+  "alternatives": ["Maven", "Bazel", "Ant", "Mill"],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

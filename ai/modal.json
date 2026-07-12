@@ -1,0 +1,47 @@
+{
+  "id": "modal",
+  "name": "Modal",
+  "category": "ai",
+  "description": "Cloud platform for serverless GPU compute and AI model deployment",
+  "official_website": "https://modal.com",
+  "documentation": "https://modal.com/docs",
+  "github_repository": "https://github.com/helix-editor/helix",
+  "license": "MPL-2.0",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Rust",
+    "Tree-sitter Query",
+    "Handlebars",
+    "Nix",
+    "CSS"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install modal"
+  },
+  "tags": [
+    "ai",
+    "tool",
+    "library",
+    "kakoune",
+    "rust",
+    "text-editor",
+    "vim"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 45320,
+    "forks": 3615,
+    "open_issues": 1528,
+    "watchers": 216
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "pytorch",
+  "name": "PyTorch",
+  "category": "ai",
+  "description": "Open source machine learning framework that accelerates the path from research to production",
+  "official_website": "https://pytorch.org",
+  "documentation": "https://pytorch.org/docs",
+  "github_repository": "https://github.com/pytorch/pytorch",
+  "license": "BSD-3-Clause",
+  "latest_version": "2.3.0",
+  "programming_languages": ["Python", "C++", "CUDA"],
+  "platforms": ["Linux", "macOS", "Windows"],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install torch torchvision torchaudio",
+    "conda": "conda install pytorch torchvision torchaudio -c pytorch"
+  },
+  "tags": ["machine-learning", "deep-learning", "neural-networks", "ml", "research"],
+  "alternatives": ["TensorFlow", "JAX", "Keras", "MXNet"],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

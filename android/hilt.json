@@ -1,0 +1,25 @@
+{
+  "id": "hilt",
+  "name": "Hilt",
+  "category": "android",
+  "description": "Dependency injection library for Android that reduces boilerplate of manual DI with Dagger",
+  "official_website": "https://developer.android.com/training/dependency-injection/hilt-android",
+  "documentation": "https://developer.android.com/training/dependency-injection/hilt-android",
+  "github_repository": "https://github.com/google/dagger",
+  "license": "Apache-2.0",
+  "latest_version": "2.51.1",
+  "programming_languages": ["Java", "Kotlin"],
+  "platforms": ["Android"],
+  "package_manager": "gradle",
+  "installation_examples": {
+    "gradle": "implementation 'com.google.dagger:hilt-android:2.51.1'\nkapt 'com.google.dagger:hilt-compiler:2.51.1'"
+  },
+  "tags": ["android", "dependency-injection", "dagger", "jetpack", "di"],
+  "alternatives": ["Koin", "Kodein", "Dagger", "Manual DI"],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

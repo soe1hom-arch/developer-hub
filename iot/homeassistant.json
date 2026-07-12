@@ -1,0 +1,32 @@
+{
+  "id": "homeassistant",
+  "name": "Home Assistant",
+  "category": "iot",
+  "description": "Open-source home automation platform with local control and privacy",
+  "official_website": "https://home-assistant.io",
+  "documentation": "https://www.home-assistant.io/docs",
+  "github_repository": "https://github.com/home-assistant",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install homeassistant"
+  },
+  "tags": [
+    "iot",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

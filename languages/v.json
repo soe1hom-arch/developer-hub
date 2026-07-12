@@ -1,0 +1,42 @@
+{
+  "id": "v",
+  "name": "v",
+  "category": "languages",
+  "description": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation. https://vlang.io",
+  "official_website": "https://github.com/vlang/v",
+  "documentation": "https://github.com/vlang/v#readme",
+  "github_repository": "https://github.com/vlang/v",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "V"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "compiler",
+    "language",
+    "programming-language",
+    "v"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 37705,
+    "forks": 2254,
+    "open_issues": 56,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

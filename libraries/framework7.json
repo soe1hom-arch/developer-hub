@@ -1,0 +1,44 @@
+{
+  "id": "framework7",
+  "name": "framework7",
+  "category": "libraries",
+  "description": "Full featured HTML framework for building iOS & Android apps",
+  "official_website": "http://framework7.io",
+  "documentation": "https://github.com/framework7io/framework7#readme",
+  "github_repository": "https://github.com/framework7io/framework7",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "android",
+    "components",
+    "cordova",
+    "framework",
+    "ios",
+    "library",
+    "material",
+    "material-design"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 18702,
+    "forks": 3191,
+    "open_issues": 241,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

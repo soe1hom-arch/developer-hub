@@ -1,0 +1,46 @@
+{
+  "id": "gold-miner",
+  "name": "gold-miner",
+  "category": "frontend",
+  "description": "\ud83e\udd47\u6398\u91d1\u7ffb\u8bd1\u8ba1\u5212\uff0c\u53ef\u80fd\u662f\u4e16\u754c\u6700\u5927\u6700\u597d\u7684\u82f1\u8bd1\u4e2d\u6280\u672f\u793e\u533a\uff0c\u6700\u61c2\u8bfb\u8005\u548c\u8bd1\u8005\u7684\u7ffb\u8bd1\u5e73\u53f0\uff1a",
+  "official_website": "https://juejin.cn/tag/\u6398\u91d1\u7ffb\u8bd1\u8ba1\u5212",
+  "documentation": "https://github.com/xitu/gold-miner#readme",
+  "github_repository": "https://github.com/xitu/gold-miner",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "ai",
+    "android",
+    "frontend",
+    "ios",
+    "javascript",
+    "react",
+    "swift",
+    "tensorflow"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 34312,
+    "forks": 4990,
+    "open_issues": 15,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

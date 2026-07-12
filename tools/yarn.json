@@ -1,0 +1,19 @@
+{
+  "id": "yarn",
+  "name": "Yarn",
+  "category": "tools",
+  "description": "Fast, reliable, and secure dependency management for JavaScript with offline caching and workspaces",
+  "official_website": "https://yarnpkg.com",
+  "documentation": "https://yarnpkg.com/docs",
+  "github_repository": "https://github.com/yarnpkg/berry",
+  "license": "BSD-2-Clause",
+  "latest_version": "4.3.1",
+  "programming_languages": ["TypeScript", "JavaScript"],
+  "platforms": ["Linux", "macOS", "Windows"],
+  "package_manager": "npm",
+  "installation_examples": {"npm": "npm install -g yarn"},
+  "tags": ["tool", "package-manager", "javascript", "nodejs"],
+  "alternatives": ["npm", "pnpm", "Bun"],
+  "popularity": 8, "maintained": true, "archived": false, "open_source": true,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

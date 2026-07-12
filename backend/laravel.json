@@ -1,0 +1,26 @@
+{
+  "id": "laravel",
+  "name": "Laravel",
+  "category": "backend",
+  "description": "PHP web framework with elegant syntax for building modern, full-stack web applications",
+  "official_website": "https://laravel.com",
+  "documentation": "https://laravel.com/docs",
+  "github_repository": "https://github.com/laravel/laravel",
+  "license": "MIT",
+  "latest_version": "11.0",
+  "programming_languages": ["PHP", "JavaScript", "Blade"],
+  "platforms": ["Linux", "macOS", "Windows"],
+  "package_manager": "composer",
+  "installation_examples": {
+    "composer": "composer create-project laravel/laravel example-app",
+    "curl": "curl -s https://laravel.build/example-app | bash"
+  },
+  "tags": ["web", "framework", "php", "mvc", "full-stack", "eloquent"],
+  "alternatives": ["Django", "Ruby on Rails", "Symfony", "Spring Boot"],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

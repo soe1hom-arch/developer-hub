@@ -1,0 +1,50 @@
+{
+  "id": "turso",
+  "name": "Turso",
+  "category": "database",
+  "description": "Edge SQLite database with replication and HTTP access for serverless",
+  "official_website": "https://turso.tech",
+  "documentation": "https://turso.tech/docs",
+  "github_repository": "https://github.com/drizzle-team/drizzle-orm",
+  "license": "Apache-2.0",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "TypeScript",
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install turso"
+  },
+  "tags": [
+    "database",
+    "tool",
+    "library",
+    "bunjs",
+    "mysql",
+    "nodejs",
+    "orm",
+    "postgres",
+    "postgresql",
+    "sql",
+    "sqlite",
+    "turso",
+    "typescript"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 35109,
+    "forks": 1475,
+    "open_issues": 1885,
+    "watchers": 85
+  }
+}

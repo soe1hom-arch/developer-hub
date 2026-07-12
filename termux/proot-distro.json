@@ -1,0 +1,38 @@
+{
+  "id": "proot-distro",
+  "name": "proot-distro",
+  "category": "termux",
+  "description": "An utility for managing proot containers.",
+  "official_website": "https://github.com/termux/proot-distro",
+  "documentation": "https://github.com/termux/proot-distro#readme",
+  "github_repository": "https://github.com/termux/proot-distro",
+  "license": "GPL-3.0",
+  "latest_version": "master",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "tags": [
+    "linux",
+    "proot",
+    "proot-distro",
+    "python",
+    "termux"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 3258,
+    "forks": 404,
+    "open_issues": 3,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

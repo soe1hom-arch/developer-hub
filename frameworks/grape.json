@@ -1,0 +1,32 @@
+{
+  "id": "grape",
+  "name": "Grape API",
+  "category": "frameworks",
+  "description": "Ruby framework for building RESTful APIs with minimal overhead",
+  "official_website": "https://github.com/ruby-grape/grape",
+  "documentation": "https://www.rubydoc.info/github/ruby-grape/grape",
+  "github_repository": "https://github.com/github",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install grape"
+  },
+  "tags": [
+    "frameworks",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

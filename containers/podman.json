@@ -1,0 +1,19 @@
+{
+  "id": "podman",
+  "name": "Podman",
+  "category": "containers",
+  "description": "Daemonless container engine for running OCI containers with pod support and rootless operation",
+  "official_website": "https://podman.io",
+  "documentation": "https://podman.io/docs",
+  "github_repository": "https://github.com/containers/podman",
+  "license": "Apache-2.0",
+  "latest_version": "5.1.0",
+  "programming_languages": ["Go"],
+  "platforms": ["Linux", "macOS", "Windows"],
+  "package_manager": "apt",
+  "installation_examples": {"apt": "sudo apt install podman"},
+  "tags": ["containers", "docker-alternative", "rootless", "devops"],
+  "alternatives": ["Docker", "containerd", "LXC"],
+  "popularity": 8, "maintained": true, "archived": false, "open_source": true,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

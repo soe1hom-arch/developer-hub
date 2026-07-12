@@ -1,0 +1,40 @@
+{
+  "id": "aws-cli",
+  "name": "aws-cli",
+  "category": "cloud",
+  "description": "Universal Command Line Interface for Amazon Web Services",
+  "official_website": "https://github.com/aws/aws-cli",
+  "documentation": "https://github.com/aws/aws-cli#readme",
+  "github_repository": "https://github.com/aws/aws-cli",
+  "license": "NOASSERTION",
+  "latest_version": "develop",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "aws",
+    "aws-cli",
+    "cloud",
+    "cloud-management"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 17115,
+    "forks": 4597,
+    "open_issues": 664,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

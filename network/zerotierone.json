@@ -1,0 +1,43 @@
+{
+  "id": "zerotierone",
+  "name": "ZeroTierOne",
+  "category": "network",
+  "description": "A Smart Ethernet Switch for Earth",
+  "official_website": "https://zerotier.com",
+  "documentation": "https://github.com/zerotier/ZeroTierOne#readme",
+  "github_repository": "https://github.com/zerotier/ZeroTierOne",
+  "license": "NOASSERTION",
+  "latest_version": "dev",
+  "programming_languages": [
+    "C++"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "decentralization",
+    "networking",
+    "peer-to-peer",
+    "sd-wan",
+    "sdn",
+    "virtual-network",
+    "vpn"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 16915,
+    "forks": 1952,
+    "open_issues": 391,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

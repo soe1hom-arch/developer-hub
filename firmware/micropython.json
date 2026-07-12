@@ -1,0 +1,32 @@
+{
+  "id": "micropython",
+  "name": "MicroPython",
+  "category": "firmware",
+  "description": "Lean implementation of Python 3 optimized for microcontrollers",
+  "official_website": "https://micropython.org",
+  "documentation": "https://docs.micropython.org",
+  "github_repository": "https://github.com/micropython",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install micropython"
+  },
+  "tags": [
+    "firmware",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

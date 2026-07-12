@@ -1,0 +1,32 @@
+{
+  "id": "tornado",
+  "name": "Tornado",
+  "category": "backend",
+  "description": "Python web framework with non-blocking I/O for real-time services",
+  "official_website": "https://tornadoweb.org",
+  "documentation": "https://tornadoweb.org/en/stable",
+  "github_repository": "https://github.com/tornadoweb",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install tornado"
+  },
+  "tags": [
+    "backend",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "polars",
+  "name": "Polars",
+  "category": "libraries",
+  "description": "Lightning-fast DataFrame library for Python and Rust with lazy evaluation and multithreading",
+  "official_website": "https://pola.rs",
+  "documentation": "https://docs.pola.rs",
+  "github_repository": "https://github.com/pola-rs/polars",
+  "license": "MIT",
+  "latest_version": "1.1.0",
+  "programming_languages": ["Rust", "Python"],
+  "platforms": ["Linux", "macOS", "Windows"],
+  "package_manager": "pip",
+  "installation_examples": {"pip": "pip install polars"},
+  "tags": ["python", "dataframe", "analytics", "rust", "fast"],
+  "alternatives": ["Pandas", "Dask", "Vaex", "Spark"],
+  "popularity": 9, "maintained": true, "archived": false, "open_source": true,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "cilium",
+  "name": "cilium",
+  "category": "containers",
+  "description": "eBPF-based Networking, Security, and Observability",
+  "official_website": "https://cilium.io",
+  "documentation": "https://github.com/cilium/cilium#readme",
+  "github_repository": "https://github.com/cilium/cilium",
+  "license": "Apache-2.0",
+  "latest_version": "main",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android"
+  ],
+  "tags": [
+    "bpf",
+    "cncf",
+    "cni",
+    "containers",
+    "ebpf",
+    "k8s",
+    "kernel",
+    "kubernetes"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 24703,
+    "forks": 3887,
+    "open_issues": 1048,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

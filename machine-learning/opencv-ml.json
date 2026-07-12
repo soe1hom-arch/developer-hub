@@ -1,0 +1,19 @@
+{
+  "id": "opencv-ml",
+  "name": "OpenCV for ML",
+  "category": "machine-learning",
+  "description": "Machine learning module within OpenCV providing clustering, classification, and neural network APIs",
+  "official_website": "https://docs.opencv.org/master/d6/d6a/group__ml.html",
+  "documentation": "https://docs.opencv.org/master/d6/d6a/group__ml.html",
+  "github_repository": "https://github.com/opencv/opencv",
+  "license": "Apache-2.0",
+  "latest_version": "4.9.0",
+  "programming_languages": ["C++", "Python"],
+  "platforms": ["Linux", "macOS", "Windows"],
+  "package_manager": "pip",
+  "installation_examples": {"pip": "pip install opencv-contrib-python"},
+  "tags": ["machine-learning", "computer-vision", "classification", "clustering"],
+  "alternatives": ["scikit-learn", "Dlib", "MLlib"],
+  "popularity": 7, "maintained": true, "archived": false, "open_source": true,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

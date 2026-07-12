@@ -1,0 +1,25 @@
+{
+  "id": "ethereum",
+  "name": "Ethereum",
+  "category": "blockchain",
+  "description": "Decentralized blockchain platform with smart contract functionality for building dApps",
+  "official_website": "https://ethereum.org",
+  "documentation": "https://ethereum.org/developers",
+  "github_repository": "https://github.com/ethereum",
+  "license": "MIT",
+  "latest_version": "Shanghai/Capella",
+  "programming_languages": ["Solidity", "Vyper", "Go", "Rust", "TypeScript"],
+  "platforms": ["Linux", "macOS", "Windows"],
+  "package_manager": "npm",
+  "installation_examples": {
+    "npm": "npm install ethers"
+  },
+  "tags": ["blockchain", "smart-contracts", "dapp", "web3", "evm"],
+  "alternatives": ["Solana", "Polygon", "Avalanche", "Cardano"],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "qwik",
+  "name": "Qwik",
+  "category": "frontend",
+  "description": "Resumable web framework for instant loading applications",
+  "official_website": "https://qwik.dev",
+  "documentation": "https://qwik.dev/docs",
+  "github_repository": "https://github.com/QwikDev/qwik",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "TypeScript",
+    "MDX",
+    "JavaScript",
+    "Rust",
+    "CSS"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install qwik"
+  },
+  "tags": [
+    "frontend",
+    "tool",
+    "library",
+    "framework",
+    "hacktoberfest",
+    "javascript",
+    "web"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 22036,
+    "forks": 1392,
+    "open_issues": 149,
+    "watchers": 130
+  }
+}

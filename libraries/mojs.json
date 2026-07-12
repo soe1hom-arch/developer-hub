@@ -1,0 +1,44 @@
+{
+  "id": "mojs",
+  "name": "mojs",
+  "category": "libraries",
+  "description": "The motion graphics toolbelt for the web",
+  "official_website": "https://mojs.github.io",
+  "documentation": "https://github.com/mojs/mojs#readme",
+  "github_repository": "https://github.com/mojs/mojs",
+  "license": "MIT",
+  "latest_version": "main",
+  "programming_languages": [
+    "CoffeeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "animation",
+    "burst",
+    "design",
+    "es6",
+    "graphics",
+    "javascript",
+    "library",
+    "mo-js"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 18723,
+    "forks": 887,
+    "open_issues": 37,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

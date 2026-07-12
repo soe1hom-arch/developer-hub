@@ -1,0 +1,44 @@
+{
+  "id": "pyxel",
+  "name": "pyxel",
+  "category": "game-development",
+  "description": "A retro game engine for Python",
+  "official_website": "https://github.com/kitao/pyxel",
+  "documentation": "https://github.com/kitao/pyxel#readme",
+  "github_repository": "https://github.com/kitao/pyxel",
+  "license": "NOASSERTION",
+  "latest_version": "main",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "game",
+    "game-development",
+    "game-engine",
+    "gamedev",
+    "graphics",
+    "html",
+    "opengl",
+    "pico-8"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 17575,
+    "forks": 928,
+    "open_issues": 9,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "barba",
+  "name": "barba",
+  "category": "libraries",
+  "description": "Create badass, fluid and smooth transitions between your website\u2019s pages",
+  "official_website": "https://barba.js.org/",
+  "documentation": "https://github.com/barbajs/barba#readme",
+  "github_repository": "https://github.com/barbajs/barba",
+  "license": "MIT",
+  "latest_version": "main",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS"
+  ],
+  "tags": [
+    "animation",
+    "barba",
+    "barbajs",
+    "css",
+    "fluid",
+    "library",
+    "page",
+    "page-transitions"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 12947,
+    "forks": 496,
+    "open_issues": 15,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

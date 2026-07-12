@@ -1,0 +1,43 @@
+{
+  "id": "nexe",
+  "name": "nexe",
+  "category": "binary",
+  "description": "\ud83c\udf89 create a single executable out of your node.js apps",
+  "official_website": "https://github.com/nexe/nexe",
+  "documentation": "https://github.com/nexe/nexe#readme",
+  "github_repository": "https://github.com/nexe/nexe",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS"
+  ],
+  "tags": [
+    "binaries",
+    "binary",
+    "bundle",
+    "bundler",
+    "cli",
+    "executable",
+    "javascript",
+    "nexe"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 13567,
+    "forks": 557,
+    "open_issues": 164,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

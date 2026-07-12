@@ -1,0 +1,45 @@
+{
+  "id": "ethereumbook",
+  "name": "ethereumbook",
+  "category": "blockchain",
+  "description": "Mastering Ethereum: 2nd Edition, by Andreas M. Antonopoulos, Gavin Wood, Carlo Parisi, Alessandro Mazza, Niccol\u00f2 Pozzolini",
+  "official_website": "https://masteringethereum.xyz/",
+  "documentation": "https://github.com/ethereumbook/ethereumbook#readme",
+  "github_repository": "https://github.com/ethereumbook/ethereumbook",
+  "license": "MIT",
+  "latest_version": "develop",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android"
+  ],
+  "tags": [
+    "blockchain",
+    "book",
+    "dapp",
+    "devp2p",
+    "embark",
+    "ethereum",
+    "oreilly",
+    "smart-contracts"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 21520,
+    "forks": 5180,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

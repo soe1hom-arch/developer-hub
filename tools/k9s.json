@@ -1,0 +1,50 @@
+{
+  "id": "k9s",
+  "name": "k9s",
+  "category": "tools",
+  "description": "Terminal UI for managing Kubernetes clusters interactively",
+  "official_website": "https://k9scli.io",
+  "documentation": "https://k9scli.io/topics",
+  "github_repository": "https://github.com/derailed/k9s",
+  "license": "Apache-2.0",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Go",
+    "Makefile",
+    "Dockerfile",
+    "Shell"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install k9s"
+  },
+  "tags": [
+    "tools",
+    "tool",
+    "library",
+    "go",
+    "golang",
+    "k8s",
+    "k8s-cluster",
+    "k9s",
+    "kubernetes",
+    "kubernetes-cli",
+    "kubernetes-clusters"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12",
+  "repository_statistics": {
+    "stars": 34112,
+    "forks": 2212,
+    "open_issues": 135,
+    "watchers": 152
+  }
+}

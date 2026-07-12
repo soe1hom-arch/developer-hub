@@ -1,0 +1,43 @@
+{
+  "id": "agno",
+  "name": "agno",
+  "category": "tools",
+  "description": "Build, run, and manage your own agent platform.",
+  "official_website": "https://docs.agno.com",
+  "documentation": "https://github.com/agno-agi/agno#readme",
+  "github_repository": "https://github.com/agno-agi/agno",
+  "license": "Apache-2.0",
+  "latest_version": "main",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "agents",
+    "ai",
+    "ai-agents",
+    "developer-tools",
+    "python"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 41105,
+    "forks": 5626,
+    "open_issues": 1011,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

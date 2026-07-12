@@ -1,0 +1,19 @@
+{
+  "id": "astro",
+  "name": "Astro",
+  "category": "frontend",
+  "description": "All-in-one web framework for building content-focused websites with partial hydration",
+  "official_website": "https://astro.build",
+  "documentation": "https://docs.astro.build",
+  "github_repository": "https://github.com/withastro/astro",
+  "license": "MIT",
+  "latest_version": "4.11.0",
+  "programming_languages": ["TypeScript", "JavaScript", "Astro"],
+  "platforms": ["Web"],
+  "package_manager": "npm",
+  "installation_examples": {"npm": "npm create astro@latest"},
+  "tags": ["web", "framework", "static-site", "ssg", "islands-architecture"],
+  "alternatives": ["Next.js", "Gatsby", "Hugo", "Jekyll", "11ty"],
+  "popularity": 9, "maintained": true, "archived": false, "open_source": true,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

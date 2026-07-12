@@ -1,0 +1,26 @@
+{
+  "id": "godot",
+  "name": "Godot Engine",
+  "category": "game-development",
+  "description": "Feature-packed, cross-platform game engine to create 2D and 3D games with a unique node-based architecture",
+  "official_website": "https://godotengine.org",
+  "documentation": "https://docs.godotengine.org",
+  "github_repository": "https://github.com/godotengine/godot",
+  "license": "MIT",
+  "latest_version": "4.3",
+  "programming_languages": ["C++", "GDScript", "C#"],
+  "platforms": ["Windows", "macOS", "Linux", "Android", "iOS", "Web"],
+  "package_manager": null,
+  "installation_examples": {
+    "brew": "brew install godot",
+    "download": "https://godotengine.org/download"
+  },
+  "tags": ["game-engine", "2d", "3d", "open-source", "cross-platform"],
+  "alternatives": ["Unity", "Unreal Engine", "CryEngine", "GameMaker"],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

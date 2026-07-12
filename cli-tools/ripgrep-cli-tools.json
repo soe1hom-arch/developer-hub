@@ -1,0 +1,46 @@
+{
+  "id": "ripgrep-cli-tools",
+  "name": "ripgrep",
+  "category": "cli-tools",
+  "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
+  "official_website": "https://github.com/BurntSushi/ripgrep",
+  "documentation": "https://github.com/BurntSushi/ripgrep#readme",
+  "github_repository": "https://github.com/BurntSushi/ripgrep",
+  "license": "Unlicense",
+  "latest_version": "master",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "cli",
+    "command-line",
+    "command-line-tool",
+    "gitignore",
+    "grep",
+    "recursively-search",
+    "regex",
+    "ripgrep"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 66043,
+    "forks": 2635,
+    "open_issues": 161,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

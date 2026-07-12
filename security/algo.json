@@ -1,0 +1,46 @@
+{
+  "id": "algo",
+  "name": "algo",
+  "category": "security",
+  "description": "Set up a personal VPN in the cloud",
+  "official_website": "https://blog.trailofbits.com/2016/12/12/meet-algo-the-vpn-that-works/",
+  "documentation": "https://github.com/trailofbits/algo#readme",
+  "github_repository": "https://github.com/trailofbits/algo",
+  "license": "AGPL-3.0",
+  "latest_version": "main",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "ansible",
+    "encryption",
+    "ikev2",
+    "ipsec",
+    "security",
+    "ssh-tunnel",
+    "strongswan",
+    "vpn"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 30312,
+    "forks": 2364,
+    "open_issues": 71,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

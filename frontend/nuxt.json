@@ -1,0 +1,19 @@
+{
+  "id": "nuxt",
+  "name": "Nuxt",
+  "category": "frontend",
+  "description": "Intuitive Vue framework for building SSR, SSG, and SPA applications with hybrid rendering",
+  "official_website": "https://nuxt.com",
+  "documentation": "https://nuxt.com/docs",
+  "github_repository": "https://github.com/nuxt/nuxt",
+  "license": "MIT",
+  "latest_version": "3.12.2",
+  "programming_languages": ["TypeScript", "JavaScript", "Vue"],
+  "platforms": ["Web"],
+  "package_manager": "npm",
+  "installation_examples": {"npm": "npx nuxi init my-app"},
+  "tags": ["web", "framework", "vue", "ssr", "ssg", "full-stack"],
+  "alternatives": ["Next.js", "Remix", "SvelteKit", "Astro"],
+  "popularity": 8, "maintained": true, "archived": false, "open_source": true,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

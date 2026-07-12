@@ -1,0 +1,27 @@
+{
+  "id": "letsencrypt",
+  "name": "Let's Encrypt",
+  "category": "security",
+  "description": "Free, automated, and open certificate authority providing TLS/SSL certificates",
+  "official_website": "https://letsencrypt.org",
+  "documentation": "https://letsencrypt.org/docs",
+  "github_repository": "https://github.com/letsencrypt",
+  "license": "MPL-2.0",
+  "latest_version": "N/A",
+  "programming_languages": ["Go", "Python", "Shell"],
+  "platforms": ["Linux", "macOS", "Windows"],
+  "package_manager": "apt",
+  "installation_examples": {
+    "apt": "sudo apt install certbot",
+    "brew": "brew install certbot",
+    "docker": "docker run -it --rm certbot/certbot certonly"
+  },
+  "tags": ["security", "ssl", "tls", "certificates", "encryption"],
+  "alternatives": ["ZeroSSL", "Comodo", "DigiCert", "SSL.com"],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

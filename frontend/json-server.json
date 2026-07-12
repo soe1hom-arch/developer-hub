@@ -1,0 +1,45 @@
+{
+  "id": "json-server",
+  "name": "json-server",
+  "category": "frontend",
+  "description": "Get a full fake REST API with zero coding in less than 30 seconds (seriously)",
+  "official_website": "https://github.com/typicode/json-server",
+  "documentation": "https://github.com/typicode/json-server#readme",
+  "github_repository": "https://github.com/typicode/json-server",
+  "license": "MIT",
+  "latest_version": "main",
+  "programming_languages": [
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "api",
+    "fake",
+    "frontend",
+    "json",
+    "mock",
+    "rest",
+    "test"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 75650,
+    "forks": 7266,
+    "open_issues": 718,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

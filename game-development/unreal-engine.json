@@ -1,0 +1,19 @@
+{
+  "id": "unreal-engine",
+  "name": "Unreal Engine",
+  "category": "game-development",
+  "description": "Advanced real-time 3D creation platform for game development, visualization, and film production",
+  "official_website": "https://unrealengine.com",
+  "documentation": "https://docs.unrealengine.com",
+  "github_repository": "https://github.com/EpicGames/UnrealEngine",
+  "license": "Proprietary",
+  "latest_version": "5.4",
+  "programming_languages": ["C++", "Blueprints"],
+  "platforms": ["Windows", "macOS", "Linux", "Console", "Mobile"],
+  "package_manager": null,
+  "installation_examples": {},
+  "tags": ["game-engine", "3d", "real-time", "c++", "visualization"],
+  "alternatives": ["Unity", "Godot", "CryEngine", "Blender"],
+  "popularity": 10, "maintained": true, "archived": false, "open_source": false,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

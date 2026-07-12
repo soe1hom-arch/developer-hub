@@ -1,0 +1,26 @@
+{
+  "id": "vercel",
+  "name": "Vercel",
+  "category": "cloud",
+  "description": "Cloud platform for static sites and serverless functions optimized for frontend frameworks",
+  "official_website": "https://vercel.com",
+  "documentation": "https://vercel.com/docs",
+  "github_repository": "https://github.com/vercel",
+  "license": "Proprietary",
+  "latest_version": "N/A",
+  "programming_languages": ["JavaScript", "TypeScript", "Go", "Python", "Ruby"],
+  "platforms": ["Cloud", "Web"],
+  "package_manager": "npm",
+  "installation_examples": {
+    "npm": "npm i -g vercel\nvercel",
+    "brew": "brew install vercel-cli"
+  },
+  "tags": ["cloud", "hosting", "serverless", "deployment", "frontend"],
+  "alternatives": ["Netlify", "Railway", "Fly.io", "Cloudflare Pages"],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": false,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

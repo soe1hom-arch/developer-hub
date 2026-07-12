@@ -1,0 +1,41 @@
+{
+  "id": "binsider",
+  "name": "binsider",
+  "category": "binary",
+  "description": "Analyze ELF binaries like a boss \ud83d\ude3c\ud83d\udd75\ufe0f\u200d\u2642\ufe0f",
+  "official_website": "https://binsider.dev/",
+  "documentation": "https://github.com/orhun/binsider#readme",
+  "github_repository": "https://github.com/orhun/binsider",
+  "license": "Apache-2.0",
+  "latest_version": "main",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "tags": [
+    "analysis",
+    "binary",
+    "binary-data",
+    "dynamic-analysis",
+    "elf",
+    "hex-editor",
+    "hexdump",
+    "linux"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 4335,
+    "forks": 106,
+    "open_issues": 37,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

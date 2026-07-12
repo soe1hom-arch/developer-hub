@@ -1,0 +1,33 @@
+{
+  "id": "express-validator",
+  "name": "Express Validator",
+  "category": "libraries",
+  "description": "Validation middleware for Express.js based on validator.js",
+  "official_website": "https://express-validator.github.io",
+  "documentation": "https://express-validator.github.io/docs",
+  "github_repository": "https://github.com/github",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install express-validator"
+  },
+  "tags": [
+    "libraries",
+    "tool",
+    "library"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

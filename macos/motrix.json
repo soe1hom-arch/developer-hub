@@ -1,0 +1,46 @@
+{
+  "id": "motrix",
+  "name": "Motrix",
+  "category": "macos",
+  "description": "A full-featured download manager.",
+  "official_website": "https://motrix.app",
+  "documentation": "https://github.com/agalwood/Motrix#readme",
+  "github_repository": "https://github.com/agalwood/Motrix",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "aria2",
+    "bittorrent",
+    "bt",
+    "download",
+    "download-manager",
+    "electron",
+    "linux",
+    "mac"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 52234,
+    "forks": 4890,
+    "open_issues": 780,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

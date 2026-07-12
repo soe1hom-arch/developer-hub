@@ -1,0 +1,41 @@
+{
+  "id": "weekly",
+  "name": "weekly",
+  "category": "frontend",
+  "description": "\u524d\u7aef\u7cbe\u8bfb\u5468\u520a\u3002\u5e2e\u4f60\u7406\u89e3\u6700\u524d\u6cbf\u3001\u5b9e\u7528\u7684\u6280\u672f\u3002",
+  "official_website": "https://github.com/ascoders/weekly",
+  "documentation": "https://github.com/ascoders/weekly#readme",
+  "github_repository": "https://github.com/ascoders/weekly",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "awesome",
+    "frontend",
+    "weekly"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 31021,
+    "forks": 3259,
+    "open_issues": 11,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

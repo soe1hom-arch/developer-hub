@@ -6,9 +6,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![JSON Validation](https://github.com/soe1hom-arch/developer-hub/actions/workflows/validate.yml/badge.svg)](.github/workflows/validate.yml)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Railway-0B0D0E?logo=railway&logoColor=white)](https://developer-hub-production.up.railway.app)
+[![Akses Website](https://img.shields.io/badge/Akses%20Website-181717?logo=google-chrome&logoColor=white)](https://developer-hub-production.up.railway.app)
 
-**[🌐 Kunjungi Website](https://developer-hub-production.up.railway.app) · [📖 Baca Dokumentasi](docs/) · [🤝 Berkontribusi](CONTRIBUTING.md)**
+**[🌐 Akses Website](https://developer-hub-production.up.railway.app)**
 
 ---
 

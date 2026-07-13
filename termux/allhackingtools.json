@@ -1,0 +1,39 @@
+{
+  "id": "allhackingtools",
+  "name": "AllHackingTools",
+  "category": "termux",
+  "description": "Collection of security testing and penetration testing tools for Termux. For educational purposes and authorized security assessments only.",
+  "official_website": "https://github.com/mishakorzik/AllHackingTools",
+  "documentation": "https://github.com/mishakorzik/AllHackingTools#readme",
+  "github_repository": "https://github.com/mishakorzik/AllHackingTools",
+  "license": "MIT",
+  "programming_languages": [
+    "Shell",
+    "Python"
+  ],
+  "platforms": [
+    "Termux",
+    "Android",
+    "Linux"
+  ],
+  "tags": [
+    "security",
+    "penetration-testing",
+    "termux",
+    "educational",
+    "ethical-hacking"
+  ],
+  "alternatives": [],
+  "popularity": 3,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 0,
+    "forks": 0,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-13",
+  "last_updated": "2026-07-13"
+}

@@ -138,13 +138,10 @@ EXCLUDE_PATTERNS = [
     'my-', 'test-', 'learn-', 'practice-',
     'nvim-config', 'vimrc', 'vim-config', 'zshrc', 'bashrc',
     'starter-kit', 'starter-template', 'kickstart',
-    # Non-dev tools: illegal/malicious
-    'hacking', 'hacktool', 'hackingtool', 'hack',
-    'phish', 'phishing', 'crack', 'cracking',
-    'bomb', 'bomber', 'bombing', 'spam', 'spammer',
-    'exploit', 'payload', 'malware',
-    'whatsapp-hack', 'instagram-hack', 'facebook-hack',
-    'termux-social', 'termux-hacking', 'termux-extra', 'termux-style',
+    # Malware only (educational security tools are allowed)
+    'malware',
+    'whatsapp-hack', 'instagram-hack', 'facebook-hack',  # Targeted harassment
+    'termux-social', 'termux-extra', 'termux-style',
     # Non-relevant
     'termux-boot', 'termux-tasker', 'termux-styling',
     'android-tv', 'android-auto', 'android-wear', 'android-things',

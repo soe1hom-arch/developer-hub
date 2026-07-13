@@ -78,9 +78,9 @@ TOPIC_TO_CATEGORY = {
     'cli': 'cli-tools', 'command-line': 'cli-tools', 'shell': 'cli-tools',
     'terminal': 'cli-tools', 'tui': 'cli-tools', 'terminal-emulator': 'cli-tools',
     'cli-tool': 'cli-tools', 'commandline': 'cli-tools',
-    'binary': 'binary', 'prebuilt': 'binary', 'portable': 'binary',
-    'static-binary': 'binary', 'standalone': 'binary', 'pre-compiled': 'binary',
-    'release-binary': 'binary', 'appimage': 'binary', 'portable-app': 'binary',
+    'prebuilt': 'binary', 'prebuilt-binary': 'binary', 'portable': 'binary',
+    'static-binary': 'binary', 'pre-compiled': 'binary',
+    'appimage': 'binary', 'portable-app': 'binary',
 }
 
 # ─────────────────────── Smarter Language→Category hints ───────────────────────
@@ -114,6 +114,7 @@ DESC_CATEGORY_KEYWORDS = {
     'devops': ['devops', 'ci/cd', 'deployment', 'infrastructure', 'monitoring', 'observability'],
     'security': ['security', 'encryption', 'authentication', 'vulnerability', 'penetration'],
     'tools': ['developer tool', 'cli', 'command line', 'productivity'],
+    'binary': ['prebuilt', 'pre-compiled', 'pre compiled', 'portable', 'appimage', 'binary distribution', 'compiled binary', 'executable', 'standalone binary', 'binary release', 'download binary', 'wheel', 'whl'],
     'cloud': ['cloud', 'serverless', 'saas', 'paas'],
     'game-development': ['game', 'game engine', 'gamedev', '3d', 'rendering'],
 }
@@ -426,7 +427,7 @@ CATEGORY_QUERIES = {
     'android': ['android', 'kotlin', 'android-sdk'],
     'android-tools': ['android-tool', 'adb', 'android-debug', 'android-devtools'],
     'backend': ['backend', 'rest-api', 'graphql', 'api'],
-    'binary': ['binary', 'prebuilt', 'static-binary', 'portable', 'appimage'],
+    'binary': ['prebuilt-binary', 'prebuilt', 'static-binary', 'appimage', 'portable-app', 'binary-release', 'compiled-binary'],
     'blockchain': ['blockchain', 'ethereum', 'web3', 'solidity'],
     'cli-tools': ['cli', 'cli-tool', 'command-line', 'tui'],
     'cloud': ['cloud', 'serverless', 'aws', 'gcp'],
@@ -581,9 +582,11 @@ def discover_new_entries(max_per_category=10, dry_run=False):
                 elif detected_cat == 'binary':
                     has_win = 'windows' in (description or '').lower() or any('win' in (t or '') for t in (topics or []))
                     has_mac = 'macos' in (description or '').lower() or 'macos' in (topics or [])
+                    has_termux = 'termux' in (description or '').lower() or 'termux' in (topics or [])
                     plats = ["Linux"]
                     if has_win: plats.append("Windows")
                     if has_mac: plats.append("macOS")
+                    if has_termux: plats.append("Termux")
                 elif detected_cat == 'cli-tools':
                     plats = ["Linux", "macOS", "Windows", "Termux"]
                 elif detected_cat in ('android', 'mobile'):

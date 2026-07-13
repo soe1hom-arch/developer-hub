@@ -20,6 +20,8 @@ import time
 import hashlib
 from pathlib import Path
 
+from scripts.categories import CATEGORIES
+
 REPO_ROOT = Path(__file__).resolve().parent.parent
 
 # Common tag mappings for known projects

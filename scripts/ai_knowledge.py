@@ -18,16 +18,9 @@ import re
 from pathlib import Path
 from collections import defaultdict
 
-REPO_ROOT = Path(__file__).resolve().parent.parent
+from scripts.categories import CATEGORIES
 
-CATEGORIES = {
-    "ai", "android", "api", "backend", "frontend", "database", "cloud",
-    "security", "languages", "frameworks", "libraries", "tools",
-    "operating-systems", "linux", "windows", "macos", "network",
-    "devops", "containers", "firmware", "embedded", "iot",
-    "game-development", "mobile", "desktop", "web", "blockchain",
-    "machine-learning", "robotics"
-}
+REPO_ROOT = Path(__file__).resolve().parent.parent
 
 # Knowledge base for generating descriptions and use cases
 PROFILE_TEMPLATES = {

@@ -1,3 +1,4 @@
+from scripts.categories import CATEGORIES
 #!/usr/bin/env python3
 """
 Developer Hub Quality Scoring System.
@@ -22,16 +23,6 @@ from pathlib import Path
 from datetime import datetime, date
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
-
-CATEGORIES = {
-    "ai", "android", "api", "backend", "frontend", "database", "cloud",
-    "security", "languages", "frameworks", "libraries", "tools",
-    "operating-systems", "linux", "windows", "macos", "network",
-    "devops", "containers", "firmware", "embedded", "iot",
-    "game-development", "mobile", "desktop", "web", "blockchain",
-    "machine-learning", "robotics"
-}
-
 
 def calculate_score(data):
     """Calculate quality score (0-10) for a project entry."""

@@ -1,3 +1,4 @@
+from scripts.categories import CATEGORIES
 #!/usr/bin/env python3
 """
 Intelligent Search Engine for Developer Hub.
@@ -30,20 +31,6 @@ from difflib import SequenceMatcher
 REPO_ROOT = Path(__file__).resolve().parent.parent
 INDEX_FILE = REPO_ROOT / ".search_index.json"
 HISTORY_FILE = REPO_ROOT / ".search_history.json"
-
-CATEGORIES = {
-    "ai", "android", "api", "backend", "frontend", "database", "cloud",
-    "security", "languages", "frameworks", "libraries", "tools",
-    "operating-systems", "linux", "windows", "macos", "network",
-    "devops", "containers", "firmware", "embedded", "iot",
-    "game-development", "mobile", "desktop", "web", "blockchain",
-    "machine-learning", "robotics"
-,
-    "android-tools",
-    "binary",
-    "cli-tools",
-    "termux"
-}
 
 # Synonyms for better matching
 SYNONYMS = {

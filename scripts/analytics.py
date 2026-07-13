@@ -21,17 +21,9 @@ from pathlib import Path
 from collections import Counter, defaultdict
 from datetime import datetime, date
 
+from scripts.categories import CATEGORIES
+
 REPO_ROOT = Path(__file__).resolve().parent.parent
-
-CATEGORIES = {
-    "ai", "android", "api", "backend", "frontend", "database", "cloud",
-    "security", "languages", "frameworks", "libraries", "tools",
-    "operating-systems", "linux", "windows", "macos", "network",
-    "devops", "containers", "firmware", "embedded", "iot",
-    "game-development", "mobile", "desktop", "web", "blockchain",
-    "machine-learning", "robotics"
-}
-
 
 def load_entries():
     entries = []

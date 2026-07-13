@@ -14,18 +14,11 @@ import time
 from pathlib import Path
 from datetime import datetime, date
 
+from scripts.categories import CATEGORIES
+
 REPO_ROOT = Path(__file__).resolve().parent.parent
 SCHEMA_PATH = REPO_ROOT / "schemas" / "project.schema.json"
 REPORTS_DIR = REPO_ROOT / "reports"
-
-CATEGORIES = {
-    "ai", "android", "api", "backend", "frontend", "database", "cloud",
-    "security", "languages", "frameworks", "libraries", "tools",
-    "operating-systems", "linux", "windows", "macos", "network",
-    "devops", "containers", "firmware", "embedded", "iot",
-    "game-development", "mobile", "desktop", "web", "blockchain",
-    "machine-learning", "robotics"
-}
 
 try:
     import jsonschema

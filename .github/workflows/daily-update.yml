@@ -35,6 +35,9 @@ jobs:
       - name: Validate all entries
         run: python scripts/validate.py
 
+      - name: Validate pending proposals
+        run: python scripts/validate.py --proposals
+
       - name: Rebuild search index
         run: python scripts/build_index.py
 

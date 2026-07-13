@@ -12,6 +12,8 @@ import os
 import sys
 from pathlib import Path
 
+from scripts.categories import CATEGORIES
+
 try:
     import jsonschema
     from jsonschema import validate, ValidationError
@@ -22,16 +24,9 @@ except ImportError:
 REPO_ROOT = Path(__file__).resolve().parent.parent
 SCHEMA_PATH = REPO_ROOT / "schemas" / "project.schema.json"
 
-CATEGORIES = {
-    "ai", "android", "api", "backend", "frontend", "database", "cloud",
-    "security", "languages", "frameworks", "libraries", "tools",
-    "operating-systems", "linux", "windows", "macos", "network",
-    "devops", "containers", "firmware", "embedded", "iot",
-    "game-development", "mobile", "desktop", "web", "blockchain",
-    "machine-learning", "robotics"
-}
-
 EXCLUDED_DIRS = {".git", ".github", "schemas", "scripts", "docs", "node_modules", "__pycache__", "reports", "api_server", "website", "automation"}
+
+PROPOSALS_DIR = REPO_ROOT / ".proposals"
 
 
 def load_schema():
@@ -39,7 +34,7 @@ def load_schema():
         return json.load(f)
 
 
-def find_json_files(path=None):
+def find_json_files(path=None, include_proposals=False):
     if path:
         yield Path(path)
         return
@@ -47,6 +42,10 @@ def find_json_files(path=None):
         if entry.is_dir() and entry.name not in EXCLUDED_DIRS and entry.name in CATEGORIES:
             for json_file in entry.rglob("*.json"):
                 yield json_file
+    # Also validate proposals
+    if include_proposals and PROPOSALS_DIR.exists():
+        for json_file in PROPOSALS_DIR.glob("*.json"):
+            yield json_file
 
 
 def validate_file(schema, filepath):
@@ -74,8 +73,9 @@ def validate_file(schema, filepath):
 def main():
     schema = load_schema()
     target = sys.argv[1] if len(sys.argv) > 1 else None
+    check_proposals = '--proposals' in sys.argv
 
-    files = list(find_json_files(target))
+    files = list(find_json_files(target, include_proposals=check_proposals))
     if not files:
         print("No JSON files found to validate.")
         sys.exit(0 if target else 1)
@@ -101,6 +101,10 @@ def main():
         sys.exit(1)
     else:
         print()
+    if check_proposals and PROPOSALS_DIR.exists():
+        prop_count = len(list(PROPOSALS_DIR.glob("*.json")))
+        if prop_count:
+            print(f"\n📋 {prop_count} proposals in .proposals/ — run with --proposals to check")
 
 
 if __name__ == "__main__":

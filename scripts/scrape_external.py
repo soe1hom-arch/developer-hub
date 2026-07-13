@@ -18,21 +18,13 @@ from pathlib import Path
 from urllib.request import Request, urlopen
 from urllib.error import HTTPError, URLError
 
+from scripts.categories import CATEGORIES
+
 REPO_ROOT = Path(__file__).resolve().parent.parent
 GITHUB_TOKEN = os.environ.get('GITHUB_TOKEN', '')
 HEADERS = {'User-Agent': 'DeveloperHub/1.0'}
 if GITHUB_TOKEN:
     HEADERS['Authorization'] = f'Bearer {GITHUB_TOKEN}'
-
-CATEGORIES = {
-    "ai", "android", "api", "backend", "frontend", "database", "cloud",
-    "security", "languages", "frameworks", "libraries", "tools",
-    "operating-systems", "linux", "windows", "macos", "network",
-    "devops", "containers", "firmware", "embedded", "iot",
-    "game-development", "mobile", "desktop", "web", "blockchain",
-    "machine-learning", "robotics",
-    "android-tools", "binary", "cli-tools", "termux",
-}
 
 # === Utility ===
 

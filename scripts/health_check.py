@@ -27,20 +27,12 @@ import socket
 from pathlib import Path
 from datetime import datetime, date
 
+from scripts.categories import CATEGORIES
+
 REPO_ROOT = Path(__file__).resolve().parent.parent
 
 TIMEOUT = 10
 MAX_REDIRECTS = 5
-
-CATEGORIES = {
-    "ai", "android", "api", "backend", "frontend", "database", "cloud",
-    "security", "languages", "frameworks", "libraries", "tools",
-    "operating-systems", "linux", "windows", "macos", "network",
-    "devops", "containers", "firmware", "embedded", "iot",
-    "game-development", "mobile", "desktop", "web", "blockchain",
-    "machine-learning", "robotics"
-}
-
 
 def check_url(url, name="URL"):
     """Check if a URL is reachable."""

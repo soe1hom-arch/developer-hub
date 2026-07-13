@@ -1,3 +1,4 @@
+from scripts.categories import CATEGORIES
 #!/usr/bin/env python3
 """
 Auto-discover new developer resources from GitHub and add them to the database.

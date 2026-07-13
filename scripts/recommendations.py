@@ -1,3 +1,4 @@
+from scripts.categories import CATEGORIES
 #!/usr/bin/env python3
 """
 Recommendation Engine for Developer Hub.
@@ -21,15 +22,6 @@ from pathlib import Path
 from collections import defaultdict, Counter
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
-
-CATEGORIES = {
-    "ai", "android", "api", "backend", "frontend", "database", "cloud",
-    "security", "languages", "frameworks", "libraries", "tools",
-    "operating-systems", "linux", "windows", "macos", "network",
-    "devops", "containers", "firmware", "embedded", "iot",
-    "game-development", "mobile", "desktop", "web", "blockchain",
-    "machine-learning", "robotics"
-}
 
 # Predefined popular stacks
 STACKS = {

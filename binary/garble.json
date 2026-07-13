@@ -2,7 +2,7 @@
   "id": "garble",
   "name": "garble",
   "category": "binary",
-  "description": "Obfuscate Go builds",
+  "description": "Garble \u2014 a Go build tool that produces obfuscated binaries by encrypting strings, stripping metadata, and mangling identifiers to hinder reverse engineering.",
   "official_website": "https://github.com/burrowers/garble",
   "documentation": "https://github.com/burrowers/garble#readme",
   "github_repository": "https://github.com/burrowers/garble",

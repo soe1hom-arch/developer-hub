@@ -2,7 +2,7 @@
   "id": "tracy",
   "name": "tracy",
   "category": "libraries",
-  "description": "Frame profiler",
+  "description": "Tracy \u2014 a real-time, nanosecond-resolution frame profiler for game developers and performance engineers, supporting CPU, GPU, and memory profiling on multiple platforms.",
   "official_website": "https://tracy.nereid.pl/",
   "documentation": "https://github.com/wolfpld/tracy#readme",
   "github_repository": "https://github.com/wolfpld/tracy",

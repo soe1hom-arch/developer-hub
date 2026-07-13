@@ -2,7 +2,7 @@
   "id": "spring-framework",
   "name": "spring-framework",
   "category": "frameworks",
-  "description": "Spring Framework",
+  "description": "Spring Framework \u2014 a comprehensive programming and configuration model for modern Java-based enterprise applications, offering dependency injection, MVC, data access, and more.",
   "official_website": "https://spring.io/projects/spring-framework",
   "documentation": "https://github.com/spring-projects/spring-framework#readme",
   "github_repository": "https://github.com/spring-projects/spring-framework",

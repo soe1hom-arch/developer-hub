@@ -912,8 +912,11 @@ async function init() {
 }
 
 // Handle browser back/forward navigation
+let isHistoryNav = false;
 window.addEventListener('popstate', e => {
+  isHistoryNav = true;
   if (e.state && e.state.view) handleView(e.state);
+  setTimeout(() => { isHistoryNav = false; }, 0);
 });
 
 function renderProjects(projects, containerId) {
@@ -1073,7 +1076,7 @@ async function search() {
       renderProjects(results, 'resultGrid');
     }
     window.scrollTo({top: 0});
-    history.pushState({view: 'results', query: q, category: cat, lang: lang, sort: sort}, '');
+    if (!isHistoryNav) history.pushState({view: 'results', query: q, category: cat, lang: lang, sort: sort}, '');
   } catch(e) {
     showToast('Search failed');
   }
@@ -1158,7 +1161,7 @@ async function showDetail(id) {
     </div>`;
 
     document.getElementById('detailView').innerHTML = html;
-    history.pushState({view: 'detail', projectId: id}, '');
+    if (!isHistoryNav) history.pushState({view: 'detail', projectId: id}, '');
 
     // Load relationships & recommendations asynchronously
     loadRelationships(id);
@@ -1235,7 +1238,7 @@ async function showStack(stackId) {
       </div>`;
     renderProjects(data.projects, 'stackProjectsGrid');
     window.scrollTo({top: 0});
-    history.pushState({view: 'results', stackId: stackId}, '');
+    if (!isHistoryNav) history.pushState({view: 'results', stackId: stackId}, '');
   } catch(e) { console.error('showStack:', e); }
 }
 
@@ -1255,6 +1258,7 @@ function showPage(page) {
   } else {
     window.scrollTo({top:0,behavior:'smooth'});
   }
+  if (!isHistoryNav) history.pushState({view: page}, '');
 }
 
 // Sidebar toggle

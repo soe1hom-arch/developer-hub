@@ -56,8 +56,6 @@ TOPIC_TO_CATEGORY = {
     'linux': 'linux', 'bash': 'linux', 'unix': 'linux',
     'windows': 'windows', 'dotnet': 'windows', 'csharp': 'windows',
     'macos': 'macos', 'apple': 'macos',
-    'python': 'languages', 'golang': 'languages', 'rust': 'languages', 'java': 'languages',
-    'cpp': 'languages', 'ruby': 'languages', 'php': 'languages',
     'ai': 'ai', 'machine-learning': 'ai', 'deep-learning': 'ai', 'llm': 'ai', 'nlp': 'ai',
     'tensorflow': 'ai', 'pytorch': 'ai',
     'blockchain': 'blockchain', 'ethereum': 'blockchain', 'web3': 'blockchain', 'solidity': 'blockchain',
@@ -85,6 +83,45 @@ TOPIC_TO_CATEGORY = {
     'prebuilt': 'binary', 'prebuilt-binary': 'binary', 'portable': 'binary',
     'static-binary': 'binary', 'pre-compiled': 'binary',
     'appimage': 'binary', 'portable-app': 'binary',
+    # Data & analytics
+    'analytics': 'tools', 'data-visualization': 'tools', 'data-engineering': 'database',
+    'data-pipeline': 'database', 'etl': 'database', 'data-analysis': 'database',
+    # Testing
+    'testing': 'devops', 'test-automation': 'devops', 'unit-testing': 'devops',
+    'testing-tools': 'devops', 'e2e-testing': 'devops', 'integration-testing': 'devops',
+    # Monitoring & logging
+    'monitoring': 'devops', 'logging': 'devops', 'observability': 'devops',
+    'apm': 'devops', 'metrics': 'devops', 'tracing': 'devops',
+    # Automation
+    'automation': 'devops', 'workflow': 'devops', 'task-runner': 'devops',
+    'build-tool': 'devops', 'build-system': 'devops',
+    # Documentation
+    'documentation': 'tools', 'docs': 'tools', 'documentation-tool': 'tools',
+    'knowledge-base': 'tools', 'wiki': 'tools',
+    # Media
+    'image-processing': 'libraries', 'video-processing': 'libraries',
+    'audio': 'libraries', 'graphics': 'libraries', 'svg': 'libraries',
+    'pdf': 'libraries', 'markdown': 'tools',
+    # Email & communication
+    'email': 'tools', 'messaging': 'tools', 'notification': 'tools',
+    'webhook': 'backend', 'websocket': 'backend',
+    # Developer experience
+    'developer-experience': 'tools', 'code-quality': 'tools', 'linting': 'tools',
+    'code-formatter': 'tools', 'code-review': 'devops',
+    'static-analysis': 'tools', 'code-analysis': 'tools',
+    # File management
+    'file-management': 'tools', 'file-system': 'tools', 'compression': 'tools',
+    'archive': 'tools', 'backup': 'tools',
+    # Package management
+    'package-manager': 'tools', 'package-management': 'tools', 'dependency-management': 'tools',
+    'package-registry': 'devops', 'package': 'tools',
+    # Search
+    'search': 'database', 'search-engine': 'database', 'full-text-search': 'database',
+    # Configuration
+    'configuration': 'tools', 'config-management': 'devops', 'secrets-management': 'security',
+    # Cross-platform
+    'cross-platform': 'tools', 'compatibility': 'tools',
+
 }
 
 # ─────────────────────── Smarter Language→Category hints ───────────────────────
@@ -115,12 +152,17 @@ DESC_CATEGORY_KEYWORDS = {
     'ai': ['machine learning', 'deep learning', 'artificial intelligence', 'llm', 'neural', 'nlp', 'gpt', 'tensorflow', 'pytorch'],
     'database': ['database', 'sql', 'nosql', 'data store', 'cache', 'key-value', 'orm'],
     'mobile': ['mobile', 'ios', 'android app', 'cross-platform'],
+    'api': ['api', 'rest api', 'graphql', 'grpc', 'openapi', 'swagger', 'api-client', 'api-wrapper'],
     'devops': ['devops', 'ci/cd', 'deployment', 'infrastructure', 'monitoring', 'observability'],
     'security': ['security', 'encryption', 'authentication', 'vulnerability', 'penetration'],
     'tools': ['developer tool', 'cli', 'command line', 'productivity'],
     'binary': ['prebuilt', 'pre-compiled', 'pre compiled', 'portable', 'appimage', 'binary distribution', 'compiled binary', 'executable', 'standalone binary', 'binary release', 'download binary', 'wheel', 'whl'],
     'cloud': ['cloud', 'serverless', 'saas', 'paas'],
     'game-development': ['game', 'game engine', 'gamedev', '3d', 'rendering'],
+    'network': ['network', 'networking', 'http client', 'http server', 'proxy', 'tcp', 'dns'],
+    'cli-tools': ['cli', 'command line', 'terminal', 'shell', 'tui', 'console tool'],
+    'libraries': ['library', 'sdk', 'client library', 'wrapper'],
+    'frameworks': ['framework', 'full-stack', 'web framework'],
 }
 
 # ─────────────────────── Strict Exclusion Patterns ───────────────────────
@@ -208,6 +250,10 @@ def detect_category(name, description, topics, language, search_category):
         hinted = LANGUAGE_CATEGORY_HINTS.get(lang_key, set())
         for cat in hinted:
             scores[cat] = scores.get(cat, 0) + 2
+        # Penalize 'languages' category when other stronger signals exist
+        if any(kw in (description or '').lower() for kws in DESC_CATEGORY_KEYWORDS.values() for kw in kws):
+            if 'languages' in scores:
+                scores['languages'] = scores.get('languages', 0) - 1
 
     # 3. Score from description keywords
     for cat, keywords in DESC_CATEGORY_KEYWORDS.items():

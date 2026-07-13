@@ -10,6 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      pull-requests: write
 
     steps:
       - uses: actions/checkout@v4
@@ -46,10 +47,40 @@ jobs:
       - name: Generate quality report
         run: python scripts/generate_report.py --summary
 
-      - name: Commit changes
+      - name: Category mismatch scan
+        run: python scripts/detect_mismatch.py --report
+
+      - name: Create Pull Request
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          BRANCH="weekly-maintenance-$(date +'%Y%m%d')"
           git config user.name "Wandi"
           git config user.email "soe1hom-arch@users.noreply.github.com"
+          git checkout -b "$BRANCH"
           git add -A
-          git diff --cached --quiet || git commit -m "chore: weekly maintenance [skip ci]"
-          git push
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "chore: weekly maintenance $(date +'%Y-%m-%d')"
+
+          git push origin "$BRANCH"
+
+          gh pr close "weekly-maintenance" 2>/dev/null || true
+          gh pr create \
+            --title "Weekly Maintenance $(date +'%Y-%m-%d')" \
+            --body "Automated weekly maintenance from GitHub Actions.
+
+            - Full validation of all entries
+            - Health check with report
+            - Scanned external sources (F-Droid, Termux, Releases)
+            - Discovered new entries from GitHub
+            - Rebuilt search index
+            - Quality report generated
+            - Category mismatch scan completed
+
+            Review and merge if everything looks good." \
+            --base main \
+            --head "$BRANCH" \
+            --label "automated"

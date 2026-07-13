@@ -10,6 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+      pull-requests: write
 
     steps:
       - uses: actions/checkout@v4
@@ -25,7 +26,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/auto_update.py
 
-      - name: Commit & commit proposal entries
+      - name: Discover new entries
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -41,10 +42,36 @@ jobs:
       - name: Rebuild search index
         run: python scripts/build_index.py
 
-      - name: Commit changes
+      - name: Create Pull Request
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
+          BRANCH="daily-update-$(date +'%Y%m%d')"
           git config user.name "Wandi"
           git config user.email "soe1hom-arch@users.noreply.github.com"
+          git checkout -b "$BRANCH"
           git add -A
-          git diff --cached --quiet || git commit -m "chore: daily auto-update [skip ci]"
-          git push
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "chore: daily auto-update $(date +'%Y-%m-%d')"
+
+          # Push branch
+          git push origin "$BRANCH"
+
+          # Create PR (close old daily PRs first)
+          gh pr close "daily-update" 2>/dev/null || true
+          gh pr create \
+            --title "Daily Auto-Update $(date +'%Y-%m-%d')" \
+            --body "Automated daily update from GitHub Actions.
+
+            - Updated GitHub stats (stars, last checked)
+            - Discovered new entries from GitHub
+            - Validated all entries and proposals
+            - Rebuilt search index
+
+            Review and merge if everything looks good." \
+            --base main \
+            --head "$BRANCH" \
+            --label "automated"

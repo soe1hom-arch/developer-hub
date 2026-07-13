@@ -21,3 +21,5 @@ jobs:
         run: python scripts/validate.py
       - name: Check index build
         run: python scripts/build_index.py
+      - name: Category mismatch scan
+        run: python scripts/detect_mismatch.py --threshold 0.1

@@ -12,6 +12,8 @@ import os
 import sys
 from pathlib import Path
 
+REPO_ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(REPO_ROOT))
 from scripts.categories import CATEGORIES
 
 try:
@@ -21,7 +23,6 @@ except ImportError:
     print("Error: 'jsonschema' package not installed. Run: pip install -r scripts/requirements.txt")
     sys.exit(1)
 
-REPO_ROOT = Path(__file__).resolve().parent.parent
 SCHEMA_PATH = REPO_ROOT / "schemas" / "project.schema.json"
 
 EXCLUDED_DIRS = {".git", ".github", "schemas", "scripts", "docs", "node_modules", "__pycache__", "reports", "api_server", "website", "automation"}

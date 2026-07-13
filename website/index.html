@@ -596,6 +596,8 @@ footer a:hover { text-decoration: underline; }
   .footer-bottom { flex-direction: column; text-align: center; }
   .footer-social { justify-content: center; }
   .footer-brand p { max-width: 100%; }
+  .sidebar { width: 260px; padding: 12px 0; }
+  .sidebar .sidebar-link { font-size: 12px; padding: 6px 12px; }
 }
 @media (max-width: 480px) {
   .hero h2 { font-size: 1.3rem; }
@@ -609,6 +611,9 @@ footer a:hover { text-decoration: underline; }
   .footer-grid { gap: 12px; }
   .footer-col h4 { margin-bottom: 8px; }
   .footer-brand p { font-size: 0.8rem; }
+  .page-content { margin: 60px auto 40px; padding: 0 16px; }
+  .page-content h2 { font-size: 1.5rem; }
+  .page-content .subtitle { font-size: 0.9rem; }
 }
 
 /* =============================================
@@ -669,9 +674,9 @@ footer a:hover { text-decoration: underline; }
    About & Legal Pages
    ============================================= */
 .page-content {
-  display: flex; max-width: 800px; margin: 80px auto; padding: 0 24px;
+  display: none; max-width: 800px; margin: 80px auto; padding: 0 24px;
 }
-.page-content.active { display: block; animation: fadeUp 0.4s ease forwards; }
+.page-content.active { display: block !important; animation: fadeUp 0.4s ease forwards; }
 .page-content h2 { font-size: 2rem; margin-bottom: 8px; }
 .page-content .subtitle { color: var(--text2); font-size: 1rem; margin-bottom: 32px; }
 .page-content h3 { font-size: 1.2rem; margin: 28px 0 12px; color: var(--accent2); }
@@ -896,6 +901,7 @@ async function init() {
   } catch(e) {
     console.error('Init error:', e);
   }
+  showMain();
 }
 
 function renderProjects(projects, containerId) {
@@ -1083,6 +1089,11 @@ async function showDetail(id) {
   document.getElementById('mainView').style.display = 'none';
   const dv = document.getElementById('detailView');
   dv.style.display = 'block';
+  // Hide About, Privacy, Legal pages
+  ['pageAbout','pagePrivacy','pageLegal'].forEach(id => {
+    const el = document.getElementById(id);
+    if (el) el.style.display = 'none';
+  });
   dv.innerHTML = '<button class="detail-back" onclick="showMain()">← Back to Browse</button><div class="detail-card"><div class="loading-spinner"><div class="spinner"></div></div></div>';
   window.scrollTo({top: 0, behavior: 'smooth'});
 
@@ -1232,6 +1243,11 @@ function populateSidebarCategories(cats) {
 function showMain() {
   document.getElementById('mainView').style.display = 'block';
   document.getElementById('detailView').style.display = 'none';
+  // Hide About, Privacy, Legal pages
+  ['pageAbout','pagePrivacy','pageLegal'].forEach(id => {
+    const el = document.getElementById(id);
+    if (el) el.style.display = 'none';
+  });
   const sr = document.getElementById('searchResults');
   if (sr) sr.innerHTML = '';
   window.scrollTo({top: 0});
@@ -1251,6 +1267,13 @@ init();
 <!-- ===== Sidebar Navigation ===== -->
 <div class="sidebar" id="sidebar">
   <div class="sidebar-section" style="padding-top:20px">
+    <h3>🔗 Quick Links</h3>
+    <button class="sidebar-link" onclick="showPage('main');toggleSidebar()">🏠 Home</button>
+    <button class="sidebar-link" onclick="showPage('about');toggleSidebar()">👤 About</button>
+    <button class="sidebar-link" onclick="showPage('privacy');toggleSidebar()">🔒 Privacy</button>
+    <button class="sidebar-link" onclick="showPage('legal');toggleSidebar()">⚖️ Legal</button>
+  </div>
+  <div class="sidebar-section">
     <h3>📂 All Categories</h3>
     <div id="sidebarCategories">
       <div class="sidebar-link">⏳ Loading...</div>

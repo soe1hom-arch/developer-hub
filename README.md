@@ -1,6 +1,6 @@
 # Developer Hub
 
-> Sebuah database open-source yang berisi **703 sumber daya developer** — API, SDK, library, framework, tools, dan bahasa pemrograman.  
+> Sebuah database open-source yang berisi **693 sumber daya developer** — API, SDK, library, framework, tools, dan bahasa pemrograman.  
 > Saya buat karena saya sendiri sering kesusahan mencari referensi tools yang terpercaya dan terorganisir dalam satu tempat.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -26,12 +26,12 @@ Halo! Saya **Wandi** — seorang Android firmware enthusiast dari Indonesia. Pro
 
 | Metrik | Jumlah |
 |---|---|
-| **Total Resource** | 703 |
+| **Total Resource** | 693 |
 | **Kategori** | 33 |
 | **Bahasa Pemrograman** | 80 |
 | **Open Source** | 674 (96%) |
-| **Terawat** | 697 (99%) |
-| **Punya GitHub** | 703 (100%) |
+| **Terawat** | 686 (99%) |
+| **Punya GitHub** | 693 (100%) |
 | **Punya Alternatif** | 197 |
 | **Lisensi Terbanyak** | MIT (404), Apache-2.0 (131) |
 
@@ -59,7 +59,7 @@ Halo! Saya **Wandi** — seorang Android firmware enthusiast dari Indonesia. Pro
 | Mobile | 📲 | 15 | macOS | 🍎 | 11 |
 | Machine Learning | 🧠 | 10 | Android Tools | 📱 | 10 |
 | CLI Tools | 📁 | 10 | IoT | 📡 | 10 |
-| Termux | 📱 | 10 | Binary | 💾 | 10 |
+| Termux | 📱 | 10 | Binary | 💾 | 1 |
 | Desktop | 🖥️ | 7 | Linux | 🐧 | 7 |
 | Web | 🌐 | 5 | Operating Systems | 💿 | 5 |
 | Windows | 🪟 | 5 | Firmware | ⚡ | 4 |

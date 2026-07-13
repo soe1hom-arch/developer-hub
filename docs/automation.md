@@ -4,51 +4,74 @@ Developer Hub uses GitHub Actions and Python scripts to automate maintenance tas
 
 ## GitHub Actions Workflows
 
-### Validate JSON (`validate.yml`)
-Runs on every push and pull request — validates all JSON files against the schema, checks category directories, and ensures data integrity.
+| Workflow | Trigger | Tugas |
+|---|---|---|
+| **validate.yml** | Push + PR | Validasi JSON terhadap schema |
+| **tests.yml** | Push + PR | Jalanin test suite |
+| **duplicate-check.yml** | PR | Deteksi duplikat |
+| **daily-update.yml** | Setiap hari 02:00 UTC | Update GitHub stats, discover & commit proposals, rebuild index |
+| **weekly-maintenance.yml** | Setiap Minggu 08:00 UTC | Full validation, health check, release scan, report |
 
-### Build Index (`build-index.yml`)
-Rebuilds `index.json` (and `index.csv`) automatically when data changes, and on a weekly schedule.
+### daily-update.yml
+Jalan tiap malam, ngelakuin:
+1. Update stats GitHub (stars, forks, last update) untuk semua entry
+2. Auto-discover proposal baru dari GitHub (max 5 per kategori)
+3. Commit proposal yang lolos validasi
+4. Validasi semua JSON
+5. Rebuild `index.json`
+6. Commit & push perubahan
 
-### Health Check (`health-check.yml`)
-Weekly workflow that:
-- Detects potentially deprecated/abandoned projects
-- Checks documentation quality via link verification
-- Validates all JSON files
-- Rebuilds the search index and CSV export
-
-### Duplicate Detection (`duplicate-check.yml`)
-Runs on pull requests to detect duplicate project entries by name, ID, and repository URL.
-
-### Auto-Discover (`auto-discover.yml`)
-Daily workflow that scans for new entries using `scripts/auto_discover.py` — discovers tools from GitHub repos, package registries, and curated lists.
+### weekly-maintenance.yml
+Jalan tiap Minggu, ngelakuin:
+1. Validasi penuh semua JSON
+2. Health check (cek link website, docs, GitHub)
+3. Scan rilis baru dari F-Droid, Termux, GitHub releases
+4. Discover & commit proposal baru (max 10 per kategori)
+5. Rebuild index
+6. Generate laporan kualitas
+7. Commit & push perubahan
 
 ## Python Scripts
 
-| Script | Description |
+| Script | Fungsi |
 |---|---|
-| `validate.py` | JSON schema validation |
-| `build_index.py` | Generates `index.json` and `index.csv` |
+| `auto_discover.py` | Auto-discover resource baru dari GitHub → simpan sebagai proposal |
+| `auto_update.py` | Update stats GitHub semua entry |
+| `auto_fix.py` | Fix placeholder entries, cari GH repo dari website |
+| `scrape_external.py` | Scrape F-Droid, Termux packages, GitHub releases |
+| `validate.py` | Validasi JSON terhadap schema |
+| `build_index.py` | Generate `index.json` dan `index.csv` |
 | `search_engine.py` | Intelligent fuzzy search engine |
-| `relationships.py` | Project relationship graph builder |
-| `recommendations.py` | AI-powered recommendations and trending |
-| `scoring.py` | Quality scoring engine |
-| `analytics.py` | Statistics computation |
-| `ai_knowledge.py` | AI description/tag generation |
-| `auto_discover.py` | Automatic entry discovery |
-| `cache.py` | In-memory caching layer |
+| `relationships.py` | Project relationship graph |
+| `recommendations.py` | Rekomendasi, trending, stacks |
+| `scoring.py` | Quality scoring |
+| `analytics.py` | Statistik & metrics |
+| `health_check.py` | Cek link website, docs, GitHub |
+| `generate_report.py` | Generate laporan kualitas |
+| `ai_assistant.py` | CLI assistant rekomendasi stack |
+| `ai_categorize.py` | AI categorization & enrichment |
+| `ai_knowledge.py` | AI deskripsi & use cases |
+| `cache.py` | Caching layer |
 
 ## Running Locally
 
 ```bash
 pip install -r scripts/requirements.txt
 
-# Validate all entries
+# Validasi semua entry
 python scripts/validate.py
 
-# Build the search index
+# Build search index
 python scripts/build_index.py
 
-# Auto-discover new entries
-python scripts/auto_discover.py
+# Update stats
+python scripts/auto_update.py
+
+# Discover proposal baru
+python scripts/auto_discover.py --dry-run          # Preview
+python scripts/auto_discover.py --max-per-category 5
+python scripts/auto_discover.py --commit            # Finalize proposals
+
+# Health check
+python scripts/health_check.py --quick
 ```

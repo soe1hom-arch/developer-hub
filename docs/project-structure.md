@@ -8,7 +8,7 @@ developer-hub/
 ├── android-tools/               # Android utility tools (10 entries)
 ├── api/                         # API specifications (4 entries)
 ├── backend/                     # Backend frameworks (44 entries)
-├── binary/                      # Pre-built binaries and executables (10 entries)
+├── binary/                      # Prebuilt binaries (1 entry)
 ├── blockchain/                  # Blockchain platforms (17 entries)
 ├── cli-tools/                   # Command-line tools (10 entries)
 ├── cloud/                       # Cloud platforms (32 entries)

@@ -721,6 +721,7 @@ footer a:hover { text-decoration: underline; }
 /* Section transitions */
 #mainView { transition: opacity 0.3s ease; }
 #detailView { transition: opacity 0.3s ease; }
+#resultsView { transition: opacity 0.3s ease; }
 
 
 /* Loader dots */
@@ -809,11 +810,15 @@ footer a:hover { text-decoration: underline; }
     <div class="section-header"><h2>🕐 Recently Updated</h2><div class="loader-dots"><span></span><span></span><span></span></div></div>
     <div class="project-grid" id="recentGrid"><div class="skeleton skeleton-card"></div><div class="skeleton skeleton-card"></div><div class="skeleton skeleton-card"></div></div>
   </div>
-    <div id="searchResults"></div>
+    <!-- results now go to resultsView -->
   </div>
   <div id="detailView" class="detail-page">
     <button class="detail-back" onclick="showMain()">← Back to Browse</button>
     <div id="detailContent"></div>
+  </div>
+  <div id="resultsView" class="detail-page">
+    <button class="detail-back" onclick="showMain()">← Back to Browse</button>
+    <div id="resultsContent"></div>
   </div>
 </div>
 
@@ -1031,21 +1036,36 @@ async function search() {
     if (lang) results = results.filter(r => (r.programming_languages || []).includes(lang));
     // Client-side category filter for search (API search doesn't have category param)
     if (q && cat) results = results.filter(r => r.category === cat);
+
+    // Show resultsView
+    document.getElementById('mainView').style.display = 'none';
+    document.getElementById('detailView').style.display = 'none';
+    ['pageAbout','pagePrivacy','pageLegal'].forEach(id => {
+      const el = document.getElementById(id);
+      if (el) el.style.display = 'none';
+    });
+    const rv = document.getElementById('resultsView');
+    rv.style.display = 'block';
+    const rc = document.getElementById('resultsContent');
     
-    let section = document.getElementById('searchResults');
-    if (!section) {
-      section = document.createElement('div');
-      section.id = 'searchResults';
-      document.querySelector('#mainView').appendChild(section);
+    let emptyHtml = '';
+    if (results.length === 0) {
+      emptyHtml = '<div class="detail-card"><div class="empty-state"><div class="big-icon">🔍</div><p>No results found</p></div></div>';
     }
-    section.innerHTML = `
-      <div class="section-header">
-        <h2>${q ? `Results for "${q}"` : 'All Resources'}</h2>
-        <span class="see-all">${results.length} found</span>
-      </div>
-      <div class="project-grid" id="resultGrid"></div>`;
-    renderProjects(results, 'resultGrid');
-    if (results.length > 0) section.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    
+    rc.innerHTML = `
+      <div class="detail-card">
+        <div class="section-header" style="margin-bottom:20px">
+          <h2>${q ? `Results for "${q}"` : 'All Resources'}</h2>
+          <span class="see-all">${results.length} found</span>
+        </div>
+        ${emptyHtml ? '' : '<div class="project-grid" id="resultGrid"></div>'}
+        ${emptyHtml}
+      </div>`;
+    if (results.length > 0) {
+      renderProjects(results, 'resultGrid');
+    }
+    window.scrollTo({top: 0});
   } catch(e) {
     showToast('Search failed');
   }
@@ -1087,6 +1107,7 @@ document.getElementById('searchInput').addEventListener('keydown', e => {
 
 async function showDetail(id) {
   document.getElementById('mainView').style.display = 'none';
+  document.getElementById('resultsView').style.display = 'none';
   const dv = document.getElementById('detailView');
   dv.style.display = 'block';
   // Hide About, Privacy, Legal pages
@@ -1185,23 +1206,32 @@ async function loadRecommendations(id) {
 async function showStack(stackId) {
   try {
     const data = await fetchAPI(`/stacks/${stackId}`);
-    let section = document.getElementById('searchResults');
-    if (!section) {
-      section = document.createElement('div');
-      section.id = 'searchResults';
-      document.querySelector('#mainView').appendChild(section);
-    }
-    section.innerHTML = `
-      <div class="section-header"><h2>📦 Stack: ${data.name}</h2><span class="see-all">${data.description||''}</span></div>
-      <div class="project-grid" id="stackProjectsGrid"></div>`;
+    // Show resultsView
+    document.getElementById('mainView').style.display = 'none';
+    document.getElementById('detailView').style.display = 'none';
+    ['pageAbout','pagePrivacy','pageLegal'].forEach(id => {
+      const el = document.getElementById(id);
+      if (el) el.style.display = 'none';
+    });
+    const rv = document.getElementById('resultsView');
+    rv.style.display = 'block';
+    const rc = document.getElementById('resultsContent');
+    rc.innerHTML = `
+      <div class="detail-card">
+        <div class="section-header" style="margin-bottom:20px">
+          <h2>📦 Stack: ${data.name}</h2>
+          <span class="see-all">${data.description||''}</span>
+        </div>
+        <div class="project-grid" id="stackProjectsGrid"></div>
+      </div>`;
     renderProjects(data.projects, 'stackProjectsGrid');
-    section.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    window.scrollTo({top: 0});
   } catch(e) { console.error('showStack:', e); }
 }
 
 // Page navigation
 function showPage(page) {
-  const pages = ['mainView', 'detailView', 'pageAbout', 'pagePrivacy', 'pageLegal'];
+  const pages = ['mainView', 'detailView', 'resultsView', 'pageAbout', 'pagePrivacy', 'pageLegal'];
   pages.forEach(id => {
     const el = document.getElementById(id);
     if (el) el.style.display = (id === 'mainView' && page === 'main') || 
@@ -1243,6 +1273,7 @@ function populateSidebarCategories(cats) {
 function showMain() {
   document.getElementById('mainView').style.display = 'block';
   document.getElementById('detailView').style.display = 'none';
+  document.getElementById('resultsView').style.display = 'none';
   // Hide About, Privacy, Legal pages
   ['pageAbout','pagePrivacy','pageLegal'].forEach(id => {
     const el = document.getElementById(id);

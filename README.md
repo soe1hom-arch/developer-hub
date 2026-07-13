@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="website/android-logo.png" width="300" alt="developer-hub Logo">
+</p>
+
+
 # Developer Hub
 
 > Sebuah database open-source yang berisi **693 sumber daya developer** — API, SDK, library, framework, tools, dan bahasa pemrograman.  

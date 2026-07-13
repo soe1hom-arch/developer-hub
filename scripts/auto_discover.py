@@ -1,27 +1,42 @@
 #!/usr/bin/env python3
 """
 Auto-discover new developer resources from GitHub and add them to the database.
+Now with quality filters, smart categorization, and validation rollback.
 
-Usage: python scripts/auto_discover.py [--dry-run] [--max-per-category 10]
+Usage:
+    python scripts/auto_discover.py                         # Normal run
+    python scripts/auto_discover.py --dry-run               # Preview only
+    python scripts/auto_discover.py --min-stars 50          # Higher quality threshold
+    python scripts/auto_discover.py --proposals             # Review pending proposals
 
 Requires: GITHUB_TOKEN env var
 """
 
-import json, os, sys, time, re, glob, math, locale
+import json, os, sys, time, re, glob, math, locale, shutil
 locale.setlocale(locale.LC_ALL, 'C')
 from pathlib import Path
 from urllib.request import Request, urlopen
 from urllib.error import HTTPError
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
+SCHEMA_PATH = REPO_ROOT / "schemas" / "project.schema.json"
+PROPOSALS_DIR = REPO_ROOT / ".proposals"
+
 GITHUB_TOKEN = os.environ.get('GITHUB_TOKEN', '')
 HEADERS = {'User-Agent': 'DeveloperHub/1.0'}
 if GITHUB_TOKEN:
     HEADERS['Authorization'] = f'Bearer {GITHUB_TOKEN}'
 
-# Map GitHub topics to our categories
+# ─────────────────────── Quality Settings ───────────────────────
+MIN_STARS = 10
+MIN_DESC_LENGTH = 30
+MAX_PROPOSALS_PER_CATEGORY = 10
+SLEEP_BETWEEN_CALLS = 0.3
+
+# ─────────────────────── Category Topics Map ───────────────────────
 TOPIC_TO_CATEGORY = {
     'android': 'android', 'android-sdk': 'android', 'kotlin': 'android',
+    'android-ndk': 'android', 'gradle': 'android', 'android-studio': 'android',
     'ios': 'mobile', 'swift': 'mobile', 'flutter': 'mobile', 'react-native': 'mobile',
     'react': 'frontend', 'vue': 'frontend', 'angular': 'frontend', 'svelte': 'frontend',
     'css': 'frontend', 'ui': 'frontend', 'frontend': 'frontend', 'webpack': 'frontend',
@@ -66,378 +81,621 @@ TOPIC_TO_CATEGORY = {
     'binary': 'binary', 'prebuilt': 'binary', 'portable': 'binary',
     'static-binary': 'binary', 'standalone': 'binary', 'pre-compiled': 'binary',
     'release-binary': 'binary', 'appimage': 'binary', 'portable-app': 'binary',
-    'android-ndk': 'android', 'gradle': 'android', 'android-studio': 'android',
-
-    'adb': 'android-tools', 'fastboot': 'android-tools',
-    'cli': 'cli-tools', 'command-line': 'cli-tools', 'shell': 'cli-tools',
-    'terminal': 'cli-tools',
-    'binary': 'binary', 'prebuilt': 'binary', 'portable': 'binary',
 }
 
-# Search queries per category to find new repos
+# ─────────────────────── Smarter Language→Category hints ───────────────────────
+LANGUAGE_CATEGORY_HINTS = {
+    'python': {'backend', 'ai', 'languages', 'devops', 'cloud'},
+    'javascript': {'frontend', 'backend', 'languages'},
+    'typescript': {'frontend', 'backend', 'languages'},
+    'java': {'android', 'backend', 'languages'},
+    'kotlin': {'android', 'backend', 'languages'},
+    'go': {'backend', 'devops', 'cloud', 'languages'},
+    'rust': {'languages', 'tools', 'backend'},
+    'swift': {'macos', 'mobile', 'languages'},
+    'c++': {'languages', 'game-development', 'embedded', 'firmware'},
+    'c': {'embedded', 'firmware', 'languages', 'operating-systems'},
+    'ruby': {'backend', 'languages'},
+    'php': {'backend', 'languages'},
+    'dart': {'mobile', 'frontend', 'languages'},
+    'r': {'ai', 'languages'},
+    'shell': {'cli-tools', 'devops', 'linux'},
+    'dockerfile': {'containers', 'devops'},
+    'html': {'frontend', 'web'},
+    'css': {'frontend', 'web'},
+}
 
-# Repos to exclude (not real developer resources)
+DESC_CATEGORY_KEYWORDS = {
+    'backend': ['web framework', 'backend', 'server', 'rest api', 'api framework', 'http server', 'middleware'],
+    'frontend': ['frontend', 'ui', 'component', 'react', 'vue', 'angular', 'css', 'web app'],
+    'ai': ['machine learning', 'deep learning', 'artificial intelligence', 'llm', 'neural', 'nlp', 'gpt', 'tensorflow', 'pytorch'],
+    'database': ['database', 'sql', 'nosql', 'data store', 'cache', 'key-value', 'orm'],
+    'mobile': ['mobile', 'ios', 'android app', 'cross-platform'],
+    'devops': ['devops', 'ci/cd', 'deployment', 'infrastructure', 'monitoring', 'observability'],
+    'security': ['security', 'encryption', 'authentication', 'vulnerability', 'penetration'],
+    'tools': ['developer tool', 'cli', 'command line', 'productivity'],
+    'cloud': ['cloud', 'serverless', 'saas', 'paas'],
+    'game-development': ['game', 'game engine', 'gamedev', '3d', 'rendering'],
+}
+
+# ─────────────────────── Strict Exclusion Patterns ───────────────────────
 EXCLUDE_PATTERNS = [
+    # Non-tool / learning resources
     'awesome-', 'awesome-list', 'free-programming', 'free-books',
     '-books', '-tutorial', '-guide', '-course', '-learning',
-    'Microsoft-Activation', 'Windows-Activation', 'MAS',
     'cs-video-courses', 'developer-roadmap', 'build-your-own-x',
     'project-based-learning', 'system-design', 'system-design',
     'interview-', 'cheatsheet', 'cheat-sheet',
-    '-zh_CN', '-zh-CN', '-zh',
-    'android-interview', 'kotlin-interview',
-    'tldr-pages', 'tldr',  # man page summaries
-    'freecodecamp', 'leetcode',
+    'tldr-pages', 'tldr', 'freecodecamp', 'leetcode',
     'javascript-algorithms', 'python-interview',
     'the-book-of', 'rust-book',
     'notes', '-notes', 'notebook',
-    # Non-dev tools: hacking, phishing, cracking
+    # Personal / config / boilerplate
+    'dotfiles', 'config', 'dotfile',
+    'boilerplate', 'starter', 'template', 'scaffold', 'scaffolding',
+    'sandbox', 'playground', 'play-around', 'playground',
+    'demo-app', 'sample-app', 'example', 'hello-world', 'helloworld',
+    'my-', 'test-', 'learn-', 'practice-',
+    'nvim-config', 'vimrc', 'vim-config', 'zshrc', 'bashrc',
+    'starter-kit', 'starter-template', 'kickstart',
+    # Non-dev tools: illegal/malicious
     'hacking', 'hacktool', 'hackingtool', 'hack',
     'phish', 'phishing', 'crack', 'cracking',
     'bomb', 'bomber', 'bombing', 'spam', 'spammer',
     'exploit', 'payload', 'malware',
     'whatsapp-hack', 'instagram-hack', 'facebook-hack',
     'termux-social', 'termux-hacking', 'termux-extra', 'termux-style',
-    # Non-relevant termux
+    # Non-relevant
     'termux-boot', 'termux-tasker', 'termux-styling',
-    # Non-relevant android
     'android-tv', 'android-auto', 'android-wear', 'android-things',
-    # Non-tool binaries
     'game-assets', 'game-data', 'roms', 'iso', 'firmware-dump',
-
 ]
 
-CATEGORY_QUERIES = {
-    'ai': 'topic:ai stars:>500',
-    'android': 'topic:android stars:>1000',
-    'frontend': 'topic:frontend stars:>1000',
-    'backend': 'topic:backend stars:>1000',
-    'database': 'topic:database stars:>1000',
-    'cloud': 'topic:cloud stars:>500',
-    'devops': 'topic:devops stars:>500',
-    'security': 'topic:security stars:>500',
-    'tools': 'topic:developer-tools stars:>1000',
-    'mobile': 'topic:mobile stars:>500',
-    'game-development': 'topic:game-development stars:>500',
-    'blockchain': 'topic:blockchain stars:>200',
-    'machine-learning': 'topic:machine-learning stars:>1000',
-    'containers': 'topic:containers stars:>500',
-    'frameworks': 'topic:framework stars:>1000',
-    'libraries': 'topic:library stars:>1000',
-    'languages': 'topic:programming-language stars:>1000',
-    'network': 'topic:networking stars:>500',
-    'iot': 'topic:iot stars:>200',
-    'linux': 'topic:linux stars:>500',
-    'macos': 'topic:macos stars:>200',
-    'windows': 'topic:windows stars:>200',
-    # Mobile & Termux tools
-    'termux': 'topic:termux stars:>50',
-    'android-tools': 'topic:android-tools stars:>100',
-    # Binary & CLI tools
-    'cli-tools': 'topic:cli stars:>1000',
-    'binary': 'topic:binary stars:>200',
-}
+DESC_BLOCK_KEYWORDS = [
+    'book', 'tutorial', 'learn', 'guide', 'course',
+    'notes', 'interview', 'cheat sheet', 'awesome list',
+    'curated list', 'awesome ', 'resources for',
+    'my personal', 'dotfiles', 'config files',
+    'sample project', 'demo project', 'tutorial project',
+    'starter template', 'boilerplate', 'playground',
+]
 
+# ─────────────────────── API Helper ───────────────────────
 def gh_api(path):
     url = f"https://api.github.com{path}"
     req = Request(url, headers=HEADERS)
-    try:
-        with urlopen(req, timeout=15) as r:
-            return json.loads(r.read())
-    except HTTPError as e:
-        if e.code in (403, 404):
+    for attempt in range(3):
+        try:
+            with urlopen(req, timeout=15) as r:
+                return json.loads(r.read())
+        except HTTPError as e:
+            body = e.read().decode()
+            if e.code == 403 and 'rate limit' in body.lower():
+                reset_time = int(dict(e.headers).get('X-RateLimit-Reset', time.time() + 60))
+                wait = max(reset_time - time.time(), 1) + 5
+                print(f"  ⏳ Rate limited. Waiting {int(wait)}s...")
+                time.sleep(wait)
+                continue
+            if e.code == 404:
+                return None
+            print(f"  ⚠️  GitHub API error {e.code}: {body[:100]}")
             return None
-        return None
-    except:
-        return None
+        except Exception as e:
+            if attempt < 2:
+                time.sleep(2)
+                continue
+            return None
+    return None
 
-def load_existing():
-    """Load all existing entries into a set of IDs and GitHub URLs."""
+# ─────────────────────── Smart Category Detection ───────────────────────
+def detect_category(name, description, topics, language, search_category):
+    """Detect best category using all signals."""
+    scores = {}
+    desc_lower = (description or '').lower()
+    name_lower = name.lower()
+
+    # 1. Score from topics
+    for topic in topics:
+        cat = TOPIC_TO_CATEGORY.get(topic)
+        if cat:
+            scores[cat] = scores.get(cat, 0) + 3
+
+    # 2. Score from language hints
+    if language:
+        lang_key = language.lower()
+        hinted = LANGUAGE_CATEGORY_HINTS.get(lang_key, set())
+        for cat in hinted:
+            scores[cat] = scores.get(cat, 0) + 2
+
+    # 3. Score from description keywords
+    for cat, keywords in DESC_CATEGORY_KEYWORDS.items():
+        for kw in keywords:
+            if kw in desc_lower:
+                scores[cat] = scores.get(cat, 0) + 2
+
+    # 4. Penalty for generic language-only detection
+    if language and not topics and not any(kw in desc_lower for kws in DESC_CATEGORY_KEYWORDS.values() for kw in kws):
+        # Language alone without context → likely belongs to its natural category
+        lang_cats = LANGUAGE_CATEGORY_HINTS.get(language.lower(), set())
+        if len(lang_cats) <= 2:
+            pass  # keep existing scores
+        else:
+            # Generic language — reduce confidence
+            for cat in list(scores.keys()):
+                scores[cat] = scores.get(cat, 0) - 1
+
+    # 5. Fallback: use the search category
+    if not scores:
+        return search_category
+
+    # 6. Pick best — if confident enough
+    best_cat = max(scores, key=scores.get)
+    best_score = scores[best_cat]
+
+    # Very low confidence? Keep search category
+    if best_score < 2:
+        return search_category
+
+    # If search category is also valid and close, prefer it (avoids category drift)
+    if search_category in scores and scores.get(search_category, 0) >= best_score - 1:
+        return search_category
+
+    return best_cat
+
+
+def is_quality_entry(item, repo_data, description):
+    """Check if repo is a quality developer resource."""
+    stars = item.get('stargazers_count', 0)
+    language = item.get('language')
+    topics = item.get('topics', [])
+
+    # Must have minimum stars
+    if stars < MIN_STARS:
+        return False, f"Too few stars ({stars} < {MIN_STARS})"
+
+    # Must have a real description
+    desc = (description or '').strip()
+    if len(desc) < MIN_DESC_LENGTH:
+        return False, f"Description too short ({len(desc)} < {MIN_DESC_LENGTH})"
+
+    # Must have detectable language or topics
+    if not language and not topics:
+        return False, "No language or topics detected"
+
+    # Must not be a fork (usually personal copies)
+    if item.get('fork', False):
+        return False, "Is a fork"
+
+    # Description must not be tutorial/docs
+    desc_lower = desc.lower()
+    for kw in DESC_BLOCK_KEYWORDS:
+        if kw in desc_lower:
+            return False, f"Description contains blocked keyword: '{kw}'"
+
+    # Check if repo has actual content (not empty)
+    if repo_data:
+        size = repo_data.get('size', 0)
+        if size < 10:  # Less than 10KB — basically empty
+            return False, f"Repo too small ({size}KB)"
+
+    return True, ""
+
+
+def load_proposals():
+    """Load all pending proposals from .proposals/ directory."""
+    proposals = []
+    if PROPOSALS_DIR.exists():
+        for f in PROPOSALS_DIR.glob('*.json'):
+            try:
+                with open(f) as fh:
+                    data = json.load(fh)
+                    proposals.append((f, data))
+            except Exception:
+                pass
+    return proposals
+
+
+def save_proposal(entry):
+    """Save a new entry as a proposal instead of directly to category."""
+    PROPOSALS_DIR.mkdir(exist_ok=True)
+    filepath = PROPOSALS_DIR / f"{entry['id']}.json"
+    entry['_proposed_at'] = time.strftime('%Y-%m-%dT%H:%M:%SZ', time.gmtime())
+    with open(filepath, 'w') as f:
+        json.dump(entry, f, indent=2)
+    return filepath
+
+
+def validate_and_commit(filepath):
+    """Validate a JSON file against schema. If fails, remove it. Returns (success, message)."""
+    try:
+        import jsonschema
+        from jsonschema import validate, ValidationError
+    except ImportError:
+        # jsonschema not installed, skip validation
+        return True, "Skipped (jsonschema not installed)"
+
+    try:
+        # Load schema
+        with open(SCHEMA_PATH) as f:
+            schema = json.load(f)
+
+        # Load entry
+        with open(filepath) as f:
+            data = json.load(f)
+
+        # Check category matches directory
+        parent_dir = filepath.resolve().parent.name
+        entry_category = data.get("category", "")
+        if parent_dir in CATEGORIES and entry_category != parent_dir:
+            filepath.unlink()
+            return False, f"Category mismatch: dir='{parent_dir}' field='{entry_category}' — deleted"
+
+        # Validate schema
+        validate(instance=data, schema=schema)
+        return True, "Valid"
+
+    except (json.JSONDecodeError, ValidationError) as e:
+        filepath.unlink()
+        return False, f"Validation failed: {e} — deleted"
+    except Exception as e:
+        filepath.unlink()
+        return False, f"Error: {e} — deleted"
+
+
+def commit_proposal(prop_path, prop_data):
+    """Move a proposal to its proper category folder after validation."""
+    category = prop_data.get('category', 'tools')
+    entry_id = prop_data.get('id', prop_path.stem)
+
+    cat_dir = REPO_ROOT / category
+    cat_dir.mkdir(exist_ok=True)
+    target = cat_dir / f"{entry_id}.json"
+
+    # Remove internal fields before saving
+    final_entry = {k: v for k, v in prop_data.items() if not k.startswith('_')}
+    final_entry['auto_discovered'] = True
+    final_entry['quality_score'] = calculate_quality_score(final_entry)
+
+    with open(target, 'w') as f:
+        json.dump(final_entry, f, indent=2)
+
+    # Validate and rollback on failure
+    success, msg = validate_and_commit(target)
+    if success:
+        prop_path.unlink()  # Remove proposal
+        print(f"    ✅ Committed → {category}/{entry_id}.json")
+    else:
+        print(f"    ❌ {msg}")
+        # File already deleted by validate_and_commit on failure
+        prop_path.unlink() if prop_path.exists() else None
+
+    return success, msg
+
+
+def calculate_quality_score(entry):
+    """Calculate a quality score (0-100) for an entry."""
+    score = 0
+    stats = entry.get('repository_statistics', {})
+
+    # Stars (0-40 points)
+    stars = stats.get('stars', 0)
+    if stars >= 10000: score += 40
+    elif stars >= 5000: score += 35
+    elif stars >= 1000: score += 30
+    elif stars >= 500: score += 25
+    elif stars >= 100: score += 20
+    elif stars >= 50: score += 15
+    elif stars >= 10: score += 10
+
+    # Description (0-15 points)
+    desc = entry.get('description', '')
+    if len(desc) >= 100: score += 15
+    elif len(desc) >= 50: score += 10
+    elif len(desc) >= 30: score += 5
+
+    # Has documentation (0-10 points)
+    if entry.get('documentation') and 'readme' not in (entry.get('documentation') or ''):
+        score += 10
+    elif entry.get('documentation'):
+        score += 5
+
+    # Has official website (0-10 points)
+    if entry.get('official_website') and 'github.com' not in (entry.get('official_website') or ''):
+        score += 10
+
+    # Programming languages (0-10 points)
+    langs = entry.get('programming_languages', [])
+    if len(langs) > 1:
+        score += 10
+    elif len(langs) == 1 and langs[0] != 'Generic':
+        score += 5
+
+    # Tags (0-10 points)
+    tags = entry.get('tags', [])
+    if len(tags) >= 5: score += 10
+    elif len(tags) >= 3: score += 7
+    elif len(tags) >= 1: score += 3
+
+    # Maintained (0-5 points)
+    if entry.get('maintained', True):
+        score += 5
+
+    return min(score, 100)
+
+
+# ─────────────────────── Main Discovery ───────────────────────
+CATEGORY_QUERIES = {
+    'ai': ['ai', 'machine-learning', 'deep-learning', 'llm'],
+    'android': ['android', 'kotlin', 'android-sdk'],
+    'android-tools': ['android-tool', 'adb', 'android-debug', 'android-devtools'],
+    'backend': ['backend', 'rest-api', 'graphql', 'api'],
+    'binary': ['binary', 'prebuilt', 'static-binary', 'portable', 'appimage'],
+    'blockchain': ['blockchain', 'ethereum', 'web3', 'solidity'],
+    'cli-tools': ['cli', 'cli-tool', 'command-line', 'tui'],
+    'cloud': ['cloud', 'serverless', 'aws', 'gcp'],
+    'containers': ['docker', 'kubernetes', 'container'],
+    'database': ['database', 'sql', 'nosql', 'postgresql'],
+    'desktop': ['desktop', 'electron', 'qt'],
+    'devops': ['devops', 'ci', 'cd', 'monitoring'],
+    'embedded': ['embedded', 'microcontroller'],
+    'firmware': ['firmware', 'esp32', 'esp8266'],
+    'frameworks': ['framework', 'web-framework'],
+    'frontend': ['frontend', 'react', 'vue', 'angular', 'svelte'],
+    'game-development': ['game-development', 'game-engine', 'unity'],
+    'iot': ['iot', 'arduino', 'raspberry-pi'],
+    'languages': ['python', 'golang', 'rust', 'typescript', 'java'],
+    'libraries': ['library', 'libraries'],
+    'linux': ['linux', 'bash', 'unix'],
+    'machine-learning': ['machine-learning', 'deep-learning', 'tensorflow', 'pytorch'],
+    'macos': ['macos', 'apple', 'swift'],
+    'mobile': ['mobile', 'ios', 'flutter', 'react-native'],
+    'network': ['network', 'networking', 'proxy'],
+    'operating-systems': ['operating-system', 'os'],
+    'robotics': ['robotics', 'ros'],
+    'security': ['security', 'authentication', 'encryption'],
+    'termux': ['termux', 'termux-repo', 'termux-package'],
+    'tools': ['tool', 'developer-tool', 'productivity'],
+    'web': ['web', 'html', 'css'],
+    'windows': ['windows', 'dotnet'],
+}
+
+CATEGORIES = set(CATEGORY_QUERIES.keys())
+
+
+def discover_new_entries(max_per_category=10, dry_run=False):
+    """Discover new developer resources from GitHub."""
+    print(f"🔍 Auto-Discovery (min ⭐{MIN_STARS}, max {max_per_category}/category)")
+    if dry_run:
+        print("   DRY RUN — no files will be created")
+
+    discovered = []
+    proposal_count = 0
+
+    # Load existing entries to avoid duplicates
     existing_ids = set()
     existing_gh = set()
     existing_names = set()
-    
-    for f in glob.glob(str(REPO_ROOT / '*/*.json')):
-        if Path(f).parent.name not in CATEGORY_QUERIES and Path(f).parent.name not in ('api', 'api_server', 'scripts', 'docs', 'website', 'schemas', '.git'):
-            continue
-        try:
-            with open(f) as fh:
-                d = json.load(fh)
-            eid = d.get('id', '')
-            gh = d.get('github_repository', '')
-            name = d.get('name', '').lower()
-            if eid:
-                existing_ids.add(eid)
-            if gh and 'example' not in gh:
-                existing_gh.add(gh.rstrip('/').lower())
-            if name:
-                existing_names.add(name)
-        except:
-            pass
-    
-    return existing_ids, existing_gh, existing_names
+    for cat_dir in CATEGORIES:
+        d = REPO_ROOT / cat_dir
+        if d.exists():
+            for f in d.glob('*.json'):
+                try:
+                    with open(f) as fh:
+                        data = json.load(fh)
+                        existing_ids.add(data.get('id', ''))
+                        existing_gh.add(data.get('github_repository', '').rstrip('/').lower())
+                        existing_names.add(data.get('name', '').lower())
+                except Exception:
+                    pass
 
-def categorize_repo(topics, language, description):
-    """Determine which category a repo belongs to - with STRONG matching."""
-    topic_set = set(t.lower() for t in topics)
-    
-    # Category-specific strong signals
-    strong_signals = {
-        'android': {'android', 'android-sdk', 'kotlin', 'jetpack'},
-        'mobile': {'ios', 'swift', 'flutter', 'react-native', 'xamarin'},
-        'frontend': {'reactjs', 'vue', 'angular', 'frontend', 'css', 'ui-components'},
-        'backend': {'backend', 'rest-api', 'graphql', 'microservices'},
-        'database': {'database', 'sql', 'nosql', 'orm', 'db'},
-        'cloud': {'cloud', 'aws', 'azure', 'gcp', 'serverless', 'cloud-computing'},
-        'containers': {'docker', 'kubernetes', 'container', 'k8s'},
-        'devops': {'devops', 'ci', 'cd', 'cicd'},
-        'security': {'security', 'cybersecurity', 'encryption', 'authentication'},
-        'blockchain': {'blockchain', 'ethereum', 'web3', 'solidity', 'crypto'},
-        'game-development': {'game-development', 'game-engine', 'gamedev', 'unity3d'},
-        'iot': {'iot', 'internet-of-things', 'arduino', 'esp32'},
-        'embedded': {'embedded', 'embedded-systems', 'firmware'},
-        'firmware': {'firmware', 'esp8266', 'microcontroller'},
-        'robotics': {'robotics', 'robot', 'ros'},
-        'ai': {'ai', 'artificial-intelligence', 'machine-learning', 'deep-learning', 'llm', 'nlp'},
-        'machine-learning': {'machine-learning', 'deep-learning', 'ml'},
-        'network': {'network', 'networking', 'proxy', 'vpn'},
-        'languages': {'programming-language', 'language'},
-        'frameworks': {'framework', 'web-framework'},
-        'libraries': {'library'},
-        'tools': {'developer-tools', 'cli', 'command-line'},
-        'linux': {'linux', 'unix'},
-        'windows': {'windows', 'dotnet'},
-        'macos': {'macos', 'mac'},
-        'termux': {'termux', 'termux-package', 'termux-tool'},
-        'android-tools': {'android-tools', 'adb', 'fastboot', 'android-utility'},
-        'cli-tools': {'cli', 'command-line', 'terminal', 'shell'},
-        'binary': {'binary', 'prebuilt', 'portable', 'standalone'},
-    }
-    
-    # Check strong signals first
-    matched_cats = set()
-    for cat, signals in strong_signals.items():
-        if topic_set & signals:
-            matched_cats.add(cat)
-    
-    # If multiple matches, prefer non-ai specific ones
-    if len(matched_cats) > 1:
-        # Remove 'ai' if there are other good matches (many repos use AI but aren't AI tools)
-        if 'ai' in matched_cats and len(matched_cats) > 1:
-            matched_cats.discard('ai')
-        # Remove 'machine-learning' similarly
-        if 'machine-learning' in matched_cats and len(matched_cats) > 1:
-            matched_cats.discard('machine-learning')
-    
-    if matched_cats:
-        return list(matched_cats)[0]
-    
-    # Fallback: check language
-    if language:
-        lang_lower = language.lower()
-        lang_map = {
-            'kotlin': 'android', 'swift': 'mobile', 'javascript': 'frontend',
-            'typescript': 'frontend', 'go': 'backend', 'java': 'backend',
-            'ruby': 'backend', 'php': 'backend', 'dart': 'mobile',
-            'solidity': 'blockchain', 'rust': 'tools',
-            'c': 'languages', 'c++': 'languages', 'python': 'tools',
-            'csharp': 'windows',
-        }
-        return lang_map.get(lang_lower, 'tools')
-    
-    return None
+    # Also check proposals
+    for prop_path, prop_data in load_proposals():
+        existing_ids.add(prop_data.get('id', ''))
+        existing_gh.add(prop_data.get('github_repository', '').rstrip('/').lower())
 
-def discover_new_entries(max_per_category=10, dry_run=False):
-    existing_ids, existing_gh, existing_names = load_existing()
-    print(f"Existing entries: {len(existing_ids)} IDs, {len(existing_gh)} GitHub URLs\n")
-    
-    discovered = []
-    errors = 0
-    
-    for category, query in sorted(CATEGORY_QUERIES.items()):
-        print(f"\n--- {category.upper()} ---")
-        
-        # Search GitHub
-        search_query = f"{query} sort:stars-desc"
-        import urllib.parse
-        params = urllib.parse.urlencode({"q": search_query, "per_page": max_per_category + 10})
-        data = gh_api(f'/search/repositories?{params}')
-        if not data or not data.get('items'):
-            print(f"  No results or API error")
-            continue
-        
+    for category, queries in CATEGORY_QUERIES.items():
         found = 0
-        for item in data['items']:
+        for query_topic in queries:
             if found >= max_per_category:
                 break
-            
-            # Skip forks
-            if item.get('fork'):
+
+            # Skip if already have enough proposals in queue
+            existing_in_cat = sum(1 for _, p in load_proposals() if p.get('category') == category)
+            if existing_in_cat >= MAX_PROPOSALS_PER_CATEGORY:
                 continue
-            
-            full_name = item['full_name']
-            gh_url = item['html_url'].rstrip('/').lower()
-            name = item['name']  # Original GitHub name
-            
-            # Skip excluded patterns
-            skip = False
-            for pat in EXCLUDE_PATTERNS:
-                if pat.lower() in name.lower() or pat.lower() in full_name.lower():
-                    skip = True
+
+            q = f"q=topic:{query_topic}+stars:>={MIN_STARS}&sort=stars&per_page=30"
+            results = gh_api(f'/search/repositories?{q}')
+            if not results or 'items' not in results:
+                continue
+
+            for item in results['items']:
+                if found >= max_per_category:
                     break
-            if skip:
-                continue
-            
-            # Skip if already in database
-            if gh_url in existing_gh or item['name'] in existing_names:
-                continue
-            
-            # Skip if name is too generic
-            if name.lower() in ('project', 'app', 'demo', 'test', 'my-project', 'sample'):
-                continue
-            
-            topics = item.get('topics', [])
-            language = item.get('language')
-            description = item.get('description', '') or ''
-            
-            # Determine category
-            # Check if repo is a developer tool (has code, not just docs/books)
-            if not language and not topics:
-                continue
-            if topics and all(t in ('awesome-list', 'book', 'documentation') for t in topics[:3]):
-                continue
-            
-            # Skip docs/tutorial repos
-            desc_lower = (description or '').lower()
-            desc_skip_keywords = ['book', 'tutorial', 'learn', 'guide', 'course', 
-                                  'notes', 'interview', 'cheat sheet', 'awesome list',
-                                  'curated list', 'awesome ', 'resources for']
-            if any(kw in desc_lower for kw in desc_skip_keywords):
-                continue
-            
-            # Skip repos without actual code (stars but no language = mostly docs)
-            if not language and item.get('size', 0) < 1000:
-                continue
-            
-            detected_cat = categorize_repo(topics, language, description)
-            # If found by specific category search, trust the search category
-            # unless there's a very strong conflicting signal
-            if detected_cat and detected_cat != category:
-                # Related categories: allow lenient matching
-                related = {
-                    'linux': {'termux', 'cli-tools', 'network'},
-                    'android': {'termux', 'mobile', 'android-tools'},
-                    'mobile': {'android', 'android-tools'},
-                    'tools': {'cli-tools', 'binary'},
-                    'network': {'security'},
-                    'security': {'network'},
-                    'frontend': {'mobile'},
-                    'database': {'cloud'},
-                    'termux': {'android', 'cli-tools', 'linux'},
-                    'cli-tools': {'termux', 'tools', 'linux'},
-                    'binary': {'tools', 'cli-tools', 'linux'},
-                    'android-tools': {'termux', 'android', 'mobile'},
-                }
-                if category not in related.get(detected_cat, set()):
-                    print(f"  ⚠️  {full_name} detected as '{detected_cat}' not '{category}', skipping here")
+
+                name = item['name']
+                full_name = item['full_name']
+                gh_url = f"https://github.com/{full_name}".lower()
+
+                # ── Blocklist check ──
+                skip = False
+                for pat in EXCLUDE_PATTERNS:
+                    if pat.lower() in name.lower() or pat.lower() in full_name.lower():
+                        skip = True
+                        break
+                if skip:
                     continue
-            # If no category detected, use the search category
-            if not detected_cat:
-                detected_cat = category
-            
-            # Generate ID
-            entry_id = re.sub(r'[^a-z0-9]+', '-', name.lower()).strip('-')
-            if not entry_id or entry_id in existing_ids:
-                entry_id = f"{entry_id}-{category}" if entry_id else f"{category}-{int(time.time())}"
-            
-            # Get additional repo details
-            repo_data = gh_api(f'/repos/{full_name}')
-            if not repo_data:
-                continue
-            
-            license_spdx = None
-            if repo_data.get('license'):
-                license_spdx = repo_data['license'].get('spdx_id') or repo_data['license'].get('key')
-            
-            entry = {
-                "id": entry_id,
-                "name": item['name'],
-                "category": category,
-                "description": (description or f"A {category} project on GitHub").strip()[:200],
-                "official_website": repo_data.get('homepage') or f"https://github.com/{full_name}",
-                "documentation": f"https://github.com/{full_name}#readme",
-                "github_repository": f"https://github.com/{full_name}",
-                "license": license_spdx or "MIT",
-                "latest_version": repo_data.get('default_branch', 'main'),
-                "programming_languages": [language] if language else ["Generic"],
-                # Smart platform assignment based on category
-                if category == 'termux':
+
+                # ── Duplicate check ──
+                if gh_url in existing_gh or name.lower() in existing_names:
+                    continue
+
+                if name.lower() in ('project', 'app', 'demo', 'test', 'my-project', 'sample'):
+                    continue
+
+                # ── Quality check ──
+                topics = item.get('topics', [])
+                language = item.get('language')
+                description = item.get('description', '') or ''
+
+                ok, reason = is_quality_entry(item, None, description)
+                if not ok:
+                    continue
+
+                # Must have real code (skip docs-only)
+                if not language and not topics:
+                    continue
+
+                # Get full repo data
+                repo_data = gh_api(f'/repos/{full_name}')
+                if not repo_data:
+                    continue
+                if repo_data.get('archived', False):
+                    continue
+
+                # Re-check with repo_data (size check)
+                ok, reason = is_quality_entry(item, repo_data, description)
+                if not ok:
+                    continue
+
+                # ── Category detection ──
+                detected_cat = detect_category(name, description, topics, language, category)
+
+                # Cross-check: if detected category doesn't match search category,
+                # verify it's related (avoid category drift)
+                if detected_cat != category:
+                    if not repo_data:
+                        continue
+
+                # ── Build entry ──
+                entry_id = re.sub(r'[^a-z0-9]+', '-', name.lower()).strip('-')
+                if not entry_id or entry_id in existing_ids:
+                    entry_id = f"{entry_id}-{detected_cat}" if entry_id else f"{detected_cat}-{int(time.time())}"
+
+                license_spdx = None
+                if repo_data.get('license'):
+                    license_spdx = repo_data['license'].get('spdx_id') or repo_data['license'].get('key')
+
+                # Smart platform detection
+                if detected_cat == 'termux':
                     plats = ["Termux", "Android", "Linux"]
-                elif category == 'android-tools':
+                elif detected_cat == 'android-tools':
                     plats = ["Android", "Linux", "Windows", "macOS"]
-                elif category == 'binary':
+                elif detected_cat == 'binary':
                     has_win = 'windows' in (description or '').lower() or any('win' in (t or '') for t in (topics or []))
                     has_mac = 'macos' in (description or '').lower() or 'macos' in (topics or [])
                     plats = ["Linux"]
                     if has_win: plats.append("Windows")
                     if has_mac: plats.append("macOS")
-                elif category == 'cli-tools':
+                elif detected_cat == 'cli-tools':
                     plats = ["Linux", "macOS", "Windows", "Termux"]
+                elif detected_cat in ('android', 'mobile'):
+                    plats = ["Android", "iOS", "Linux", "macOS", "Windows"]
+                elif detected_cat in ('game-development',):
+                    plats = ["Windows", "macOS", "Linux", "Web"]
+                elif detected_cat in ('web', 'frontend'):
+                    plats = ["Web", "Linux", "macOS", "Windows"]
+                elif detected_cat in ('embedded', 'firmware', 'iot', 'robotics'):
+                    plats = ["Linux", "Embedded"]
                 else:
-                    plats = ["Web", "Linux", "macOS", "Windows", "Android", "Termux"][:min(6, max(1, item.get('stargazers_count', 0) // 5000 + 1))]
-                "platforms": plats,
-                "tags": (topics or [])[:8],
-                "has_binaries": False,  # Will be checked on update
-                "alternatives": [],
-                "popularity": min(10, max(1, int(item.get('stargazers_count', 0) / 1000) + 5)),
-                "maintained": not repo_data.get('archived', False),
-                "archived": repo_data.get('archived', False),
-                "open_source": True,
-                "repository_statistics": {
-                    "stars": item.get('stargazers_count', 0),
-                    "forks": item.get('forks_count', 0),
-                    "open_issues": item.get('open_issues_count', 0),
-                    "watchers": item.get('subscribers_count', 0),
-                },
-                "last_checked": time.strftime('%Y-%m-%d'),
-                "last_updated": time.strftime('%Y-%m-%d'),
-                "has_binaries": False,
-            }
-            
-            if not dry_run:
-                # Save to file
-                cat_dir = REPO_ROOT / category
-                cat_dir.mkdir(exist_ok=True)
-                filepath = cat_dir / f"{entry_id}.json"
-                with open(filepath, 'w') as f:
-                    json.dump(entry, f, indent=2)
-            
-            stars = item.get('stargazers_count', 0)
-            print(f"  ✅ +{entry['name']} ({category}) ⭐{stars}")
-            discovered.append(entry)
-            existing_ids.add(entry_id)
-            existing_gh.add(gh_url)
-            existing_names.add(name.lower())
-            found += 1
-            time.sleep(0.3)
-        
+                    plats = ["Web", "Linux", "macOS", "Windows", "Android", "Termux"]
+
+                entry = {
+                    "id": entry_id,
+                    "name": item['name'],
+                    "category": detected_cat,
+                    "description": description.strip()[:200],
+                    "official_website": repo_data.get('homepage') or f"https://github.com/{full_name}",
+                    "documentation": f"https://github.com/{full_name}#readme",
+                    "github_repository": f"https://github.com/{full_name}",
+                    "license": license_spdx or "MIT",
+                    "programming_languages": [language] if language else ["Generic"],
+                    "platforms": plats,
+                    "tags": (topics or [])[:8],
+                    "alternatives": [],
+                    "popularity": min(10, max(1, int(item.get('stargazers_count', 0) / 1000) + 5)),
+                    "maintained": not repo_data.get('archived', False),
+                    "archived": repo_data.get('archived', False),
+                    "open_source": True,
+                    "repository_statistics": {
+                        "stars": item.get('stargazers_count', 0),
+                        "forks": item.get('forks_count', 0),
+                        "open_issues": item.get('open_issues_count', 0),
+                        "watchers": item.get('subscribers_count', 0),
+                    },
+                    "last_checked": time.strftime('%Y-%m-%d'),
+                    "last_updated": time.strftime('%Y-%m-%d'),
+                    "auto_discovered": True,
+                }
+
+                # ── Save as proposal ──
+                if not dry_run:
+                    prop_path = save_proposal(entry)
+                    proposal_count += 1
+                    print(f"  📄 Proposal: +{entry['name']} ({detected_cat}) ⭐{item.get('stargazers_count', 0)} → .proposals/{entry_id}.json")
+                else:
+                    print(f"  📄 [DRY RUN] Would propose: +{entry['name']} ({detected_cat}) ⭐{item.get('stargazers_count', 0)}")
+
+                discovered.append(entry)
+                existing_ids.add(entry_id)
+                existing_gh.add(gh_url)
+                existing_names.add(name.lower())
+                found += 1
+                time.sleep(SLEEP_BETWEEN_CALLS)
+
         if found == 0:
-            print(f"  No new entries found")
-    
+            print(f"  No new entries for '{category}'")
+
     print(f"\n=== Summary ===")
-    print(f"Discovered: {len(discovered)} new entries")
+    print(f"Proposed: {len(discovered)} new entries")
     if dry_run:
-        print(f"(dry run - no files were created)")
+        print(f"(dry run — no files created)")
     else:
-        print(f"Files saved to category folders")
-    
+        print(f"Proposals saved to .proposals/ — run with --commit to finalize")
+
     return discovered
+
+
+def commit_all_proposals():
+    """Validate and commit all pending proposals."""
+    proposals = load_proposals()
+    if not proposals:
+        print("No pending proposals found.")
+        return
+
+    print(f"📦 Processing {len(proposals)} proposals...")
+    committed = 0
+    failed = 0
+
+    for prop_path, prop_data in proposals:
+        print(f"  Checking: {prop_data.get('name', prop_path.stem)} ({prop_data.get('category', '?')})")
+        success, msg = commit_proposal(prop_path, prop_data)
+        if success:
+            committed += 1
+        else:
+            failed += 1
+        time.sleep(0.1)
+
+    print(f"\n=== Results ===")
+    print(f"  ✅ Committed: {committed}")
+    print(f"  ❌ Failed/Removed: {failed}")
+
 
 if __name__ == '__main__':
     dry_run = '--dry-run' in sys.argv
+    do_commit = '--commit' in sys.argv
+
     max_per_cat = 10
     for a in sys.argv:
         if a.startswith('--max-per-category='):
             max_per_cat = int(a.split('=')[1])
-    
-    discover_new_entries(max_per_cat, dry_run)
+        if a.startswith('--min-stars='):
+            MIN_STARS = int(a.split('=')[1])
+
+    if do_commit:
+        commit_all_proposals()
+    else:
+        discover_new_entries(max_per_cat, dry_run)
+        if not dry_run:
+            print(f"\n💡 Run with --commit to validate and move proposals to categories")
+            print(f"   Or review proposals in .proposals/ directory")

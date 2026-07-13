@@ -67,10 +67,10 @@
         "blockchain",
         "machine-learning",
         "robotics",
-    "android-tools",
-    "binary",
-    "cli-tools",
-    "termux"
+        "android-tools",
+        "binary",
+        "cli-tools",
+        "termux"
       ]
     },
     "description": {
@@ -271,6 +271,16 @@
       "type": "string",
       "format": "date",
       "description": "Date when this entry's metadata was last updated"
+    },
+    "auto_discovered": {
+      "type": "boolean",
+      "description": "Whether this entry was automatically discovered"
+    },
+    "quality_score": {
+      "type": "integer",
+      "description": "Quality score from 0-100",
+      "minimum": 0,
+      "maximum": 100
     }
   }
 }

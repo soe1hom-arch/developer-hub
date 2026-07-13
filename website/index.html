@@ -912,11 +912,8 @@ async function init() {
 }
 
 // Handle browser back/forward navigation
-let isHistoryNav = false;
 window.addEventListener('popstate', e => {
-  isHistoryNav = true;
-  if (e.state && e.state.view) handleView(e.state);
-  setTimeout(() => { isHistoryNav = false; }, 0);
+  if (e.state && e.state.view) handleView(e.state, true);
 });
 
 function renderProjects(projects, containerId) {
@@ -1018,7 +1015,7 @@ async function renderRecent() {
   } catch(e) { console.error("renderRecent:", e); }
 }
 
-async function search() {
+async function search(fromHistory) {
   const q = document.getElementById('searchInput').value.trim();
   const cat = document.getElementById('filterCategory').value;
   const lang = document.getElementById('filterLanguage').value;
@@ -1076,7 +1073,7 @@ async function search() {
       renderProjects(results, 'resultGrid');
     }
     window.scrollTo({top: 0});
-    if (!isHistoryNav) history.pushState({view: 'results', query: q, category: cat, lang: lang, sort: sort}, '');
+    if (!fromHistory) history.pushState({view: 'results', query: q, category: cat, lang: lang, sort: sort}, '');
   } catch(e) {
     showToast('Search failed');
   }
@@ -1116,7 +1113,7 @@ document.getElementById('searchInput').addEventListener('keydown', e => {
   if (e.key === 'Enter') { document.getElementById('autocomplete').classList.remove('show'); search(); }
 });
 
-async function showDetail(id) {
+async function showDetail(id, fromHistory) {
   document.getElementById('mainView').style.display = 'none';
   document.getElementById('resultsView').style.display = 'none';
   const dv = document.getElementById('detailView');
@@ -1161,7 +1158,7 @@ async function showDetail(id) {
     </div>`;
 
     document.getElementById('detailView').innerHTML = html;
-    if (!isHistoryNav) history.pushState({view: 'detail', projectId: id}, '');
+    if (!fromHistory) history.pushState({view: 'detail', projectId: id}, '');
 
     // Load relationships & recommendations asynchronously
     loadRelationships(id);
@@ -1215,7 +1212,7 @@ async function loadRecommendations(id) {
   } catch(e) { console.error("loadRecommendations:", e); }
 }
 
-async function showStack(stackId) {
+async function showStack(stackId, fromHistory) {
   try {
     const data = await fetchAPI(`/stacks/${stackId}`);
     // Show resultsView
@@ -1238,12 +1235,12 @@ async function showStack(stackId) {
       </div>`;
     renderProjects(data.projects, 'stackProjectsGrid');
     window.scrollTo({top: 0});
-    if (!isHistoryNav) history.pushState({view: 'results', stackId: stackId}, '');
+    if (!fromHistory) history.pushState({view: 'results', stackId: stackId}, '');
   } catch(e) { console.error('showStack:', e); }
 }
 
 // Page navigation
-function showPage(page) {
+function showPage(page, fromHistory) {
   const pages = ['mainView', 'detailView', 'resultsView', 'pageAbout', 'pagePrivacy', 'pageLegal'];
   pages.forEach(id => {
     const el = document.getElementById(id);
@@ -1258,7 +1255,7 @@ function showPage(page) {
   } else {
     window.scrollTo({top:0,behavior:'smooth'});
   }
-  if (!isHistoryNav) history.pushState({view: page}, '');
+  if (!fromHistory) history.pushState({view: page}, '');
 }
 
 // Sidebar toggle
@@ -1284,7 +1281,7 @@ function populateSidebarCategories(cats) {
     }).join('');
 }
 
-function showMain() {
+function showMain(fromHistory) {
   document.getElementById('mainView').style.display = 'block';
   document.getElementById('detailView').style.display = 'none';
   document.getElementById('resultsView').style.display = 'none';
@@ -1298,26 +1295,26 @@ function showMain() {
   window.scrollTo({top: 0});
 }
 
-// Handle history popstate navigation
-function handleView(state) {
+// Handle history popstate navigation (fromHistory=true means no pushState)
+function handleView(state, fromHistory) {
   switch(state.view) {
     case 'main':
-      showMain();
+      showMain(fromHistory);
       break;
     case 'results':
       if (state.stackId) {
-        showStack(state.stackId);
+        showStack(state.stackId, fromHistory);
       } else {
         if (state.query) document.getElementById('searchInput').value = state.query;
         if (state.category) document.getElementById('filterCategory').value = state.category;
-        search();
+        search(fromHistory);
       }
       break;
     case 'detail':
-      if (state.projectId) showDetail(state.projectId);
+      if (state.projectId) showDetail(state.projectId, fromHistory);
       break;
     default:
-      showPage(state.view);
+      showPage(state.view, fromHistory);
   }
 }
 

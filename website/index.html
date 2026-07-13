@@ -952,7 +952,7 @@ async function renderStacks() {
     const section = document.getElementById('stacksSection');
     section.innerHTML = `
       <div class="section-header"><h2>📦 Tech Stacks</h2></div>
-      <div class="category-grid" id="stackGridDetail"></div>`;
+      <div class="category-grid" id="stackGrid"></div>`;
     const grid = document.getElementById('stackGrid');
     grid.innerHTML = data.stacks.map(s => `
       <div class="category-card" onclick="showStack('${s.id}')">
@@ -1193,8 +1193,8 @@ async function showStack(stackId) {
     }
     section.innerHTML = `
       <div class="section-header"><h2>📦 Stack: ${data.name}</h2><span class="see-all">${data.description||''}</span></div>
-      <div class="project-grid" id="stackGridDetail"></div>`;
-    renderProjects(data.projects, 'stackGridDetail');
+      <div class="project-grid" id="stackProjectsGrid"></div>`;
+    renderProjects(data.projects, 'stackProjectsGrid');
     section.scrollIntoView({ behavior: 'smooth', block: 'start' });
   } catch(e) { console.error('showStack:', e); }
 }

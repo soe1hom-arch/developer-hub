@@ -19,6 +19,7 @@
 <meta name="twitter:description" content="700+ curated developer tools, APIs, SDKs, frameworks, and libraries across 33 categories.">
 <link rel="icon" type="image/svg+xml" href="/android-logo.svg">
 <link rel="apple-touch-icon" href="/android-logo.svg">
+<meta name="theme-color" content="#0a0b0f">
 <style>
 *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
 :root {
@@ -217,7 +218,7 @@ nav .nav-stat .lbl { font-size: 11px; color: var(--text3); text-transform: upper
   position: absolute; top: calc(100% + 4px); left: 0; right: 0;
   background: var(--bg3); border: 1px solid var(--border);
   border-radius: 12px; overflow: hidden;
-  display: none; z-index: 50;
+  display: flex; z-index: 50;
   box-shadow: var(--shadow-lg);
 }
 .autocomplete.show { display: block; }
@@ -505,7 +506,7 @@ footer a:hover { text-decoration: underline; }
    Sidebar / Hamburger Menu
    ============================================= */
 .hamburger {
-  display: none;
+  display: flex;
   width: 36px; height: 36px; border: none; background: none;
   cursor: pointer; padding: 6px; border-radius: 8px;
   transition: var(--transition); position: relative;
@@ -562,9 +563,7 @@ footer a:hover { text-decoration: underline; }
 }
 
 /* Show hamburger on mobile */
-@media (max-width: 768px) {
-  .hamburger { display: flex; }
-}
+/* Hamburger always visible */
 
 /* =============================================
    Improved Responsive Breakpoints
@@ -659,7 +658,7 @@ footer a:hover { text-decoration: underline; }
    About & Legal Pages
    ============================================= */
 .page-content {
-  display: none; max-width: 800px; margin: 80px auto; padding: 0 24px;
+  display: flex; max-width: 800px; margin: 80px auto; padding: 0 24px;
 }
 .page-content.active { display: block; animation: fadeUp 0.4s ease forwards; }
 .page-content h2 { font-size: 2rem; margin-bottom: 8px; }
@@ -747,7 +746,7 @@ footer a:hover { text-decoration: underline; }
 <div class="hero">
   <div class="container">
     <h2>Discover the Best Developer Resources</h2>
-    <p>A curated, searchable database of 500+ APIs, SDKs, libraries, frameworks, tools, and languages — all in one place.</p>
+    <p>A curated, searchable database of 700+ APIs, SDKs, libraries, frameworks, tools, and languages — all in one place.</p>
     <div class="quick-stats" id="quickStats">
       <div class="qs-item"><div class="qs-num" id="qsEntries">0</div><div class="qs-lbl">Resources</div></div>
       <div class="qs-item"><div class="qs-num" id="qsCats">0</div><div class="qs-lbl">Categories</div></div>
@@ -811,7 +810,6 @@ const API = window.location.origin.includes('localhost') || window.location.orig
   ? 'http://localhost:8000' 
   : window.location.origin;
 
-let allEntries = [];
 let allStats = null;
 
 async function fetchAPI(path) {
@@ -878,10 +876,6 @@ async function init() {
       langSelect.appendChild(opt);
     }
 
-    // Load all entries
-    const allData = await fetchAPI('/projects?per_page=200');
-    allEntries = allData.results || [];
-
     // Render sections (await each to catch errors properly)
     await renderTrending();
     await renderStacks();
@@ -941,7 +935,7 @@ async function renderStacks() {
     const section = document.getElementById('stacksSection');
     section.innerHTML = `
       <div class="section-header"><h2>📦 Tech Stacks</h2></div>
-      <div class="category-grid" id="stackGrid"></div>`;
+      <div class="category-grid" id="stackGridDetail"></div>`;
     const grid = document.getElementById('stackGrid');
     grid.innerHTML = data.stacks.map(s => `
       <div class="category-card" onclick="showStack('${s.id}')">
@@ -1163,7 +1157,7 @@ async function loadRecommendations(id) {
         renderProjects(recData.recommendations, 'recGrid');
       }
     }
-  } catch(e) { console.error("showStack:", e); }
+  } catch(e) { console.error("loadRecommendations:", e); }
 }
 
 async function showStack(stackId) {
@@ -1177,8 +1171,8 @@ async function showStack(stackId) {
     }
     section.innerHTML = `
       <div class="section-header"><h2>📦 Stack: ${data.name}</h2><span class="see-all">${data.description||''}</span></div>
-      <div class="project-grid" id="stackGrid"></div>`;
-    renderProjects(data.projects, 'stackGrid');
+      <div class="project-grid" id="stackGridDetail"></div>`;
+    renderProjects(data.projects, 'stackGridDetail');
     section.scrollIntoView({ behavior: 'smooth', block: 'start' });
   } catch(e) { console.error('showStack:', e); }
 }
@@ -1227,6 +1221,8 @@ function populateSidebarCategories(cats) {
 function showMain() {
   document.getElementById('mainView').style.display = 'block';
   document.getElementById('detailView').style.display = 'none';
+  const sr = document.getElementById('searchResults');
+  if (sr) sr.innerHTML = '';
   window.scrollTo({top: 0});
 }
 

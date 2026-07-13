@@ -125,7 +125,7 @@ nav {
   backdrop-filter: blur(20px);
   -webkit-backdrop-filter: blur(20px);
 }
-nav .container { display: flex; align-items: center; justify-content: space-between; gap: 16px; }
+nav .container { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
 nav .logo { display: flex; align-items: center; gap: 10px; text-decoration: none; }
 nav .logo-icon { width: 36px; height: 36px; background: linear-gradient(135deg, #3ddc84, #1a8c4a); border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 18px; }
 nav h1 { font-size: 18px; font-weight: 700; letter-spacing: -0.3px; color: var(--text); }
@@ -482,7 +482,6 @@ footer a:hover { text-decoration: underline; }
 @media (max-width: 480px) {
   .search-box { flex-direction: column; border-radius: var(--radius-sm); }
   .search-box button { justify-content: center; }
-  nav .container { flex-direction: column; gap: 8px; }
 }
 
 /* =============================================
@@ -740,14 +739,14 @@ footer a:hover { text-decoration: underline; }
       <div class="logo-icon"><img src="/android-logo.png" alt="Developer Hub" width="32" height="32" style="border-radius:8px"></div>
       <h1>Developer<span>Hub</span></h1>
     </a>
-    <button class="hamburger" id="hamburgerBtn" onclick="toggleSidebar()" aria-label="Menu">
-      <span></span><span></span><span></span>
-    </button>
     <div class="nav-stats" id="navStats">
       <div class="nav-stat"><div class="num" id="navEntries">—</div><div class="lbl">Entries</div></div>
       <div class="nav-stat"><div class="num" id="navCats">—</div><div class="lbl">Categories</div></div>
       <div class="nav-stat"><div class="num" id="navOpenSrc">—</div><div class="lbl">Open Source</div></div>
     </div>
+    <button class="hamburger" id="hamburgerBtn" onclick="toggleSidebar()" aria-label="Menu">
+      <span></span><span></span><span></span>
+    </button>
   </div>
 </nav>
 

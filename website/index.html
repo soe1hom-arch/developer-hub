@@ -510,11 +510,11 @@ footer a:hover { text-decoration: underline; }
    ============================================= */
 .hamburger {
   display: flex;
-  width: 36px; height: 36px; border: none; background: none;
-  cursor: pointer; padding: 6px; border-radius: 8px;
-  transition: var(--transition); position: relative;
-  flex-direction: column; justify-content: center; gap: 5px;
-  z-index: 201;
+  width: 36px; height: 36px; border: none; background: rgba(18,20,28,0.9);
+  cursor: pointer; padding: 6px; border-radius: 10px;
+  transition: var(--transition); position: fixed; left: 12px; top: 10px;
+  flex-direction: column; justify-content: center; align-items: center; gap: 5px;
+  z-index: 201; backdrop-filter: blur(12px); border: 1px solid var(--border);
 }
 .hamburger span {
   display: block; width: 22px; height: 2px;
@@ -735,6 +735,9 @@ footer a:hover { text-decoration: underline; }
 
 <nav>
   <div class="container">
+    <button class="hamburger" id="hamburgerBtn" onclick="toggleSidebar()" aria-label="Menu">
+      <span></span><span></span><span></span>
+    </button>
     <a class="logo" href="/" onclick="showMain();return false">
       <div class="logo-icon"><img src="/android-logo.png" alt="Developer Hub" width="32" height="32" style="border-radius:8px"></div>
       <h1>Developer<span>Hub</span></h1>
@@ -744,9 +747,6 @@ footer a:hover { text-decoration: underline; }
       <div class="nav-stat"><div class="num" id="navCats">—</div><div class="lbl">Categories</div></div>
       <div class="nav-stat"><div class="num" id="navOpenSrc">—</div><div class="lbl">Open Source</div></div>
     </div>
-    <button class="hamburger" id="hamburgerBtn" onclick="toggleSidebar()" aria-label="Menu">
-      <span></span><span></span><span></span>
-    </button>
   </div>
 </nav>
 

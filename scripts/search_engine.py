@@ -1,4 +1,3 @@
-from scripts.categories import CATEGORIES
 #!/usr/bin/env python3
 """
 Intelligent Search Engine for Developer Hub.
@@ -25,10 +24,13 @@ import sys
 import time
 import math
 from pathlib import Path
+
+REPO_ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(REPO_ROOT))
+from scripts.categories import CATEGORIES
 from collections import defaultdict, Counter
 from difflib import SequenceMatcher
 
-REPO_ROOT = Path(__file__).resolve().parent.parent
 INDEX_FILE = REPO_ROOT / ".search_index.json"
 HISTORY_FILE = REPO_ROOT / ".search_history.json"
 

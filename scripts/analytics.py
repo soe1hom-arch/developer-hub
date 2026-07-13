@@ -21,9 +21,10 @@ from pathlib import Path
 from collections import Counter, defaultdict
 from datetime import datetime, date
 
+REPO_ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(REPO_ROOT))
 from scripts.categories import CATEGORIES
 
-REPO_ROOT = Path(__file__).resolve().parent.parent
 
 def load_entries():
     entries = []

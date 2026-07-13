@@ -18,9 +18,10 @@ import re
 from pathlib import Path
 from collections import defaultdict
 
+REPO_ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(REPO_ROOT))
 from scripts.categories import CATEGORIES
 
-REPO_ROOT = Path(__file__).resolve().parent.parent
 
 # Knowledge base for generating descriptions and use cases
 PROFILE_TEMPLATES = {

@@ -1,4 +1,3 @@
-from scripts.categories import CATEGORIES
 #!/usr/bin/env python3
 """
 Auto-discover new developer resources from GitHub and add them to the database.
@@ -16,10 +15,13 @@ Requires: GITHUB_TOKEN env var
 import json, os, sys, time, re, glob, math, locale, shutil
 locale.setlocale(locale.LC_ALL, 'C')
 from pathlib import Path
+
+REPO_ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(REPO_ROOT))
+from scripts.categories import CATEGORIES
 from urllib.request import Request, urlopen
 from urllib.error import HTTPError
 
-REPO_ROOT = Path(__file__).resolve().parent.parent
 SCHEMA_PATH = REPO_ROOT / "schemas" / "project.schema.json"
 PROPOSALS_DIR = REPO_ROOT / ".proposals"
 

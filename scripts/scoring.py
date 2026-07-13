@@ -1,4 +1,3 @@
-from scripts.categories import CATEGORIES
 #!/usr/bin/env python3
 """
 Developer Hub Quality Scoring System.
@@ -20,9 +19,12 @@ Usage:
 import json
 import sys
 from pathlib import Path
-from datetime import datetime, date
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(REPO_ROOT))
+from scripts.categories import CATEGORIES
+from datetime import datetime, date
+
 
 def calculate_score(data):
     """Calculate quality score (0-10) for a project entry."""

@@ -18,9 +18,10 @@ from pathlib import Path
 from urllib.request import Request, urlopen
 from urllib.error import HTTPError, URLError
 
+REPO_ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(REPO_ROOT))
 from scripts.categories import CATEGORIES
 
-REPO_ROOT = Path(__file__).resolve().parent.parent
 GITHUB_TOKEN = os.environ.get('GITHUB_TOKEN', '')
 HEADERS = {'User-Agent': 'DeveloperHub/1.0'}
 if GITHUB_TOKEN:

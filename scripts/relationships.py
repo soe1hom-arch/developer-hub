@@ -1,4 +1,3 @@
-from scripts.categories import CATEGORIES
 #!/usr/bin/env python3
 """
 Relationship Graph for Developer Hub.
@@ -18,9 +17,12 @@ Usage:
 import json
 import sys
 from pathlib import Path
-from collections import defaultdict, Counter
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(REPO_ROOT))
+from scripts.categories import CATEGORIES
+from collections import defaultdict, Counter
+
 
 # Known "commonly used together" relationships
 COMMON_STACKS = {

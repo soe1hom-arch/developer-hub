@@ -907,7 +907,14 @@ async function init() {
     console.error('Init error:', e);
   }
   showMain();
+  // Set initial history state
+  history.replaceState({view: 'main'}, '');
 }
+
+// Handle browser back/forward navigation
+window.addEventListener('popstate', e => {
+  if (e.state && e.state.view) handleView(e.state);
+});
 
 function renderProjects(projects, containerId) {
   const grid = document.getElementById(containerId);
@@ -1066,6 +1073,7 @@ async function search() {
       renderProjects(results, 'resultGrid');
     }
     window.scrollTo({top: 0});
+    history.pushState({view: 'results', query: q, category: cat, lang: lang, sort: sort}, '');
   } catch(e) {
     showToast('Search failed');
   }
@@ -1150,6 +1158,7 @@ async function showDetail(id) {
     </div>`;
 
     document.getElementById('detailView').innerHTML = html;
+    history.pushState({view: 'detail', projectId: id}, '');
 
     // Load relationships & recommendations asynchronously
     loadRelationships(id);
@@ -1226,6 +1235,7 @@ async function showStack(stackId) {
       </div>`;
     renderProjects(data.projects, 'stackProjectsGrid');
     window.scrollTo({top: 0});
+    history.pushState({view: 'results', stackId: stackId}, '');
   } catch(e) { console.error('showStack:', e); }
 }
 
@@ -1282,6 +1292,29 @@ function showMain() {
   const sr = document.getElementById('searchResults');
   if (sr) sr.innerHTML = '';
   window.scrollTo({top: 0});
+}
+
+// Handle history popstate navigation
+function handleView(state) {
+  switch(state.view) {
+    case 'main':
+      showMain();
+      break;
+    case 'results':
+      if (state.stackId) {
+        showStack(state.stackId);
+      } else {
+        if (state.query) document.getElementById('searchInput').value = state.query;
+        if (state.category) document.getElementById('filterCategory').value = state.category;
+        search();
+      }
+      break;
+    case 'detail':
+      if (state.projectId) showDetail(state.projectId);
+      break;
+    default:
+      showPage(state.view);
+  }
 }
 
 // Back to top visibility

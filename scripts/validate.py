@@ -73,8 +73,12 @@ def validate_file(schema, filepath):
 
 def main():
     schema = load_schema()
-    target = sys.argv[1] if len(sys.argv) > 1 else None
-    check_proposals = '--proposals' in sys.argv
+    check_proposals = "--proposals" in sys.argv
+    target = None
+    for arg in sys.argv[1:]:
+        if not arg.startswith("--"):
+            target = arg
+            break
 
     files = list(find_json_files(target, include_proposals=check_proposals))
     if not files:

@@ -222,7 +222,8 @@ def scrape_fdroid(max_items=20, dry_run=False):
                     "repository_statistics": {"stars": stars, "forks": 0, "open_issues": 0, "watchers": 0},
                     "last_checked": time.strftime('%Y-%m-%d'),
                     "last_updated": time.strftime('%Y-%m-%d'),
-                    "source": "fdroid",
+                    "latest_version": "latest",
+            "source": "fdroid",
                 }
                 
                 if save_entry(entry, dry_run):

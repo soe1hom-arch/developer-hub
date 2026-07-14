@@ -728,6 +728,7 @@ def discover_new_entries(max_per_category=10, dry_run=False):
                     },
                     "last_checked": time.strftime('%Y-%m-%d'),
                     "last_updated": time.strftime('%Y-%m-%d'),
+                    "latest_version": item.get("tag_name", "latest"),
                     "auto_discovered": True,
                 }
 

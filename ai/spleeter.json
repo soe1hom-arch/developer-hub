@@ -1,0 +1,47 @@
+{
+  "id": "spleeter",
+  "name": "spleeter",
+  "category": "ai",
+  "description": "Deezer source separation library including pretrained models.",
+  "official_website": "https://research.deezer.com/projects/spleeter.html",
+  "documentation": "https://github.com/deezer/spleeter#readme",
+  "github_repository": "https://github.com/deezer/spleeter",
+  "license": "MIT",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "audio-processing",
+    "bass",
+    "deep-learning",
+    "deezer",
+    "drums",
+    "model",
+    "pretrained-models",
+    "python"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 28306,
+    "forks": 3062,
+    "open_issues": 277,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

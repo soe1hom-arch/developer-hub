@@ -1,0 +1,43 @@
+{
+  "id": "arduinojson",
+  "name": "ArduinoJson",
+  "category": "firmware",
+  "description": "\ud83d\udcdf JSON library for Arduino and embedded C++. Simple and efficient.",
+  "official_website": "https://arduinojson.org",
+  "documentation": "https://github.com/bblanchon/ArduinoJson#readme",
+  "github_repository": "https://github.com/bblanchon/ArduinoJson",
+  "license": "MIT",
+  "programming_languages": [
+    "C++"
+  ],
+  "platforms": [
+    "Linux",
+    "Embedded"
+  ],
+  "tags": [
+    "arduino",
+    "arduino-library",
+    "c-plus-plus",
+    "embedded",
+    "esp32",
+    "esp8266",
+    "iot",
+    "json"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 7187,
+    "forks": 1170,
+    "open_issues": 17,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

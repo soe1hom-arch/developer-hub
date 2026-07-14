@@ -1,0 +1,45 @@
+{
+  "id": "tooljet",
+  "name": "ToolJet",
+  "category": "frontend",
+  "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents \ud83d\ude80",
+  "official_website": "https://tooljet.com",
+  "documentation": "https://github.com/ToolJet/ToolJet#readme",
+  "github_repository": "https://github.com/ToolJet/ToolJet",
+  "license": "AGPL-3.0",
+  "programming_languages": [
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "ai-app-builder",
+    "docker",
+    "hacktoberfest",
+    "internal-applications",
+    "internal-project",
+    "internal-tool",
+    "internal-tools",
+    "javascript"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 38205,
+    "forks": 5169,
+    "open_issues": 1028,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 90
+}

@@ -1,0 +1,46 @@
+{
+  "id": "ipsw",
+  "name": "ipsw",
+  "category": "mobile",
+  "description": "iOS/macOS Research Swiss Army Knife",
+  "official_website": "https://blacktop.github.io/ipsw",
+  "documentation": "https://github.com/blacktop/ipsw#readme",
+  "github_repository": "https://github.com/blacktop/ipsw",
+  "license": "MIT",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "apple",
+    "class-dump",
+    "dyld",
+    "dyld-shared-cache",
+    "firmware",
+    "golang",
+    "img4",
+    "ios"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 3579,
+    "forks": 291,
+    "open_issues": 15,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 70
+}

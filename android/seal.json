@@ -1,0 +1,46 @@
+{
+  "id": "seal",
+  "name": "Seal",
+  "category": "android",
+  "description": "\ud83e\uddad Video/Audio Downloader for Android, based on yt-dlp",
+  "official_website": "https://github.com/JunkFood02/Seal",
+  "documentation": "https://github.com/JunkFood02/Seal#readme",
+  "github_repository": "https://github.com/JunkFood02/Seal",
+  "license": "GPL-3.0",
+  "programming_languages": [
+    "Kotlin"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "android",
+    "f-droid",
+    "jetpack-compose",
+    "kotlin",
+    "material-design",
+    "youtube-dl",
+    "youtube-downloader",
+    "yt-dlp"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 27562,
+    "forks": 1285,
+    "open_issues": 694,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 75
+}

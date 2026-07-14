@@ -1,0 +1,45 @@
+{
+  "id": "winsw",
+  "name": "winsw",
+  "category": "windows",
+  "description": "A wrapper executable that can run any executable as a Windows service, in a permissive license.",
+  "official_website": "https://github.com/winsw/winsw",
+  "documentation": "https://github.com/winsw/winsw#readme",
+  "github_repository": "https://github.com/winsw/winsw",
+  "license": "MIT",
+  "programming_languages": [
+    "C#"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "csharp",
+    "dotnet",
+    "hacktoberfest",
+    "nuget",
+    "windows-service",
+    "windows-service-wrapper"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 14134,
+    "forks": 1684,
+    "open_issues": 276,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 75
+}

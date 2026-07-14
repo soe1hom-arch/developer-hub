@@ -1,0 +1,45 @@
+{
+  "id": "ice",
+  "name": "ice",
+  "category": "frontend",
+  "description": "\ud83d\ude80 ice.js: The Progressive App Framework Based On React\uff08\u57fa\u4e8e React \u7684\u6e10\u8fdb\u5f0f\u5e94\u7528\u6846\u67b6\uff09",
+  "official_website": "https://ice.work",
+  "documentation": "https://github.com/alibaba/ice#readme",
+  "github_repository": "https://github.com/alibaba/ice",
+  "license": "MIT",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "framework",
+    "icejs",
+    "microfrontends",
+    "mpa",
+    "nodejs",
+    "react",
+    "react-router",
+    "serverless"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 18630,
+    "forks": 2109,
+    "open_issues": 395,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

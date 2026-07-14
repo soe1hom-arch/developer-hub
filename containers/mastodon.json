@@ -1,0 +1,47 @@
+{
+  "id": "mastodon",
+  "name": "mastodon",
+  "category": "containers",
+  "description": "Your self-hosted, globally interconnected microblogging community",
+  "official_website": "https://joinmastodon.org",
+  "documentation": "https://github.com/mastodon/mastodon#readme",
+  "github_repository": "https://github.com/mastodon/mastodon",
+  "license": "AGPL-3.0",
+  "programming_languages": [
+    "Ruby"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "activity-stream",
+    "activitypub",
+    "docker",
+    "fediverse",
+    "mastodon",
+    "microblog",
+    "social-network",
+    "social-web"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 50115,
+    "forks": 7482,
+    "open_issues": 4474,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

@@ -1,0 +1,44 @@
+{
+  "id": "revel",
+  "name": "revel",
+  "category": "frameworks",
+  "description": "A high productivity, full-stack web framework for the Go language.",
+  "official_website": "http://revel.github.io",
+  "documentation": "https://github.com/revel/revel#readme",
+  "github_repository": "https://github.com/revel/revel",
+  "license": "MIT",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "hacktoberfest",
+    "revel",
+    "web-application",
+    "web-application-framework",
+    "web-framework"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 13224,
+    "forks": 1357,
+    "open_issues": 94,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

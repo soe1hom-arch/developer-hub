@@ -1,0 +1,46 @@
+{
+  "id": "ios-good-practices",
+  "name": "ios-good-practices",
+  "category": "mobile",
+  "description": "Good ideas for iOS development, by Futurice developers.",
+  "official_website": "http://www.futurice.com",
+  "documentation": "https://github.com/futurice/ios-good-practices#readme",
+  "github_repository": "https://github.com/futurice/ios-good-practices",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "apple",
+    "architecture",
+    "best-practices",
+    "good-practices",
+    "ios",
+    "objective-c",
+    "provisioning-profiles",
+    "swift"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 10977,
+    "forks": 1224,
+    "open_issues": 22,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

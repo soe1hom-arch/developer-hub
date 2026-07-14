@@ -1,0 +1,40 @@
+{
+  "id": "remotion",
+  "name": "remotion",
+  "category": "frontend",
+  "description": "\ud83c\udfa5      Make videos programmatically with React",
+  "official_website": "https://remotion.dev",
+  "documentation": "https://github.com/remotion-dev/remotion#readme",
+  "github_repository": "https://github.com/remotion-dev/remotion",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "javascript",
+    "react",
+    "video"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 53131,
+    "forks": 3841,
+    "open_issues": 149,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 77
+}

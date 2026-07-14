@@ -1,0 +1,45 @@
+{
+  "id": "video-js",
+  "name": "video.js",
+  "category": "frontend",
+  "description": "Video.js - open source HTML5 video player",
+  "official_website": "https://videojs.com",
+  "documentation": "https://github.com/videojs/video.js#readme",
+  "github_repository": "https://github.com/videojs/video.js",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "dash",
+    "hls",
+    "html",
+    "html5",
+    "html5-audio",
+    "html5-video",
+    "javascript",
+    "player"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 39819,
+    "forks": 7490,
+    "open_issues": 667,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

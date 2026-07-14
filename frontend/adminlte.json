@@ -1,0 +1,45 @@
+{
+  "id": "adminlte",
+  "name": "AdminLTE",
+  "category": "frontend",
+  "description": "AdminLTE - Free admin dashboard template based on Bootstrap 5",
+  "official_website": "https://adminlte.io",
+  "documentation": "https://github.com/ColorlibHQ/AdminLTE#readme",
+  "github_repository": "https://github.com/ColorlibHQ/AdminLTE",
+  "license": "MIT",
+  "programming_languages": [
+    "Astro"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "admin",
+    "admin-dashboard",
+    "admin-dashboard-template",
+    "admin-dashboard-ui",
+    "admin-panel",
+    "admin-template",
+    "admin-ui",
+    "adminlte"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 45504,
+    "forks": 18192,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

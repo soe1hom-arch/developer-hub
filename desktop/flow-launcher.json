@@ -1,0 +1,47 @@
+{
+  "id": "flow-launcher",
+  "name": "Flow.Launcher",
+  "category": "desktop",
+  "description": ":mag: Quick file search & app launcher for Windows with community-made plugins",
+  "official_website": "https://flowlauncher.com",
+  "documentation": "https://github.com/Flow-Launcher/Flow.Launcher#readme",
+  "github_repository": "https://github.com/Flow-Launcher/Flow.Launcher",
+  "license": "MIT",
+  "programming_languages": [
+    "C#"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "alfred",
+    "application-launcher",
+    "desktop",
+    "finder",
+    "flow-launcher",
+    "hacktoberfest",
+    "keyboard-launcher",
+    "launcher"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 15166,
+    "forks": 623,
+    "open_issues": 286,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

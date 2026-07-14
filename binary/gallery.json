@@ -1,0 +1,38 @@
+{
+  "id": "gallery",
+  "name": "gallery",
+  "category": "binary",
+  "description": "Contains all the prebuilt AI Actions & Agents provided by Sema4.ai",
+  "official_website": "https://sema4.ai",
+  "documentation": "https://github.com/Sema4AI/gallery#readme",
+  "github_repository": "https://github.com/Sema4AI/gallery",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Linux"
+  ],
+  "tags": [
+    "actions",
+    "ai",
+    "ai-actions",
+    "prebuilt"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 17,
+    "forks": 12,
+    "open_issues": 6,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 52
+}

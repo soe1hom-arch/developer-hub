@@ -1,0 +1,40 @@
+{
+  "id": "wifimanager",
+  "name": "WiFiManager",
+  "category": "firmware",
+  "description": "ESP8266 WiFi Connection manager with web captive portal",
+  "official_website": "http://tzapu.com/esp8266-wifi-connection-manager-library-arduino-ide/",
+  "documentation": "https://github.com/tzapu/WiFiManager#readme",
+  "github_repository": "https://github.com/tzapu/WiFiManager",
+  "license": "MIT",
+  "programming_languages": [
+    "C++"
+  ],
+  "platforms": [
+    "Linux",
+    "Embedded"
+  ],
+  "tags": [
+    "arduino",
+    "captive",
+    "configuration-portal",
+    "esp8266",
+    "wifimanager"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 7231,
+    "forks": 2082,
+    "open_issues": 670,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

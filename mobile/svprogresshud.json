@@ -1,0 +1,46 @@
+{
+  "id": "svprogresshud",
+  "name": "SVProgressHUD",
+  "category": "mobile",
+  "description": "A clean and lightweight progress HUD for your iOS and tvOS app.",
+  "official_website": "https://github.com/SVProgressHUD/SVProgressHUD",
+  "documentation": "https://github.com/SVProgressHUD/SVProgressHUD#readme",
+  "github_repository": "https://github.com/SVProgressHUD/SVProgressHUD",
+  "license": "MIT",
+  "programming_languages": [
+    "Objective-C"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "apple",
+    "carthage",
+    "cocoapods",
+    "hud",
+    "ios",
+    "objective-c",
+    "progress",
+    "svprogresshud"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 12453,
+    "forks": 2665,
+    "open_issues": 85,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 75
+}

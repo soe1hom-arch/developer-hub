@@ -1,0 +1,42 @@
+{
+  "id": "swift-ui-animation-components-and-libraries",
+  "name": "swift-ui-animation-components-and-libraries",
+  "category": "mobile",
+  "description": "Swift UI libraries, iOS components and animations by @Ramotion",
+  "official_website": "https://www.ramotion.com/agency/app-development/",
+  "documentation": "https://github.com/Ramotion/swift-ui-animation-components-and-libraries#readme",
+  "github_repository": "https://github.com/Ramotion/swift-ui-animation-components-and-libraries",
+  "license": "MIT",
+  "programming_languages": [
+    "Swift"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "ios",
+    "libraries",
+    "library",
+    "swift"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 3709,
+    "forks": 359,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 72
+}

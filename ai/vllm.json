@@ -1,0 +1,47 @@
+{
+  "id": "vllm",
+  "name": "vllm",
+  "category": "ai",
+  "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+  "official_website": "https://vllm.ai",
+  "documentation": "https://github.com/vllm-project/vllm#readme",
+  "github_repository": "https://github.com/vllm-project/vllm",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "amd",
+    "blackwell",
+    "cuda",
+    "deepseek",
+    "deepseek-v3",
+    "gpt",
+    "gpt-oss",
+    "inference"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 86219,
+    "forks": 19388,
+    "open_issues": 5747,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

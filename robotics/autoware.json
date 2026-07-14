@@ -1,0 +1,40 @@
+{
+  "id": "autoware",
+  "name": "autoware",
+  "category": "robotics",
+  "description": "Autoware - the world's leading open-source software project for autonomous driving",
+  "official_website": "https://www.autoware.org/",
+  "documentation": "https://github.com/autowarefoundation/autoware#readme",
+  "github_repository": "https://github.com/autowarefoundation/autoware",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Dockerfile"
+  ],
+  "platforms": [
+    "Linux",
+    "Embedded"
+  ],
+  "tags": [
+    "autonomous-driving",
+    "autonomous-vehicles",
+    "autoware",
+    "ros",
+    "ros2"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 11832,
+    "forks": 3658,
+    "open_issues": 85,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

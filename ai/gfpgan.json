@@ -1,0 +1,46 @@
+{
+  "id": "gfpgan",
+  "name": "GFPGAN",
+  "category": "ai",
+  "description": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.",
+  "official_website": "https://github.com/TencentARC/GFPGAN",
+  "documentation": "https://github.com/TencentARC/GFPGAN#readme",
+  "github_repository": "https://github.com/TencentARC/GFPGAN",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "deep-learning",
+    "face-restoration",
+    "gan",
+    "gfpgan",
+    "image-restoration",
+    "pytorch",
+    "super-resolution"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 37594,
+    "forks": 6284,
+    "open_issues": 404,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 75
+}

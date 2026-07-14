@@ -1,0 +1,47 @@
+{
+  "id": "pytorch-image-models",
+  "name": "pytorch-image-models",
+  "category": "ai",
+  "description": "The largest collection of PyTorch image encoders / backbones. Including train, eval, inference, export scripts, and pretrained weights -- ResNet, ResNeXT, EfficientNet, NFNet, Vision Transformer (ViT)",
+  "official_website": "https://huggingface.co/docs/timm",
+  "documentation": "https://github.com/huggingface/pytorch-image-models#readme",
+  "github_repository": "https://github.com/huggingface/pytorch-image-models",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "augmix",
+    "convnext",
+    "distributed-training",
+    "efficientnet",
+    "image-classification",
+    "imagenet",
+    "maxvit",
+    "mixnet"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 36981,
+    "forks": 5172,
+    "open_issues": 61,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 90
+}

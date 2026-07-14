@@ -1,0 +1,47 @@
+{
+  "id": "reviewdog",
+  "name": "reviewdog",
+  "category": "devops",
+  "description": "\ud83d\udc36 Automated code review tool integrated with any code analysis tools regardless of programming language",
+  "official_website": "https://medium.com/@haya14busa/reviewdog-a-code-review-dog-who-keeps-your-codebase-healthy-d957c471938b#.8xctbaw5u",
+  "documentation": "https://github.com/reviewdog/reviewdog#readme",
+  "github_repository": "https://github.com/reviewdog/reviewdog",
+  "license": "MIT",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "bitbucket",
+    "ci",
+    "cli",
+    "code-quality",
+    "code-review",
+    "codereview",
+    "github",
+    "gitlab"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 9451,
+    "forks": 490,
+    "open_issues": 140,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

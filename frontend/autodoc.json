@@ -1,0 +1,41 @@
+{
+  "id": "autodoc",
+  "name": "autodoc",
+  "category": "frontend",
+  "description": "Experimental toolkit for auto-generating codebase documentation using LLMs",
+  "official_website": "https://github.com/context-labs/autodoc",
+  "documentation": "https://github.com/context-labs/autodoc#readme",
+  "github_repository": "https://github.com/context-labs/autodoc",
+  "license": "MIT",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "cli-tool",
+    "documentation-generator",
+    "language-model",
+    "typescript"
+  ],
+  "alternatives": [],
+  "popularity": 7,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 2353,
+    "forks": 150,
+    "open_issues": 24,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 62
+}

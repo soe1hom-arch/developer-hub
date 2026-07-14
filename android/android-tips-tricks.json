@@ -1,0 +1,46 @@
+{
+  "id": "android-tips-tricks",
+  "name": "android-tips-tricks",
+  "category": "android",
+  "description": ":ballot_box_with_check: [Cheatsheet] Tips and tricks for Android Development",
+  "official_website": "https://nisrulz.com/android-tips-tricks/",
+  "documentation": "https://github.com/nisrulz/android-tips-tricks#readme",
+  "github_repository": "https://github.com/nisrulz/android-tips-tricks",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Java"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "adb",
+    "android",
+    "android-developers",
+    "android-development",
+    "android-library",
+    "android-studio",
+    "cheatsheet",
+    "gradle"
+  ],
+  "alternatives": [],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 4750,
+    "forks": 566,
+    "open_issues": 2,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 75
+}

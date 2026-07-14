@@ -1,0 +1,47 @@
+{
+  "id": "simplebank",
+  "name": "simplebank",
+  "category": "backend",
+  "description": "Backend master class: build a simple bank service in Go",
+  "official_website": "https://github.com/techschool/simplebank",
+  "documentation": "https://github.com/techschool/simplebank#readme",
+  "github_repository": "https://github.com/techschool/simplebank",
+  "license": "MIT",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "backend",
+    "docker",
+    "gin",
+    "go",
+    "golang",
+    "grpc",
+    "grpc-go",
+    "http-server"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 6502,
+    "forks": 1099,
+    "open_issues": 16,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 70
+}

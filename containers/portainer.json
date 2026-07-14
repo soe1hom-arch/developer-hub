@@ -1,0 +1,47 @@
+{
+  "id": "portainer",
+  "name": "portainer",
+  "category": "containers",
+  "description": "Making Docker and Kubernetes management easy.",
+  "official_website": "https://www.portainer.io",
+  "documentation": "https://github.com/portainer/portainer#readme",
+  "github_repository": "https://github.com/portainer/portainer",
+  "license": "Zlib",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "docker",
+    "docker-compose",
+    "docker-container",
+    "docker-deployment",
+    "docker-image",
+    "docker-swarm",
+    "docker-ui",
+    "dockerfile"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 37959,
+    "forks": 2862,
+    "open_issues": 741,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

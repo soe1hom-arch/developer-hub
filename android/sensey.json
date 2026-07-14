@@ -1,0 +1,46 @@
+{
+  "id": "sensey",
+  "name": "sensey",
+  "category": "android",
+  "description": ":zap: [Android Library] Play with sensor events & detect gestures in a breeze.",
+  "official_website": "https://github.com/nisrulz/sensey",
+  "documentation": "https://github.com/nisrulz/sensey#readme",
+  "github_repository": "https://github.com/nisrulz/sensey",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Kotlin"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "android",
+    "android-library",
+    "chop-detection",
+    "detect-gestures",
+    "gesture-detection",
+    "handwave-detection",
+    "libraries",
+    "light-detection"
+  ],
+  "alternatives": [],
+  "popularity": 7,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 2659,
+    "forks": 267,
+    "open_issues": 24,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 65
+}

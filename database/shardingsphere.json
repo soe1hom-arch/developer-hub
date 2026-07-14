@@ -1,0 +1,47 @@
+{
+  "id": "shardingsphere",
+  "name": "shardingsphere",
+  "category": "database",
+  "description": "Empowering Data Intelligence with Distributed SQL for Sharding, Scalability, and Security Across All Databases.",
+  "official_website": "https://github.com/apache/shardingsphere",
+  "documentation": "https://github.com/apache/shardingsphere#readme",
+  "github_repository": "https://github.com/apache/shardingsphere",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Java"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "bigdata",
+    "data-encryption",
+    "data-pipeline",
+    "database",
+    "database-cluster",
+    "database-gateway",
+    "database-middleware",
+    "distributed-database"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 20753,
+    "forks": 6892,
+    "open_issues": 306,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

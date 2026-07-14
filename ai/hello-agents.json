@@ -1,0 +1,43 @@
+{
+  "id": "hello-agents",
+  "name": "hello-agents",
+  "category": "ai",
+  "description": "\ud83d\udcda \u300a\u4ece\u96f6\u5f00\u59cb\u6784\u5efa\u667a\u80fd\u4f53\u300b\u2014\u2014\u4ece\u96f6\u5f00\u59cb\u7684\u667a\u80fd\u4f53\u539f\u7406\u4e0e\u5b9e\u8df5\u6559\u7a0b",
+  "official_website": "https://hello-agents.datawhale.cc",
+  "documentation": "https://github.com/datawhalechina/hello-agents#readme",
+  "github_repository": "https://github.com/datawhalechina/hello-agents",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "agent",
+    "llm",
+    "rag",
+    "tutorial"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 66091,
+    "forks": 8188,
+    "open_issues": 145,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 77
+}

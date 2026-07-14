@@ -1,0 +1,40 @@
+{
+  "id": "create-react-app",
+  "name": "create-react-app",
+  "category": "frontend",
+  "description": "Set up a modern web app by running one command.",
+  "official_website": "https://create-react-app.dev/",
+  "documentation": "https://github.com/react/create-react-app#readme",
+  "github_repository": "https://github.com/react/create-react-app",
+  "license": "MIT",
+  "programming_languages": [
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "build-tools",
+    "react",
+    "zero-configuration"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 103311,
+    "forks": 26957,
+    "open_issues": 2410,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 77
+}

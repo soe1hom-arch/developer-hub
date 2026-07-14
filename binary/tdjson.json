@@ -1,0 +1,42 @@
+{
+  "id": "tdjson",
+  "name": "tdjson",
+  "category": "binary",
+  "description": "High-performance, native Python bindings for TDLib",
+  "official_website": "https://github.com/AYMENJD/tdjson",
+  "documentation": "https://github.com/AYMENJD/tdjson#readme",
+  "github_repository": "https://github.com/AYMENJD/tdjson",
+  "license": "MIT",
+  "programming_languages": [
+    "C++"
+  ],
+  "platforms": [
+    "Linux"
+  ],
+  "tags": [
+    "cpp",
+    "high-performance",
+    "json",
+    "nanobind",
+    "native",
+    "prebuilt",
+    "python",
+    "python-binding"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 20,
+    "forks": 7,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 45
+}

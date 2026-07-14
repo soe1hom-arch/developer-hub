@@ -1,0 +1,45 @@
+{
+  "id": "autocomplete",
+  "name": "autocomplete",
+  "category": "cli-tools",
+  "description": "IDE-style autocomplete for your existing terminal & shell",
+  "official_website": "https://fig.io",
+  "documentation": "https://github.com/withfig/autocomplete#readme",
+  "github_repository": "https://github.com/withfig/autocomplete",
+  "license": "MIT",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "autocomplete",
+    "bash",
+    "cli",
+    "fig",
+    "fish",
+    "hacktoberfest",
+    "iterm2",
+    "macos"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 25192,
+    "forks": 5449,
+    "open_issues": 196,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

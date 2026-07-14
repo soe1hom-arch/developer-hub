@@ -1,0 +1,47 @@
+{
+  "id": "sherpa-onnx",
+  "name": "sherpa-onnx",
+  "category": "windows",
+  "description": "Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android",
+  "official_website": "https://k2-fsa.github.io/sherpa/onnx/index.html",
+  "documentation": "https://github.com/k2-fsa/sherpa-onnx#readme",
+  "github_repository": "https://github.com/k2-fsa/sherpa-onnx",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "C++"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "aarch64",
+    "android",
+    "arm32",
+    "asr",
+    "cpp",
+    "csharp",
+    "dotnet",
+    "ios"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 13554,
+    "forks": 1553,
+    "open_issues": 604,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 90
+}

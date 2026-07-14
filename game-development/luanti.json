@@ -1,0 +1,45 @@
+{
+  "id": "luanti",
+  "name": "luanti",
+  "category": "game-development",
+  "description": "Luanti (formerly Minetest) is an open source voxel game-creation platform with easy modding and game creation",
+  "official_website": "https://www.luanti.org/",
+  "documentation": "https://github.com/luanti-org/luanti#readme",
+  "github_repository": "https://github.com/luanti-org/luanti",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "C++"
+  ],
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux",
+    "Web"
+  ],
+  "tags": [
+    "c-plus-plus",
+    "cpp17",
+    "game-engine",
+    "lua",
+    "luanti",
+    "minetest",
+    "voxel",
+    "voxel-engine"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 13272,
+    "forks": 2386,
+    "open_issues": 1454,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 90
+}

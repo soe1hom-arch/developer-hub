@@ -1,0 +1,47 @@
+{
+  "id": "wwdc",
+  "name": "WWDC",
+  "category": "macos",
+  "description": "The unofficial WWDC app for macOS",
+  "official_website": "https://wwdc.io",
+  "documentation": "https://github.com/insidegui/WWDC#readme",
+  "github_repository": "https://github.com/insidegui/WWDC",
+  "license": "BSD-2-Clause",
+  "programming_languages": [
+    "Swift"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "apple",
+    "developer-experience",
+    "developer-tools",
+    "macos",
+    "osx",
+    "swift",
+    "video",
+    "wwdc"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 8753,
+    "forks": 768,
+    "open_issues": 23,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 75
+}

@@ -1,0 +1,47 @@
+{
+  "id": "myip",
+  "name": "MyIP",
+  "category": "network",
+  "description": "The best IP Toolbox. Check your IP address & geolocation, test IP for WebRTC and DNS IP leaks, run an IP quality check, browser fingerprint check, website availability check, network speed test, globa",
+  "official_website": "https://ipcheck.ing",
+  "documentation": "https://github.com/jason5ng32/MyIP#readme",
+  "github_repository": "https://github.com/jason5ng32/MyIP",
+  "license": "MIT",
+  "programming_languages": [
+    "Vue"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "awesome",
+    "censorship",
+    "dns",
+    "dnsleak",
+    "ip",
+    "ipinfo",
+    "leaks",
+    "myip"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 11040,
+    "forks": 1169,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 90
+}

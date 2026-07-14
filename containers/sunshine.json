@@ -1,0 +1,47 @@
+{
+  "id": "sunshine",
+  "name": "Sunshine",
+  "category": "containers",
+  "description": "Self-hosted game stream host for Moonlight.",
+  "official_website": "http://app.lizardbyte.dev/Sunshine/",
+  "documentation": "https://github.com/LizardByte/Sunshine#readme",
+  "github_repository": "https://github.com/LizardByte/Sunshine",
+  "license": "GPL-3.0",
+  "programming_languages": [
+    "C++"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "cpp",
+    "docker",
+    "flathub-pkg",
+    "game-stream",
+    "game-streaming",
+    "game-streaming-server",
+    "geforce-experience",
+    "homebrew-pkg"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 39213,
+    "forks": 2097,
+    "open_issues": 130,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

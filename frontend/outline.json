@@ -1,0 +1,44 @@
+{
+  "id": "outline",
+  "name": "outline",
+  "category": "frontend",
+  "description": "The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.",
+  "official_website": "https://www.getoutline.com",
+  "documentation": "https://github.com/outline/outline#readme",
+  "github_repository": "https://github.com/outline/outline",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "docker",
+    "javascript",
+    "mobx",
+    "nodejs",
+    "react",
+    "slack",
+    "wiki"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 39684,
+    "forks": 3433,
+    "open_issues": 56,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 90
+}

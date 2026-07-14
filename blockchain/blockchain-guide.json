@@ -1,0 +1,47 @@
+{
+  "id": "blockchain-guide",
+  "name": "blockchain_guide",
+  "category": "blockchain",
+  "description": "Introduce technologies on blockchain and distributed ledger, from theory to practice with bitcoin, ethereum and hyperledger.",
+  "official_website": "https://yeasy.gitbook.io/blockchain_guide/",
+  "documentation": "https://github.com/yeasy/blockchain_guide#readme",
+  "github_repository": "https://github.com/yeasy/blockchain_guide",
+  "license": "MIT",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "bitcoin",
+    "blockchain",
+    "book",
+    "distributed-ledger",
+    "distributed-system",
+    "ethereum",
+    "fintech",
+    "hyperledger"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 7074,
+    "forks": 1947,
+    "open_issues": 2,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

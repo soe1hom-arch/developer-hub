@@ -1,0 +1,47 @@
+{
+  "id": "go-backend-clean-architecture",
+  "name": "go-backend-clean-architecture",
+  "category": "backend",
+  "description": "A Go (Golang) Backend Clean Architecture project with Gin, MongoDB, JWT Authentication Middleware, Test, and Docker.",
+  "official_website": "https://outcomeschool.com/blog/go-backend-clean-architecture",
+  "documentation": "https://github.com/amitshekhariitbhu/go-backend-clean-architecture#readme",
+  "github_repository": "https://github.com/amitshekhariitbhu/go-backend-clean-architecture",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "api",
+    "architecture",
+    "backend",
+    "clean-architecture",
+    "docker",
+    "gin",
+    "go",
+    "golang"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 6116,
+    "forks": 669,
+    "open_issues": 20,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

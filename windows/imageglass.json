@@ -1,0 +1,47 @@
+{
+  "id": "imageglass",
+  "name": "ImageGlass",
+  "category": "windows",
+  "description": "\ud83c\udfde A fast, open-source, modern image viewer for 90+ formats \u2013 including WEBP, GIF, SVG, AVIF, JXL, HEIC and more \u2013 built for smooth browsing across Windows, macOS, and Linux.",
+  "official_website": "https://imageglass.org",
+  "documentation": "https://github.com/d2phap/ImageGlass#readme",
+  "github_repository": "https://github.com/d2phap/ImageGlass",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "C#"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "avalonia",
+    "avif",
+    "cross-platform",
+    "csharp",
+    "dotnet",
+    "heic",
+    "image-viewer",
+    "imageglass"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 13744,
+    "forks": 726,
+    "open_issues": 249,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 90
+}

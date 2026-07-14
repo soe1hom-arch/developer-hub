@@ -1,0 +1,47 @@
+{
+  "id": "webhook",
+  "name": "webhook",
+  "category": "devops",
+  "description": "webhook is a lightweight incoming webhook server to run shell commands",
+  "official_website": "https://github.com/adnanh/webhook",
+  "documentation": "https://github.com/adnanh/webhook#readme",
+  "github_repository": "https://github.com/adnanh/webhook",
+  "license": "MIT",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "automate",
+    "automation",
+    "ci",
+    "deploy",
+    "devops",
+    "execute",
+    "go",
+    "hacktoberfest"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 11967,
+    "forks": 869,
+    "open_issues": 119,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 75
+}

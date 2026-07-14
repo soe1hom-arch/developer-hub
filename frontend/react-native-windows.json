@@ -1,0 +1,42 @@
+{
+  "id": "react-native-windows",
+  "name": "react-native-windows",
+  "category": "frontend",
+  "description": "A framework for building native Windows apps with React.",
+  "official_website": "https://microsoft.github.io/react-native-windows/",
+  "documentation": "https://github.com/microsoft/react-native-windows#readme",
+  "github_repository": "https://github.com/microsoft/react-native-windows",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "C++"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "dotnet",
+    "react",
+    "react-native",
+    "uwp",
+    "xbox"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 17306,
+    "forks": 1199,
+    "open_issues": 770,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

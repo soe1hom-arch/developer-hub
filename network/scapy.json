@@ -1,0 +1,47 @@
+{
+  "id": "scapy",
+  "name": "scapy",
+  "category": "network",
+  "description": "Scapy: the Python-based interactive packet manipulation program & library.",
+  "official_website": "https://scapy.net",
+  "documentation": "https://github.com/secdev/scapy#readme",
+  "github_repository": "https://github.com/secdev/scapy",
+  "license": "GPL-2.0",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "hacktoberfest",
+    "network",
+    "network-analysis",
+    "network-discovery",
+    "network-security",
+    "network-visualization",
+    "packet-analyser",
+    "packet-capture"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 12410,
+    "forks": 2222,
+    "open_issues": 138,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

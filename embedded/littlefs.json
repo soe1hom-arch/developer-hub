@@ -1,0 +1,38 @@
+{
+  "id": "littlefs",
+  "name": "littlefs",
+  "category": "embedded",
+  "description": "A little fail-safe filesystem designed for microcontrollers",
+  "official_website": "https://github.com/littlefs-project/littlefs",
+  "documentation": "https://github.com/littlefs-project/littlefs#readme",
+  "github_repository": "https://github.com/littlefs-project/littlefs",
+  "license": "BSD-3-Clause",
+  "programming_languages": [
+    "C"
+  ],
+  "platforms": [
+    "Linux",
+    "Embedded"
+  ],
+  "tags": [
+    "embedded",
+    "filesystem",
+    "microcontroller"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 6802,
+    "forks": 1004,
+    "open_issues": 630,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 67
+}

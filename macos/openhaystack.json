@@ -1,0 +1,47 @@
+{
+  "id": "openhaystack",
+  "name": "openhaystack",
+  "category": "macos",
+  "description": "Build your own 'AirTags' \ud83c\udff7 today! Framework for tracking personal Bluetooth devices via Apple's massive Find My network.",
+  "official_website": "https://owlink.org",
+  "documentation": "https://github.com/seemoo-lab/openhaystack#readme",
+  "github_repository": "https://github.com/seemoo-lab/openhaystack",
+  "license": "AGPL-3.0",
+  "programming_languages": [
+    "Swift"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "airtag",
+    "apple",
+    "bluetooth",
+    "find-my",
+    "location-tracker",
+    "macos",
+    "microbit",
+    "offline-finding"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 13120,
+    "forks": 657,
+    "open_issues": 146,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 90
+}

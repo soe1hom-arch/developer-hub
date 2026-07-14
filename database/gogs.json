@@ -1,0 +1,47 @@
+{
+  "id": "gogs",
+  "name": "gogs",
+  "category": "database",
+  "description": "The painless way to host your own Git service",
+  "official_website": "https://gogs.io",
+  "documentation": "https://github.com/gogs/gogs#readme",
+  "github_repository": "https://github.com/gogs/gogs",
+  "license": "MIT",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "docker",
+    "git",
+    "go",
+    "gogs",
+    "mysql",
+    "postgresql",
+    "raspberry-pi",
+    "self-hosted"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 47682,
+    "forks": 5073,
+    "open_issues": 999,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

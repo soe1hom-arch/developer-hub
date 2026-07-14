@@ -1,0 +1,47 @@
+{
+  "id": "psutil",
+  "name": "psutil",
+  "category": "devops",
+  "description": "Cross-platform lib for process and system monitoring in Python",
+  "official_website": "https://psutil.readthedocs.io/",
+  "documentation": "https://github.com/giampaolo/psutil#readme",
+  "github_repository": "https://github.com/giampaolo/psutil",
+  "license": "BSD-3-Clause",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "cpu",
+    "cross-platform",
+    "disk",
+    "memory",
+    "monitoring",
+    "network",
+    "processes",
+    "python"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 11227,
+    "forks": 1492,
+    "open_issues": 394,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

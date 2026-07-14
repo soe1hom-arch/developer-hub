@@ -1,0 +1,46 @@
+{
+  "id": "kazumi",
+  "name": "Kazumi",
+  "category": "mobile",
+  "description": "\u57fa\u4e8e\u81ea\u5b9a\u4e49\u89c4\u5219\u7684\u756a\u5267\u91c7\u96c6APP\uff0c\u652f\u6301\u6d41\u5a92\u4f53\u5728\u7ebf\u89c2\u770b\uff0c\u652f\u6301\u5f39\u5e55\uff0c\u652f\u6301\u5b9e\u65f6\u8d85\u5206\u8fa8\u7387\u3002",
+  "official_website": "https://kazumi.app",
+  "documentation": "https://github.com/Predidit/Kazumi#readme",
+  "github_repository": "https://github.com/Predidit/Kazumi",
+  "license": "GPL-3.0",
+  "programming_languages": [
+    "Dart"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "android",
+    "cross-platform",
+    "danmaku",
+    "flutter",
+    "ios",
+    "linux-desktop",
+    "macos",
+    "windows"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 27641,
+    "forks": 799,
+    "open_issues": 447,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

@@ -1,0 +1,45 @@
+{
+  "id": "react-native-elements",
+  "name": "react-native-elements",
+  "category": "frontend",
+  "description": "Cross-Platform React Native UI Toolkit",
+  "official_website": "https://reactnativeelements.com",
+  "documentation": "https://github.com/react-native-elements/react-native-elements#readme",
+  "github_repository": "https://github.com/react-native-elements/react-native-elements",
+  "license": "MIT",
+  "programming_languages": [
+    "MDX"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "android",
+    "cross-platform",
+    "hacktoberfest",
+    "ios",
+    "mobile-app",
+    "react",
+    "react-native",
+    "ui"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 25853,
+    "forks": 4677,
+    "open_issues": 151,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

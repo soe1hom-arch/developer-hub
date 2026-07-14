@@ -1,0 +1,44 @@
+{
+  "id": "defihacklabs",
+  "name": "DeFiHackLabs",
+  "category": "blockchain",
+  "description": "Reproduce DeFi hacked incidents using Foundry.",
+  "official_website": "https://github.com/SunWeb3Sec/DeFiHackLabs",
+  "documentation": "https://github.com/SunWeb3Sec/DeFiHackLabs#readme",
+  "github_repository": "https://github.com/SunWeb3Sec/DeFiHackLabs",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Solidity"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "defi",
+    "ethereum",
+    "foundry",
+    "solidity",
+    "web3"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 6633,
+    "forks": 1453,
+    "open_issues": 2,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 65
+}

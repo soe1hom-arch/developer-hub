@@ -1,0 +1,47 @@
+{
+  "id": "mirrord",
+  "name": "mirrord",
+  "category": "backend",
+  "description": "Run any process, on your machine or in an AI agent's environment, as if it were a pod in your Kubernetes cluster: real env vars, DNS, network, traffic.",
+  "official_website": "https://metalbear.com/mirrord",
+  "documentation": "https://github.com/metalbear-co/mirrord#readme",
+  "github_repository": "https://github.com/metalbear-co/mirrord",
+  "license": "MIT",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "agent-skills",
+    "ai-agents",
+    "ai-coding",
+    "api",
+    "backend",
+    "claude-code",
+    "cli",
+    "cloud"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 5215,
+    "forks": 204,
+    "open_issues": 79,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

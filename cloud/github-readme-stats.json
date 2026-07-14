@@ -1,0 +1,44 @@
+{
+  "id": "github-readme-stats",
+  "name": "github-readme-stats",
+  "category": "cloud",
+  "description": ":zap: Dynamically generated stats for your github readmes",
+  "official_website": "https://github-readme-stats.vercel.app",
+  "documentation": "https://github.com/anuraghazra/github-readme-stats#readme",
+  "github_repository": "https://github.com/anuraghazra/github-readme-stats",
+  "license": "MIT",
+  "programming_languages": [
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "dynamic",
+    "profile-readme",
+    "readme-generator",
+    "readme-stats",
+    "serverless"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 79793,
+    "forks": 35158,
+    "open_issues": 288,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

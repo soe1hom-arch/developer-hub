@@ -1,0 +1,42 @@
+{
+  "id": "steamachievementmanager",
+  "name": "SteamAchievementManager",
+  "category": "tools",
+  "description": "A manager for game achievements in Steam.",
+  "official_website": "https://github.com/gibbed/SteamAchievementManager",
+  "documentation": "https://github.com/gibbed/SteamAchievementManager#readme",
+  "github_repository": "https://github.com/gibbed/SteamAchievementManager",
+  "license": "Zlib",
+  "programming_languages": [
+    "C#"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "steam",
+    "steam-api",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 8662,
+    "forks": 837,
+    "open_issues": 248,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 62
+}

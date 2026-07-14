@@ -1,0 +1,45 @@
+{
+  "id": "spellbook-of-modern-webdev",
+  "name": "spellbook-of-modern-webdev",
+  "category": "frontend",
+  "description": "A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development",
+  "official_website": "https://github.com/dexteryy/spellbook-of-modern-webdev",
+  "documentation": "https://github.com/dexteryy/spellbook-of-modern-webdev#readme",
+  "github_repository": "https://github.com/dexteryy/spellbook-of-modern-webdev",
+  "license": "MIT",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "awesome",
+    "css3",
+    "html5",
+    "isomorphic-javascript",
+    "javascript",
+    "learning",
+    "libraries",
+    "nodejs"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 17855,
+    "forks": 1278,
+    "open_issues": 24,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 70
+}

@@ -1,0 +1,44 @@
+{
+  "id": "deployer",
+  "name": "deployer",
+  "category": "tools",
+  "description": "The PHP deployment tool with support for popular frameworks out of the box",
+  "official_website": "https://deployer.org",
+  "documentation": "https://github.com/deployphp/deployer#readme",
+  "github_repository": "https://github.com/deployphp/deployer",
+  "license": "MIT",
+  "programming_languages": [
+    "PHP"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "deploy",
+    "deployment",
+    "php",
+    "provision",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 11086,
+    "forks": 1513,
+    "open_issues": 11,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

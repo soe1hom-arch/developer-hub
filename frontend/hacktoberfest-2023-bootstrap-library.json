@@ -1,0 +1,45 @@
+{
+  "id": "hacktoberfest-2023-bootstrap-library",
+  "name": "hacktoberfest-2023-bootstrap-library",
+  "category": "frontend",
+  "description": "This Repository has different type of pre-build components like navigation bar , carousel etc based on bootstrap . Please consider contributing to it if you think your designed components could help t",
+  "official_website": "https://aritrakrbasu.github.io/bootstrap-component-library/",
+  "documentation": "https://github.com/aritrakrbasu/hacktoberfest-2023-bootstrap-library#readme",
+  "github_repository": "https://github.com/aritrakrbasu/hacktoberfest-2023-bootstrap-library",
+  "license": "MIT",
+  "programming_languages": [
+    "HTML"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "bootstrap",
+    "bootstrap4",
+    "component-library",
+    "hack",
+    "hacktoberfest",
+    "hacktoberfest-accepted",
+    "hacktoberfest-starter",
+    "hacktoberfest2022"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 16,
+    "forks": 23,
+    "open_issues": 8,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 60
+}

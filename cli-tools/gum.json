@@ -1,0 +1,39 @@
+{
+  "id": "gum",
+  "name": "gum",
+  "category": "cli-tools",
+  "description": "A tool for glamorous shell scripts \ud83c\udf80",
+  "official_website": "https://github.com/charmbracelet/gum",
+  "documentation": "https://github.com/charmbracelet/gum#readme",
+  "github_repository": "https://github.com/charmbracelet/gum",
+  "license": "MIT",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "bash",
+    "shell"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 24031,
+    "forks": 527,
+    "open_issues": 179,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 63
+}

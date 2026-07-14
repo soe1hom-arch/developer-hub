@@ -1,0 +1,38 @@
+{
+  "id": "ender3v2s1",
+  "name": "Ender3V2S1",
+  "category": "firmware",
+  "description": "This is optimized firmware for Ender3 V2/S1 3D printers.",
+  "official_website": "https://github.com/mriscoc/Ender3V2S1",
+  "documentation": "https://github.com/mriscoc/Ender3V2S1#readme",
+  "github_repository": "https://github.com/mriscoc/Ender3V2S1",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "C++"
+  ],
+  "platforms": [
+    "Linux",
+    "Embedded"
+  ],
+  "tags": [
+    "ender3s1",
+    "ender3v2",
+    "firmware"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 3149,
+    "forks": 437,
+    "open_issues": 14,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 62
+}

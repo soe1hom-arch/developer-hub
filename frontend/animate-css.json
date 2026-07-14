@@ -1,0 +1,41 @@
+{
+  "id": "animate-css",
+  "name": "animate.css",
+  "category": "frontend",
+  "description": "\ud83c\udf7f A cross-browser library of CSS animations. As easy to use as an easy thing.",
+  "official_website": "https://animate.style/",
+  "documentation": "https://github.com/animate-css/animate.css#readme",
+  "github_repository": "https://github.com/animate-css/animate.css",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "CSS"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "animation",
+    "css",
+    "css-animations",
+    "stylesheets"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 82659,
+    "forks": 15957,
+    "open_issues": 81,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 82
+}

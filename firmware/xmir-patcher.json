@@ -1,0 +1,42 @@
+{
+  "id": "xmir-patcher",
+  "name": "xmir-patcher",
+  "category": "firmware",
+  "description": "Firmware patcher for Xiaomi routers",
+  "official_website": "https://github.com/openwrt-xiaomi/xmir-patcher",
+  "documentation": "https://github.com/openwrt-xiaomi/xmir-patcher#readme",
+  "github_repository": "https://github.com/openwrt-xiaomi/xmir-patcher",
+  "license": "MIT",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Linux",
+    "Embedded"
+  ],
+  "tags": [
+    "exploit",
+    "firmware",
+    "installer",
+    "patch",
+    "router",
+    "ssh",
+    "xiaomi"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 3252,
+    "forks": 379,
+    "open_issues": 73,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 60
+}

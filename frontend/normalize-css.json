@@ -1,0 +1,40 @@
+{
+  "id": "normalize-css",
+  "name": "normalize.css",
+  "category": "frontend",
+  "description": "A modern alternative to CSS resets",
+  "official_website": "http://necolas.github.io/normalize.css/",
+  "documentation": "https://github.com/necolas/normalize.css#readme",
+  "github_repository": "https://github.com/necolas/normalize.css",
+  "license": "MIT",
+  "programming_languages": [
+    "CSS"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "css",
+    "css-reset",
+    "normalize-css"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 53542,
+    "forks": 10357,
+    "open_issues": 76,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 77
+}

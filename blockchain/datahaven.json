@@ -1,0 +1,47 @@
+{
+  "id": "datahaven",
+  "name": "datahaven",
+  "category": "blockchain",
+  "description": "An EVM compatible Substrate chain, powered by StorageHub and secured by EigenLayer",
+  "official_website": "https://datahaven.xyz/",
+  "documentation": "https://github.com/datahaven-xyz/datahaven#readme",
+  "github_repository": "https://github.com/datahaven-xyz/datahaven",
+  "license": "GPL-3.0",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "ai-agents",
+    "blockchain",
+    "decentralized",
+    "eigenlayer",
+    "eigenlayer-avs",
+    "ethereum",
+    "privacy",
+    "storage"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 7927,
+    "forks": 146,
+    "open_issues": 1,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

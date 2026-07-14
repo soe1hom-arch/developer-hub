@@ -1,0 +1,43 @@
+{
+  "id": "tinyusb",
+  "name": "tinyusb",
+  "category": "embedded",
+  "description": "An open source  cross-platform USB stack for embedded system",
+  "official_website": "https://www.tinyusb.org",
+  "documentation": "https://github.com/hathach/tinyusb#readme",
+  "github_repository": "https://github.com/hathach/tinyusb",
+  "license": "MIT",
+  "programming_languages": [
+    "C"
+  ],
+  "platforms": [
+    "Linux",
+    "Embedded"
+  ],
+  "tags": [
+    "embedded",
+    "midi",
+    "msc",
+    "tinyusb",
+    "usb",
+    "usb-cdc",
+    "usb-devices",
+    "usb-drive"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 6973,
+    "forks": 1474,
+    "open_issues": 228,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

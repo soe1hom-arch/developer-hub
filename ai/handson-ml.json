@@ -1,0 +1,47 @@
+{
+  "id": "handson-ml",
+  "name": "handson-ml",
+  "category": "ai",
+  "description": "\u26d4\ufe0f DEPRECATED \u2013 See https://github.com/ageron/handson-ml3 or handson-mlp instead.",
+  "official_website": "https://github.com/ageron/handson-ml",
+  "documentation": "https://github.com/ageron/handson-ml#readme",
+  "github_repository": "https://github.com/ageron/handson-ml",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Jupyter Notebook"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "deep-learning",
+    "deprecated",
+    "distributed",
+    "jupyter-notebook",
+    "machine-learning",
+    "ml",
+    "neural-network",
+    "python"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 25604,
+    "forks": 12760,
+    "open_issues": 145,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 75
+}

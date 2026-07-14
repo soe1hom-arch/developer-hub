@@ -1,0 +1,47 @@
+{
+  "id": "zitadel",
+  "name": "zitadel",
+  "category": "security",
+  "description": "ZITADEL - Identity infrastructure, simplified for\u00a0you.",
+  "official_website": "https://zitadel.com",
+  "documentation": "https://github.com/zitadel/zitadel#readme",
+  "github_repository": "https://github.com/zitadel/zitadel",
+  "license": "AGPL-3.0",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "2fa",
+    "authentication",
+    "authorization",
+    "fido2",
+    "fips-140-3",
+    "identity",
+    "login",
+    "mfa"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 14410,
+    "forks": 1172,
+    "open_issues": 1107,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

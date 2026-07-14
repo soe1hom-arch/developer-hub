@@ -1,0 +1,47 @@
+{
+  "id": "spug",
+  "name": "spug",
+  "category": "devops",
+  "description": "\u5f00\u6e90\u8fd0\u7ef4\u5e73\u53f0\uff1a\u9762\u5411\u4e2d\u5c0f\u578b\u4f01\u4e1a\u8bbe\u8ba1\u7684\u8f7b\u91cf\u7ea7\u65e0Agent\u7684\u81ea\u52a8\u5316\u8fd0\u7ef4\u5e73\u53f0\uff0c\u6574\u5408\u4e86\u4e3b\u673a\u7ba1\u7406\u3001\u4e3b\u673a\u6279\u91cf\u6267\u884c\u3001\u4e3b\u673a\u5728\u7ebf\u7ec8\u7aef\u3001\u6587\u4ef6\u5728\u7ebf\u4e0a\u4f20\u4e0b\u8f7d\u3001\u5e94\u7528\u53d1\u5e03\u90e8\u7f72\u3001\u5728\u7ebf\u4efb\u52a1\u8ba1\u5212\u3001\u914d\u7f6e\u4e2d\u5fc3\u3001\u76d1\u63a7\u3001\u62a5\u8b66\u7b49\u4e00\u7cfb\u5217\u529f\u80fd\u3002",
+  "official_website": "https://ops.spug.cc",
+  "documentation": "https://github.com/openspug/spug#readme",
+  "github_repository": "https://github.com/openspug/spug",
+  "license": "AGPL-3.0",
+  "programming_languages": [
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "alert",
+    "ci",
+    "cicd",
+    "cmdb",
+    "deploy",
+    "devops",
+    "django-ops",
+    "jenkins"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 11031,
+    "forks": 2202,
+    "open_issues": 233,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

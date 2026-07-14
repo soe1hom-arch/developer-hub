@@ -1,0 +1,47 @@
+{
+  "id": "polly",
+  "name": "Polly",
+  "category": "windows",
+  "description": "Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thr",
+  "official_website": "https://www.thepollyproject.org",
+  "documentation": "https://github.com/App-vNext/Polly#readme",
+  "github_repository": "https://github.com/App-vNext/Polly",
+  "license": "BSD-3-Clause",
+  "programming_languages": [
+    "C#"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "circuit-breaker",
+    "circuit-breaker-pattern",
+    "dotnet",
+    "fault-handler",
+    "resilience",
+    "resiliency-patterns",
+    "retry-strategies",
+    "transient-fault-handling"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 14206,
+    "forks": 1276,
+    "open_issues": 8,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 90
+}

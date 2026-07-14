@@ -1,0 +1,44 @@
+{
+  "id": "font-awesome",
+  "name": "Font-Awesome",
+  "category": "frontend",
+  "description": "The iconic SVG, font, and CSS toolkit",
+  "official_website": "https://fontawesome.com",
+  "documentation": "https://github.com/FortAwesome/Font-Awesome#readme",
+  "github_repository": "https://github.com/FortAwesome/Font-Awesome",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "css",
+    "font",
+    "fontawesome",
+    "icons",
+    "svg-icons",
+    "svg-sprites",
+    "webfont"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 76743,
+    "forks": 12193,
+    "open_issues": 314,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

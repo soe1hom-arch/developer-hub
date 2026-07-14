@@ -1,0 +1,46 @@
+{
+  "id": "lottie-ios",
+  "name": "lottie-ios",
+  "category": "mobile",
+  "description": "An iOS library to natively render After Effects vector animations",
+  "official_website": "https://lottie.airbnb.tech",
+  "documentation": "https://github.com/airbnb/lottie-ios#readme",
+  "github_repository": "https://github.com/airbnb/lottie-ios",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Swift"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "animation",
+    "bodymovin",
+    "custom-transitions",
+    "ios",
+    "ios-animation",
+    "ios-transition",
+    "keyframes",
+    "swift"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 26794,
+    "forks": 3832,
+    "open_issues": 42,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

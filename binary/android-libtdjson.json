@@ -1,0 +1,42 @@
+{
+  "id": "android-libtdjson",
+  "name": "android-libtdjson",
+  "category": "binary",
+  "description": "Prebuilt [TDLib](https://github.com/tdlib/td) shared libs (libtdjson.so) for Android",
+  "official_website": "https://github.com/up9cloud/android-libtdjson",
+  "documentation": "https://github.com/up9cloud/android-libtdjson#readme",
+  "github_repository": "https://github.com/up9cloud/android-libtdjson",
+  "license": "MIT",
+  "programming_languages": [
+    "C++"
+  ],
+  "platforms": [
+    "Linux"
+  ],
+  "tags": [
+    "android",
+    "lib",
+    "libtdjson",
+    "maven",
+    "prebuilt",
+    "tdjson",
+    "tdlib",
+    "telegram"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 14,
+    "forks": 2,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 45
+}

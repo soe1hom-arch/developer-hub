@@ -1,0 +1,44 @@
+{
+  "id": "metagpt",
+  "name": "MetaGPT",
+  "category": "ai",
+  "description": "\ud83c\udf1f The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+  "official_website": "https://atoms.dev/",
+  "documentation": "https://github.com/FoundationAgents/MetaGPT#readme",
+  "github_repository": "https://github.com/FoundationAgents/MetaGPT",
+  "license": "MIT",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "agent",
+    "gpt",
+    "llm",
+    "metagpt",
+    "multi-agent"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 69360,
+    "forks": 8840,
+    "open_issues": 134,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

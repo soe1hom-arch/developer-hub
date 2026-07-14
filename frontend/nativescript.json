@@ -1,0 +1,45 @@
+{
+  "id": "nativescript",
+  "name": "NativeScript",
+  "category": "frontend",
+  "description": "\u26a1 Write Native with TypeScript \u2728 Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love \u2764\ufe0f Angular, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (V",
+  "official_website": "https://nativescript.org",
+  "documentation": "https://github.com/NativeScript/NativeScript#readme",
+  "github_repository": "https://github.com/NativeScript/NativeScript",
+  "license": "MIT",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "android",
+    "angular",
+    "capacitor",
+    "cross-platform",
+    "flutter",
+    "ios",
+    "java",
+    "javascript"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 25553,
+    "forks": 1733,
+    "open_issues": 838,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 90
+}

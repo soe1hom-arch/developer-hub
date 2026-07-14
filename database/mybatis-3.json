@@ -1,0 +1,42 @@
+{
+  "id": "mybatis-3",
+  "name": "mybatis-3",
+  "category": "database",
+  "description": "MyBatis SQL mapper framework for Java",
+  "official_website": "http://mybatis.github.io/mybatis-3/",
+  "documentation": "https://github.com/mybatis/mybatis-3#readme",
+  "github_repository": "https://github.com/mybatis/mybatis-3",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Java"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "java",
+    "mybatis",
+    "sql"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 20429,
+    "forks": 12894,
+    "open_issues": 202,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 77
+}

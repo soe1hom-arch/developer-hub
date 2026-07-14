@@ -1,0 +1,45 @@
+{
+  "id": "mockingbird",
+  "name": "MockingBird",
+  "category": "ai",
+  "description": "\ud83d\ude80Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+  "official_website": "https://github.com/babysor/MockingBird",
+  "documentation": "https://github.com/babysor/MockingBird#readme",
+  "github_repository": "https://github.com/babysor/MockingBird",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "ai",
+    "deep-learning",
+    "pytorch",
+    "speech",
+    "text-to-speech",
+    "tts"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 36921,
+    "forks": 5199,
+    "open_issues": 482,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 75
+}

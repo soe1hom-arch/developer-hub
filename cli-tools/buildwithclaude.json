@@ -1,0 +1,45 @@
+{
+  "id": "buildwithclaude",
+  "name": "buildwithclaude",
+  "category": "cli-tools",
+  "description": "A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code, Claude Desktop, Agent SDK and OpenClaw",
+  "official_website": "https://www.buildwithclaude.com",
+  "documentation": "https://github.com/davepoon/buildwithclaude#readme",
+  "github_repository": "https://github.com/davepoon/buildwithclaude",
+  "license": "MIT",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "claude",
+    "claude-code",
+    "claude-code-commands",
+    "claude-skills",
+    "cli-tool",
+    "commands",
+    "mcp",
+    "mcp-server"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 3178,
+    "forks": 424,
+    "open_issues": 16,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

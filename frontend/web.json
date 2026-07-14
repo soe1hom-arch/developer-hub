@@ -1,0 +1,41 @@
+{
+  "id": "web",
+  "name": "Web",
+  "category": "frontend",
+  "description": "\u5343\u53e4\u524d\u7aef\u56fe\u6587\u6559\u7a0b\uff0c\u8d85\u8be6\u7ec6\u7684\u524d\u7aef\u5165\u95e8\u5230\u8fdb\u9636\u77e5\u8bc6\u5e93\u3002\u4ece\u96f6\u5f00\u59cb\u5b66\u524d\u7aef\uff0c\u505a\u4e00\u540d\u7cbe\u81f4\u4f18\u96c5\u7684\u524d\u7aef\u5de5\u7a0b\u5e08\u3002",
+  "official_website": "https://web.qianguyihao.com",
+  "documentation": "https://github.com/qianguyihao/Web#readme",
+  "github_repository": "https://github.com/qianguyihao/Web",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "css",
+    "front-end",
+    "html",
+    "javascript"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 28616,
+    "forks": 6218,
+    "open_issues": 93,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 72
+}

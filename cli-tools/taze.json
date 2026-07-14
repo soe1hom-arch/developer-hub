@@ -1,0 +1,40 @@
+{
+  "id": "taze",
+  "name": "taze",
+  "category": "cli-tools",
+  "description": "\ud83e\udd66 A modern cli tool that keeps your deps fresh",
+  "official_website": "https://github.com/antfu-collective/taze",
+  "documentation": "https://github.com/antfu-collective/taze#readme",
+  "github_repository": "https://github.com/antfu-collective/taze",
+  "license": "MIT",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "cli-tool",
+    "dependencies",
+    "updates"
+  ],
+  "alternatives": [],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 4234,
+    "forks": 148,
+    "open_issues": 51,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 57
+}

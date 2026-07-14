@@ -1,0 +1,47 @@
+{
+  "id": "modular-monolith-with-ddd",
+  "name": "modular-monolith-with-ddd",
+  "category": "windows",
+  "description": "Full Modular Monolith application with Domain-Driven Design approach.",
+  "official_website": "https://github.com/kgrzybek/modular-monolith-with-ddd",
+  "documentation": "https://github.com/kgrzybek/modular-monolith-with-ddd#readme",
+  "github_repository": "https://github.com/kgrzybek/modular-monolith-with-ddd",
+  "license": "MIT",
+  "programming_languages": [
+    "C#"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "architecture",
+    "clean-architecture",
+    "clean-code",
+    "cqrs",
+    "ddd",
+    "ddd-architecture",
+    "ddd-cqrs",
+    "ddd-example"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 13840,
+    "forks": 2171,
+    "open_issues": 68,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 75
+}

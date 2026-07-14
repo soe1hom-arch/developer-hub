@@ -1,0 +1,45 @@
+{
+  "id": "boardgame-io",
+  "name": "boardgame.io",
+  "category": "frontend",
+  "description": "State Management and Multiplayer Networking for Turn-Based Games",
+  "official_website": "https://boardgame.io",
+  "documentation": "https://github.com/boardgameio/boardgame.io#readme",
+  "github_repository": "https://github.com/boardgameio/boardgame.io",
+  "license": "MIT",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "boardgames",
+    "game-engine",
+    "javascript",
+    "multiplayer",
+    "react",
+    "react-native",
+    "tabletop",
+    "turn-based"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 12374,
+    "forks": 830,
+    "open_issues": 115,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

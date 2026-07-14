@@ -1,0 +1,43 @@
+{
+  "id": "o3de",
+  "name": "o3de",
+  "category": "game-development",
+  "description": "Open 3D Engine (O3DE) is an Apache 2.0-licensed multi-platform 3D engine that enables developers and content creators to build AAA games, cinema-quality 3D worlds, and high-fidelity simulations withou",
+  "official_website": "https://o3de.org",
+  "documentation": "https://github.com/o3de/o3de#readme",
+  "github_repository": "https://github.com/o3de/o3de",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "C++"
+  ],
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux",
+    "Web"
+  ],
+  "tags": [
+    "3d-graphics",
+    "3d-graphics-engine",
+    "animation",
+    "game-development",
+    "game-engine",
+    "gamedev"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 9507,
+    "forks": 2513,
+    "open_issues": 3473,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

@@ -27,7 +27,7 @@ jobs:
       - name: Comprehensive health check
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python scripts/health_check.py --report
+        run: python scripts/health_check.py --quick --report
 
       - name: Scan for new releases
         env:

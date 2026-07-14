@@ -1,0 +1,45 @@
+{
+  "id": "web-dev-for-beginners",
+  "name": "Web-Dev-For-Beginners",
+  "category": "frontend",
+  "description": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+  "official_website": "https://github.com/microsoft/Web-Dev-For-Beginners",
+  "documentation": "https://github.com/microsoft/Web-Dev-For-Beginners#readme",
+  "github_repository": "https://github.com/microsoft/Web-Dev-For-Beginners",
+  "license": "MIT",
+  "programming_languages": [
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "css",
+    "curriculum",
+    "education",
+    "html",
+    "javascript",
+    "learning",
+    "microsoft-for-beginners",
+    "tutorials"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 96023,
+    "forks": 15662,
+    "open_issues": 87,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 75
+}

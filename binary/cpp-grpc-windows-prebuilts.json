@@ -1,0 +1,43 @@
+{
+  "id": "cpp-grpc-windows-prebuilts",
+  "name": "Cpp-gRPC-Windows-PreBuilts",
+  "category": "binary",
+  "description": "gRPC prebuilt windows binaries and libs | x64 and x86 | MSVC143, MSVC142 (legacy 141 and 140) | Debug, Release, RelWithDebInfo",
+  "official_website": "https://github.com/thommyho/Cpp-gRPC-Windows-PreBuilts",
+  "documentation": "https://github.com/thommyho/Cpp-gRPC-Windows-PreBuilts#readme",
+  "github_repository": "https://github.com/thommyho/Cpp-gRPC-Windows-PreBuilts",
+  "license": "MIT",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Linux",
+    "Windows"
+  ],
+  "tags": [
+    "cpp",
+    "example",
+    "grpc",
+    "grpc-cpp",
+    "network",
+    "prebuilt",
+    "protobuf",
+    "windows"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 65,
+    "forks": 11,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 50
+}

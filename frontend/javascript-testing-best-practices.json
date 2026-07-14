@@ -1,0 +1,45 @@
+{
+  "id": "javascript-testing-best-practices",
+  "name": "javascript-testing-best-practices",
+  "category": "frontend",
+  "description": "\ud83d\udcd7\ud83c\udf10 \ud83d\udea2 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2025)",
+  "official_website": "https://testjavascript.com/",
+  "documentation": "https://github.com/goldbergyoni/javascript-testing-best-practices#readme",
+  "github_repository": "https://github.com/goldbergyoni/javascript-testing-best-practices",
+  "license": "MIT",
+  "programming_languages": [
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "angular",
+    "chai",
+    "ci",
+    "cicd",
+    "contract-testing",
+    "e2e",
+    "e2e-tests",
+    "express"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 24613,
+    "forks": 2097,
+    "open_issues": 70,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

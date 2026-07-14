@@ -1,0 +1,47 @@
+{
+  "id": "utm",
+  "name": "UTM",
+  "category": "macos",
+  "description": "Virtual machines for iOS and macOS",
+  "official_website": "https://getutm.app",
+  "documentation": "https://github.com/utmapp/UTM#readme",
+  "github_repository": "https://github.com/utmapp/UTM",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Swift"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "apple",
+    "emulation",
+    "ios",
+    "jailbreak",
+    "macos",
+    "qemu",
+    "utm",
+    "virtual-machines"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 34686,
+    "forks": 1755,
+    "open_issues": 1079,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

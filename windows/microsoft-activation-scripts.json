@@ -1,0 +1,47 @@
+{
+  "id": "microsoft-activation-scripts",
+  "name": "Microsoft-Activation-Scripts",
+  "category": "windows",
+  "description": "Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.",
+  "official_website": "https://massgrave.dev",
+  "documentation": "https://github.com/massgravel/Microsoft-Activation-Scripts#readme",
+  "github_repository": "https://github.com/massgravel/Microsoft-Activation-Scripts",
+  "license": "GPL-3.0",
+  "programming_languages": [
+    "Batchfile"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "activator",
+    "hwid",
+    "kms",
+    "kms38",
+    "massgrave",
+    "massgravel",
+    "microsoft",
+    "microsoft365"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 183090,
+    "forks": 17543,
+    "open_issues": 1,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 90
+}

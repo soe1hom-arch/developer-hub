@@ -1,0 +1,44 @@
+{
+  "id": "goreplay",
+  "name": "goreplay",
+  "category": "devops",
+  "description": "GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in",
+  "official_website": "https://goreplay.org",
+  "documentation": "https://github.com/probelabs/goreplay#readme",
+  "github_repository": "https://github.com/probelabs/goreplay",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "devops",
+    "go",
+    "qa",
+    "testing",
+    "testing-tools"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 19293,
+    "forks": 89,
+    "open_issues": 341,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 90
+}

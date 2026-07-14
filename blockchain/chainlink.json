@@ -1,0 +1,45 @@
+{
+  "id": "chainlink",
+  "name": "chainlink",
+  "category": "blockchain",
+  "description": "node of the decentralized oracle network, bridging on and off-chain computation",
+  "official_website": "https://chain.link",
+  "documentation": "https://github.com/smartcontractkit/chainlink#readme",
+  "github_repository": "https://github.com/smartcontractkit/chainlink",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "blockchain",
+    "chainlink",
+    "ethereum",
+    "golang",
+    "oracle",
+    "solidity"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 8217,
+    "forks": 1971,
+    "open_issues": 289,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

@@ -1,0 +1,47 @@
+{
+  "id": "aerospace",
+  "name": "AeroSpace",
+  "category": "macos",
+  "description": "AeroSpace is an i3-like tiling window manager for macOS",
+  "official_website": "https://nikitabobko.github.io/AeroSpace/guide",
+  "documentation": "https://github.com/nikitabobko/AeroSpace#readme",
+  "github_repository": "https://github.com/nikitabobko/AeroSpace",
+  "license": "MIT",
+  "programming_languages": [
+    "Swift"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "apple",
+    "i3",
+    "i3wm",
+    "mac",
+    "macos",
+    "swift",
+    "tiling",
+    "tiling-window-manager"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 21688,
+    "forks": 585,
+    "open_issues": 186,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

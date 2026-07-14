@@ -1,0 +1,43 @@
+{
+  "id": "nw-js",
+  "name": "nw.js",
+  "category": "frontend",
+  "description": "Call all Node.js modules directly from DOM/WebWorker and enable a new way of writing applications with all Web technologies.",
+  "official_website": "https://nwjs.io",
+  "documentation": "https://github.com/nwjs/nw.js#readme",
+  "github_repository": "https://github.com/nwjs/nw.js",
+  "license": "MIT",
+  "programming_languages": [
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "desktop",
+    "javascript",
+    "node-webkit",
+    "nodejs",
+    "nwjs",
+    "web-application-framework"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 41182,
+    "forks": 3852,
+    "open_issues": 898,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 90
+}

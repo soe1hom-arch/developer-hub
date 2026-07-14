@@ -1,0 +1,47 @@
+{
+  "id": "october",
+  "name": "october",
+  "category": "backend",
+  "description": "Self-hosted CMS platform based on the Laravel PHP Framework.",
+  "official_website": "https://octobercms.com",
+  "documentation": "https://github.com/octobercms/october#readme",
+  "github_repository": "https://github.com/octobercms/october",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "PHP"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "backend",
+    "cmf",
+    "cms",
+    "cms-platform",
+    "framework",
+    "laravel",
+    "octobercms",
+    "php"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 11144,
+    "forks": 2208,
+    "open_issues": 18,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

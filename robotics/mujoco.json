@@ -1,0 +1,38 @@
+{
+  "id": "mujoco",
+  "name": "mujoco",
+  "category": "robotics",
+  "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
+  "official_website": "https://mujoco.org",
+  "documentation": "https://github.com/google-deepmind/mujoco#readme",
+  "github_repository": "https://github.com/google-deepmind/mujoco",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "C++"
+  ],
+  "platforms": [
+    "Linux",
+    "Embedded"
+  ],
+  "tags": [
+    "mujoco",
+    "physics",
+    "robotics"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 14201,
+    "forks": 1639,
+    "open_issues": 362,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 82
+}

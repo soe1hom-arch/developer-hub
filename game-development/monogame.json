@@ -1,0 +1,45 @@
+{
+  "id": "monogame",
+  "name": "MonoGame",
+  "category": "game-development",
+  "description": "One framework for creating powerful cross-platform games.",
+  "official_website": "http://www.monogame.net",
+  "documentation": "https://github.com/MonoGame/MonoGame#readme",
+  "github_repository": "https://github.com/MonoGame/MonoGame",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "C#"
+  ],
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux",
+    "Web"
+  ],
+  "tags": [
+    "3d",
+    "c-sharp",
+    "cross-platform",
+    "csharp",
+    "dotnet",
+    "game-development",
+    "game-engine",
+    "game-framework"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 14146,
+    "forks": 3082,
+    "open_issues": 731,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

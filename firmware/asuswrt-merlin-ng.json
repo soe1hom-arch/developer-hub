@@ -1,0 +1,39 @@
+{
+  "id": "asuswrt-merlin-ng",
+  "name": "asuswrt-merlin.ng",
+  "category": "firmware",
+  "description": "Third party firmware for Asus routers (newer codebase)",
+  "official_website": "https://www.asuswrt-merlin.net/",
+  "documentation": "https://github.com/RMerl/asuswrt-merlin.ng#readme",
+  "github_repository": "https://github.com/RMerl/asuswrt-merlin.ng",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "C"
+  ],
+  "platforms": [
+    "Linux",
+    "Embedded"
+  ],
+  "tags": [
+    "asus",
+    "asuswrt-merlin",
+    "firmware",
+    "router"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 6106,
+    "forks": 729,
+    "open_issues": 46,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 77
+}

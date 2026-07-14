@@ -1,0 +1,47 @@
+{
+  "id": "matomo",
+  "name": "matomo",
+  "category": "tools",
+  "description": "Empowering People Ethically \ud83d\ude80 \u2014 Matomo is hiring! Join us \u2192 https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy.",
+  "official_website": "https://matomo.org/",
+  "documentation": "https://github.com/matomo-org/matomo#readme",
+  "github_repository": "https://github.com/matomo-org/matomo",
+  "license": "GPL-3.0",
+  "programming_languages": [
+    "PHP"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "analytics",
+    "growth",
+    "hacktoberfest",
+    "intranet",
+    "log",
+    "marketing",
+    "matomo",
+    "mobile"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 21685,
+    "forks": 2868,
+    "open_issues": 2548,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 90
+}

@@ -1,0 +1,42 @@
+{
+  "id": "open-source-rover",
+  "name": "open-source-rover",
+  "category": "robotics",
+  "description": "A build-it-yourself, 6-wheel rover based on the rovers on Mars!",
+  "official_website": "https://open-source-rover.readthedocs.io",
+  "documentation": "https://github.com/nasa-jpl/open-source-rover#readme",
+  "github_repository": "https://github.com/nasa-jpl/open-source-rover",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Prolog"
+  ],
+  "platforms": [
+    "Linux",
+    "Embedded"
+  ],
+  "tags": [
+    "diy",
+    "hardware",
+    "mars",
+    "mars-rover",
+    "open-source",
+    "robot",
+    "robotics"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 9518,
+    "forks": 1483,
+    "open_issues": 18,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

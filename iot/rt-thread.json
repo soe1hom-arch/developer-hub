@@ -1,0 +1,43 @@
+{
+  "id": "rt-thread",
+  "name": "rt-thread",
+  "category": "iot",
+  "description": "RT-Thread is an open source IoT Real-Time Operating System (RTOS).                                                                                                https://rt-thread.github.io/rt-thread/",
+  "official_website": "https://www.rt-thread.io",
+  "documentation": "https://github.com/RT-Thread/rt-thread#readme",
+  "github_repository": "https://github.com/RT-Thread/rt-thread",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "C"
+  ],
+  "platforms": [
+    "Linux",
+    "Embedded"
+  ],
+  "tags": [
+    "aiot",
+    "arm",
+    "cortex-a",
+    "cortex-m",
+    "embedded-systems",
+    "iot",
+    "kernel",
+    "microcontroller"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 12104,
+    "forks": 5434,
+    "open_issues": 502,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 90
+}

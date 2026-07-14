@@ -1,0 +1,45 @@
+{
+  "id": "bubbletea",
+  "name": "bubbletea",
+  "category": "cli-tools",
+  "description": "A powerful little TUI framework \ud83c\udfd7",
+  "official_website": "https://github.com/charmbracelet/bubbletea",
+  "documentation": "https://github.com/charmbracelet/bubbletea#readme",
+  "github_repository": "https://github.com/charmbracelet/bubbletea",
+  "license": "MIT",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "cli",
+    "elm-architecture",
+    "framework",
+    "functional",
+    "go",
+    "golang",
+    "hacktoberfest",
+    "tui"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 43737,
+    "forks": 1261,
+    "open_issues": 190,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 70
+}

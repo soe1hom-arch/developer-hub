@@ -1,0 +1,47 @@
+{
+  "id": "stats",
+  "name": "stats",
+  "category": "macos",
+  "description": "macOS system monitor in your menu bar",
+  "official_website": "https://mac-stats.com",
+  "documentation": "https://github.com/exelban/stats#readme",
+  "github_repository": "https://github.com/exelban/stats",
+  "license": "MIT",
+  "programming_languages": [
+    "Swift"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "battery",
+    "bluetooth",
+    "clock",
+    "cpu",
+    "disk",
+    "fans",
+    "gpu",
+    "macos"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 40427,
+    "forks": 1411,
+    "open_issues": 22,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

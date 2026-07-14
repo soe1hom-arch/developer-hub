@@ -1,0 +1,44 @@
+{
+  "id": "folding-cell",
+  "name": "folding-cell",
+  "category": "mobile",
+  "description": ":octocat: \ud83d\udcc3 FoldingCell is an expanding content cell with animation made by @Ramotion",
+  "official_website": "https://www.ramotion.com/folding-cell/",
+  "documentation": "https://github.com/Ramotion/folding-cell#readme",
+  "github_repository": "https://github.com/Ramotion/folding-cell",
+  "license": "MIT",
+  "programming_languages": [
+    "Swift"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "animation",
+    "ios",
+    "library",
+    "material-design",
+    "swift",
+    "ui"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 10187,
+    "forks": 1136,
+    "open_issues": 12,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

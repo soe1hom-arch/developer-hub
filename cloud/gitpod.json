@@ -1,0 +1,47 @@
+{
+  "id": "gitpod",
+  "name": "gitpod",
+  "category": "cloud",
+  "description": "The developer platform for on-demand cloud development environments to create software faster and more securely.",
+  "official_website": "https://www.gitpod.io",
+  "documentation": "https://github.com/gitpod-io/gitpod#readme",
+  "github_repository": "https://github.com/gitpod-io/gitpod",
+  "license": "AGPL-3.0",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "cde",
+    "cloud",
+    "cloud-development",
+    "cloud-development-environments",
+    "cloud-ide",
+    "code-review",
+    "dev-environment",
+    "developer-environment"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 13743,
+    "forks": 1395,
+    "open_issues": 454,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 90
+}

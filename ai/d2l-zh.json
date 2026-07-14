@@ -1,0 +1,47 @@
+{
+  "id": "d2l-zh",
+  "name": "d2l-zh",
+  "category": "ai",
+  "description": "\u300a\u52a8\u624b\u5b66\u6df1\u5ea6\u5b66\u4e60\u300b\uff1a\u9762\u5411\u4e2d\u6587\u8bfb\u8005\u3001\u80fd\u8fd0\u884c\u3001\u53ef\u8ba8\u8bba\u3002\u4e2d\u82f1\u6587\u7248\u88ab70\u591a\u4e2a\u56fd\u5bb6\u7684500\u591a\u6240\u5927\u5b66\u7528\u4e8e\u6559\u5b66\u3002",
+  "official_website": "http://zh.d2l.ai",
+  "documentation": "https://github.com/d2l-ai/d2l-zh#readme",
+  "github_repository": "https://github.com/d2l-ai/d2l-zh",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "book",
+    "chinese",
+    "computer-vision",
+    "deep-learning",
+    "machine-learning",
+    "natural-language-processing",
+    "notebook",
+    "python"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 78879,
+    "forks": 12288,
+    "open_issues": 129,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

@@ -1,0 +1,47 @@
+{
+  "id": "cua",
+  "name": "cua",
+  "category": "macos",
+  "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
+  "official_website": "https://cua.ai",
+  "documentation": "https://github.com/trycua/cua#readme",
+  "github_repository": "https://github.com/trycua/cua",
+  "license": "MIT",
+  "programming_languages": [
+    "HTML"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "agent",
+    "ai-agent",
+    "apple",
+    "computer-use",
+    "computer-use-agent",
+    "containerization",
+    "cua",
+    "desktop-automation"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 19644,
+    "forks": 1292,
+    "open_issues": 495,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 90
+}

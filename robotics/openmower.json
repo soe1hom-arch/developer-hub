@@ -1,0 +1,43 @@
+{
+  "id": "openmower",
+  "name": "OpenMower",
+  "category": "robotics",
+  "description": "Let's upgrade cheap off-the-shelf robotic mowers to modern, smart RTK GPS based lawn mowing robots!",
+  "official_website": "https://github.com/ClemensElflein/OpenMower",
+  "documentation": "https://github.com/ClemensElflein/OpenMower#readme",
+  "github_repository": "https://github.com/ClemensElflein/OpenMower",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Linux",
+    "Embedded"
+  ],
+  "tags": [
+    "arduino",
+    "gps",
+    "landscaping",
+    "lawn-mower",
+    "path-finding",
+    "raspberry-pi",
+    "robomow",
+    "robot"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 6603,
+    "forks": 396,
+    "open_issues": 16,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 65
+}

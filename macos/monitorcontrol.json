@@ -1,0 +1,47 @@
+{
+  "id": "monitorcontrol",
+  "name": "MonitorControl",
+  "category": "macos",
+  "description": "\ud83d\udda5 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.",
+  "official_website": "https://monitorcontrol.app",
+  "documentation": "https://github.com/MonitorControl/MonitorControl#readme",
+  "github_repository": "https://github.com/MonitorControl/MonitorControl",
+  "license": "MIT",
+  "programming_languages": [
+    "Swift"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "apple",
+    "brightness",
+    "control",
+    "ddc",
+    "display",
+    "external-monitor",
+    "gamma",
+    "keyboard"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 33687,
+    "forks": 979,
+    "open_issues": 27,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 90
+}

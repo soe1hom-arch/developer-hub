@@ -1,0 +1,40 @@
+{
+  "id": "diem",
+  "name": "diem",
+  "category": "blockchain",
+  "description": "Diem\u2019s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.",
+  "official_website": "https://diem.com",
+  "documentation": "https://github.com/diem/diem#readme",
+  "github_repository": "https://github.com/diem/diem",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "blockchain"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 16670,
+    "forks": 2544,
+    "open_issues": 377,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 83
+}

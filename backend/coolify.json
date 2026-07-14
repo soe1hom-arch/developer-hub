@@ -1,0 +1,47 @@
+{
+  "id": "coolify",
+  "name": "coolify",
+  "category": "backend",
+  "description": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.",
+  "official_website": "https://coolify.io",
+  "documentation": "https://github.com/coollabsio/coolify#readme",
+  "github_repository": "https://github.com/coollabsio/coolify",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "PHP"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "coolify",
+    "databases",
+    "deployment",
+    "docker",
+    "docker-compose",
+    "inertiajs",
+    "laravel",
+    "mariadb"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 58473,
+    "forks": 5015,
+    "open_issues": 812,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 90
+}

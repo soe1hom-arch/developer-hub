@@ -1,0 +1,38 @@
+{
+  "id": "openpilot",
+  "name": "openpilot",
+  "category": "robotics",
+  "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+  "official_website": "https://comma.ai/openpilot",
+  "documentation": "https://github.com/commaai/openpilot#readme",
+  "github_repository": "https://github.com/commaai/openpilot",
+  "license": "MIT",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Linux",
+    "Embedded"
+  ],
+  "tags": [
+    "advanced-driver-assistance-systems",
+    "driver-assistance-systems",
+    "robotics"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 63110,
+    "forks": 11156,
+    "open_issues": 144,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 87
+}

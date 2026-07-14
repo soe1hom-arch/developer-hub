@@ -1,0 +1,47 @@
+{
+  "id": "andronixorigin",
+  "name": "AndronixOrigin",
+  "category": "linux",
+  "description": "This is the official repository for the back end of the Andronix app \ud83d\ude80. Here you can know all the scripts you're installing \ud83d\ude0e",
+  "official_website": "https://andronix.app",
+  "documentation": "https://github.com/AndronixApp/AndronixOrigin#readme",
+  "github_repository": "https://github.com/AndronixApp/AndronixOrigin",
+  "license": "MIT",
+  "programming_languages": [
+    "Shell"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "android-device",
+    "andronix",
+    "distros",
+    "kde",
+    "kubuntu",
+    "linux",
+    "lxde",
+    "lxqt"
+  ],
+  "alternatives": [],
+  "popularity": 7,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 2564,
+    "forks": 499,
+    "open_issues": 212,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

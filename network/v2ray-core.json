@@ -1,0 +1,47 @@
+{
+  "id": "v2ray-core",
+  "name": "v2ray-core",
+  "category": "network",
+  "description": "A platform for building proxies to bypass network restrictions.",
+  "official_website": "https://www.v2ray.com/",
+  "documentation": "https://github.com/v2ray/v2ray-core#readme",
+  "github_repository": "https://github.com/v2ray/v2ray-core",
+  "license": "MIT",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "golang",
+    "http-proxy",
+    "proxy",
+    "shadowsocks",
+    "socks",
+    "socks5",
+    "v2ray",
+    "vmess"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 46904,
+    "forks": 8841,
+    "open_issues": 16,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

@@ -1,0 +1,46 @@
+{
+  "id": "getx",
+  "name": "getx",
+  "category": "mobile",
+  "description": "Open screens/snackbars/dialogs/bottomSheets without context, manage states and inject dependencies easily with Get.",
+  "official_website": "https://github.com/jonataslaw/getx",
+  "documentation": "https://github.com/jonataslaw/getx#readme",
+  "github_repository": "https://github.com/jonataslaw/getx",
+  "license": "MIT",
+  "programming_languages": [
+    "Dart"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "dart",
+    "dependency-injection",
+    "flutter",
+    "framework",
+    "get",
+    "getx",
+    "http",
+    "internationalization"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 11190,
+    "forks": 1849,
+    "open_issues": 1172,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

@@ -1,0 +1,47 @@
+{
+  "id": "prowler",
+  "name": "prowler",
+  "category": "cloud",
+  "description": "Prowler is the world\u2019s most widely used open-source cloud security platform that automates security and compliance across any cloud environment.",
+  "official_website": "https://prowler.com",
+  "documentation": "https://github.com/prowler-cloud/prowler#readme",
+  "github_repository": "https://github.com/prowler-cloud/prowler",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "aws",
+    "azure",
+    "cis-benchmark",
+    "cloud",
+    "cloudsecurity",
+    "compliance",
+    "cspm",
+    "devsecops"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 14133,
+    "forks": 2242,
+    "open_issues": 197,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 90
+}

@@ -1,0 +1,43 @@
+{
+  "id": "pyrealsense2-macosx",
+  "name": "pyrealsense2-macosx",
+  "category": "binary",
+  "description": "Prebuilt pyrealsense2 packages for macOSX.",
+  "official_website": "https://github.com/cansik/pyrealsense2-macosx",
+  "documentation": "https://github.com/cansik/pyrealsense2-macosx#readme",
+  "github_repository": "https://github.com/cansik/pyrealsense2-macosx",
+  "license": "MIT",
+  "programming_languages": [
+    "PowerShell"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS"
+  ],
+  "tags": [
+    "binaries",
+    "librealsense2",
+    "macos",
+    "macosx",
+    "pip",
+    "prebuilt",
+    "python",
+    "realsense2"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 77,
+    "forks": 6,
+    "open_issues": 5,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 45
+}

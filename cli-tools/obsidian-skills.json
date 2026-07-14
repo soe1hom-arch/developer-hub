@@ -1,0 +1,45 @@
+{
+  "id": "obsidian-skills",
+  "name": "obsidian-skills",
+  "category": "cli-tools",
+  "description": "Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.",
+  "official_website": "https://github.com/kepano/obsidian-skills",
+  "documentation": "https://github.com/kepano/obsidian-skills#readme",
+  "github_repository": "https://github.com/kepano/obsidian-skills",
+  "license": "MIT",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "agents",
+    "agentskills",
+    "bases",
+    "claude",
+    "clawdbot",
+    "cli",
+    "codex",
+    "defuddle"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 41778,
+    "forks": 2980,
+    "open_issues": 53,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 75
+}

@@ -1,0 +1,47 @@
+{
+  "id": "sonic",
+  "name": "sonic",
+  "category": "database",
+  "description": "\ud83e\udd94 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.",
+  "official_website": "https://crates.io/crates/sonic-server",
+  "documentation": "https://github.com/valeriansaliou/sonic#readme",
+  "github_repository": "https://github.com/valeriansaliou/sonic",
+  "license": "MPL-2.0",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "backend",
+    "database",
+    "graph",
+    "index",
+    "infrastructure",
+    "rust",
+    "search",
+    "search-engine"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 21275,
+    "forks": 616,
+    "open_issues": 64,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 90
+}

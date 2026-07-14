@@ -1,0 +1,47 @@
+{
+  "id": "dragonfly",
+  "name": "dragonfly",
+  "category": "database",
+  "description": "A modern replacement for Redis and Memcached",
+  "official_website": "https://www.dragonflydb.io/",
+  "documentation": "https://github.com/dragonflydb/dragonfly#readme",
+  "github_repository": "https://github.com/dragonflydb/dragonfly",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "C++"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "cache",
+    "cpp",
+    "database",
+    "fibers",
+    "in-memory",
+    "in-memory-database",
+    "key-value",
+    "keydb"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 30868,
+    "forks": 1208,
+    "open_issues": 289,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

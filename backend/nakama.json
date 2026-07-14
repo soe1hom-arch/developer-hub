@@ -1,0 +1,47 @@
+{
+  "id": "nakama",
+  "name": "nakama",
+  "category": "backend",
+  "description": "Scalable open-source game backend server: multiplayer, matchmaking, leaderboards, chat, and social features for games.",
+  "official_website": "https://heroiclabs.com",
+  "documentation": "https://github.com/heroiclabs/nakama#readme",
+  "github_repository": "https://github.com/heroiclabs/nakama",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "backend",
+    "cpp",
+    "csharp",
+    "dotnet",
+    "game",
+    "game-backend",
+    "game-framework",
+    "gamedev"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 12875,
+    "forks": 1441,
+    "open_issues": 118,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 90
+}

@@ -1,0 +1,47 @@
+{
+  "id": "docling",
+  "name": "docling",
+  "category": "ai",
+  "description": "Get your documents ready for gen AI",
+  "official_website": "https://docling-project.github.io/docling",
+  "documentation": "https://github.com/docling-project/docling#readme",
+  "github_repository": "https://github.com/docling-project/docling",
+  "license": "MIT",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "ai",
+    "convert",
+    "document-parser",
+    "document-parsing",
+    "documents",
+    "docx",
+    "html",
+    "markdown"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 63113,
+    "forks": 4452,
+    "open_issues": 933,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

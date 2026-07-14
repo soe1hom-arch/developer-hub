@@ -1,0 +1,42 @@
+{
+  "id": "tesseract-js",
+  "name": "tesseract.js",
+  "category": "frontend",
+  "description": "Pure Javascript OCR for more than 100 Languages \ud83d\udcd6\ud83c\udf89\ud83d\udda5",
+  "official_website": "http://tesseract.projectnaptha.com/",
+  "documentation": "https://github.com/naptha/tesseract.js#readme",
+  "github_repository": "https://github.com/naptha/tesseract.js",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "deep-learning",
+    "javascript",
+    "ocr",
+    "tesseract",
+    "webassembly"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 38489,
+    "forks": 2376,
+    "open_issues": 45,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

@@ -1,0 +1,47 @@
+{
+  "id": "openbb",
+  "name": "OpenBB",
+  "category": "ai",
+  "description": "Open Data Platform for analysts, quants and AI agents.",
+  "official_website": "https://openbb.co",
+  "documentation": "https://github.com/OpenBB-finance/OpenBB#readme",
+  "github_repository": "https://github.com/OpenBB-finance/OpenBB",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "ai",
+    "crypto",
+    "derivatives",
+    "economics",
+    "equity",
+    "finance",
+    "fixed-income",
+    "machine-learning"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 70543,
+    "forks": 7163,
+    "open_issues": 75,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

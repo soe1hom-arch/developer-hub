@@ -1,0 +1,43 @@
+{
+  "id": "gobot",
+  "name": "gobot",
+  "category": "iot",
+  "description": "Golang framework for robotics, drones, and the Internet of Things (IoT)",
+  "official_website": "https://gobot.io",
+  "documentation": "https://github.com/hybridgroup/gobot#readme",
+  "github_repository": "https://github.com/hybridgroup/gobot",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux",
+    "Embedded"
+  ],
+  "tags": [
+    "arduino",
+    "beaglebone",
+    "beaglebone-black",
+    "bluetooth",
+    "bluetooth-le",
+    "drone",
+    "go",
+    "gpio"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 9436,
+    "forks": 1063,
+    "open_issues": 99,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

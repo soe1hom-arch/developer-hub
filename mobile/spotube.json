@@ -1,0 +1,46 @@
+{
+  "id": "spotube",
+  "name": "spotube",
+  "category": "mobile",
+  "description": "\ud83c\udfa7 Open source music streaming app! Available for both desktop & mobile!",
+  "official_website": "https://spotube.cc/",
+  "documentation": "https://github.com/KRTirtho/spotube#readme",
+  "github_repository": "https://github.com/KRTirtho/spotube",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "Dart"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "android",
+    "android-client",
+    "android-music-player",
+    "desktop-client",
+    "fdroid",
+    "flutter",
+    "flutter-desktop",
+    "linux"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 47533,
+    "forks": 2196,
+    "open_issues": 822,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

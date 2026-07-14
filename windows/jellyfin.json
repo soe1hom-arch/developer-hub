@@ -1,0 +1,43 @@
+{
+  "id": "jellyfin",
+  "name": "jellyfin",
+  "category": "windows",
+  "description": "The Free Software Media System - Server Backend & API",
+  "official_website": "https://jellyfin.org",
+  "documentation": "https://github.com/jellyfin/jellyfin#readme",
+  "github_repository": "https://github.com/jellyfin/jellyfin",
+  "license": "GPL-2.0",
+  "programming_languages": [
+    "C#"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "csharp",
+    "dotnet",
+    "hacktoberfest",
+    "jellyfin"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 54257,
+    "forks": 5097,
+    "open_issues": 572,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 82
+}

@@ -1,0 +1,44 @@
+{
+  "id": "animated-tab-bar",
+  "name": "animated-tab-bar",
+  "category": "mobile",
+  "description": ":octocat: RAMAnimatedTabBarController is a Swift UI module library for adding animation to iOS tabbar items and icons. iOS library made by @Ramotion",
+  "official_website": "https://www.ramotion.com/animated-tab-bar-ios-app-development-ui-library/",
+  "documentation": "https://github.com/Ramotion/animated-tab-bar#readme",
+  "github_repository": "https://github.com/Ramotion/animated-tab-bar",
+  "license": "MIT",
+  "programming_languages": [
+    "Swift"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "animation",
+    "ios",
+    "library",
+    "material-design",
+    "swift",
+    "ui"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 11085,
+    "forks": 1306,
+    "open_issues": 17,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 90
+}

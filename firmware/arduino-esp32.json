@@ -1,0 +1,38 @@
+{
+  "id": "arduino-esp32",
+  "name": "arduino-esp32",
+  "category": "firmware",
+  "description": "Arduino core for the ESP32 family of SoCs",
+  "official_website": "https://github.com/espressif/arduino-esp32",
+  "documentation": "https://github.com/espressif/arduino-esp32#readme",
+  "github_repository": "https://github.com/espressif/arduino-esp32",
+  "license": "LGPL-2.1",
+  "programming_languages": [
+    "C++"
+  ],
+  "platforms": [
+    "Linux",
+    "Embedded"
+  ],
+  "tags": [
+    "arduino",
+    "esp-idf",
+    "esp32"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 17063,
+    "forks": 7884,
+    "open_issues": 154,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 67
+}

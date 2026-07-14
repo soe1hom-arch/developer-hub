@@ -1,0 +1,45 @@
+{
+  "id": "fscalendar",
+  "name": "FSCalendar",
+  "category": "mobile",
+  "description": "A fully customizable iOS calendar library, compatible with Objective-C and Swift",
+  "official_website": "https://github.com/WenchaoD/FSCalendar",
+  "documentation": "https://github.com/WenchaoD/FSCalendar#readme",
+  "github_repository": "https://github.com/WenchaoD/FSCalendar",
+  "license": "MIT",
+  "programming_languages": [
+    "Objective-C"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "calendar",
+    "carthage",
+    "cocoapods",
+    "ios",
+    "library",
+    "objective-c",
+    "swift"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 10649,
+    "forks": 1945,
+    "open_issues": 504,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 75
+}

@@ -1,0 +1,47 @@
+{
+  "id": "linux-command",
+  "name": "linux-command",
+  "category": "linux",
+  "description": "Linux\u547d\u4ee4\u5927\u5168\u641c\u7d22\u5de5\u5177\uff0c\u5185\u5bb9\u5305\u542bLinux\u547d\u4ee4\u624b\u518c\u3001\u8be6\u89e3\u3001\u5b66\u4e60\u3001\u641c\u96c6\u3002https://git.io/linux",
+  "official_website": "https://jaywcjlove.github.io/linux-command",
+  "documentation": "https://github.com/jaywcjlove/linux-command#readme",
+  "github_repository": "https://github.com/jaywcjlove/linux-command",
+  "license": "MIT",
+  "programming_languages": [
+    "Markdown"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "bash",
+    "chrome",
+    "chrome-extension",
+    "command-line",
+    "gh-pages",
+    "linux",
+    "linux-command",
+    "ls"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 36413,
+    "forks": 6601,
+    "open_issues": 81,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

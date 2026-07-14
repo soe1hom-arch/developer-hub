@@ -1,0 +1,46 @@
+{
+  "id": "node-headless-chrome",
+  "name": "node-headless-chrome",
+  "category": "backend",
+  "description": "\u26a0\ufe0f \ud83d\udea7 Install precompiled versions of the Chromium/Chrome headless shell using npm or yarn",
+  "official_website": "https://github.com/adieuadieu/node-headless-chrome",
+  "documentation": "https://github.com/adieuadieu/node-headless-chrome#readme",
+  "github_repository": "https://github.com/adieuadieu/node-headless-chrome",
+  "license": "MIT",
+  "programming_languages": [
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "chrome",
+    "chrome-debugging-protocol",
+    "chromium",
+    "headless",
+    "headless-chrome",
+    "nodejs",
+    "prebuilt"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 22,
+    "forks": 4,
+    "open_issues": 2,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 45
+}

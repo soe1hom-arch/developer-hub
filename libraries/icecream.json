@@ -1,0 +1,47 @@
+{
+  "id": "icecream",
+  "name": "icecream",
+  "category": "libraries",
+  "description": "\ud83c\udf66 Never use print() to debug again.",
+  "official_website": "https://github.com/gruns/icecream",
+  "documentation": "https://github.com/gruns/icecream#readme",
+  "github_repository": "https://github.com/gruns/icecream",
+  "license": "MIT",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "debug",
+    "debugging",
+    "debugging-tool",
+    "inspects",
+    "library",
+    "print",
+    "python",
+    "python3"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 10056,
+    "forks": 224,
+    "open_issues": 65,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 70
+}

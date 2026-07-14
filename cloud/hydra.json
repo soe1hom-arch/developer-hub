@@ -1,0 +1,47 @@
+{
+  "id": "hydra",
+  "name": "hydra",
+  "category": "cloud",
+  "description": "Internet-scale OpenID Certified\u2122 OpenID Connect and OAuth2.1 provider that integrates with your user management through headless APIs. Solve OIDC/OAuth2 user cases over night. Consume as a service on ",
+  "official_website": "https://www.ory.com/?utm_source=github&utm_medium=banner&utm_campaign=hydra",
+  "documentation": "https://github.com/ory/hydra#readme",
+  "github_repository": "https://github.com/ory/hydra",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "authorization",
+    "cloud",
+    "docker",
+    "federation",
+    "hacktoberfest",
+    "hydra",
+    "identity",
+    "oauth"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 17395,
+    "forks": 1589,
+    "open_issues": 136,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 90
+}

@@ -1,0 +1,46 @@
+{
+  "id": "open-source-ios-apps",
+  "name": "open-source-ios-apps",
+  "category": "mobile",
+  "description": ":iphone: Collaborative List of Open-Source iOS Apps",
+  "official_website": "https://github.com/dkhamsing/open-source-ios-apps",
+  "documentation": "https://github.com/dkhamsing/open-source-ios-apps#readme",
+  "github_repository": "https://github.com/dkhamsing/open-source-ios-apps",
+  "license": "CC0-1.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "app",
+    "apple",
+    "apple-tv",
+    "apple-vision-pro",
+    "apple-watch",
+    "awesome",
+    "cocoapods",
+    "example"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 51215,
+    "forks": 5850,
+    "open_issues": 4,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 70
+}

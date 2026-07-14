@@ -1,0 +1,45 @@
+{
+  "id": "mole",
+  "name": "Mole",
+  "category": "cli-tools",
+  "description": "\ud83d\udc39 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.",
+  "official_website": "https://mole.fit",
+  "documentation": "https://github.com/tw93/Mole#readme",
+  "github_repository": "https://github.com/tw93/Mole",
+  "license": "GPL-3.0",
+  "programming_languages": [
+    "Shell"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "analyzer",
+    "appcleaner",
+    "clean",
+    "cleaner",
+    "cleaner-cli",
+    "cleaner-script",
+    "command-line",
+    "daisydisk"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 58892,
+    "forks": 2077,
+    "open_issues": 24,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

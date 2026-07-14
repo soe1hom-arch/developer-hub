@@ -1,0 +1,47 @@
+{
+  "id": "sequelize",
+  "name": "sequelize",
+  "category": "database",
+  "description": "Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB, DB2 and DB2 for IBM i.",
+  "official_website": "https://sequelize.org/",
+  "documentation": "https://github.com/sequelize/sequelize#readme",
+  "github_repository": "https://github.com/sequelize/sequelize",
+  "license": "MIT",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "db2-ibm-i",
+    "feature-rich",
+    "javascript",
+    "mariadb",
+    "microsoft-sql-server",
+    "mssql",
+    "mssql-server",
+    "mysql"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 30372,
+    "forks": 4342,
+    "open_issues": 1048,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 90
+}

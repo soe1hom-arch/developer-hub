@@ -1,0 +1,47 @@
+{
+  "id": "authentik",
+  "name": "authentik",
+  "category": "security",
+  "description": "The authentication glue you need.",
+  "official_website": "https://goauthentik.io",
+  "documentation": "https://github.com/goauthentik/authentik#readme",
+  "github_repository": "https://github.com/goauthentik/authentik",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "authentication",
+    "authentik",
+    "authorization",
+    "kubernetes",
+    "oauth2",
+    "oauth2-client",
+    "oauth2-server",
+    "oidc"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 22328,
+    "forks": 1703,
+    "open_issues": 1258,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

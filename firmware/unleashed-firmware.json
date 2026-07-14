@@ -1,0 +1,43 @@
+{
+  "id": "unleashed-firmware",
+  "name": "unleashed-firmware",
+  "category": "firmware",
+  "description": "Flipper Zero Unleashed Firmware",
+  "official_website": "https://flipperunleashed.com",
+  "documentation": "https://github.com/DarkFlippers/unleashed-firmware#readme",
+  "github_repository": "https://github.com/DarkFlippers/unleashed-firmware",
+  "license": "GPL-3.0",
+  "programming_languages": [
+    "C"
+  ],
+  "platforms": [
+    "Linux",
+    "Embedded"
+  ],
+  "tags": [
+    "alternative-firmware",
+    "cfw",
+    "custom",
+    "custom-firmware",
+    "darkflippers",
+    "firmware",
+    "flipper",
+    "flipper-plugins"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 21830,
+    "forks": 1902,
+    "open_issues": 29,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

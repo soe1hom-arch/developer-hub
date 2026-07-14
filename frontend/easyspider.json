@@ -1,0 +1,45 @@
+{
+  "id": "easyspider",
+  "name": "EasySpider",
+  "category": "frontend",
+  "description": "A visual no-code/code-free web crawler/spider\u6613\u91c7\u96c6\uff1a\u4e00\u4e2a\u53ef\u89c6\u5316\u6d4f\u89c8\u5668\u81ea\u52a8\u5316\u6d4b\u8bd5/\u6570\u636e\u91c7\u96c6/\u7f51\u9875\u722c\u866b\u8f6f\u4ef6\uff0c\u53ef\u4ee5\u65e0\u4ee3\u7801\u56fe\u5f62\u5316\u7684\u8bbe\u8ba1\u548c\u6267\u884c\u722c\u866b\u4efb\u52a1\u3002\u522b\u540d\uff1aServiceWrapper\u9762\u5411Web\u5e94\u7528\u7684\u667a\u80fd\u5316\u670d\u52a1\u5c01\u88c5\u7cfb\u7edf\u3002",
+  "official_website": "https://www.easyspider.net",
+  "documentation": "https://github.com/NaiboWang/EasySpider#readme",
+  "github_repository": "https://github.com/NaiboWang/EasySpider",
+  "license": "AGPL-3.0",
+  "programming_languages": [
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "batch-processing",
+    "batch-script",
+    "code-free",
+    "crawler",
+    "data-collection",
+    "frontend",
+    "gui",
+    "html"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 44229,
+    "forks": 5377,
+    "open_issues": 268,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 90
+}

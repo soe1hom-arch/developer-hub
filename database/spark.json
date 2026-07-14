@@ -1,0 +1,47 @@
+{
+  "id": "spark",
+  "name": "spark",
+  "category": "database",
+  "description": "Apache Spark - A unified analytics engine for large-scale data processing",
+  "official_website": "https://spark.apache.org/",
+  "documentation": "https://github.com/apache/spark#readme",
+  "github_repository": "https://github.com/apache/spark",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Scala"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "big-data",
+    "java",
+    "jdbc",
+    "python",
+    "r",
+    "scala",
+    "spark",
+    "sql"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 43613,
+    "forks": 29272,
+    "open_issues": 453,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

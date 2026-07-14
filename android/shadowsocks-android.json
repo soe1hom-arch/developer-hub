@@ -1,0 +1,40 @@
+{
+  "id": "shadowsocks-android",
+  "name": "shadowsocks-android",
+  "category": "android",
+  "description": "A shadowsocks client for Android",
+  "official_website": "https://github.com/shadowsocks/shadowsocks-android",
+  "documentation": "https://github.com/shadowsocks/shadowsocks-android#readme",
+  "github_repository": "https://github.com/shadowsocks/shadowsocks-android",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "Kotlin"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "android",
+    "shadowsocks"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 36731,
+    "forks": 11471,
+    "open_issues": 75,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 63
+}

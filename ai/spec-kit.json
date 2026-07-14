@@ -1,0 +1,46 @@
+{
+  "id": "spec-kit",
+  "name": "spec-kit",
+  "category": "ai",
+  "description": "\ud83d\udcab Toolkit to help you get started with Spec-Driven Development",
+  "official_website": "https://github.github.com/spec-kit/",
+  "documentation": "https://github.com/github/spec-kit#readme",
+  "github_repository": "https://github.com/github/spec-kit",
+  "license": "MIT",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "ai",
+    "copilot",
+    "development",
+    "engineering",
+    "prd",
+    "spec",
+    "spec-driven"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 120887,
+    "forks": 10751,
+    "open_issues": 350,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 75
+}

@@ -1,0 +1,47 @@
+{
+  "id": "lobehub",
+  "name": "lobehub",
+  "category": "ai",
+  "description": "\ud83e\udd2f LobeHub is your Chief Agent Operator, organizing your agents into 7\u00d724 operations by hiring, scheduling, and reporting on your entire AI team.",
+  "official_website": "https://lobehub.com",
+  "documentation": "https://github.com/lobehub/lobehub#readme",
+  "github_repository": "https://github.com/lobehub/lobehub",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "agent",
+    "agent-collaboration",
+    "agent-harness",
+    "ai",
+    "cao",
+    "chatgpt",
+    "chief-agent-operator",
+    "claude"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 79826,
+    "forks": 15592,
+    "open_issues": 601,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 90
+}

@@ -1,0 +1,38 @@
+{
+  "id": "nodejs-android-prebuilt-binaries",
+  "name": "nodejs-android-prebuilt-binaries",
+  "category": "binary",
+  "description": "Prebuilt binaries of NodeJS for Android(arm,arm64,x86,x64,mipsel), full or limited(by --without-snapshot --without-inspector --without-intl)",
+  "official_website": "https://github.com/sjitech/nodejs-android-prebuilt-binaries",
+  "documentation": "https://github.com/sjitech/nodejs-android-prebuilt-binaries#readme",
+  "github_repository": "https://github.com/sjitech/nodejs-android-prebuilt-binaries",
+  "license": "MIT",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Linux"
+  ],
+  "tags": [
+    "android",
+    "binary",
+    "nodejs",
+    "prebuilt"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 94,
+    "forks": 32,
+    "open_issues": 3,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 47
+}

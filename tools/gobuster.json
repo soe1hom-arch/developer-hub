@@ -1,0 +1,44 @@
+{
+  "id": "gobuster",
+  "name": "gobuster",
+  "category": "tools",
+  "description": "Directory/File, DNS and VHost busting tool written in Go",
+  "official_website": "https://github.com/OJ/gobuster",
+  "documentation": "https://github.com/OJ/gobuster#readme",
+  "github_repository": "https://github.com/OJ/gobuster",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "dns",
+    "go",
+    "pentesting",
+    "tool",
+    "web"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 13893,
+    "forks": 1593,
+    "open_issues": 22,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 75
+}

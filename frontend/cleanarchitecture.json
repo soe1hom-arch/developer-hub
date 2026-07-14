@@ -1,0 +1,45 @@
+{
+  "id": "cleanarchitecture",
+  "name": "CleanArchitecture",
+  "category": "frontend",
+  "description": "Clean Architecture Solution Template for ASP.NET Core",
+  "official_website": "https://cleanarchitecture.jasontaylor.dev",
+  "documentation": "https://github.com/jasontaylordev/CleanArchitecture#readme",
+  "github_repository": "https://github.com/jasontaylordev/CleanArchitecture",
+  "license": "MIT",
+  "programming_languages": [
+    "C#"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "angular",
+    "asp-net",
+    "aspire",
+    "clean-architecture",
+    "dotnet",
+    "entity-framework",
+    "react",
+    "template"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 20327,
+    "forks": 4242,
+    "open_issues": 25,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

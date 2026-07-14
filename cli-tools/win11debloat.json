@@ -1,0 +1,45 @@
+{
+  "id": "win11debloat",
+  "name": "Win11Debloat",
+  "category": "cli-tools",
+  "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Wi",
+  "official_website": "https://github.com/Raphire/Win11Debloat",
+  "documentation": "https://github.com/Raphire/Win11Debloat#readme",
+  "github_repository": "https://github.com/Raphire/Win11Debloat",
+  "license": "MIT",
+  "programming_languages": [
+    "PowerShell"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "automated",
+    "bloatware",
+    "bloatware-removal",
+    "cleanup",
+    "cli",
+    "debloat",
+    "debloater",
+    "interactive"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 51141,
+    "forks": 2105,
+    "open_issues": 25,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

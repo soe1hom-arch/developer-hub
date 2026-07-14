@@ -1,0 +1,46 @@
+{
+  "id": "libgit2",
+  "name": "libgit2",
+  "category": "libraries",
+  "description": "A cross-platform, linkable library implementation of Git that you can use in your application.",
+  "official_website": "https://www.libgit2.org",
+  "documentation": "https://github.com/libgit2/libgit2#readme",
+  "github_repository": "https://github.com/libgit2/libgit2",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "C"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "c",
+    "dvcs",
+    "git",
+    "hacktoberfest",
+    "libgit2",
+    "library",
+    "version-control"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 10529,
+    "forks": 2609,
+    "open_issues": 528,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

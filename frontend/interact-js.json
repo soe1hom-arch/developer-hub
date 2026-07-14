@@ -1,0 +1,45 @@
+{
+  "id": "interact-js",
+  "name": "interact.js",
+  "category": "frontend",
+  "description": "JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE9+)",
+  "official_website": "http://interactjs.io/",
+  "documentation": "https://github.com/taye/interact.js#readme",
+  "github_repository": "https://github.com/taye/interact.js",
+  "license": "MIT",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "drag-and-drop",
+    "drop",
+    "inertia",
+    "javascript",
+    "javascript-drag",
+    "mobile",
+    "modern-browsers",
+    "multi-touch"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 12909,
+    "forks": 806,
+    "open_issues": 96,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 90
+}

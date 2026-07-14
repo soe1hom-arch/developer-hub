@@ -1,0 +1,45 @@
+{
+  "id": "prettier",
+  "name": "prettier",
+  "category": "frontend",
+  "description": "Prettier is an opinionated code formatter.",
+  "official_website": "https://prettier.io",
+  "documentation": "https://github.com/prettier/prettier#readme",
+  "github_repository": "https://github.com/prettier/prettier",
+  "license": "MIT",
+  "programming_languages": [
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "angular",
+    "ast",
+    "css",
+    "flow",
+    "formatter",
+    "graphql",
+    "html",
+    "javascript"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 52232,
+    "forks": 4922,
+    "open_issues": 1428,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

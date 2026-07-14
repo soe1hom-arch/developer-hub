@@ -1,0 +1,45 @@
+{
+  "id": "iview",
+  "name": "iview",
+  "category": "frontend",
+  "description": "A high quality UI Toolkit built on Vue.js 2.0",
+  "official_website": "http://iview.talkingdata.com",
+  "documentation": "https://github.com/iview/iview#readme",
+  "github_repository": "https://github.com/iview/iview",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "Vue"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "components",
+    "css",
+    "design-systems",
+    "frontend",
+    "iview",
+    "javascript",
+    "ui-design",
+    "ui-kit"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 23789,
+    "forks": 4061,
+    "open_issues": 1235,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

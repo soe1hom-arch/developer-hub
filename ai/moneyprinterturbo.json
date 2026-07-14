@@ -1,0 +1,46 @@
+{
+  "id": "moneyprinterturbo",
+  "name": "MoneyPrinterTurbo",
+  "category": "ai",
+  "description": "\u5229\u7528AI\u5927\u6a21\u578b\uff0c\u4e00\u952e\u751f\u6210\u9ad8\u6e05\u77ed\u89c6\u9891 Generate short videos with one click using AI LLM.",
+  "official_website": "https://github.com/harry0703/MoneyPrinterTurbo",
+  "documentation": "https://github.com/harry0703/MoneyPrinterTurbo#readme",
+  "github_repository": "https://github.com/harry0703/MoneyPrinterTurbo",
+  "license": "MIT",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "ai",
+    "automation",
+    "chatgpt",
+    "moviepy",
+    "python",
+    "shortvideo",
+    "tiktok"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 97302,
+    "forks": 14371,
+    "open_issues": 2,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 75
+}

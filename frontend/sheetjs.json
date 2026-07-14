@@ -1,0 +1,45 @@
+{
+  "id": "sheetjs",
+  "name": "sheetjs",
+  "category": "frontend",
+  "description": "\ud83d\udcd7 SheetJS Spreadsheet Data Toolkit -- New home https://git.sheetjs.com/SheetJS/sheetjs",
+  "official_website": "https://sheetjs.com/",
+  "documentation": "https://github.com/SheetJS/sheetjs#readme",
+  "github_repository": "https://github.com/SheetJS/sheetjs",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "angular",
+    "bun",
+    "csv",
+    "data",
+    "database",
+    "deno",
+    "excel",
+    "grid"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 36299,
+    "forks": 7937,
+    "open_issues": 132,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

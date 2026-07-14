@@ -1,0 +1,47 @@
+{
+  "id": "yolov5",
+  "name": "yolov5",
+  "category": "ai",
+  "description": "Ultralytics YOLOv5 in PyTorch > ONNX > CoreML > TFLite",
+  "official_website": "https://docs.ultralytics.com",
+  "documentation": "https://github.com/ultralytics/yolov5#readme",
+  "github_repository": "https://github.com/ultralytics/yolov5",
+  "license": "AGPL-3.0",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "coreml",
+    "deep-learning",
+    "ios",
+    "machine-learning",
+    "ml",
+    "object-detection",
+    "onnx",
+    "pytorch"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 57678,
+    "forks": 17471,
+    "open_issues": 30,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

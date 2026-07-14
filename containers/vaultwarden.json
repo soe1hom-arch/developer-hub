@@ -1,0 +1,45 @@
+{
+  "id": "vaultwarden",
+  "name": "vaultwarden",
+  "category": "containers",
+  "description": "Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs",
+  "official_website": "https://github.com/dani-garcia/vaultwarden",
+  "documentation": "https://github.com/dani-garcia/vaultwarden#readme",
+  "github_repository": "https://github.com/dani-garcia/vaultwarden",
+  "license": "AGPL-3.0",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "bitwarden",
+    "bitwarden-rs",
+    "docker",
+    "rocket",
+    "rust",
+    "vaultwarden"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 63666,
+    "forks": 2996,
+    "open_issues": 48,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 75
+}

@@ -1,0 +1,47 @@
+{
+  "id": "pangolin",
+  "name": "pangolin",
+  "category": "network",
+  "description": "Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard\u00ae.",
+  "official_website": "https://pangolin.net",
+  "documentation": "https://github.com/fosrl/pangolin#readme",
+  "github_repository": "https://github.com/fosrl/pangolin",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "identity-management",
+    "iot",
+    "nat-traversal",
+    "oidc",
+    "pam",
+    "private-access",
+    "proxy",
+    "remote-access"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 21694,
+    "forks": 729,
+    "open_issues": 103,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

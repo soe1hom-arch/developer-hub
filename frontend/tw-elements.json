@@ -1,0 +1,45 @@
+{
+  "id": "tw-elements",
+  "name": "TW-Elements",
+  "category": "frontend",
+  "description": "\ud835\ude43\ud835\ude6a\ud835\ude5c\ud835\ude5a collection of Tailwind MIT licensed (free) components, sections and templates \ud83d\ude0e",
+  "official_website": "https://tw-elements.com",
+  "documentation": "https://github.com/mdbootstrap/TW-Elements#readme",
+  "github_repository": "https://github.com/mdbootstrap/TW-Elements",
+  "license": "MIT",
+  "programming_languages": [
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "css",
+    "dashboard-templates",
+    "design-systems",
+    "front-end",
+    "front-end-development",
+    "frontend",
+    "html",
+    "javascript"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 13142,
+    "forks": 1578,
+    "open_issues": 106,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

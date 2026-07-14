@@ -1,0 +1,39 @@
+{
+  "id": "opencv-raspberrypi",
+  "name": "opencv-raspberrypi",
+  "category": "binary",
+  "description": "Precompiled OpenCV binaries for Raspberry Pi, automatically updated via GitHub CI workflows.",
+  "official_website": "https://prepkg.github.io/opencv-raspberrypi/",
+  "documentation": "https://github.com/prepkg/opencv-raspberrypi#readme",
+  "github_repository": "https://github.com/prepkg/opencv-raspberrypi",
+  "license": "MIT",
+  "programming_languages": [
+    "Shell"
+  ],
+  "platforms": [
+    "Linux"
+  ],
+  "tags": [
+    "glibc-compatibility",
+    "opencv",
+    "prebuilt",
+    "precompiled",
+    "raspberry-pi"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 56,
+    "forks": 10,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 60
+}

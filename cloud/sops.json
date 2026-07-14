@@ -1,0 +1,47 @@
+{
+  "id": "sops",
+  "name": "sops",
+  "category": "cloud",
+  "description": "Simple and flexible tool for managing secrets",
+  "official_website": "https://getsops.io",
+  "documentation": "https://github.com/getsops/sops#readme",
+  "github_repository": "https://github.com/getsops/sops",
+  "license": "MPL-2.0",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "aws",
+    "azure",
+    "devops",
+    "gcp",
+    "pgp",
+    "secret-distribution",
+    "secret-management",
+    "security"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 22481,
+    "forks": 1055,
+    "open_issues": 435,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

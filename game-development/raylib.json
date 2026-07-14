@@ -1,0 +1,45 @@
+{
+  "id": "raylib",
+  "name": "raylib",
+  "category": "game-development",
+  "description": "A simple and easy-to-use library to enjoy videogames programming",
+  "official_website": "http://www.raylib.com",
+  "documentation": "https://github.com/raysan5/raylib#readme",
+  "github_repository": "https://github.com/raysan5/raylib",
+  "license": "Zlib",
+  "programming_languages": [
+    "C"
+  ],
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux",
+    "Web"
+  ],
+  "tags": [
+    "android",
+    "c",
+    "embedded",
+    "esp32",
+    "game-development",
+    "game-engine",
+    "gamedev",
+    "graphics"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 33841,
+    "forks": 3196,
+    "open_issues": 21,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

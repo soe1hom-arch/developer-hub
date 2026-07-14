@@ -1,0 +1,47 @@
+{
+  "id": "build",
+  "name": "build",
+  "category": "frameworks",
+  "description": "The official build framework for the Armbian Linux distribution. This repository contains the complete toolchain and scripts required to compile custom OS images from source, including kernel configur",
+  "official_website": "https://www.armbian.com",
+  "documentation": "https://github.com/armbian/build#readme",
+  "github_repository": "https://github.com/armbian/build",
+  "license": "GPL-2.0",
+  "programming_languages": [
+    "Shell"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "aarch64",
+    "arm",
+    "debian",
+    "firmware",
+    "framework",
+    "image",
+    "iso",
+    "kernel"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 5306,
+    "forks": 3054,
+    "open_issues": 138,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

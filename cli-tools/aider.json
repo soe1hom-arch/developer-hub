@@ -1,0 +1,45 @@
+{
+  "id": "aider",
+  "name": "aider",
+  "category": "cli-tools",
+  "description": "aider is AI pair programming in your terminal",
+  "official_website": "https://aider.chat/",
+  "documentation": "https://github.com/Aider-AI/aider#readme",
+  "github_repository": "https://github.com/Aider-AI/aider",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "anthropic",
+    "chatgpt",
+    "claude-3",
+    "cli",
+    "command-line",
+    "gemini",
+    "gpt-3",
+    "gpt-35-turbo"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 47361,
+    "forks": 4728,
+    "open_issues": 1740,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

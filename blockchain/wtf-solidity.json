@@ -1,0 +1,47 @@
+{
+  "id": "wtf-solidity",
+  "name": "WTF-Solidity",
+  "category": "blockchain",
+  "description": "WTF Solidity \u6781\u7b80\u5165\u95e8\u6559\u7a0b\uff0c\u4f9b\u5c0f\u767d\u4eec\u4f7f\u7528\u3002Now supports English! \u5b98\u7f51: https://wtf.academy",
+  "official_website": "https://wtf.academy",
+  "documentation": "https://github.com/AmazingAng/WTF-Solidity#readme",
+  "github_repository": "https://github.com/AmazingAng/WTF-Solidity",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "Solidity"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "airdrop",
+    "auction",
+    "blockchain",
+    "dapp",
+    "dapps",
+    "erc20",
+    "erc721",
+    "ethereum"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 14012,
+    "forks": 2425,
+    "open_issues": 11,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

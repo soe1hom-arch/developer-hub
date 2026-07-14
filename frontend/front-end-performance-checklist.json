@@ -1,0 +1,45 @@
+{
+  "id": "front-end-performance-checklist",
+  "name": "Front-End-Performance-Checklist",
+  "category": "frontend",
+  "description": "\ud83c\udfae The only Front-End Performance Checklist that runs faster than the others",
+  "official_website": "https://github.com/thedaviddias/Front-End-Performance-Checklist",
+  "documentation": "https://github.com/thedaviddias/Front-End-Performance-Checklist#readme",
+  "github_repository": "https://github.com/thedaviddias/Front-End-Performance-Checklist",
+  "license": "MIT",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "checklist",
+    "css",
+    "front-end-developer-tool",
+    "front-end-development",
+    "frontend",
+    "guidelines",
+    "html",
+    "javascript"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 17304,
+    "forks": 1255,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 70
+}

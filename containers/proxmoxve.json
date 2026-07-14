@@ -1,0 +1,47 @@
+{
+  "id": "proxmoxve",
+  "name": "ProxmoxVE",
+  "category": "containers",
+  "description": "Proxmox VE Helper-Scripts (Community Edition)",
+  "official_website": "https://community-scripts.org/",
+  "documentation": "https://github.com/community-scripts/ProxmoxVE#readme",
+  "github_repository": "https://github.com/community-scripts/ProxmoxVE",
+  "license": "MIT",
+  "programming_languages": [
+    "Shell"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "alpine",
+    "authentification",
+    "container",
+    "debian",
+    "docker",
+    "home-assistant",
+    "home-automation",
+    "homelab"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 28957,
+    "forks": 2786,
+    "open_issues": 18,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

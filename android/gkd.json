@@ -1,0 +1,46 @@
+{
+  "id": "gkd",
+  "name": "gkd",
+  "category": "android",
+  "description": "\u57fa\u4e8e\u65e0\u969c\u788d\uff0c\u9ad8\u7ea7\u9009\u62e9\u5668\uff0c\u8ba2\u9605\u89c4\u5219\u7684\u81ea\u5b9a\u4e49\u5c4f\u5e55\u70b9\u51fb\u5b89\u5353\u5e94\u7528 | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules",
+  "official_website": "https://gkd.li",
+  "documentation": "https://github.com/gkd-kit/gkd#readme",
+  "github_repository": "https://github.com/gkd-kit/gkd",
+  "license": "GPL-3.0",
+  "programming_languages": [
+    "Kotlin"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "accessibility",
+    "android",
+    "auto",
+    "click",
+    "compose",
+    "jetpack-compose",
+    "kotlin",
+    "kotlin-js"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 40201,
+    "forks": 1899,
+    "open_issues": 10,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 90
+}

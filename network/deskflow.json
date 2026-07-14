@@ -1,0 +1,44 @@
+{
+  "id": "deskflow",
+  "name": "deskflow",
+  "category": "network",
+  "description": "Share a single keyboard and mouse between multiple computers.",
+  "official_website": "https://deskflow.org",
+  "documentation": "https://github.com/deskflow/deskflow#readme",
+  "github_repository": "https://github.com/deskflow/deskflow",
+  "license": "GPL-2.0",
+  "programming_languages": [
+    "C++"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "keyboard",
+    "keyboard-emulation",
+    "mouse",
+    "mouse-emulation",
+    "network"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 27270,
+    "forks": 4703,
+    "open_issues": 178,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

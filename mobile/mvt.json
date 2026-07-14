@@ -1,0 +1,44 @@
+{
+  "id": "mvt",
+  "name": "mvt",
+  "category": "mobile",
+  "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+  "official_website": "https://mvt.re",
+  "documentation": "https://github.com/mvt-project/mvt#readme",
+  "github_repository": "https://github.com/mvt-project/mvt",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "android",
+    "forensics",
+    "forensics-tools",
+    "ios",
+    "mobile",
+    "security"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 12692,
+    "forks": 1243,
+    "open_issues": 57,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 90
+}

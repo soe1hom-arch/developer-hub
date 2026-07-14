@@ -1,0 +1,42 @@
+{
+  "id": "framework",
+  "name": "framework",
+  "category": "frameworks",
+  "description": "Laravel is a web application framework with expressive, elegant syntax.",
+  "official_website": "https://laravel.com",
+  "documentation": "https://github.com/laravel/framework#readme",
+  "github_repository": "https://github.com/laravel/framework",
+  "license": "MIT",
+  "programming_languages": [
+    "PHP"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "framework",
+    "laravel",
+    "php"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 34796,
+    "forks": 11905,
+    "open_issues": 117,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 82
+}

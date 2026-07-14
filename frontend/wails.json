@@ -1,0 +1,45 @@
+{
+  "id": "wails",
+  "name": "wails",
+  "category": "frontend",
+  "description": "Create beautiful applications using Go",
+  "official_website": "https://wails.io",
+  "documentation": "https://github.com/wailsapp/wails#readme",
+  "github_repository": "https://github.com/wailsapp/wails",
+  "license": "MIT",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "angular",
+    "desktop-application",
+    "go",
+    "golang",
+    "javascript",
+    "linux",
+    "macos",
+    "react"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 35191,
+    "forks": 1755,
+    "open_issues": 256,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

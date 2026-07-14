@@ -1,0 +1,43 @@
+{
+  "id": "ironos",
+  "name": "IronOS",
+  "category": "firmware",
+  "description": "Open Source Soldering Iron firmware",
+  "official_website": "https://ralim.github.io/IronOS/",
+  "documentation": "https://github.com/Ralim/IronOS#readme",
+  "github_repository": "https://github.com/Ralim/IronOS",
+  "license": "GPL-3.0",
+  "programming_languages": [
+    "C"
+  ],
+  "platforms": [
+    "Linux",
+    "Embedded"
+  ],
+  "tags": [
+    "alternate",
+    "firmware",
+    "flash",
+    "hex",
+    "iron",
+    "miniware",
+    "pine64",
+    "pinecil"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 8281,
+    "forks": 824,
+    "open_issues": 145,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 75
+}

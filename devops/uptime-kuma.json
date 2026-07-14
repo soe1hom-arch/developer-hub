@@ -1,0 +1,47 @@
+{
+  "id": "uptime-kuma",
+  "name": "uptime-kuma",
+  "category": "devops",
+  "description": "A fancy self-hosted monitoring tool",
+  "official_website": "https://uptime.kuma.pet",
+  "documentation": "https://github.com/louislam/uptime-kuma#readme",
+  "github_repository": "https://github.com/louislam/uptime-kuma",
+  "license": "MIT",
+  "programming_languages": [
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "docker",
+    "monitor",
+    "monitoring",
+    "responsive",
+    "self-hosted",
+    "selfhosted",
+    "single-page-app",
+    "socket-io"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 89111,
+    "forks": 8117,
+    "open_issues": 756,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

@@ -1,0 +1,45 @@
+{
+  "id": "react-bits",
+  "name": "react-bits",
+  "category": "frontend",
+  "description": "An open source collection of animated, interactive & fully customizable React components for building memorable websites.",
+  "official_website": "https://reactbits.dev",
+  "documentation": "https://github.com/DavidHDev/react-bits#readme",
+  "github_repository": "https://github.com/DavidHDev/react-bits",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "3d",
+    "animations",
+    "component-library",
+    "components",
+    "components-library",
+    "components-react",
+    "css-animations",
+    "javascript"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 43376,
+    "forks": 2026,
+    "open_issues": 2,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 90
+}

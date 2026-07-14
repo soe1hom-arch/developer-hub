@@ -1,0 +1,43 @@
+{
+  "id": "retrobios",
+  "name": "retrobios",
+  "category": "firmware",
+  "description": "Complete BIOS and firmware packs for RetroArch, Batocera, Recalbox, Lakka, RetroPie, EmuDeck, RetroBat, RetroDECK, RomM. Verified checksums, 6700+ files, 300+ emulators profiled from source code.",
+  "official_website": "https://abdess.github.io/retrobios/",
+  "documentation": "https://github.com/Abdess/retrobios#readme",
+  "github_repository": "https://github.com/Abdess/retrobios",
+  "license": "MIT",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Linux",
+    "Embedded"
+  ],
+  "tags": [
+    "batocera",
+    "bios",
+    "emudeck",
+    "emulator",
+    "emulatorjs",
+    "firmware",
+    "lakka",
+    "libretro"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 6478,
+    "forks": 630,
+    "open_issues": 11,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

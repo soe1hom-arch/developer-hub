@@ -1,0 +1,46 @@
+{
+  "id": "realm-java",
+  "name": "realm-java",
+  "category": "database",
+  "description": "Realm is a mobile database: a replacement for SQLite & ORMs",
+  "official_website": "http://realm.io",
+  "documentation": "https://github.com/realm/realm-java#readme",
+  "github_repository": "https://github.com/realm/realm-java",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Java"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "android",
+    "database",
+    "java",
+    "mobile",
+    "mobile-database",
+    "nosql-database",
+    "realtime-database"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 11466,
+    "forks": 1746,
+    "open_issues": 395,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

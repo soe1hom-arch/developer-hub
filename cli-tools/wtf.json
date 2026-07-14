@@ -1,0 +1,45 @@
+{
+  "id": "wtf",
+  "name": "wtf",
+  "category": "cli-tools",
+  "description": "The personal information dashboard for your terminal",
+  "official_website": "http://wtfutil.com",
+  "documentation": "https://github.com/wtfutil/wtf#readme",
+  "github_repository": "https://github.com/wtfutil/wtf",
+  "license": "MPL-2.0",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "cui",
+    "dashboard",
+    "devops",
+    "go",
+    "golang",
+    "hacktoberfest",
+    "terminal",
+    "tui"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 17006,
+    "forks": 854,
+    "open_issues": 64,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

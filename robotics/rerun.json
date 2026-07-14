@@ -1,0 +1,42 @@
+{
+  "id": "rerun",
+  "name": "rerun",
+  "category": "robotics",
+  "description": "Visualize, query, and stream to train on multimodal robotics data.",
+  "official_website": "https://rerun.io/",
+  "documentation": "https://github.com/rerun-io/rerun#readme",
+  "github_repository": "https://github.com/rerun-io/rerun",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Linux",
+    "Embedded"
+  ],
+  "tags": [
+    "computer-vision",
+    "cpp",
+    "multimodal",
+    "python",
+    "robotics",
+    "rust",
+    "visualization"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 11126,
+    "forks": 793,
+    "open_issues": 1314,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

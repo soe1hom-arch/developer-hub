@@ -1,0 +1,46 @@
+{
+  "id": "omi",
+  "name": "omi",
+  "category": "mobile",
+  "description": "AI that sees your screen, listens to your conversations and tells you what to do",
+  "official_website": "https://omi.me",
+  "documentation": "https://github.com/BasedHardware/omi#readme",
+  "github_repository": "https://github.com/BasedHardware/omi",
+  "license": "MIT",
+  "programming_languages": [
+    "Dart"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "ai",
+    "app",
+    "bci",
+    "c",
+    "flutter",
+    "friend",
+    "mobile",
+    "necklace"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 12997,
+    "forks": 2117,
+    "open_issues": 692,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

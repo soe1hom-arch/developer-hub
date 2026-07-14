@@ -1,0 +1,43 @@
+{
+  "id": "marlin",
+  "name": "Marlin",
+  "category": "firmware",
+  "description": "Marlin is a firmware for RepRap 3D printers optimized for both 8 and 32 bit microcontrollers.  Marlin supports all common platforms.   Many commercial 3D printers come with Marlin installed.  Check wi",
+  "official_website": "https://marlinfw.org",
+  "documentation": "https://github.com/MarlinFirmware/Marlin#readme",
+  "github_repository": "https://github.com/MarlinFirmware/Marlin",
+  "license": "GPL-3.0",
+  "programming_languages": [
+    "C++"
+  ],
+  "platforms": [
+    "Linux",
+    "Embedded"
+  ],
+  "tags": [
+    "3d-printing",
+    "arduino",
+    "atmel",
+    "avr",
+    "esp32",
+    "firmware",
+    "hacktoberfest",
+    "reprap"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 17474,
+    "forks": 19725,
+    "open_issues": 792,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 90
+}

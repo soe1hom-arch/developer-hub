@@ -1,0 +1,45 @@
+{
+  "id": "app-ideas",
+  "name": "app-ideas",
+  "category": "frontend",
+  "description": "A Collection of application ideas which can be used to improve your coding skills.",
+  "official_website": "https://CodeRabbit.ai/?ref=app-ideas",
+  "documentation": "https://github.com/florinpop17/app-ideas#readme",
+  "github_repository": "https://github.com/florinpop17/app-ideas",
+  "license": "MIT",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "applications",
+    "coding",
+    "codingchallenges",
+    "css",
+    "hacktoberfest",
+    "html",
+    "ideas",
+    "javascript"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 95843,
+    "forks": 10518,
+    "open_issues": 606,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

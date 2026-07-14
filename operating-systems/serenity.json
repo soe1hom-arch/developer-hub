@@ -1,0 +1,46 @@
+{
+  "id": "serenity",
+  "name": "serenity",
+  "category": "operating-systems",
+  "description": "The Serenity Operating System \ud83d\udc1e",
+  "official_website": "https://serenityos.org",
+  "documentation": "https://github.com/SerenityOS/serenity#readme",
+  "github_repository": "https://github.com/SerenityOS/serenity",
+  "license": "BSD-2-Clause",
+  "programming_languages": [
+    "C++"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "browser",
+    "c-plus-plus",
+    "desktop-environment",
+    "kernel",
+    "operating-system",
+    "os",
+    "unix"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 33690,
+    "forks": 3505,
+    "open_issues": 730,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

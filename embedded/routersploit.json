@@ -1,0 +1,43 @@
+{
+  "id": "routersploit",
+  "name": "routersploit",
+  "category": "embedded",
+  "description": "Exploitation Framework for Embedded Devices",
+  "official_website": "https://github.com/threat9/routersploit",
+  "documentation": "https://github.com/threat9/routersploit#readme",
+  "github_repository": "https://github.com/threat9/routersploit",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Linux",
+    "Embedded"
+  ],
+  "tags": [
+    "bruteforce",
+    "creds",
+    "dictionary-attack",
+    "embedded",
+    "exploits",
+    "infosec",
+    "python",
+    "router"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 13181,
+    "forks": 2402,
+    "open_issues": 92,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 70
+}

@@ -1,0 +1,46 @@
+{
+  "id": "komi-store",
+  "name": "komi-store",
+  "category": "android",
+  "description": "\ud83e\ude75 A free, open-source app store for developers' releases on GitHub, Codeberg & Forgejo \u2014 browse, discover, and install apps with one click. Formerly GitHub Store.",
+  "official_website": "https://www.komistore.app",
+  "documentation": "https://github.com/kurikomi-labs/komi-store#readme",
+  "github_repository": "https://github.com/kurikomi-labs/komi-store",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Kotlin"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "android",
+    "desktop",
+    "github-app",
+    "github-store",
+    "kotlin",
+    "kotlin-android",
+    "kotlin-desktop",
+    "kotlin-multiplatform"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 16540,
+    "forks": 630,
+    "open_issues": 89,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 90
+}

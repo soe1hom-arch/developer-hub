@@ -1,0 +1,43 @@
+{
+  "id": "data-engineer-roadmap",
+  "name": "data-engineer-roadmap",
+  "category": "cloud",
+  "description": "Roadmap to becoming a data engineer in 2021",
+  "official_website": "https://datastack.tv",
+  "documentation": "https://github.com/datastacktv/data-engineer-roadmap#readme",
+  "github_repository": "https://github.com/datastacktv/data-engineer-roadmap",
+  "license": "MIT",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "cloud",
+    "data-engineer-roadmap",
+    "data-engineering",
+    "roadmap"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 12750,
+    "forks": 1338,
+    "open_issues": 30,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 72
+}

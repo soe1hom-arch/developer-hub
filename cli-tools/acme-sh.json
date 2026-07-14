@@ -1,0 +1,45 @@
+{
+  "id": "acme-sh",
+  "name": "acme.sh",
+  "category": "cli-tools",
+  "description": "A pure Unix shell script ACME client for SSL / TLS certificate automation",
+  "official_website": "https://acme.sh",
+  "documentation": "https://github.com/acmesh-official/acme.sh#readme",
+  "github_repository": "https://github.com/acmesh-official/acme.sh",
+  "license": "GPL-3.0",
+  "programming_languages": [
+    "Shell"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "acme",
+    "acme-challenge",
+    "acme-protocol",
+    "acme-v2",
+    "ash",
+    "bash",
+    "buypass",
+    "certbot"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 47170,
+    "forks": 5629,
+    "open_issues": 85,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

@@ -1,0 +1,47 @@
+{
+  "id": "unity-mcp",
+  "name": "unity-mcp",
+  "category": "ai",
+  "description": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.",
+  "official_website": "https://coplaydev.github.io/unity-mcp/",
+  "documentation": "https://github.com/CoplayDev/unity-mcp#readme",
+  "github_repository": "https://github.com/CoplayDev/unity-mcp",
+  "license": "MIT",
+  "programming_languages": [
+    "C#"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "ai",
+    "ai-integration",
+    "anthropic",
+    "claude",
+    "copilot",
+    "cursor",
+    "game-development",
+    "gamedev"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 12451,
+    "forks": 1323,
+    "open_issues": 73,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 90
+}

@@ -1,0 +1,45 @@
+{
+  "id": "ant-design-vue",
+  "name": "ant-design-vue",
+  "category": "frontend",
+  "description": "\ud83c\udf08  An enterprise-class UI components based on Ant Design and Vue. \ud83d\udc1c",
+  "official_website": "https://antdv.com/",
+  "documentation": "https://github.com/vueComponent/ant-design-vue#readme",
+  "github_repository": "https://github.com/vueComponent/ant-design-vue",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "Vue"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "ant",
+    "ant-design",
+    "antd",
+    "antd-vue",
+    "css",
+    "enterprise",
+    "frontend",
+    "react"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 21591,
+    "forks": 3907,
+    "open_issues": 132,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

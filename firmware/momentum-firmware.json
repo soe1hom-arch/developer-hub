@@ -1,0 +1,43 @@
+{
+  "id": "momentum-firmware",
+  "name": "Momentum-Firmware",
+  "category": "firmware",
+  "description": "\ud83d\udc2c Feature-rich, stable and customizable Flipper Firmware",
+  "official_website": "https://momentum-fw.dev",
+  "documentation": "https://github.com/Next-Flip/Momentum-Firmware#readme",
+  "github_repository": "https://github.com/Next-Flip/Momentum-Firmware",
+  "license": "GPL-3.0",
+  "programming_languages": [
+    "C"
+  ],
+  "platforms": [
+    "Linux",
+    "Embedded"
+  ],
+  "tags": [
+    "custom",
+    "custom-firmware",
+    "firmware",
+    "flipper",
+    "flipper-zero",
+    "flipper-zero-firmware",
+    "flipperzero",
+    "momentum"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 8776,
+    "forks": 551,
+    "open_issues": 91,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

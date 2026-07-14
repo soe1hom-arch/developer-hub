@@ -1,0 +1,47 @@
+{
+  "id": "windows",
+  "name": "windows",
+  "category": "containers",
+  "description": "Windows inside a Docker container.",
+  "official_website": "https://github.com/dockur/windows",
+  "documentation": "https://github.com/dockur/windows#readme",
+  "github_repository": "https://github.com/dockur/windows",
+  "license": "MIT",
+  "programming_languages": [
+    "Shell"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "docker",
+    "docker-container",
+    "virtualization",
+    "windows",
+    "windows-virtual-desktop",
+    "windows-virtual-machine",
+    "windows-virtual-machines",
+    "windows-vm"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 52425,
+    "forks": 4479,
+    "open_issues": 109,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 70
+}

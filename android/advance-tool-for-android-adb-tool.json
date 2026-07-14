@@ -1,0 +1,42 @@
+{
+  "id": "advance-tool-for-android-adb-tool",
+  "name": "Advance-Tool-for-Android-ADB-Tool",
+  "category": "android",
+  "description": "ATA is an Advance Tool for Android\u2122 powered by SDK Platform Tools",
+  "official_website": "https://github.com/msartore/Advance-Tool-for-Android-ADB-Tool",
+  "documentation": "https://github.com/msartore/Advance-Tool-for-Android-ADB-Tool#readme",
+  "github_repository": "https://github.com/msartore/Advance-Tool-for-Android-ADB-Tool",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Batchfile"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "android",
+    "android-sdk",
+    "android-tool",
+    "shell-scripts"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 64,
+    "forks": 24,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 47
+}

@@ -1,0 +1,47 @@
+{
+  "id": "starship",
+  "name": "starship",
+  "category": "linux",
+  "description": "\u2604\ud83c\udf0c\ufe0f  The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
+  "official_website": "https://starship.rs",
+  "documentation": "https://github.com/starship/starship#readme",
+  "github_repository": "https://github.com/starship/starship",
+  "license": "ISC",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "bash",
+    "fish",
+    "fish-prompt",
+    "fish-theme",
+    "oh-my-zsh",
+    "powershell",
+    "rust",
+    "shell-prompt"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 58849,
+    "forks": 2587,
+    "open_issues": 1008,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

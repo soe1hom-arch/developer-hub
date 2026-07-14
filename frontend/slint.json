@@ -1,0 +1,45 @@
+{
+  "id": "slint",
+  "name": "slint",
+  "category": "frontend",
+  "description": "Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.",
+  "official_website": "https://slint.dev",
+  "documentation": "https://github.com/slint-ui/slint#readme",
+  "github_repository": "https://github.com/slint-ui/slint",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "cpp",
+    "declarative-ui",
+    "desktop",
+    "embedded-devices",
+    "gui",
+    "javascript",
+    "language",
+    "lsp-server"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 23196,
+    "forks": 927,
+    "open_issues": 874,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 90
+}

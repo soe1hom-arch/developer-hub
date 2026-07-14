@@ -1,0 +1,47 @@
+{
+  "id": "system-prompts-leaks",
+  "name": "system_prompts_leaks",
+  "category": "ai",
+  "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI -",
+  "official_website": "https://github.com/asgeirtj/system_prompts_leaks",
+  "documentation": "https://github.com/asgeirtj/system_prompts_leaks#readme",
+  "github_repository": "https://github.com/asgeirtj/system_prompts_leaks",
+  "license": "CC0-1.0",
+  "programming_languages": [
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "ai",
+    "ai-agents",
+    "anthropic",
+    "awesome",
+    "chatbot",
+    "chatgpt",
+    "claude",
+    "claude-code"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 57496,
+    "forks": 9501,
+    "open_issues": 36,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

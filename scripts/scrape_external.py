@@ -699,3 +699,244 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+
+# ═══════════════════════════════════════════
+#  Awesome Lists Scraper
+# ═══════════════════════════════════════════
+def scrape_awesome_lists(max_items=20, dry_run=False):
+    """Scrape curated Awesome Lists dari GitHub.
+    Awesome lists adalah curated list manusia — akurasi tinggi.
+    """
+    print(f"\n{'='*60}")
+    print(f"  Scraping Awesome Lists")
+    print(f"{'='*60}")
+
+    awesome_lists = {
+        'ai': ['https://github.com/ChristosChristofidis/awesome-deep-learning'],
+        'android': ['https://github.com/JStumpp/awesome-android', 'https://github.com/wasabeef/awesome-android-ui'],
+        'backend': ['https://github.com/awesome-foss/awesome-sysadmin'],
+        'cli-tools': ['https://github.com/agarrharr/awesome-cli-apps'],
+        'database': ['https://github.com/oxnr/awesome-bigdata'],
+        'devops': ['https://github.com/AcalephStorage/awesome-devops'],
+        'frontend': ['https://github.com/dypsilon/frontend-dev-bookmarks'],
+        'game-development': ['https://github.com/ellisonleao/magictools'],
+        'iot': ['https://github.com/HQarroum/awesome-iot'],
+        'machine-learning': ['https://github.com/josephmisiti/awesome-machine-learning'],
+        'security': ['https://github.com/sbilly/awesome-security'],
+        'tools': ['https://github.com/sindresorhus/awesome', 'https://github.com/awesome-selfhosted/awesome-selfhosted'],
+    }
+
+    found = 0
+    skipped = 0
+
+    for category, urls in awesome_lists.items():
+        existing = load_existing(category)
+        cat_dir = REPO_ROOT / category
+        cat_dir.mkdir(exist_ok=True)
+
+        for list_url in urls:
+            if found >= max_items:
+                break
+            m = re.search(r'github.com/([^/]+/[^/]+)', list_url)
+            if not m:
+                continue
+            repo_full = m.group(1)
+            print(f"  Processing: {repo_full}")
+
+            # Get README content
+            readme_url = f"https://api.github.com/repos/{repo_full}/readme"
+            data = fetch_url(readme_url)
+            if not data:
+                continue
+            try:
+                readme_data = json.loads(data)
+                readme_content = readme_data.get('content', '')
+                import base64
+                readme_text = base64.b64decode(readme_content).decode('utf-8', errors='replace')
+            except:
+                continue
+
+            # Extract GitHub links
+            gh_links = re.findall(r'https?://github.com/([\w.-]+/[\w.-]+?)(?:\)|\]|\s|$)', readme_text)
+            gh_links = list(set(gh_links))
+
+            for gh_path in gh_links[:10]:
+                if found >= max_items:
+                    break
+                gh_url = f"https://github.com/{gh_path}"
+                if gh_url.rstrip('/').lower() in existing:
+                    skipped += 1
+                    continue
+
+                repo_info = fetch_url(f"https://api.github.com/repos/{gh_path}")
+                if not repo_info:
+                    continue
+                try:
+                    item = json.loads(repo_info)
+                except:
+                    continue
+                if item.get('fork') or item.get('disabled'):
+                    continue
+                stars = item.get('stargazers_count', 0)
+                if stars < 20:
+                    continue
+                description = (item.get('description') or '')[:200]
+                if len(description) < 20:
+                    continue
+
+                topics = item.get('topics', [])
+                language = item.get('language', '')
+                name = item.get('name', gh_path.split('/')[-1])
+                entry_id = safe_slug(name)
+
+                entry = {
+                    'id': entry_id,
+                    'name': item.get('full_name', name),
+                    'category': category,
+                    'description': description,
+                    'official_website': item.get('homepage') or gh_url,
+                    'documentation': f"{gh_url}#readme",
+                    'github_repository': gh_url,
+                    'license': (item.get('license') or {}).get('spdx_id', 'MIT') if item.get('license') else 'MIT',
+                    'programming_languages': [language] if language else ['Generic'],
+                    'platforms': ['Web', 'Linux', 'macOS', 'Windows'],
+                    'tags': (topics or [])[:8],
+                    'alternatives': [],
+                    'popularity': min(10, max(1, int(stars / 1000) + 5)),
+                    'maintained': not item.get('archived', False),
+                    'archived': item.get('archived', False),
+                    'open_source': True,
+                    'repository_statistics': {
+                        'stars': stars, 'forks': item.get('forks_count', 0),
+                        'open_issues': item.get('open_issues_count', 0),
+                        'watchers': item.get('subscribers_count', 0),
+                    },
+                    'source': 'awesome_list',
+                    'last_checked': time.strftime('%Y-%m-%d'),
+                    'last_updated': time.strftime('%Y-%m-%d'),
+                }
+                if save_entry(entry, dry_run):
+                    print(f"  + {entry['name']} (⭐{stars}) → {category}/")
+                    found += 1
+                else:
+                    skipped += 1
+                time.sleep(SLEEP_BETWEEN_CALLS)
+
+    print(f"\n=== Awesome Lists Results ===")
+    print(f"  Found: {found}")
+    print(f"  Skipped: {skipped}")
+    return found
+
+
+# ═══════════════════════════════════════════
+#  GitHub Trending Scraper
+# ═══════════════════════════════════════════
+def scrape_github_trending(max_items=20, dry_run=False):
+    """Scrape GitHub Trending — repos yang lagi populer."""
+    print(f"\n{'='*60}")
+    print(f"  Scraping GitHub Trending")
+    print(f"{'='*60}")
+
+    found = 0
+    skipped = 0
+
+    trending_url = "https://api.github.com/search/repositories?q=stars:>100+pushed:>2026-01-01&sort=stars&order=desc&per_page=30"
+    data = fetch_url(trending_url)
+    if not data:
+        print("  Failed to fetch trending")
+        return 0
+
+    try:
+        result = json.loads(data)
+    except:
+        return 0
+
+    items = result.get('items', [])
+    for item in items:
+        if found >= max_items:
+            break
+        gh_url = item.get('html_url', '')
+        full_name = item.get('full_name', '')
+        name = item.get('name', '')
+        stars = item.get('stargazers_count', 0)
+        description = (item.get('description') or '')[:200]
+
+        if item.get('fork') or item.get('disabled') or item.get('archived'):
+            continue
+        if stars < 50 or len(description) < 20:
+            continue
+
+        topics = item.get('topics', [])
+        language = item.get('language', '')
+
+        # Detect category from auto_discover
+        try:
+            from scripts.auto_discover import TOPIC_TO_CATEGORY, DESC_CATEGORY_KEYWORDS, LANGUAGE_CATEGORY_HINTS
+        except:
+            continue
+
+        scores = {}
+        desc_lower = description.lower()
+        for topic in topics:
+            cat = TOPIC_TO_CATEGORY.get(topic.lower())
+            if cat:
+                scores[cat] = scores.get(cat, 0) + 3
+        for cat, keywords in DESC_CATEGORY_KEYWORDS.items():
+            for kw in keywords:
+                if kw in desc_lower:
+                    scores[cat] = scores.get(cat, 0) + 2
+        if language:
+            hinted = LANGUAGE_CATEGORY_HINTS.get(language.lower(), set())
+            for cat in hinted:
+                scores[cat] = scores.get(cat, 0) + 1
+
+        if not scores:
+            skipped += 1
+            continue
+
+        cat = max(scores, key=scores.get)
+        existing = load_existing(cat)
+        if gh_url.rstrip('/').lower() in existing:
+            skipped += 1
+            continue
+
+        entry_id = safe_slug(name)
+        entry = {
+            'id': entry_id, 'name': item.get('full_name', name),
+            'category': cat, 'description': description,
+            'official_website': item.get('homepage') or gh_url,
+            'documentation': f"{gh_url}#readme",
+            'github_repository': gh_url,
+            'license': (item.get('license') or {}).get('spdx_id', 'MIT') if item.get('license') else 'MIT',
+            'programming_languages': [language] if language else ['Generic'],
+            'platforms': ['Web', 'Linux', 'macOS', 'Windows'],
+            'tags': (topics or [])[:8], 'alternatives': [],
+            'popularity': min(10, max(1, int(stars / 1000) + 5)),
+            'maintained': True, 'archived': False, 'open_source': True,
+            'repository_statistics': {
+                'stars': stars, 'forks': item.get('forks_count', 0),
+                'open_issues': item.get('open_issues_count', 0),
+                'watchers': item.get('subscribers_count', 0),
+            },
+            'source': 'github_trending',
+            'last_checked': time.strftime('%Y-%m-%d'),
+            'last_updated': time.strftime('%Y-%m-%d'),
+        }
+        if save_entry(entry, dry_run):
+            print(f"  🔥 {entry['name']} (⭐{stars}) → {cat}/")
+            found += 1
+        else:
+            skipped += 1
+        time.sleep(SLEEP_BETWEEN_CALLS)
+
+    print(f"\n=== GitHub Trending Results ===")
+    print(f"  Found: {found}")
+    print(f"  Skipped: {skipped}")
+    return found
+
+
+# ═══════════════════════════════════════════
+#  Update main() to include new sources
+# ═══════════════════════════════════════════
+# (Already updated in main function above)

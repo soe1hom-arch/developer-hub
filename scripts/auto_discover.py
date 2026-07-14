@@ -751,7 +751,7 @@ def discover_new_entries(max_per_category=10, dry_run=False):
                 )
                 
                 if not dry_run:
-                    if quality >= 70 and confidence >= 0.7:
+                    if quality >= 50 and confidence >= 0.6:
                         # Auto-commit langsung — high quality & high confidence
                         try:
                             with open(prop_path) as f:

@@ -1,11 +1,9 @@
 #!/usr/bin/env python3
 """
 Auto-Fix Master — menjalankan auto-fix secara berurutan.
-Hanya menjalankan fix yang aman (health check, index, report).
 
 Usage:
-    python scripts/auto_fix.py              # Fix semua
-    python scripts/auto_fix.py --dry-run    # Preview aja
+    python scripts/auto_fix.py
 """
 
 import sys, subprocess
@@ -15,7 +13,7 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 
 def run_script(name, *args):
     print(f"\n{'='*60}")
-    print(f"  \U0001f527 {name}")
+    print(f"  Running: {name}")
     print(f"{'='*60}")
     result = subprocess.run(
         [sys.executable, str(REPO_ROOT / 'scripts' / name)] + list(args),
@@ -25,7 +23,7 @@ def run_script(name, *args):
 
 def main():
     dry_run = '--dry-run' in sys.argv
-    print("\U0001f527 DEVELOPER HUB - AUTO FIX MASTER")
+    print("AUTO FIX MASTER")
     print(f"   Mode: {'dry-run' if dry_run else 'live'}")
     print()
 
@@ -40,14 +38,15 @@ def main():
     success = True
     for name, script, args in steps:
         if not run_script(script, *args):
-            print(f"  \u26a0\ufe0f  {name} had issues")
+            print(f"  Warning: {name} had issues")
             success = False
 
     print(f"\n{'='*60}")
     if dry_run:
-        print("  \u2705 Dry-run selesai.")
+        print("  Dry-run selesai.")
     else:
-        print(f"  {'\u2705 Semua fix selesai!' if success else '\u26a0\ufe0f  Ada beberapa issue'}")
+        msg = "Semua fix selesai!" if success else "Ada beberapa issue"
+        print(f"  {msg}")
     print(f"{'='*60}")
 
 if __name__ == '__main__':

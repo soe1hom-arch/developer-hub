@@ -16,4 +16,4 @@ EXPOSE 8000
 
 # Use uvicorn directly for reliability
 CMD uvicorn api_server.main:app --host 0.0.0.0 --port ${PORT:-8000} --workers 2
-# Build 1783839577
+# Build 20260714-v2

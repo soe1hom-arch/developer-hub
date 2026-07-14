@@ -413,12 +413,48 @@ if __name__ == "__main__":
     parser.add_argument("--threshold", type=float, default=0.15, help="Sensitivity threshold (default: 0.15)")
     parser.add_argument("--report", action="store_true", help="Save report to file")
     parser.add_argument("--json", action="store_true", help="Output as JSON")
+    parser.add_argument("--fix", action="store_true", help="Auto-fix: pindahkan file ke kategori yang benar (CATEGORY_FIELD_MISMATCH only)")
     args = parser.parse_args()
     
     mismatches = detect_mismatches(
         threshold=args.threshold,
         target_category=args.category,
     )
+    # Auto-fix: hanya untuk CATEGORY_FIELD_MISMATCH (field category != folder)
+    if args.fix and mismatches:
+        import shutil
+        fixed = 0
+        for m in mismatches:
+            if m['issue'] != 'CATEGORY_FIELD_MISMATCH':
+                continue
+            src = REPO_ROOT / m['file']
+            if not src.exists():
+                continue
+            target_cat = m.get('field_cat', '')
+            if not target_cat or target_cat not in CATEGORIES:
+                continue
+            if target_cat == m['current_cat']:
+                continue
+            target_dir = REPO_ROOT / target_cat
+            target_dir.mkdir(exist_ok=True)
+            dst = target_dir / src.name
+            if dst.exists():
+                print(f"  \u26a0\ufe0f  Skip {m['name']}: {dst} already exists")
+                continue
+            try:
+                shutil.move(str(src), str(dst))
+                with open(dst) as f:
+                    entry = json.load(f)
+                entry['category'] = target_cat
+                with open(dst, 'w') as f:
+                    json.dump(entry, f, indent=2)
+                print(f"  \u2705 Moved {m['name']} from '{m['current_cat']}/' to '{target_cat}/'")
+                fixed += 1
+            except Exception as e:
+                print(f"  \u274c Failed to fix {m['name']}: {e}")
+        if fixed:
+            print(f"\nFixed {fixed} category field mismatches\n")
+
     
     if args.json:
         print(json.dumps(mismatches, indent=2))

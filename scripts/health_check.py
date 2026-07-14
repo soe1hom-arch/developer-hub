@@ -159,6 +159,7 @@ def main():
     parser = argparse.ArgumentParser(description="Comprehensive health check")
     parser.add_argument("--quick", action="store_true", help="Skip network checks")
     parser.add_argument("--report", action="store_true", help="Generate report file")
+    parser.add_argument("--fix", action="store_true", help="Auto-fix: update archived/maintained status")
     args = parser.parse_args()
 
     all_results = []
@@ -190,6 +191,38 @@ def main():
 
     print(f"\n{'='*40}")
     print(f"Results: {passed} passed, {warned} warnings, {failed} failed of {total} total")
+
+
+    # Auto-fix: update archived/maintained berdasarkan hasil health check
+    if args.fix:
+        fixed = 0
+        for result in all_results:
+            if result["status"] == "fail":
+                continue
+            filepath = REPO_ROOT / result["file"]
+            if not filepath.exists():
+                continue
+            try:
+                with open(filepath) as f:
+                    entry = json.load(f)
+                changed = False
+                for warn in result["warnings"]:
+                    if warn == "Project is archived":
+                        entry["archived"] = True
+                        entry["maintained"] = False
+                        changed = True
+                    elif warn == "Project is not actively maintained":
+                        entry["maintained"] = False
+                        changed = True
+                if changed:
+                    with open(filepath, "w") as f:
+                        json.dump(entry, f, indent=2)
+                    print(f"  \u2705 Fixed: {result['name']} (archived/maintained updated)")
+                    fixed += 1
+            except Exception as e:
+                print(f"  \u274c Error fixing {result['name']}: {e}")
+        if fixed:
+            print(f"\nFixed {fixed} entries\n")
 
     if args.report:
         report_path = REPO_ROOT / "reports"

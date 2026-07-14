@@ -33,6 +33,10 @@ jobs:
           python scripts/auto_discover.py --max-per-category 5
           python scripts/auto_discover.py --commit
 
+      - name: Auto-fix & validate all entries
+        run: python scripts/auto_fix.py
+
+
       - name: Validate all entries
         run: python scripts/validate.py
 

@@ -31,7 +31,7 @@ jobs:
       - name: Scan for new releases
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python scripts/scrape_external.py --sources fdroid,termux,releases,cli-tools,awesome-lists,github-trending --max-items 15
+        run: python scripts/scrape_external.py --sources termux,releases,cli-tools,awesome-lists,github-trending --max-items 15
 
       - name: Refresh discover proposals
         env:

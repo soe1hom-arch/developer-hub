@@ -48,7 +48,7 @@ jobs:
             exit 0
           fi
           git pull --rebase origin main 2>/dev/null || true
-git commit -m "chore: daily auto-update $(date +'%Y-%m-%d')"
+          git commit -m "chore: daily auto-update $(date +'%Y-%m-%d')"
           git push origin main
 
       - name: Cek proposals pending

@@ -30,7 +30,7 @@ if GITHUB_TOKEN:
 
 # === Utility ===
 
-def fetch_url(url, headers=None):
+def fetch_url(url, headers=None, follow_redirect=True):
     """Fetch a URL and return text content."""
     h = HEADERS.copy()
     if headers:
@@ -38,6 +38,14 @@ def fetch_url(url, headers=None):
     try:
         req = Request(url, headers=h)
         with urlopen(req, timeout=30) as resp:
+            # Follow redirect for F-Droid (301)
+            if follow_redirect and resp.status in (301, 302, 303, 307, 308):
+                redirect_url = resp.headers.get('Location', '')
+                if redirect_url:
+                    if not redirect_url.startswith('http'):
+                        from urllib.parse import urljoin
+                        redirect_url = urljoin(url, redirect_url)
+                    return fetch_url(redirect_url, h, follow_redirect=False)
             return resp.read().decode('utf-8', errors='replace')
     except Exception as e:
         print(f"  ⚠️  Error fetching {url}: {e}")
@@ -671,7 +679,7 @@ def scrape_cli_tools(max_items=30, dry_run=False):
 
 def main():
     dry_run = '--dry-run' in sys.argv
-    sources = ['fdroid', 'termux', 'binary', 'cli']
+    sources = ['termux', 'binary', 'cli', 'awesome-lists', 'github-trending']
     
     for a in sys.argv:
         if a.startswith('--sources='):

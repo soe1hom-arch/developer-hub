@@ -868,6 +868,18 @@ async function init() {
     document.getElementById('navCats').textContent = formatNum(o.total_categories);
     document.getElementById('navOpenSrc').textContent = formatNum(o.open_source);
     
+    // Update meta tags dynamically from API
+    document.title = `Developer Hub — Discover ${formatNum(o.total_projects)} Developer Tools & Resources`;
+    document.querySelector('meta[name="description"]').content = 
+      `Discover ${formatNum(o.total_projects)}+ curated developer resources across ${o.total_categories} categories. Auto-updated daily.`;
+    document.querySelector('meta[property="og:description"]').content = 
+      `${formatNum(o.total_projects)}+ curated developer tools across ${o.total_categories} categories. Auto-updated daily.`;
+    document.querySelector('meta[name="twitter:description"]').content = 
+      `${formatNum(o.total_projects)}+ curated developer tools across ${o.total_categories} categories. Auto-updated daily.`;
+    // Update hero text
+    const heroP = document.querySelector('.hero p');
+    if (heroP) heroP.textContent = `${formatNum(o.total_projects)}+ APIs, SDKs, libraries, frameworks, tools, and languages — all in one place. Auto-updated daily.`;
+    
     // Animated hero stats
     animateCounter(document.getElementById('qsEntries'), o.total_projects);
     animateCounter(document.getElementById('qsCats'), o.total_categories);

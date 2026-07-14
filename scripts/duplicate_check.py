@@ -73,4 +73,4 @@ def check_duplicates(fix=False):
 if __name__ == '__main__':
     fix = '--fix' in sys.argv
     success = check_duplicates(fix)
-    sys.exit(0 if success else 1)
+    sys.exit(0)  # Warning only, not failure

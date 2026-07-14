@@ -10,7 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-      pull-requests: write
 
     steps:
       - uses: actions/checkout@v4
@@ -19,7 +18,7 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install -r scripts/requirements.txt
+        run: pip install -r scripts/requirements.txt -q
 
       - name: Full validation
         run: python scripts/auto_fix.py
@@ -32,13 +31,13 @@ jobs:
       - name: Scan for new releases
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python scripts/scrape_external.py --sources fdroid,termux,releases,cli-tools,awesome-lists,github-trending --max-items 15
+        run: python scripts/scrape_external.py --sources fdroid,termux,releases,cli-tools,awesome-lists,github-trending --max-items 15 --dry-run
 
       - name: Refresh discover proposals
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          python scripts/auto_discover.py --max-per-category 10 --auto-commit
+          python scripts/auto_discover.py --max-per-category 10
           python scripts/auto_discover.py --commit
 
       - name: Rebuild search index
@@ -47,43 +46,14 @@ jobs:
       - name: Generate quality report
         run: python scripts/generate_report.py --summary
 
-      - name: Category mismatch scan
-        run: python scripts/detect_mismatch.py --report
-
-      - name: Create Pull Request
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit & push ke main
         run: |
-          BRANCH="weekly-maintenance-$(date +'%Y%m%d-%H%M%S')"
           git config user.name "Wandi"
           git config user.email "soe1hom-arch@users.noreply.github.com"
-          git checkout -b "$BRANCH"
           git add -A
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
           fi
           git commit -m "chore: weekly maintenance $(date +'%Y-%m-%d')"
-
-          # Remove old branch if exists
-          git push origin --delete "$BRANCH" 2>/dev/null || true
-          git push origin "$BRANCH"
-
-          gh pr close "weekly-maintenance" 2>/dev/null || true
-          gh pr create \
-            --title "Weekly Maintenance $(date +'%Y-%m-%d')" \
-            --body "Automated weekly maintenance from GitHub Actions.
-
-            - Full validation of all entries
-            - Health check with report
-            - Scanned external sources (F-Droid, Termux, Releases)
-            - Discovered new entries from GitHub
-            - Rebuilt search index
-            - Quality report generated
-            - Category mismatch scan completed
-
-            Review and merge if everything looks good." \
-            --label "automated" \
-            --base main \
-            --head "$BRANCH" \
-            
+          git push origin main

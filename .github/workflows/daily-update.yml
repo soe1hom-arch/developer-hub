@@ -10,7 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-      pull-requests: write
 
     steps:
       - uses: actions/checkout@v4
@@ -19,67 +18,39 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install -r scripts/requirements.txt
+        run: pip install -r scripts/requirements.txt -q
 
       - name: Update GitHub stats
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python scripts/auto_update.py
 
-      - name: Auto-discover & auto-commit (quality gate)
+      - name: Auto-discover (auto-commit jika lolos quality gate)
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           python scripts/auto_discover.py --max-per-category 5
           python scripts/auto_discover.py --commit
 
-      - name: Auto-fix & validate all entries
+      - name: Auto-fix & validate
         run: python scripts/auto_fix.py
-
-      - name: Validate all entries
-        run: python scripts/validate.py
-
-      - name: Validate pending proposals
-        run: python scripts/validate.py --proposals
 
       - name: Rebuild search index
         run: python scripts/build_index.py
 
-      - name: Create Pull Request
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit & push ke main
         run: |
-          BRANCH="daily-update-$(date +'%Y%m%d-%H%M%S')"
           git config user.name "Wandi"
           git config user.email "soe1hom-arch@users.noreply.github.com"
-          git checkout -b "$BRANCH"
           git add -A
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
           fi
           git commit -m "chore: daily auto-update $(date +'%Y-%m-%d')"
+          git push origin main
 
-          # Push branch
-          # Remove old branch if exists
-          git push origin --delete "$BRANCH" 2>/dev/null || true
-          git push origin "$BRANCH"
-
-          # Create PR (close old daily PRs first)
-          gh pr close "daily-update" 2>/dev/null || true
-          gh pr create \
-            --title "Daily Auto-Update $(date +'%Y-%m-%d')" \
-            --body "Automated daily update from GitHub Actions.
-
-            - Updated GitHub stats (stars, last checked)
-            - Discovered new entries from GitHub
-            - Validated all entries and proposals
-            - Rebuilt search index
-
-            Review and merge to trigger Railway deploy.
-
-            After merge, Railway akan auto-deploy dengan data terbaru." \
-            --label "automated" \
-            --base main \
-            --head "$BRANCH" \
-            
+      - name: Cek proposals pending
+        run: |
+          COUNT=$(ls .proposals/*.json 2>/dev/null | wc -l)
+          echo "📋 $COUNT proposal(s) di .proposals/ menunggu review manual"

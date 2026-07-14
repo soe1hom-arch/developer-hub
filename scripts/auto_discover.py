@@ -291,6 +291,59 @@ def detect_category(name, description, topics, language, search_category):
     return best_cat
 
 
+
+def get_category_confidence(name, description, topics, language, search_category):
+    """Hitung confidence level kategori (0.0 - 1.0).
+    >= 0.7: High confidence — aman auto-commit
+    0.4-0.7: Medium — perlu review
+    < 0.4: Low — tolak
+    """
+    from scripts.categories import CATEGORIES
+    desc_lower = (description or '').lower()
+    scores = {}
+    
+    # Topics (bobot 3 per topic)
+    for topic in topics:
+        cat = TOPIC_TO_CATEGORY.get(topic)
+        if cat:
+            scores[cat] = scores.get(cat, 0) + 3
+    
+    # Description keywords (bobot 2)
+    for cat, keywords in DESC_CATEGORY_KEYWORDS.items():
+        for kw in keywords:
+            if kw in desc_lower:
+                scores[cat] = scores.get(cat, 0) + 2
+    
+    # Language hints (bobot 1)
+    if language:
+        lang_key = language.lower()
+        hinted = LANGUAGE_CATEGORY_HINTS.get(lang_key, set())
+        for cat in hinted:
+            scores[cat] = scores.get(cat, 0) + 1
+    
+    if not scores:
+        return 0.3  # Low confidence, fallback ke search_category
+    
+    best_cat = max(scores, key=scores.get)
+    best_score = scores[best_cat]
+    total = sum(scores.values())
+    
+    # Category field matches detected category
+    cat_match = 1.0 if best_cat == search_category else 0.5
+    
+    # Confidence = best/total * cat_match, normalized
+    confidence = (best_score / total if total > 0 else 0) * cat_match
+    
+    # Boost jika multiple signals setuju
+    signals = 0
+    if any(t in TOPIC_TO_CATEGORY for t in topics): signals += 1
+    if language: signals += 1
+    if any(kw in desc_lower for kws in DESC_CATEGORY_KEYWORDS.values() for kw in kws): signals += 1
+    confidence *= min(1.0, 0.5 + signals * 0.2)
+    
+    return min(confidence, 1.0)
+
+
 def is_quality_entry(item, repo_data, description):
     """Check if repo is a quality developer resource."""
     stars = item.get('stargazers_count', 0)
@@ -686,6 +739,41 @@ def discover_new_entries(max_per_category=10, dry_run=False):
                 else:
                     print(f"  📄 [DRY RUN] Would propose: +{entry['name']} ({detected_cat}) ⭐{item.get('stargazers_count', 0)}")
 
+                # ── Quality + Confidence Gate ──
+                quality = calculate_quality_score(entry)
+                entry['quality_score'] = quality
+                confidence = get_category_confidence(
+                    entry.get('name', ''),
+                    entry.get('description', ''),
+                    entry.get('tags', []),
+                    (entry.get('programming_languages') or ['Generic'])[0],
+                    detected_cat
+                )
+                
+                if not dry_run:
+                    if quality >= 70 and confidence >= 0.7:
+                        # Auto-commit langsung — high quality & high confidence
+                        try:
+                            with open(prop_path) as f:
+                                prop_data = json.load(f)
+                            success, msg = commit_proposal(prop_path, prop_data)
+                            if success:
+                                print(f"  \u2705 Auto-committed: {entry['name']} (q:{quality}/100, c:{confidence:.1%})")
+                                proposal_count -= 1
+                                prop_path = None
+                            else:
+                                print(f"  \u26a0\ufe0f  Auto-commit failed: {entry['name']} — {msg}")
+                        except Exception as e:
+                            print(f"  \u274c Error: {entry['name']}: {e}")
+                    elif quality < 40 or confidence < 0.3:
+                        # Reject — low quality or very uncertain
+                        if prop_path and prop_path.exists():
+                            prop_path.unlink()
+                        print(f"  \u274c Rejected: {entry['name']} (q:{quality}/100, c:{confidence:.1%})")
+                    else:
+                        # Simpan sebagai proposal untuk review manual
+                        print(f"  \u26a0\ufe0f  Proposal: {entry['name']} (q:{quality}/100, c:{confidence:.1%})")
+                
                 discovered.append(entry)
                 existing_ids.add(entry_id)
                 existing_gh.add(gh_url)
@@ -734,6 +822,7 @@ def commit_all_proposals():
 if __name__ == '__main__':
     dry_run = '--dry-run' in sys.argv
     do_commit = '--commit' in sys.argv
+    auto_commit = '--auto-commit' in sys.argv  # Auto-commit semua (force, skip quality gate)
 
     max_per_cat = 10
     for a in sys.argv:
@@ -745,7 +834,7 @@ if __name__ == '__main__':
     if do_commit:
         commit_all_proposals()
     else:
-        discover_new_entries(max_per_cat, dry_run)
+        discovered = discover_new_entries(max_per_cat, dry_run)
         if not dry_run:
-            print(f"\n💡 Run with --commit to validate and move proposals to categories")
-            print(f"   Or review proposals in .proposals/ directory")
+            print(f"\n💡 Gunakan --commit untuk finalisasi proposal yang butuh review")
+            print(f"   Atau review manual di .proposals/ directory")

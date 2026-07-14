@@ -838,14 +838,20 @@ function showToast(msg) {
   clearTimeout(t._hide); t._hide = setTimeout(() => t.classList.remove('show'), 2500);
 }
 
+// Format angka biar gak kelihatan kayak tahun (1066 -> 1.066)
+function formatNum(n) {
+  return n.toLocaleString('id-ID');
+}
+
 // Animate counters
 function animateCounter(el, target, duration=1500) {
-  const start = parseInt(el.textContent) || 0;
+  const start = parseInt(el.textContent.replace(/\./g,'')) || 0;
   const startTime = performance.now();
   function step(now) {
     const p = Math.min((now - startTime) / duration, 1);
     const ease = 1 - Math.pow(1 - p, 3);
-    el.textContent = Math.floor(start + (target - start) * ease);
+    const current = Math.floor(start + (target - start) * ease);
+    el.textContent = formatNum(current);
     if (p < 1) requestAnimationFrame(step);
   }
   requestAnimationFrame(step);
@@ -858,9 +864,9 @@ async function init() {
     const o = stats.overview;
     
     // Nav stats
-    document.getElementById('navEntries').textContent = o.total_projects;
-    document.getElementById('navCats').textContent = o.total_categories;
-    document.getElementById('navOpenSrc').textContent = o.open_source;
+    document.getElementById('navEntries').textContent = formatNum(o.total_projects);
+    document.getElementById('navCats').textContent = formatNum(o.total_categories);
+    document.getElementById('navOpenSrc').textContent = formatNum(o.open_source);
     
     // Animated hero stats
     animateCounter(document.getElementById('qsEntries'), o.total_projects);
@@ -1269,7 +1275,7 @@ function populateSidebarCategories(cats) {
       const icon = icons[cat] || '📁';
       const lbl = cat.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
       return `<button class="sidebar-link" onclick="filterByCategory('${cat}');toggleSidebar()">
-        ${icon} ${lbl} <span class="count">${count}</span>
+        ${icon} ${lbl} <span class="count">${formatNum(count)}</span>
       </button>`;
     }).join('');
 }

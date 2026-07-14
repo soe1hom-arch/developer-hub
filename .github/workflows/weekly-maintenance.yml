@@ -54,7 +54,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          BRANCH="weekly-maintenance-$(date +'%Y%m%d')"
+          BRANCH="weekly-maintenance-$(date +'%Y%m%d-%H%M%S')"
           git config user.name "Wandi"
           git config user.email "soe1hom-arch@users.noreply.github.com"
           git checkout -b "$BRANCH"
@@ -65,6 +65,8 @@ jobs:
           fi
           git commit -m "chore: weekly maintenance $(date +'%Y-%m-%d')"
 
+          # Remove old branch if exists
+          git push origin --delete "$BRANCH" 2>/dev/null || true
           git push origin "$BRANCH"
 
           gh pr close "weekly-maintenance" 2>/dev/null || true

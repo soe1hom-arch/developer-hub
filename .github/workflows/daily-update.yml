@@ -49,7 +49,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          BRANCH="daily-update-$(date +'%Y%m%d')"
+          BRANCH="daily-update-$(date +'%Y%m%d-%H%M%S')"
           git config user.name "Wandi"
           git config user.email "soe1hom-arch@users.noreply.github.com"
           git checkout -b "$BRANCH"
@@ -61,6 +61,8 @@ jobs:
           git commit -m "chore: daily auto-update $(date +'%Y-%m-%d')"
 
           # Push branch
+          # Remove old branch if exists
+          git push origin --delete "$BRANCH" 2>/dev/null || true
           git push origin "$BRANCH"
 
           # Create PR (close old daily PRs first)

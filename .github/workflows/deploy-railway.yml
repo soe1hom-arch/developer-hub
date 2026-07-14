@@ -1,0 +1,40 @@
+name: Deploy to Railway
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install Railway CLI
+        run: curl -fsSL https://railway.app/install.sh | sh
+
+      - name: Deploy to Railway
+        env:
+          RAILWAY_TOKEN: ${{ secrets.RAILWAY_TOKEN }}
+        run: |
+          if [ -n "$RAILWAY_TOKEN" ]; then
+            railway login --token "$RAILWAY_TOKEN"
+            railway up --service 0cb638c8-33bd-4244-8fa2-4d783179181a
+          elif [ -n "${{ secrets.RAILWAY_WEBHOOK }}" ]; then
+            curl -X POST "${{ secrets.RAILWAY_WEBHOOK }}"
+          else
+            echo "⚠️  No Railway credentials found."
+            echo "   Set RAILWAY_TOKEN or RAILWAY_WEBHOOK in GitHub secrets."
+            echo ""
+            echo "📖 Cara setup:"
+            echo "   1. Buka https://railway.app/dashboard"
+            echo "   2. Pilih project developer-hub"
+            echo "   3. Settings → Tokens → Generate New Token"
+            echo "   4. Tambah ke GitHub Secrets → RAILWAY_TOKEN"
+            echo ""
+            echo "   Atau pake Deploy Webhook:"
+            echo "   1. Railway dashboard → project → Settings"
+            echo "   2. Copy Deploy Webhook URL"
+            echo "   3. Tambah ke GitHub Secrets → RAILWAY_WEBHOOK"
+          fi

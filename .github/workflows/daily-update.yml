@@ -74,7 +74,9 @@ jobs:
             - Validated all entries and proposals
             - Rebuilt search index
 
-            Review and merge if everything looks good." \
+            Review and merge to trigger Railway deploy.
+
+            After merge, Railway akan auto-deploy dengan data terbaru." \
             --base main \
             --head "$BRANCH" \
             --label "automated"

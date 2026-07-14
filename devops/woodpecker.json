@@ -1,0 +1,46 @@
+{
+  "id": "woodpecker",
+  "name": "woodpecker",
+  "category": "devops",
+  "description": "Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.",
+  "official_website": "https://woodpecker-ci.org",
+  "documentation": "https://github.com/woodpecker-ci/woodpecker#readme",
+  "github_repository": "https://github.com/woodpecker-ci/woodpecker",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "automation",
+    "ci",
+    "cicd",
+    "devops",
+    "docker",
+    "kubernetes",
+    "woodpeckerci"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 7439,
+    "forks": 617,
+    "open_issues": 354,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

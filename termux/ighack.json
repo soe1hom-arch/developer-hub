@@ -1,0 +1,44 @@
+{
+  "id": "ighack",
+  "name": "ighack",
+  "category": "termux",
+  "description": "Hack Instagram From Termux With Help of Tor",
+  "official_website": "https://www.noob-hackers.com",
+  "documentation": "https://github.com/noob-hackers/ighack#readme",
+  "github_repository": "https://github.com/noob-hackers/ighack",
+  "license": "MIT",
+  "programming_languages": [
+    "Shell"
+  ],
+  "platforms": [
+    "Termux",
+    "Android",
+    "Linux"
+  ],
+  "tags": [
+    "bruteforce-password-cracker",
+    "hacking-tool",
+    "ig-hack",
+    "instagram",
+    "instagram-bot",
+    "noob-friendly",
+    "termux",
+    "termux-tools"
+  ],
+  "alternatives": [],
+  "popularity": 7,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 2103,
+    "forks": 314,
+    "open_issues": 76,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 70
+}

@@ -1,0 +1,45 @@
+{
+  "id": "mex",
+  "name": "mex",
+  "category": "cli-tools",
+  "description": "Persistent project memory for AI coding agents. Structured scaffold + drift detection CLI.",
+  "official_website": "https://mexmemory.com",
+  "documentation": "https://github.com/mex-memory/mex#readme",
+  "github_repository": "https://github.com/mex-memory/mex",
+  "license": "MIT",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "claude-code",
+    "claude-code-skills",
+    "cli-tool",
+    "codex",
+    "context-management",
+    "cursor",
+    "developer-tools",
+    "documentation"
+  ],
+  "alternatives": [],
+  "popularity": 6,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 1157,
+    "forks": 69,
+    "open_issues": 23,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 75
+}

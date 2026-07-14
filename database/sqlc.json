@@ -1,0 +1,47 @@
+{
+  "id": "sqlc",
+  "name": "sqlc",
+  "category": "database",
+  "description": "Generate type-safe code from SQL",
+  "official_website": "https://sqlc.dev",
+  "documentation": "https://github.com/sqlc-dev/sqlc#readme",
+  "github_repository": "https://github.com/sqlc-dev/sqlc",
+  "license": "MIT",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "code-generator",
+    "go",
+    "kotlin",
+    "mysql",
+    "orm",
+    "postgresql",
+    "python",
+    "sql"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 17999,
+    "forks": 1065,
+    "open_issues": 708,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

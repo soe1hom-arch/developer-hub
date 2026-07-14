@@ -1,0 +1,42 @@
+{
+  "id": "soar",
+  "name": "soar",
+  "category": "binary",
+  "description": "A fast, modern package manager for Static Binaries, Portable Formats (AppImage|AppBundle|FlatImage|Runimage) & More [maintainer=@QaidVoid]",
+  "official_website": "https://soar.qaidvoid.dev",
+  "documentation": "https://github.com/pkgforge/soar#readme",
+  "github_repository": "https://github.com/pkgforge/soar",
+  "license": "MIT",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Linux"
+  ],
+  "tags": [
+    "appimage",
+    "appimage-repository",
+    "appimagehub",
+    "appimages",
+    "apps",
+    "download-manager",
+    "linux",
+    "linux-app"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 811,
+    "forks": 14,
+    "open_issues": 19,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 75
+}

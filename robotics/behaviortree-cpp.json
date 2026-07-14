@@ -1,0 +1,42 @@
+{
+  "id": "behaviortree-cpp",
+  "name": "BehaviorTree.CPP",
+  "category": "robotics",
+  "description": "Behavior Trees Library in C++. Batteries included.",
+  "official_website": "https://behaviortree.dev",
+  "documentation": "https://github.com/BehaviorTree/BehaviorTree.CPP#readme",
+  "github_repository": "https://github.com/BehaviorTree/BehaviorTree.CPP",
+  "license": "MIT",
+  "programming_languages": [
+    "C++"
+  ],
+  "platforms": [
+    "Linux",
+    "Embedded"
+  ],
+  "tags": [
+    "ai",
+    "behaviortree",
+    "coordination",
+    "games",
+    "robotics",
+    "ros",
+    "state-machine"
+  ],
+  "alternatives": [],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 4107,
+    "forks": 844,
+    "open_issues": 51,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 75
+}

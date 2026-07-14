@@ -1,0 +1,47 @@
+{
+  "id": "danger",
+  "name": "danger",
+  "category": "devops",
+  "description": "\ud83d\udeab Stop saying \"you forgot to \u2026\" in code review (in Ruby)",
+  "official_website": "https://danger.systems",
+  "documentation": "https://github.com/danger/danger#readme",
+  "github_repository": "https://github.com/danger/danger",
+  "license": "MIT",
+  "programming_languages": [
+    "Ruby"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "automation",
+    "bitbucket",
+    "ci",
+    "circle",
+    "code-review",
+    "danger",
+    "github",
+    "gitlab"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 5685,
+    "forks": 487,
+    "open_issues": 163,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

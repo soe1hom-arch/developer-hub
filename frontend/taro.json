@@ -1,0 +1,45 @@
+{
+  "id": "taro",
+  "name": "taro",
+  "category": "frontend",
+  "description": "\u5f00\u653e\u5f0f\u8de8\u7aef\u8de8\u6846\u67b6\u89e3\u51b3\u65b9\u6848\uff0c\u652f\u6301\u4f7f\u7528 React/Vue \u7b49\u6846\u67b6\u6765\u5f00\u53d1\u5fae\u4fe1/\u4eac\u4e1c/\u767e\u5ea6/\u652f\u4ed8\u5b9d/\u5b57\u8282\u8df3\u52a8/ QQ \u5c0f\u7a0b\u5e8f/H5/React Native \u7b49\u5e94\u7528\u3002  https://taro.zone/",
+  "official_website": "https://docs.taro.zone/",
+  "documentation": "https://github.com/NervJS/taro#readme",
+  "github_repository": "https://github.com/NervJS/taro",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "javascript",
+    "jquery",
+    "nerv",
+    "nervjs",
+    "react",
+    "react-native",
+    "reactjs",
+    "taro"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 37587,
+    "forks": 4890,
+    "open_issues": 1740,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 90
+}

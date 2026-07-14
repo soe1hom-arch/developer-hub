@@ -1,0 +1,47 @@
+{
+  "id": "django-allauth",
+  "name": "django-allauth",
+  "category": "security",
+  "description": "Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication. \ud83d\udd01 Mirror of https://codeberg.org/allauth/django-",
+  "official_website": "https://allauth.org",
+  "documentation": "https://github.com/pennersr/django-allauth#readme",
+  "github_repository": "https://github.com/pennersr/django-allauth",
+  "license": "MIT",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "accounts",
+    "authentication",
+    "django",
+    "login",
+    "oauth2",
+    "openid-connect",
+    "passkeys",
+    "python"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 10350,
+    "forks": 3109,
+    "open_issues": 2,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 90
+}

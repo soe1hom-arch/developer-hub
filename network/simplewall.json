@@ -1,0 +1,47 @@
+{
+  "id": "simplewall",
+  "name": "simplewall",
+  "category": "network",
+  "description": "Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.",
+  "official_website": "https://github.com/henrypp/simplewall",
+  "documentation": "https://github.com/henrypp/simplewall#readme",
+  "github_repository": "https://github.com/henrypp/simplewall",
+  "license": "GPL-3.0",
+  "programming_languages": [
+    "C"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "arm64",
+    "firewall",
+    "foss",
+    "network",
+    "simplewall",
+    "wfp",
+    "win64",
+    "windows"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 8606,
+    "forks": 635,
+    "open_issues": 143,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 75
+}

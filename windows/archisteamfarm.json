@@ -1,0 +1,47 @@
+{
+  "id": "archisteamfarm",
+  "name": "ArchiSteamFarm",
+  "category": "windows",
+  "description": "C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.",
+  "official_website": "https://github.com/JustArchiNET/ArchiSteamFarm",
+  "documentation": "https://github.com/JustArchiNET/ArchiSteamFarm#readme",
+  "github_repository": "https://github.com/JustArchiNET/ArchiSteamFarm",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "C#"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "archisteamfarm",
+    "automation",
+    "c-sharp",
+    "cli",
+    "cli-app",
+    "crowdin",
+    "csharp",
+    "dotnet"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 13525,
+    "forks": 1108,
+    "open_issues": 3,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 75
+}

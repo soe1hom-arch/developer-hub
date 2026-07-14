@@ -1,0 +1,45 @@
+{
+  "id": "gittype",
+  "name": "gittype",
+  "category": "cli-tools",
+  "description": "A CLI code-typing game that turns your source code into typing challenges",
+  "official_website": "https://github.com/unhappychoice/gittype",
+  "documentation": "https://github.com/unhappychoice/gittype#readme",
+  "github_repository": "https://github.com/unhappychoice/gittype",
+  "license": "MIT",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "cli-game",
+    "cli-tool",
+    "code-practice",
+    "coding-skills",
+    "gamification",
+    "learning-tool",
+    "productivity",
+    "programming"
+  ],
+  "alternatives": [],
+  "popularity": 6,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 1505,
+    "forks": 40,
+    "open_issues": 16,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 65
+}

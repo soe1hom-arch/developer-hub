@@ -1,0 +1,47 @@
+{
+  "id": "static-ffmpeg",
+  "name": "static-ffmpeg",
+  "category": "containers",
+  "description": "Multi-arch docker image with ffmpeg/ffprobe binaries built as hardened static PIE binaries with no external dependencies",
+  "official_website": "https://hub.docker.com/r/mwader/static-ffmpeg/",
+  "documentation": "https://github.com/wader/static-ffmpeg#readme",
+  "github_repository": "https://github.com/wader/static-ffmpeg",
+  "license": "MIT",
+  "programming_languages": [
+    "Dockerfile"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "amd64",
+    "arm64",
+    "aslr",
+    "docker",
+    "ffmpeg",
+    "ffprobe",
+    "hardened",
+    "static-binary"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 391,
+    "forks": 82,
+    "open_issues": 41,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 70
+}

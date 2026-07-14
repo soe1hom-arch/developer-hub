@@ -1,0 +1,42 @@
+{
+  "id": "brooklyn",
+  "name": "Brooklyn",
+  "category": "macos",
+  "description": "\ud83c\udf4e Screensaver inspired by Apple's Event on October 30, 2018",
+  "official_website": "https://github.com/pedrommcarrasco/Brooklyn",
+  "documentation": "https://github.com/pedrommcarrasco/Brooklyn#readme",
+  "github_repository": "https://github.com/pedrommcarrasco/Brooklyn",
+  "license": "MIT",
+  "programming_languages": [
+    "Swift"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "apple",
+    "macos",
+    "screensaver"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 5625,
+    "forks": 274,
+    "open_issues": 30,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 67
+}

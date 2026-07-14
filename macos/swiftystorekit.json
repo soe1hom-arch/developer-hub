@@ -1,0 +1,47 @@
+{
+  "id": "swiftystorekit",
+  "name": "SwiftyStoreKit",
+  "category": "macos",
+  "description": "Lightweight In App Purchases Swift framework for iOS 8.0+, tvOS 9.0+ and macOS 10.10+ \u26fa",
+  "official_website": "https://github.com/bizz84/SwiftyStoreKit",
+  "documentation": "https://github.com/bizz84/SwiftyStoreKit#readme",
+  "github_repository": "https://github.com/bizz84/SwiftyStoreKit",
+  "license": "MIT",
+  "programming_languages": [
+    "Swift"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "apple",
+    "iap",
+    "in-app-purchase",
+    "in-app-receipt",
+    "ios",
+    "macos",
+    "swift-3",
+    "swift-language"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 6672,
+    "forks": 808,
+    "open_issues": 196,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 70
+}

@@ -1,0 +1,47 @@
+{
+  "id": "eattheblocks",
+  "name": "eattheblocks",
+  "category": "blockchain",
+  "description": "Source code for Eat The Blocks, a screencast for Ethereum Dapp Developers",
+  "official_website": "https://eattheblocks.com",
+  "documentation": "https://github.com/jklepatch/eattheblocks#readme",
+  "github_repository": "https://github.com/jklepatch/eattheblocks",
+  "license": "MIT",
+  "programming_languages": [
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "blockchain",
+    "ethereum",
+    "screencast-series",
+    "solidity",
+    "truffle",
+    "truffle-framework",
+    "tutorial",
+    "web3"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 3985,
+    "forks": 3090,
+    "open_issues": 155,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 75
+}

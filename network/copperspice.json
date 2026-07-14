@@ -1,0 +1,45 @@
+{
+  "id": "copperspice",
+  "name": "copperspice",
+  "category": "network",
+  "description": "Set of cross platform C++ libraries (Core, Gui, Network, Multimedia, SQL, Vulkan, etc)",
+  "official_website": "http://www.copperspice.com",
+  "documentation": "https://github.com/copperspice/copperspice#readme",
+  "github_repository": "https://github.com/copperspice/copperspice",
+  "license": "MIT",
+  "programming_languages": [
+    "C++"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "core-functionality",
+    "cpp",
+    "gui",
+    "libraries",
+    "networking",
+    "open-source"
+  ],
+  "alternatives": [],
+  "popularity": 6,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 1315,
+    "forks": 134,
+    "open_issues": 38,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 75
+}

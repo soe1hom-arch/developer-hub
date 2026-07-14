@@ -1,0 +1,38 @@
+{
+  "id": "xiaozhi-esp32",
+  "name": "xiaozhi-esp32",
+  "category": "firmware",
+  "description": "An MCP-based chatbot | \u4e00\u4e2a\u57fa\u4e8eMCP\u7684\u804a\u5929\u673a\u5668\u4eba",
+  "official_website": "https://xiaozhi.me",
+  "documentation": "https://github.com/78/xiaozhi-esp32#readme",
+  "github_repository": "https://github.com/78/xiaozhi-esp32",
+  "license": "MIT",
+  "programming_languages": [
+    "C++"
+  ],
+  "platforms": [
+    "Linux",
+    "Embedded"
+  ],
+  "tags": [
+    "chatbot",
+    "esp32",
+    "mcp"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 28093,
+    "forks": 6334,
+    "open_issues": 662,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 77
+}

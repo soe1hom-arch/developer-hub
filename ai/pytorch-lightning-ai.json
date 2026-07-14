@@ -1,0 +1,46 @@
+{
+  "id": "pytorch-lightning-ai",
+  "name": "pytorch-lightning",
+  "category": "ai",
+  "description": "Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes.",
+  "official_website": "https://lightning.ai/pytorch-lightning/?utm_source=ptl_readme&utm_medium=referral&utm_campaign=ptl_readme",
+  "documentation": "https://github.com/Lightning-AI/pytorch-lightning#readme",
+  "github_repository": "https://github.com/Lightning-AI/pytorch-lightning",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "ai",
+    "artificial-intelligence",
+    "data-science",
+    "deep-learning",
+    "machine-learning",
+    "python",
+    "pytorch"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 31236,
+    "forks": 3757,
+    "open_issues": 1041,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

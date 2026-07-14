@@ -1,0 +1,40 @@
+{
+  "id": "jynew",
+  "name": "jynew",
+  "category": "game-development",
+  "description": "JinYongLegend-like RPG Game Framework with full Modding support and 10+ hours playable samples of game.",
+  "official_website": "https://github.com/jynew/jynew",
+  "documentation": "https://github.com/jynew/jynew#readme",
+  "github_repository": "https://github.com/jynew/jynew",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "C#"
+  ],
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux",
+    "Web"
+  ],
+  "tags": [
+    "game-development",
+    "jinyong",
+    "unity"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 8915,
+    "forks": 1876,
+    "open_issues": 42,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 72
+}

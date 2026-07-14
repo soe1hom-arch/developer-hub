@@ -1,0 +1,47 @@
+{
+  "id": "flagsmith",
+  "name": "flagsmith",
+  "category": "devops",
+  "description": "Flagsmith is an open source feature flagging and remote config service. Self-host or use our hosted version at https://app.flagsmith.com.",
+  "official_website": "https://www.flagsmith.com",
+  "documentation": "https://github.com/Flagsmith/flagsmith#readme",
+  "github_repository": "https://github.com/Flagsmith/flagsmith",
+  "license": "BSD-3-Clause",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "cd",
+    "ci",
+    "continuous-integration",
+    "docker",
+    "feature-flag",
+    "feature-flaggers",
+    "feature-flagging",
+    "feature-flags"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 6445,
+    "forks": 549,
+    "open_issues": 647,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

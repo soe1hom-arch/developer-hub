@@ -1,0 +1,47 @@
+{
+  "id": "trojan-go",
+  "name": "trojan-go",
+  "category": "network",
+  "description": "Go\u5b9e\u73b0\u7684Trojan\u4ee3\u7406\uff0c\u652f\u6301\u591a\u8def\u590d\u7528/\u8def\u7531\u529f\u80fd/CDN\u4e2d\u8f6c/Shadowsocks\u6df7\u6dc6\u63d2\u4ef6\uff0c\u591a\u5e73\u53f0\uff0c\u65e0\u4f9d\u8d56\u3002A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW. https://p4gefau1t.github.io/trojan-go/",
+  "official_website": "https://github.com/p4gefau1t/trojan-go",
+  "documentation": "https://github.com/p4gefau1t/trojan-go#readme",
+  "github_repository": "https://github.com/p4gefau1t/trojan-go",
+  "license": "GPL-3.0",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "anticensorship",
+    "china",
+    "gfw",
+    "go",
+    "golang",
+    "network",
+    "privacy",
+    "proxy"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 8388,
+    "forks": 1766,
+    "open_issues": 153,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 75
+}

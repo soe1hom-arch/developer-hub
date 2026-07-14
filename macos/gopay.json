@@ -1,0 +1,47 @@
+{
+  "id": "gopay",
+  "name": "gopay",
+  "category": "macos",
+  "description": "\u5fae\u4fe1\u3001\u652f\u4ed8\u5b9d\u3001\u6296\u97f3\u3001\u901a\u8054\u652f\u4ed8\u3001\u62c9\u5361\u62c9\u3001PayPal\u3001Apple \u7684Go\u7248\u672cSDK\u3002\u3010\u6781\u7b80\u3001\u6613\u7528\u7684\u805a\u5408\u652f\u4ed8SDK\u3011",
+  "official_website": "https://github.com/go-pay/gopay",
+  "documentation": "https://github.com/go-pay/gopay#readme",
+  "github_repository": "https://github.com/go-pay/gopay",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "alipay",
+    "allinpay",
+    "apple",
+    "douyin",
+    "golang",
+    "gopay",
+    "lakala",
+    "pay"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 5666,
+    "forks": 934,
+    "open_issues": 41,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 70
+}

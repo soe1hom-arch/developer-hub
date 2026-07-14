@@ -1,0 +1,43 @@
+{
+  "id": "rtabmap",
+  "name": "rtabmap",
+  "category": "robotics",
+  "description": "RTAB-Map library and standalone application",
+  "official_website": "https://introlab.github.io/rtabmap",
+  "documentation": "https://github.com/introlab/rtabmap#readme",
+  "github_repository": "https://github.com/introlab/rtabmap",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "C++"
+  ],
+  "platforms": [
+    "Linux",
+    "Embedded"
+  ],
+  "tags": [
+    "android",
+    "ios",
+    "localization",
+    "mapping",
+    "project-tango",
+    "robotics",
+    "ros",
+    "ros2"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 3876,
+    "forks": 939,
+    "open_issues": 584,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 70
+}

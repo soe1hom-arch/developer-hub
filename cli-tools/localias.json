@@ -1,0 +1,45 @@
+{
+  "id": "localias",
+  "name": "localias",
+  "category": "cli-tools",
+  "description": "custom local domain aliases for local dev servers",
+  "official_website": "https://github.com/peterldowns/localias",
+  "documentation": "https://github.com/peterldowns/localias#readme",
+  "github_repository": "https://github.com/peterldowns/localias",
+  "license": "MIT",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "cli",
+    "cli-app",
+    "cli-application",
+    "cli-tool",
+    "cli-tools",
+    "devtools",
+    "devtools-team",
+    "golang"
+  ],
+  "alternatives": [],
+  "popularity": 6,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 1445,
+    "forks": 16,
+    "open_issues": 5,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 60
+}

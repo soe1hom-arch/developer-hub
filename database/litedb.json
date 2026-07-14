@@ -1,0 +1,44 @@
+{
+  "id": "litedb",
+  "name": "LiteDB",
+  "category": "database",
+  "description": "LiteDB - A .NET NoSQL Document Store in a single data file",
+  "official_website": "http://www.litedb.org",
+  "documentation": "https://github.com/litedb-org/LiteDB#readme",
+  "github_repository": "https://github.com/litedb-org/LiteDB",
+  "license": "MIT",
+  "programming_languages": [
+    "C#"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "database",
+    "dotnet",
+    "hacktoberfest",
+    "litedb",
+    "nosql"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 9431,
+    "forks": 1322,
+    "open_issues": 755,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

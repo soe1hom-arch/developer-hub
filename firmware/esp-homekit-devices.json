@@ -1,0 +1,43 @@
+{
+  "id": "esp-homekit-devices",
+  "name": "esp-homekit-devices",
+  "category": "firmware",
+  "description": "Advanced firmware to add native Apple HomeKit and custom configurations, compatible with any SoC based on ESP32, ESP32-S, ESP32-C and ESP8266 series. (Shelly, Sonoff, Electrodragon, Tuya...)",
+  "official_website": "https://github.com/RavenSystem/esp-homekit-devices",
+  "documentation": "https://github.com/RavenSystem/esp-homekit-devices#readme",
+  "github_repository": "https://github.com/RavenSystem/esp-homekit-devices",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "C"
+  ],
+  "platforms": [
+    "Linux",
+    "Embedded"
+  ],
+  "tags": [
+    "apple",
+    "electrodragon",
+    "esp-idf",
+    "esp32",
+    "esp8266",
+    "firmware",
+    "home-automation",
+    "homekit"
+  ],
+  "alternatives": [],
+  "popularity": 7,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 2996,
+    "forks": 370,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 70
+}

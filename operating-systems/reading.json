@@ -1,0 +1,47 @@
+{
+  "id": "reading",
+  "name": "reading",
+  "category": "operating-systems",
+  "description": "A list of computer-science readings I recommend",
+  "official_website": "https://github.com/amilajack/reading",
+  "documentation": "https://github.com/amilajack/reading#readme",
+  "github_repository": "https://github.com/amilajack/reading",
+  "license": "MIT",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "academia",
+    "compiler",
+    "computer-science",
+    "concurrency",
+    "garbage-collection",
+    "operating-system",
+    "parallel-computing",
+    "reading"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 3615,
+    "forks": 773,
+    "open_issues": 7,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 55
+}

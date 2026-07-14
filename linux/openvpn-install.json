@@ -1,0 +1,47 @@
+{
+  "id": "openvpn-install",
+  "name": "openvpn-install",
+  "category": "linux",
+  "description": "OpenVPN road warrior installer for Ubuntu, Debian, AlmaLinux, Rocky Linux, CentOS and Fedora",
+  "official_website": "https://github.com/Nyr/openvpn-install",
+  "documentation": "https://github.com/Nyr/openvpn-install#readme",
+  "github_repository": "https://github.com/Nyr/openvpn-install",
+  "license": "MIT",
+  "programming_languages": [
+    "Shell"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "almalinux",
+    "bash",
+    "centos",
+    "debian",
+    "fedora",
+    "openvpn",
+    "rockylinux",
+    "shell"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 20589,
+    "forks": 5077,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 75
+}

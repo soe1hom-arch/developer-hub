@@ -1,0 +1,47 @@
+{
+  "id": "epusdt",
+  "name": "epusdt",
+  "category": "blockchain",
+  "description": "\u5f00\u6e90\u4f18\u96c5\u7684\u8de8\u5e73\u53f0\u6536\u6b3e\u7f51\u5173 GM Pay(formerly known as EPUSDT)",
+  "official_website": "https://epusdt.com",
+  "documentation": "https://github.com/GMWalletApp/epusdt#readme",
+  "github_repository": "https://github.com/GMWalletApp/epusdt",
+  "license": "GPL-3.0",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "bnb",
+    "crypto",
+    "dujiaoka",
+    "ethereum",
+    "newapi",
+    "payment",
+    "payments",
+    "polygon"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 3616,
+    "forks": 986,
+    "open_issues": 29,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 70
+}

@@ -1,0 +1,43 @@
+{
+  "id": "rhai",
+  "name": "rhai",
+  "category": "embedded",
+  "description": "Rhai - An embedded scripting language for Rust.",
+  "official_website": "https://crates.io/crates/rhai",
+  "documentation": "https://github.com/rhaiscript/rhai#readme",
+  "github_repository": "https://github.com/rhaiscript/rhai",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Linux",
+    "Embedded"
+  ],
+  "tags": [
+    "embedded",
+    "embedded-scripting-language",
+    "no-std",
+    "rhai",
+    "scripting-engine",
+    "scripting-language",
+    "wasm",
+    "webassembly"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 5480,
+    "forks": 240,
+    "open_issues": 34,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 75
+}

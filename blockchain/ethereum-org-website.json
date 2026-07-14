@@ -1,0 +1,46 @@
+{
+  "id": "ethereum-org-website",
+  "name": "ethereum-org-website",
+  "category": "blockchain",
+  "description": "Ethereum.org is a primary online resource for the Ethereum community.",
+  "official_website": "https://ethereum.org/",
+  "documentation": "https://github.com/ethereum/ethereum-org-website#readme",
+  "github_repository": "https://github.com/ethereum/ethereum-org-website",
+  "license": "MIT",
+  "programming_languages": [
+    "Markdown"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "blockchain",
+    "chakra-ui",
+    "ethereum",
+    "nextjs",
+    "react",
+    "typescript",
+    "web3"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 5950,
+    "forks": 5401,
+    "open_issues": 177,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

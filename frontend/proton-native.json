@@ -1,0 +1,42 @@
+{
+  "id": "proton-native",
+  "name": "proton-native",
+  "category": "frontend",
+  "description": "A React environment for cross platform desktop apps",
+  "official_website": "https://proton-native.js.org",
+  "documentation": "https://github.com/kusti8/proton-native#readme",
+  "github_repository": "https://github.com/kusti8/proton-native",
+  "license": "MIT",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "cross-platform",
+    "desktop",
+    "js",
+    "native",
+    "react"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 10892,
+    "forks": 350,
+    "open_issues": 88,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

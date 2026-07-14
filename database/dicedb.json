@@ -1,0 +1,47 @@
+{
+  "id": "dicedb",
+  "name": "dicedb",
+  "category": "database",
+  "description": "Open-source, low-latency key/value engine built on Valkey with query subscriptions and hierarchical storage tiers.",
+  "official_website": "https://dicedb.io/",
+  "documentation": "https://github.com/dicedb/dicedb#readme",
+  "github_repository": "https://github.com/dicedb/dicedb",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "C"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "cache",
+    "database",
+    "key-value",
+    "key-value-store",
+    "nosql",
+    "redis",
+    "storage-engine",
+    "valkey"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 10769,
+    "forks": 1404,
+    "open_issues": 131,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 90
+}

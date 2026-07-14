@@ -1,0 +1,45 @@
+{
+  "id": "digler",
+  "name": "digler",
+  "category": "cli-tools",
+  "description": "Digler is a tool for forensic disk analysis and file recovery. It's designed to help you unearth lost or deleted data from various disk images and raw devices.",
+  "official_website": "https://github.com/ostafen/digler",
+  "documentation": "https://github.com/ostafen/digler#readme",
+  "github_repository": "https://github.com/ostafen/digler",
+  "license": "MIT",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "cli-tool",
+    "data-recovery",
+    "deleted-file-recovery",
+    "desktop-app",
+    "dfxml",
+    "digital-forensics",
+    "disk-analysis",
+    "disk-image"
+  ],
+  "alternatives": [],
+  "popularity": 6,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 1319,
+    "forks": 77,
+    "open_issues": 9,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 70
+}

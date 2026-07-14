@@ -1,0 +1,42 @@
+{
+  "id": "flutter-go",
+  "name": "flutter-go",
+  "category": "mobile",
+  "description": "flutter \u5f00\u53d1\u8005\u5e2e\u52a9 APP\uff0c\u5305\u542b flutter \u5e38\u7528 140+ \u7ec4\u4ef6\u7684demo \u6f14\u793a\u4e0e\u4e2d\u6587\u6587\u6863",
+  "official_website": "https://flutter-go.pub/website/",
+  "documentation": "https://github.com/alibaba/flutter-go#readme",
+  "github_repository": "https://github.com/alibaba/flutter-go",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "Dart"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "dart",
+    "flutter",
+    "flutter-demo",
+    "flutter-doc"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 23660,
+    "forks": 3764,
+    "open_issues": 193,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 82
+}

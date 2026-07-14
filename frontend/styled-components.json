@@ -1,0 +1,43 @@
+{
+  "id": "styled-components",
+  "name": "styled-components",
+  "category": "frontend",
+  "description": "Fast, expressive styling for React. Server components, client components, streaming SSR, React Native\u2014one API.",
+  "official_website": "https://styled-components.com",
+  "documentation": "https://github.com/styled-components/styled-components#readme",
+  "github_repository": "https://github.com/styled-components/styled-components",
+  "license": "MIT",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "css",
+    "css-in-js",
+    "react",
+    "reactnative",
+    "rsc",
+    "styled-components"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 41208,
+    "forks": 2683,
+    "open_issues": 13,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 90
+}

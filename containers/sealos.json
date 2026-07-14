@@ -1,0 +1,47 @@
+{
+  "id": "sealos",
+  "name": "sealos",
+  "category": "containers",
+  "description": "Sealos is an AI-native Cloud Operating System that unifies the entire application lifecycle, from development in cloud IDEs to production deployment and management. It is perfect for building and scal",
+  "official_website": "https://sealos.io",
+  "documentation": "https://github.com/labring/sealos#readme",
+  "github_repository": "https://github.com/labring/sealos",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "cloudos",
+    "container",
+    "docker",
+    "golang",
+    "install",
+    "ipvs",
+    "kubeadm",
+    "kubernetes"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 18287,
+    "forks": 2475,
+    "open_issues": 83,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 90
+}

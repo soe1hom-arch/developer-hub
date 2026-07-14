@@ -1,0 +1,46 @@
+{
+  "id": "jitpack-io",
+  "name": "jitpack.io",
+  "category": "android",
+  "description": "Documentation and issues of https://jitpack.io",
+  "official_website": "https://github.com/jitpack/jitpack.io",
+  "documentation": "https://github.com/jitpack/jitpack.io#readme",
+  "github_repository": "https://github.com/jitpack/jitpack.io",
+  "license": "MIT",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "android",
+    "gradle",
+    "jitpack",
+    "leiningen",
+    "libraries",
+    "maven",
+    "publish",
+    "sbt"
+  ],
+  "alternatives": [],
+  "popularity": 7,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 2655,
+    "forks": 222,
+    "open_issues": 149,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 55
+}

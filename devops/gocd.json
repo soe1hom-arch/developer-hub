@@ -1,0 +1,47 @@
+{
+  "id": "gocd",
+  "name": "gocd",
+  "category": "devops",
+  "description": "GoCD - Continuous Delivery server main repository",
+  "official_website": "https://www.gocd.org",
+  "documentation": "https://github.com/gocd/gocd#readme",
+  "github_repository": "https://github.com/gocd/gocd",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Java"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "cd",
+    "ci",
+    "ci-cd",
+    "continuous-delivery",
+    "continuous-delivery-server",
+    "continuous-deployment",
+    "continuous-integration",
+    "continuous-testing"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 7416,
+    "forks": 981,
+    "open_issues": 80,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 75
+}

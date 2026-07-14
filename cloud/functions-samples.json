@@ -1,0 +1,47 @@
+{
+  "id": "functions-samples",
+  "name": "functions-samples",
+  "category": "cloud",
+  "description": "Collection of sample apps showcasing popular use cases using Cloud Functions for Firebase",
+  "official_website": "https://firebase.google.com/docs/functions",
+  "documentation": "https://github.com/firebase/functions-samples#readme",
+  "github_repository": "https://github.com/firebase/functions-samples",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "faas",
+    "faas-platform",
+    "firebase",
+    "google",
+    "google-cloud-functions",
+    "google-cloud-platform",
+    "google-cloud-storage",
+    "serverless"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 12217,
+    "forks": 3835,
+    "open_issues": 199,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

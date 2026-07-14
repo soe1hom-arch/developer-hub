@@ -1,0 +1,42 @@
+{
+  "id": "postcss",
+  "name": "postcss",
+  "category": "frontend",
+  "description": "Transforming styles with JS plugins",
+  "official_website": "https://postcss.org",
+  "documentation": "https://github.com/postcss/postcss#readme",
+  "github_repository": "https://github.com/postcss/postcss",
+  "license": "MIT",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "ast",
+    "css",
+    "framework",
+    "parser",
+    "postcss"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 28970,
+    "forks": 1596,
+    "open_issues": 28,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

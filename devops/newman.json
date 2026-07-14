@@ -1,0 +1,47 @@
+{
+  "id": "newman",
+  "name": "newman",
+  "category": "devops",
+  "description": "Newman is a command-line collection runner for Postman",
+  "official_website": "https://www.postman.com",
+  "documentation": "https://github.com/postmanlabs/newman#readme",
+  "github_repository": "https://github.com/postmanlabs/newman",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "api-test",
+    "api-testing",
+    "ci",
+    "jenkins",
+    "json-report",
+    "newman",
+    "postman",
+    "postman-collection"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 7243,
+    "forks": 1225,
+    "open_issues": 320,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

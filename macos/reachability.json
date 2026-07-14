@@ -1,0 +1,43 @@
+{
+  "id": "reachability",
+  "name": "Reachability",
+  "category": "macos",
+  "description": "ARC and GCD Compatible Reachability Class for iOS and MacOS. Drop in replacement for Apple Reachability",
+  "official_website": "https://github.com/tonymillion/Reachability",
+  "documentation": "https://github.com/tonymillion/Reachability#readme",
+  "github_repository": "https://github.com/tonymillion/Reachability",
+  "license": "BSD-2-Clause",
+  "programming_languages": [
+    "Objective-C"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "apple",
+    "objective-c",
+    "reachability",
+    "wwan"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 6960,
+    "forks": 1248,
+    "open_issues": 70,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 72
+}

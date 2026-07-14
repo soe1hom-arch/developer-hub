@@ -1,0 +1,43 @@
+{
+  "id": "cylon",
+  "name": "cylon",
+  "category": "iot",
+  "description": "JavaScript framework for robotics, drones, and the Internet of Things (IoT)",
+  "official_website": "https://cylonjs.com",
+  "documentation": "https://github.com/hybridgroup/cylon#readme",
+  "github_repository": "https://github.com/hybridgroup/cylon",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "JavaScript"
+  ],
+  "platforms": [
+    "Linux",
+    "Embedded"
+  ],
+  "tags": [
+    "arduino",
+    "beaglebone-black",
+    "bluetooth-low-energy",
+    "chip",
+    "drones",
+    "gpio",
+    "i2c",
+    "intel-edison"
+  ],
+  "alternatives": [],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 4209,
+    "forks": 358,
+    "open_issues": 47,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 75
+}

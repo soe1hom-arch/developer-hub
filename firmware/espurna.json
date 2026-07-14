@@ -1,0 +1,41 @@
+{
+  "id": "espurna",
+  "name": "espurna",
+  "category": "firmware",
+  "description": "Home automation firmware for ESP8266-based devices",
+  "official_website": "http://tinkerman.cat",
+  "documentation": "https://github.com/xoseperez/espurna#readme",
+  "github_repository": "https://github.com/xoseperez/espurna",
+  "license": "GPL-3.0",
+  "programming_languages": [
+    "C++"
+  ],
+  "platforms": [
+    "Linux",
+    "Embedded"
+  ],
+  "tags": [
+    "automation",
+    "esp8266",
+    "espurna",
+    "firmware",
+    "home",
+    "sonoff"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 3049,
+    "forks": 630,
+    "open_issues": 303,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 75
+}

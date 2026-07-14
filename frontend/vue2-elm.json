@@ -1,0 +1,44 @@
+{
+  "id": "vue2-elm",
+  "name": "vue2-elm",
+  "category": "frontend",
+  "description": "Large single page application with 45 pages built on vue2 + vuex. \u57fa\u4e8e vue2 + vuex \u6784\u5efa\u4e00\u4e2a\u5177\u6709 45 \u4e2a\u9875\u9762\u7684\u5927\u578b\u5355\u9875\u9762\u5e94\u7528",
+  "official_website": "https://cangdu.org/elm/",
+  "documentation": "https://github.com/bailicangdu/vue2-elm#readme",
+  "github_repository": "https://github.com/bailicangdu/vue2-elm",
+  "license": "GPL-2.0",
+  "programming_languages": [
+    "Vue"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "es2015",
+    "flex",
+    "sass",
+    "vue",
+    "vue-router",
+    "vuex",
+    "webpack"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 41046,
+    "forks": 12265,
+    "open_issues": 121,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 90
+}

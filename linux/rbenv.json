@@ -1,0 +1,44 @@
+{
+  "id": "rbenv",
+  "name": "rbenv",
+  "category": "linux",
+  "description": "Manage your app's Ruby environment",
+  "official_website": "https://rbenv.org/",
+  "documentation": "https://github.com/rbenv/rbenv#readme",
+  "github_repository": "https://github.com/rbenv/rbenv",
+  "license": "MIT",
+  "programming_languages": [
+    "Shell"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "bash",
+    "ruby",
+    "ruby-installation",
+    "ruby-versions",
+    "shell"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 16724,
+    "forks": 1427,
+    "open_issues": 14,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

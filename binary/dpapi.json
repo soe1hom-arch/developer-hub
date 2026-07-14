@@ -1,0 +1,38 @@
+{
+  "id": "dpapi",
+  "name": "dpapi",
+  "category": "binary",
+  "description": "Prebuilt native module (Node.JS) to encrypt data on Windows with DPAPI.",
+  "official_website": "https://primno.io",
+  "documentation": "https://github.com/primno/dpapi#readme",
+  "github_repository": "https://github.com/primno/dpapi",
+  "license": "MIT",
+  "programming_languages": [
+    "C++"
+  ],
+  "platforms": [
+    "Linux",
+    "Windows"
+  ],
+  "tags": [
+    "dpapi",
+    "nodejs",
+    "prebuilt"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 12,
+    "forks": 2,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 52
+}

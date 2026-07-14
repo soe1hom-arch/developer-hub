@@ -1,0 +1,47 @@
+{
+  "id": "lyricify-app",
+  "name": "Lyricify-App",
+  "category": "macos",
+  "description": "Lyricify (/l\u026a'r\u026as\u0259fa\u026a/), a fantastic app to provide scroll lyrics for Spotify and other apps. \u4e00\u6b3e\u4e3a Spotify \u7b49\u5404\u79cd\u5e94\u7528\u63d0\u4f9b\u6eda\u52a8\u6b4c\u8bcd\u7684\u8f6f\u4ef6\u3002",
+  "official_website": "https://lyricify.app",
+  "documentation": "https://github.com/WXRIW/Lyricify-App#readme",
+  "github_repository": "https://github.com/WXRIW/Lyricify-App",
+  "license": "MIT",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "all-platforms",
+    "apple",
+    "apple-music",
+    "foobar2000",
+    "itunes",
+    "lyric",
+    "lyrics",
+    "music"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 7044,
+    "forks": 124,
+    "open_issues": 8,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

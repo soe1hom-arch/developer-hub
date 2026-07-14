@@ -1,0 +1,46 @@
+{
+  "id": "mmkv",
+  "name": "MMKV",
+  "category": "mobile",
+  "description": "An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, POSIX, and OHOS.",
+  "official_website": "https://github.com/Tencent/MMKV",
+  "documentation": "https://github.com/Tencent/MMKV#readme",
+  "github_repository": "https://github.com/Tencent/MMKV",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "C++"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "android",
+    "flutter",
+    "golang",
+    "ios",
+    "key-value",
+    "kotlin",
+    "macos",
+    "ohos"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 18665,
+    "forks": 1983,
+    "open_issues": 3,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

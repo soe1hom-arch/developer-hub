@@ -1,0 +1,46 @@
+{
+  "id": "appflowy",
+  "name": "AppFlowy",
+  "category": "mobile",
+  "description": "Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.",
+  "official_website": "https://appflowy.com",
+  "documentation": "https://github.com/AppFlowy-IO/AppFlowy#readme",
+  "github_repository": "https://github.com/AppFlowy-IO/AppFlowy",
+  "license": "AGPL-3.0",
+  "programming_languages": [
+    "Dart"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "blog",
+    "confluence-alternative",
+    "content-management",
+    "content-services",
+    "documentation",
+    "flutter",
+    "note-taking",
+    "notion-alternative"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 73762,
+    "forks": 5634,
+    "open_issues": 990,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 90
+}

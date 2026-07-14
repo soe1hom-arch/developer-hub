@@ -1,0 +1,47 @@
+{
+  "id": "tart",
+  "name": "tart",
+  "category": "devops",
+  "description": "macOS and Linux VMs on Apple Silicon to use in CI and other automations",
+  "official_website": "https://tart.run",
+  "documentation": "https://github.com/openai/tart#readme",
+  "github_repository": "https://github.com/openai/tart",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "Swift"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "apple-silicon",
+    "automation",
+    "ci",
+    "fair-source",
+    "macos",
+    "tart",
+    "virtualization",
+    "virtualization-framework"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 6235,
+    "forks": 330,
+    "open_issues": 54,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

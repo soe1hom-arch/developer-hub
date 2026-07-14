@@ -1,0 +1,47 @@
+{
+  "id": "real-esrgan",
+  "name": "Real-ESRGAN",
+  "category": "ai",
+  "description": "Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.",
+  "official_website": "https://github.com/xinntao/Real-ESRGAN",
+  "documentation": "https://github.com/xinntao/Real-ESRGAN#readme",
+  "github_repository": "https://github.com/xinntao/Real-ESRGAN",
+  "license": "BSD-3-Clause",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "amine",
+    "denoise",
+    "esrgan",
+    "image-restoration",
+    "jpeg-compression",
+    "pytorch",
+    "real-esrgan",
+    "super-resolution"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 36129,
+    "forks": 4408,
+    "open_issues": 641,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 75
+}

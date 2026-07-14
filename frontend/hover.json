@@ -1,0 +1,40 @@
+{
+  "id": "hover",
+  "name": "Hover",
+  "category": "frontend",
+  "description": "A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in C",
+  "official_website": "http://ianlunn.github.io/Hover/",
+  "documentation": "https://github.com/IanLunn/Hover#readme",
+  "github_repository": "https://github.com/IanLunn/Hover",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "SCSS"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "css",
+    "css-effects",
+    "sass"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 29393,
+    "forks": 5644,
+    "open_issues": 42,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 87
+}

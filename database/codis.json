@@ -1,0 +1,44 @@
+{
+  "id": "codis",
+  "name": "codis",
+  "category": "database",
+  "description": "Proxy based Redis cluster solution supporting pipeline and scaling dynamically",
+  "official_website": "https://github.com/CodisLabs/codis",
+  "documentation": "https://github.com/CodisLabs/codis#readme",
+  "github_repository": "https://github.com/CodisLabs/codis",
+  "license": "MIT",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "go",
+    "golang",
+    "nosql",
+    "redis",
+    "redis-cluster"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 13219,
+    "forks": 2657,
+    "open_issues": 305,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-14",
+  "last_updated": "2026-07-14",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 75
+}

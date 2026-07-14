@@ -5,13 +5,16 @@
 
 # Developer Hub
 
-> Sebuah database open-source yang berisi **693 sumber daya developer** — API, SDK, library, framework, tools, dan bahasa pemrograman.  
+> Sebuah database open-source yang berisi **1.066 sumber daya developer** — API, SDK, library, framework, tools, dan bahasa pemrograman.  
 > Saya buat karena saya sendiri sering kesusahan mencari referensi tools yang terpercaya dan terorganisir dalam satu tempat.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![JSON Validation](https://github.com/soe1hom-arch/developer-hub/actions/workflows/validate.yml/badge.svg)](.github/workflows/validate.yml)
+[![Daily Update](https://github.com/soe1hom-arch/developer-hub/actions/workflows/daily-update.yml/badge.svg)](.github/workflows/daily-update.yml)
+[![Weekly Maintenance](https://github.com/soe1hom-arch/developer-hub/actions/workflows/weekly-maintenance.yml/badge.svg)](.github/workflows/weekly-maintenance.yml)
+[![Deploy to Railway](https://github.com/soe1hom-arch/developer-hub/actions/workflows/deploy-railway.yml/badge.svg)](.github/workflows/deploy-railway.yml)
 [![Akses Website](https://img.shields.io/badge/Akses%20Website-181717?logo=google-chrome&logoColor=white)](https://developer-hub-production.up.railway.app)
+[![Data](https://img.shields.io/badge/Data-1.066%20resources-4CAF50)](https://developer-hub-production.up.railway.app)
 
 **[🌐 Akses Website](https://developer-hub-production.up.railway.app)**
 
@@ -31,14 +34,14 @@ Halo! Saya **Wandi** — seorang Android firmware enthusiast dari Indonesia. Pro
 
 | Metrik | Jumlah |
 |---|---|
-| **Total Resource** | 693 |
+| **Total Resource** | 1.066 |
 | **Kategori** | 33 |
-| **Bahasa Pemrograman** | 80 |
-| **Open Source** | 674 (96%) |
-| **Terawat** | 686 (99%) |
-| **Punya GitHub** | 693 (100%) |
+| **Bahasa Pemrograman** | 83 |
+| **Open Source** | 1.037 (97%) |
+| **Terawat** | 1.057 (99%) |
+| **Punya GitHub** | 1.066 (100%) |
 | **Punya Alternatif** | 197 |
-| **Lisensi Terbanyak** | MIT (404), Apache-2.0 (131) |
+| **Lisensi Terbanyak** | MIT, Apache-2.0 |
 
 ## ✨ Yang Bisa Kamu Lakukan
 
@@ -53,23 +56,23 @@ Halo! Saya **Wandi** — seorang Android firmware enthusiast dari Indonesia. Pro
 
 | Kategori | Ikon | Jumlah | Kategori | Ikon | Jumlah |
 |---|---|---|---|---|---|
-| AI | 🤖 | 78 | Android | 📱 | 53 |
-| Frontend | 🎨 | 48 | Backend | ⚙️ | 44 |
-| Tools | 🔧 | 44 | Database | 🗄️ | 43 |
-| Libraries | 📦 | 41 | Security | 🔒 | 36 |
-| DevOps | 🚀 | 35 | Cloud | ☁️ | 32 |
-| Languages | 💻 | 29 | Frameworks | 🏗️ | 21 |
-| Blockchain | ⛓️ | 17 | Game Development | 🎮 | 17 |
-| Network | 🌐 | 17 | Containers | 🐳 | 17 |
-| Mobile | 📲 | 15 | macOS | 🍎 | 11 |
-| Machine Learning | 🧠 | 10 | Android Tools | 📱 | 10 |
-| CLI Tools | 📁 | 10 | IoT | 📡 | 10 |
-| Termux | 📱 | 10 | Binary | 💾 | 1 |
-| Desktop | 🖥️ | 7 | Linux | 🐧 | 7 |
-| Web | 🌐 | 5 | Operating Systems | 💿 | 5 |
-| Windows | 🪟 | 5 | Firmware | ⚡ | 4 |
-| API | 🔗 | 4 | Embedded | 🔌 | 4 |
-| Robotics | 🦾 | 4 | | | |
+| AI | 🤖 | 119 | Frontend | 🎨 | 110 |
+| Android | 📱 | 72 | Database | 🗄️ | 63 |
+| Backend | ⚙️ | 56 | Tools | 🔧 | 50 |
+| DevOps | 🚀 | 47 | Libraries | 📦 | 46 |
+| Cloud | ☁️ | 44 | Security | 🔒 | 43 |
+| CLI Tools | 📁 | 38 | Mobile | 📲 | 35 |
+| Game Development | 🎮 | 29 | Blockchain | ⛓️ | 29 |
+| Languages | 💻 | 29 | Frameworks | 🏗️ | 28 |
+| Containers | 🐳 | 28 | Network | 🌐 | 26 |
+| Desktop | 🖥️ | 26 | macOS | 🍎 | 23 |
+| Linux | 🐧 | 18 | Windows | 🪟 | 14 |
+| Termux | 📱 | 13 | IoT | 📡 | 12 |
+| Robotics | 🦾 | 12 | Android Tools | 📱 | 11 |
+| Operating Systems | 💿 | 10 | Machine Learning | 🧠 | 10 |
+| API | 🔗 | 9 | Web | 🌐 | 5 |
+| Firmware | ⚡ | 8 | Embedded | 🔌 | 4 |
+| Binary | 💾 | 3 | | | |
 
 ## 🔌 REST API
 

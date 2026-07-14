@@ -3,7 +3,8 @@ name: Duplicate Detection
 on:
   pull_request:
     paths:
-      - "**/*.json"
+      - "*.json"
+      - "*/*.json"
   workflow_dispatch:
 
 jobs:
@@ -14,29 +15,52 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt -q
       - name: Check for duplicate entries
-        run: |
-          python3 -c "
-          import json, sys
-          from pathlib import Path
-          seen = {}
-          duplicates = []
-          for f in Path('.').rglob('*.json'):
-              if '.git' in f.parts:
-                  continue
-              try:
-                  data = json.loads(f.read_text())
-                  name = data.get('name', '').lower()
-                  if name in seen:
-                      duplicates.append((seen[name], str(f), name))
-                  else:
-                      seen[name] = str(f)
-              except: pass
-          if duplicates:
-              print('Duplicate entries found:')
-              for orig, dup, name in duplicates:
-                  print(f'  \"{name}\" appears in {orig} and {dup}')
-              sys.exit(1)
-          else:
-              print('No duplicates found.')
-          "
+        run: python3 -c "
+import json, sys
+from pathlib import Path
+from scripts.categories import CATEGORIES
+
+REPO_ROOT = Path('.')
+seen_names = {}
+seen_gh = {}
+duplicates = []
+
+for cat in CATEGORIES:
+    d = REPO_ROOT / cat
+    if not d.exists():
+        continue
+    for f in sorted(d.glob('*.json')):
+        try:
+            data = json.loads(f.read_text())
+            name = data.get('name', '').lower()
+            gh = data.get('github_repository', '').rstrip('/').lower()
+            
+            if name:
+                if name in seen_names:
+                    duplicates.append((seen_names[name], str(f), f'Name: \"{name}\"'))
+                else:
+                    seen_names[name] = str(f)
+            
+            if gh and 'github.com' in gh:
+                if gh in seen_gh:
+                    duplicates.append((seen_gh[gh], str(f), f'GitHub: {gh}'))
+                else:
+                    seen_gh[gh] = str(f)
+        except:
+            pass
+
+if duplicates:
+    print('Duplicate entries found:')
+    for orig, dup, reason in duplicates:
+        print(f'  {reason}')
+        print(f'    → {orig}')
+        print(f'    → {dup}')
+    sys.exit(1)
+else:
+    print('No duplicates found.')
+    print(f'  Checked {len(seen_names)} entries by name')
+    print(f'  Checked {len(seen_gh)} entries by GitHub URL')
+"

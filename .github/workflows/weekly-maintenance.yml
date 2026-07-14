@@ -22,7 +22,7 @@ jobs:
         run: pip install -r scripts/requirements.txt
 
       - name: Full validation
-        run: python scripts/validate.py
+        run: python scripts/auto_fix.py
 
       - name: Comprehensive health check
         env:
@@ -38,7 +38,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          python scripts/auto_discover.py --max-per-category 10
+          python scripts/auto_discover.py --max-per-category 10 --auto-commit
           python scripts/auto_discover.py --commit
 
       - name: Rebuild search index

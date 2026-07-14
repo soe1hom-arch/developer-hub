@@ -81,6 +81,7 @@ jobs:
             - Category mismatch scan completed
 
             Review and merge if everything looks good." \
+            --label "automated" \
             --base main \
             --head "$BRANCH" \
-            --label "automated"
+            

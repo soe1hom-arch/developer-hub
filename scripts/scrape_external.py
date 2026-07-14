@@ -17,13 +17,14 @@ import json, os, sys, time, re, html as html_mod
 from pathlib import Path
 from urllib.request import Request, urlopen
 from urllib.error import HTTPError, URLError
+from urllib.parse import quote_plus
 
 REPO_ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(REPO_ROOT))
 from scripts.categories import CATEGORIES
 
 GITHUB_TOKEN = os.environ.get('GITHUB_TOKEN', '')
-HEADERS = {'User-Agent': 'DeveloperHub/1.0'}
+HEADERS = {'User-Agent': 'Mozilla/5.0 (Linux; Android 13; Pixel 7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36'}
 if GITHUB_TOKEN:
     HEADERS['Authorization'] = f'Bearer {GITHUB_TOKEN}'
 
@@ -222,8 +223,7 @@ def scrape_fdroid(max_items=20, dry_run=False):
                     "repository_statistics": {"stars": stars, "forks": 0, "open_issues": 0, "watchers": 0},
                     "last_checked": time.strftime('%Y-%m-%d'),
                     "last_updated": time.strftime('%Y-%m-%d'),
-                    "latest_version": "latest",
-            "source": "fdroid",
+                    "source": "fdroid",
                 }
                 
                 if save_entry(entry, dry_run):
@@ -370,7 +370,7 @@ def scrape_binary_releases(max_items=20, dry_run=False):
     ]
     
     for query in queries:
-        search_url = f"https://api.github.com/search/repositories?q={query}&sort=stars&order=desc&per_page=30"
+        search_url = f"https://api.github.com/search/repositories?q={quote_plus(query)}&sort=stars&order=desc&per_page=30"
         data = fetch_url(search_url)
         if not data:
             continue
@@ -576,7 +576,7 @@ def scrape_cli_tools(max_items=30, dry_run=False):
     ]
     
     for query in queries:
-        search_url = f"https://api.github.com/search/repositories?q={query}&sort=stars&order=desc&per_page=30"
+        search_url = f"https://api.github.com/search/repositories?q={quote_plus(query)}&sort=stars&order=desc&per_page=30"
         data = fetch_url(search_url)
         if not data:
             continue

@@ -11,11 +11,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       
-      - name: Install dependencies
-        run: pip install -r scripts/requirements.txt uvicorn httpx
-
       - name: Build index & validate
         run: |
+          pip install -r scripts/requirements.txt -q
           python scripts/build_index.py
           python scripts/validate.py
 
@@ -23,16 +21,7 @@ jobs:
         env:
           RAILWAY_TOKEN: ${{ secrets.RAILWAY_TOKEN }}
         run: |
-          if [ -n "$RAILWAY_TOKEN" ]; then
-            npx railway login --token "$RAILWAY_TOKEN"
-            npx railway up --service 0cb638c8-33bd-4244-8fa2-4d783179181a --detach
-          else
-            echo "⚠️  RAILWAY_TOKEN not set in GitHub secrets."
-            echo ""
-            echo "📖 Cara setup:"
-            echo "   1. Buka https://railway.app/dashboard"
-            echo "   2. Pilih project → Settings → Tokens"
-            echo "   3. Generate New Token (Deploy token)"
-            echo "   4. GitHub → Settings → Secrets → RAILWAY_TOKEN"
-            exit 1
-          fi
+          # Railway CLI login & deploy
+          npx --yes railway login --token "$RAILWAY_TOKEN"
+          npx railway link 0f26eec2-56db-4e38-af83-c4f7616f325f
+          npx railway up --detach

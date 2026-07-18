@@ -7,13 +7,48 @@
   "documentation": "https://neo4j.com/docs",
   "github_repository": "https://github.com/neo4j/neo4j",
   "license": "GPL-3.0",
-  "latest_version": "5.22.0",
-  "programming_languages": ["Java", "JavaScript", "Python"],
-  "platforms": ["Linux", "macOS", "Windows", "Cloud"],
+  "latest_version": "3.2.0-alpha08",
+  "programming_languages": [
+    "Java",
+    "JavaScript",
+    "Python"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Cloud"
+  ],
   "package_manager": "apt",
-  "installation_examples": {"docker": "docker run -d -p 7474:7474 -p 7687:7687 neo4j:latest"},
-  "tags": ["database", "graph", "nosql", "cypher", "connections"],
-  "alternatives": ["ArangoDB", "JanusGraph", "Dgraph", "Amazon Neptune"],
-  "popularity": 8, "maintained": true, "archived": false, "open_source": true,
-  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+  "installation_examples": {
+    "docker": "docker run -d -p 7474:7474 -p 7687:7687 neo4j:latest"
+  },
+  "tags": [
+    "database",
+    "graph",
+    "nosql",
+    "cypher",
+    "connections",
+    "graphdb",
+    "graph-database",
+    "neo4j"
+  ],
+  "alternatives": [
+    "ArangoDB",
+    "JanusGraph",
+    "Dgraph",
+    "Amazon Neptune"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 16903,
+    "forks": 2668,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

@@ -6,22 +6,50 @@
   "official_website": "https://git-scm.com",
   "documentation": "https://git-scm.com/doc",
   "github_repository": "https://github.com/git/git",
-  "license": "GPL-2.0",
+  "license": "NOASSERTION",
   "latest_version": "2.45.2",
-  "programming_languages": ["C", "Perl", "Shell"],
-  "platforms": ["Linux", "macOS", "Windows"],
+  "programming_languages": [
+    "C",
+    "Perl",
+    "Shell"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
   "package_manager": "apt",
   "installation_examples": {
     "apt": "sudo apt install git",
     "brew": "brew install git",
     "choco": "choco install git"
   },
-  "tags": ["vcs", "version-control", "source-control", "distributed", "scm"],
-  "alternatives": ["Mercurial", "SVN", "Fossil", "Perforce"],
+  "tags": [
+    "vcs",
+    "version-control",
+    "source-control",
+    "distributed",
+    "scm",
+    "c",
+    "shell",
+    "hacktoberfest"
+  ],
+  "alternatives": [
+    "Mercurial",
+    "SVN",
+    "Fossil",
+    "Perforce"
+  ],
   "popularity": 10,
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-11",
-  "last_updated": "2026-07-11"
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 62073,
+    "forks": 28141,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

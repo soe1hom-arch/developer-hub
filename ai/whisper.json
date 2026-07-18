@@ -7,13 +7,43 @@
   "documentation": "https://github.com/openai/whisper",
   "github_repository": "https://github.com/openai/whisper",
   "license": "MIT",
-  "latest_version": "20231117",
-  "programming_languages": ["Python", "CUDA"],
-  "platforms": ["Linux", "macOS", "Windows"],
+  "latest_version": "v20250625",
+  "programming_languages": [
+    "Python",
+    "CUDA"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
   "package_manager": "pip",
-  "installation_examples": {"pip": "pip install openai-whisper"},
-  "tags": ["ai", "speech-recognition", "transcription", "multilingual", "open-source"],
-  "alternatives": ["Deepgram", "Google Speech-to-Text", "Azure Speech", "wav2vec"],
-  "popularity": 9, "maintained": true, "archived": false, "open_source": true,
-  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+  "installation_examples": {
+    "pip": "pip install openai-whisper"
+  },
+  "tags": [
+    "ai",
+    "speech-recognition",
+    "transcription",
+    "multilingual",
+    "open-source"
+  ],
+  "alternatives": [
+    "Deepgram",
+    "Google Speech-to-Text",
+    "Azure Speech",
+    "wav2vec"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 105156,
+    "forks": 12781,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

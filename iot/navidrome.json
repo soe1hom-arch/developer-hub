@@ -1,0 +1,43 @@
+{
+  "id": "navidrome",
+  "name": "navidrome",
+  "category": "iot",
+  "description": "\ud83c\udfa7 Your Personal Streaming Service",
+  "official_website": "https://www.navidrome.org",
+  "documentation": "https://github.com/navidrome/navidrome#readme",
+  "github_repository": "https://github.com/navidrome/navidrome",
+  "license": "GPL-3.0",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux",
+    "Embedded"
+  ],
+  "tags": [
+    "airsonic",
+    "madsonic",
+    "media-server",
+    "music",
+    "music-server",
+    "navidrome",
+    "opensubsonic",
+    "raspberry-pi"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 22362,
+    "forks": 1590,
+    "open_issues": 221,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

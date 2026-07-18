@@ -7,20 +7,46 @@
   "documentation": "https://kubernetes.io/docs",
   "github_repository": "https://github.com/kubernetes/kubernetes",
   "license": "Apache-2.0",
-  "latest_version": "1.30.2",
-  "programming_languages": ["Go"],
-  "platforms": ["Linux", "macOS", "Windows"],
+  "latest_version": "v1.36.2",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
   "package_manager": "apt",
   "installation_examples": {
     "brew": "brew install kubectl",
     "curl": "curl -LO https://dl.k8s.io/release/v1.30.2/bin/linux/amd64/kubectl"
   },
-  "tags": ["orchestration", "containers", "devops", "cloud-native", "scaling"],
-  "alternatives": ["Docker Swarm", "Nomad", "Apache Mesos", "Amazon ECS"],
+  "tags": [
+    "orchestration",
+    "containers",
+    "devops",
+    "cloud-native",
+    "scaling",
+    "kubernetes",
+    "go",
+    "cncf"
+  ],
+  "alternatives": [
+    "Docker Swarm",
+    "Nomad",
+    "Apache Mesos",
+    "Amazon ECS"
+  ],
   "popularity": 10,
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-11",
-  "last_updated": "2026-07-11"
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 123792,
+    "forks": 43679,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

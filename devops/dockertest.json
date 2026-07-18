@@ -1,0 +1,46 @@
+{
+  "id": "dockertest",
+  "name": "dockertest",
+  "category": "devops",
+  "description": "Write better integration tests! Dockertest helps you boot up ephermal docker images for your Go tests with minimal work.",
+  "official_website": "https://www.ory.com/?utm_source=github&utm_medium=banner&utm_campaign=dockertest",
+  "documentation": "https://github.com/ory/dockertest#readme",
+  "github_repository": "https://github.com/ory/dockertest",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "automation",
+    "ci",
+    "docker",
+    "go",
+    "integration-testing",
+    "tests",
+    "unit-testing"
+  ],
+  "alternatives": [],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 4520,
+    "forks": 270,
+    "open_issues": 13,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

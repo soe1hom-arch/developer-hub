@@ -7,13 +7,45 @@
   "documentation": "https://duckdb.org/docs",
   "github_repository": "https://github.com/duckdb/duckdb",
   "license": "MIT",
-  "latest_version": "1.0.0",
-  "programming_languages": ["C++", "Python"],
-  "platforms": ["Linux", "macOS", "Windows"],
+  "latest_version": "v1.5.4",
+  "programming_languages": [
+    "C++",
+    "Python"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
   "package_manager": "pip",
-  "installation_examples": {"pip": "pip install duckdb"},
-  "tags": ["database", "sql", "olap", "analytics", "embedded", "in-process"],
-  "alternatives": ["SQLite", "ClickHouse", "Apache Spark", "Polars"],
-  "popularity": 9, "maintained": true, "archived": false, "open_source": true,
-  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+  "installation_examples": {
+    "pip": "pip install duckdb"
+  },
+  "tags": [
+    "database",
+    "sql",
+    "olap",
+    "analytics",
+    "embedded",
+    "in-process",
+    "embedded-database"
+  ],
+  "alternatives": [
+    "SQLite",
+    "ClickHouse",
+    "Apache Spark",
+    "Polars"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 39503,
+    "forks": 3440,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

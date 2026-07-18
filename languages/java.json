@@ -8,12 +8,44 @@
   "github_repository": "https://github.com/openjdk/jdk",
   "license": "GPL-2.0",
   "latest_version": "22",
-  "programming_languages": ["Java"],
-  "platforms": ["Linux", "macOS", "Windows", "JVM"],
+  "programming_languages": [
+    "Java"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "JVM"
+  ],
   "package_manager": "sdkman",
-  "installation_examples": {"sdkman": "sdk install java", "apt": "sudo apt install openjdk-22-jdk"},
-  "tags": ["programming-language", "jvm", "object-oriented", "enterprise"],
-  "alternatives": ["Kotlin", "C#", "Go", "Python"],
-  "popularity": 10, "maintained": true, "archived": false, "open_source": true,
-  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+  "installation_examples": {
+    "sdkman": "sdk install java",
+    "apt": "sudo apt install openjdk-22-jdk"
+  },
+  "tags": [
+    "programming-language",
+    "jvm",
+    "object-oriented",
+    "enterprise",
+    "openjdk",
+    "java"
+  ],
+  "alternatives": [
+    "Kotlin",
+    "C#",
+    "Go",
+    "Python"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 23120,
+    "forks": 6376,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

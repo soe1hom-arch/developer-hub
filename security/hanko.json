@@ -1,0 +1,47 @@
+{
+  "id": "hanko",
+  "name": "hanko",
+  "category": "security",
+  "description": "Modern authentication, on your terms. Open source alternative to Auth0, Clerk, WorkOS, Stytch.",
+  "official_website": "https://www.hanko.io",
+  "documentation": "https://github.com/teamhanko/hanko#readme",
+  "github_repository": "https://github.com/teamhanko/hanko",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "2fa",
+    "authentication",
+    "ciam",
+    "fido2",
+    "iam",
+    "jwt",
+    "mfa",
+    "oauth"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 8979,
+    "forks": 1013,
+    "open_issues": 55,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

@@ -7,13 +7,39 @@
   "documentation": "https://developer.android.com/training/testing/espresso",
   "github_repository": "https://github.com/android/android-test",
   "license": "Apache-2.0",
-  "latest_version": "3.6.1",
-  "programming_languages": ["Java", "Kotlin"],
-  "platforms": ["Android"],
+  "latest_version": "axt_06_24_2024",
+  "programming_languages": [
+    "Java",
+    "Kotlin"
+  ],
+  "platforms": [
+    "Android"
+  ],
   "package_manager": "gradle",
-  "installation_examples": {"gradle": "androidTestImplementation 'androidx.test.espresso:espresso-core:3.6.1'"},
-  "tags": ["android", "testing", "ui-test", "automation"],
-  "alternatives": ["Compose UI Test", "Robotium", "Appium"],
-  "popularity": 9, "maintained": true, "archived": false, "open_source": true,
-  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+  "installation_examples": {
+    "gradle": "androidTestImplementation 'androidx.test.espresso:espresso-core:3.6.1'"
+  },
+  "tags": [
+    "android",
+    "testing",
+    "ui-test",
+    "automation"
+  ],
+  "alternatives": [
+    "Compose UI Test",
+    "Robotium",
+    "Appium"
+  ],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 1223,
+    "forks": 340,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

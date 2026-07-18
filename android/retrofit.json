@@ -7,19 +7,46 @@
   "documentation": "https://square.github.io/retrofit",
   "github_repository": "https://github.com/square/retrofit",
   "license": "Apache-2.0",
-  "latest_version": "2.11.0",
-  "programming_languages": ["Java", "Kotlin"],
-  "platforms": ["Android", "Linux", "macOS", "Windows"],
+  "latest_version": "3.0.0",
+  "programming_languages": [
+    "Java",
+    "Kotlin"
+  ],
+  "platforms": [
+    "Android",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
   "package_manager": "gradle",
   "installation_examples": {
     "gradle": "implementation 'com.squareup.retrofit2:retrofit:2.11.0'"
   },
-  "tags": ["android", "http", "client", "networking", "api", "square"],
-  "alternatives": ["OkHttp", "Ktor", "Volley", "Fuel"],
-  "popularity": 9,
+  "tags": [
+    "android",
+    "http",
+    "client",
+    "networking",
+    "api",
+    "square",
+    "java"
+  ],
+  "alternatives": [
+    "OkHttp",
+    "Ktor",
+    "Volley",
+    "Fuel"
+  ],
+  "popularity": 10,
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-11",
-  "last_updated": "2026-07-11"
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 43913,
+    "forks": 7336,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

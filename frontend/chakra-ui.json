@@ -7,13 +7,49 @@
   "documentation": "https://chakra-ui.com/docs",
   "github_repository": "https://github.com/chakra-ui/chakra-ui",
   "license": "MIT",
-  "latest_version": "2.8.2",
-  "programming_languages": ["TypeScript", "JavaScript"],
-  "platforms": ["Web"],
+  "latest_version": "@chakra-ui/codemod@3.36.0",
+  "programming_languages": [
+    "TypeScript",
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web"
+  ],
   "package_manager": "npm",
-  "installation_examples": {"npm": "npm install @chakra-ui/react @emotion/react @emotion/styled framer-motion"},
-  "tags": ["ui", "react", "components", "accessible", "design-system"],
-  "alternatives": ["Material UI", "Radix UI", "Ant Design", "Shadcn/ui"],
-  "popularity": 8, "maintained": true, "archived": false, "open_source": true,
-  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+  "installation_examples": {
+    "npm": "npm install @chakra-ui/react @emotion/react @emotion/styled framer-motion"
+  },
+  "tags": [
+    "ui",
+    "react",
+    "components",
+    "accessible",
+    "design-system",
+    "chakra-ui",
+    "uikit",
+    "react-components",
+    "a11y",
+    "wai-aria",
+    "reactjs",
+    "dark-mode",
+    "ui-components"
+  ],
+  "alternatives": [
+    "Material UI",
+    "Radix UI",
+    "Ant Design",
+    "Shadcn/ui"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 40508,
+    "forks": 3627,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

@@ -1,1 +1,47 @@
-{"id":"viewmodel","name":"ViewModel","category":"android","description":"Jetpack architecture component for storing and managing UI-related data across configuration changes","official_website":"https://developer.android.com/topic/libraries/architecture/viewmodel","documentation":"https://developer.android.com/topic/libraries/architecture/viewmodel","github_repository":"https://github.com/androidx/androidx","license":"Apache-2.0","latest_version":"2.7.0","programming_languages":["Kotlin","Java"],"platforms":["Android"],"package_manager":"gradle","installation_examples":{"gradle":"implementation 'androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0'"},"tags":["android","jetpack","architecture","mvvm","lifecycle"],"alternatives":["MVI","Redux","Unidirectional Data Flow"],"popularity":10,"maintained":true,"archived":false,"open_source":true,"last_checked":"2026-07-11","last_updated":"2026-07-11"}
+{
+  "id": "viewmodel",
+  "name": "ViewModel",
+  "category": "android",
+  "description": "Jetpack architecture component for storing and managing UI-related data across configuration changes",
+  "official_website": "https://developer.android.com/topic/libraries/architecture/viewmodel",
+  "documentation": "https://developer.android.com/topic/libraries/architecture/viewmodel",
+  "github_repository": "https://github.com/androidx/androidx",
+  "license": "Apache-2.0",
+  "latest_version": "2.7.0",
+  "programming_languages": [
+    "Kotlin",
+    "Java"
+  ],
+  "platforms": [
+    "Android"
+  ],
+  "package_manager": "gradle",
+  "installation_examples": {
+    "gradle": "implementation 'androidx.lifecycle:lifecycle-viewmodel-compose:2.7.0'"
+  },
+  "tags": [
+    "android",
+    "jetpack",
+    "architecture",
+    "mvvm",
+    "lifecycle",
+    "library"
+  ],
+  "alternatives": [
+    "MVI",
+    "Redux",
+    "Unidirectional Data Flow"
+  ],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 6038,
+    "forks": 1359,
+    "open_issues": 0,
+    "watchers": 0
+  }
+}

@@ -1,1 +1,54 @@
-{"id":"junit-android","name":"JUnit","category":"android","description":"Unit testing framework for Java and Kotlin applications with parameterized tests and assertions","official_website":"https://junit.org/junit5","documentation":"https://junit.org/junit5/docs","github_repository":"https://github.com/junit-team/junit5","license":"EPL-2.0","latest_version":"5.10.3","programming_languages":["Java","Kotlin"],"platforms":["Android","JVM"],"package_manager":"gradle","installation_examples":{"gradle":"testImplementation 'org.junit.jupiter:junit-jupiter:5.10.3'"},"tags":["android","testing","unit-test","java","kotlin","framework"],"alternatives":["TestNG","Spek","Kotest"],"popularity":10,"maintained":true,"archived":false,"open_source":true,"last_checked":"2026-07-11","last_updated":"2026-07-11"}
+{
+  "id": "junit-android",
+  "name": "JUnit",
+  "category": "android",
+  "description": "Unit testing framework for Java and Kotlin applications with parameterized tests and assertions",
+  "official_website": "https://junit.org/junit5",
+  "documentation": "https://junit.org/junit5/docs",
+  "github_repository": "https://github.com/junit-team/junit5",
+  "license": "EPL-2.0",
+  "latest_version": "r6.1.2",
+  "programming_languages": [
+    "Java",
+    "Kotlin"
+  ],
+  "platforms": [
+    "Android",
+    "JVM"
+  ],
+  "package_manager": "gradle",
+  "installation_examples": {
+    "gradle": "testImplementation 'org.junit.jupiter:junit-jupiter:5.10.3'"
+  },
+  "tags": [
+    "android",
+    "testing",
+    "unit-test",
+    "java",
+    "kotlin",
+    "framework",
+    "test-framework",
+    "junit",
+    "junit-vintage",
+    "junit-jupiter",
+    "junit-platform",
+    "kotlin-testing"
+  ],
+  "alternatives": [
+    "TestNG",
+    "Spek",
+    "Kotest"
+  ],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 7049,
+    "forks": 1695,
+    "open_issues": 0,
+    "watchers": 0
+  }
+}

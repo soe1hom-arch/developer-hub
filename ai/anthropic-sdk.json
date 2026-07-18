@@ -1,1 +1,48 @@
-{"id":"anthropic-sdk","name":"Anthropic SDK","category":"ai","description":"Official SDK for interacting with Claude AI models including streaming, tool use, and multi-modal","official_website":"https://docs.anthropic.com","documentation":"https://docs.anthropic.com","github_repository":"https://github.com/anthropics/anthropic-sdk-python","license":"MIT","latest_version":"0.34.0","programming_languages":["Python","TypeScript"],"platforms":["Cloud","API"],"package_manager":"pip","installation_examples":{"pip":"pip install anthropic"},"tags":["ai","llm","sdk","claude","api","python"],"alternatives":["OpenAI SDK","Google AI SDK","Mistral SDK"],"popularity":9,"maintained":true,"archived":false,"open_source":true,"last_checked":"2026-07-11","last_updated":"2026-07-11"}
+{
+  "id": "anthropic-sdk",
+  "name": "Anthropic SDK",
+  "category": "ai",
+  "description": "Official SDK for interacting with Claude AI models including streaming, tool use, and multi-modal",
+  "official_website": "https://docs.anthropic.com",
+  "documentation": "https://docs.anthropic.com",
+  "github_repository": "https://github.com/anthropics/anthropic-sdk-python",
+  "license": "MIT",
+  "latest_version": "v0.117.0",
+  "programming_languages": [
+    "Python",
+    "TypeScript"
+  ],
+  "platforms": [
+    "Cloud",
+    "API"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install anthropic"
+  },
+  "tags": [
+    "ai",
+    "llm",
+    "sdk",
+    "claude",
+    "api",
+    "python"
+  ],
+  "alternatives": [
+    "OpenAI SDK",
+    "Google AI SDK",
+    "Mistral SDK"
+  ],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 3748,
+    "forks": 776,
+    "open_issues": 0,
+    "watchers": 0
+  }
+}

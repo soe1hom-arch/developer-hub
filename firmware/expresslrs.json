@@ -1,0 +1,43 @@
+{
+  "id": "expresslrs",
+  "name": "ExpressLRS",
+  "category": "firmware",
+  "description": "High Performance Open Source Radio Control Link",
+  "official_website": "https://github.com/ExpressLRS/ExpressLRS",
+  "documentation": "https://github.com/ExpressLRS/ExpressLRS#readme",
+  "github_repository": "https://github.com/ExpressLRS/ExpressLRS",
+  "license": "GPL-3.0",
+  "programming_languages": [
+    "C"
+  ],
+  "platforms": [
+    "Linux",
+    "Embedded"
+  ],
+  "tags": [
+    "drone",
+    "esp32",
+    "esp8266",
+    "fpv",
+    "lora",
+    "lr1121",
+    "quadcopter",
+    "rc"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 5086,
+    "forks": 1459,
+    "open_issues": 44,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 65
+}

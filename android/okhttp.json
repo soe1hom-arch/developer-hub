@@ -8,18 +8,46 @@
   "github_repository": "https://github.com/square/okhttp",
   "license": "Apache-2.0",
   "latest_version": "4.12.0",
-  "programming_languages": ["Java", "Kotlin"],
-  "platforms": ["Android", "Linux", "macOS", "Windows"],
+  "programming_languages": [
+    "Java",
+    "Kotlin"
+  ],
+  "platforms": [
+    "Android",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
   "package_manager": "gradle",
   "installation_examples": {
     "gradle": "implementation 'com.squareup.okhttp3:okhttp:4.12.0'"
   },
-  "tags": ["android", "http", "client", "networking", "square"],
-  "alternatives": ["Retrofit", "Ktor", "Volley", "java.net.HttpURLConnection"],
-  "popularity": 9,
+  "tags": [
+    "android",
+    "http",
+    "client",
+    "networking",
+    "square",
+    "java",
+    "kotlin",
+    "graalvm"
+  ],
+  "alternatives": [
+    "Retrofit",
+    "Ktor",
+    "Volley",
+    "java.net.HttpURLConnection"
+  ],
+  "popularity": 10,
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-11",
-  "last_updated": "2026-07-11"
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 47001,
+    "forks": 9277,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

@@ -7,19 +7,52 @@
   "documentation": "https://electronjs.org/docs",
   "github_repository": "https://github.com/electron/electron",
   "license": "MIT",
-  "latest_version": "31.1.0",
-  "programming_languages": ["JavaScript", "TypeScript", "C++"],
-  "platforms": ["Linux", "macOS", "Windows"],
+  "latest_version": "v43.1.1",
+  "programming_languages": [
+    "JavaScript",
+    "TypeScript",
+    "C++"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
   "package_manager": "npm",
   "installation_examples": {
     "npm": "npm install electron --save-dev"
   },
-  "tags": ["desktop", "cross-platform", "chromium", "nodejs", "gui"],
-  "alternatives": ["Tauri", "Qt", "Flutter Desktop", "JavaFX"],
-  "popularity": 9,
+  "tags": [
+    "desktop",
+    "cross-platform",
+    "chromium",
+    "nodejs",
+    "gui",
+    "electron",
+    "javascript",
+    "c-plus-plus",
+    "html",
+    "css",
+    "chrome",
+    "v8",
+    "works-with-codespaces"
+  ],
+  "alternatives": [
+    "Tauri",
+    "Qt",
+    "Flutter Desktop",
+    "JavaFX"
+  ],
+  "popularity": 10,
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-11",
-  "last_updated": "2026-07-11"
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 122069,
+    "forks": 17310,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

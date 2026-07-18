@@ -7,13 +7,42 @@
   "documentation": "https://dspy-docs.vercel.app/docs",
   "github_repository": "https://github.com/stanfordnlp/dspy",
   "license": "MIT",
-  "latest_version": "2.5.0",
-  "programming_languages": ["Python"],
-  "platforms": ["Linux", "macOS", "Windows"],
+  "latest_version": "3.2.1",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
   "package_manager": "pip",
-  "installation_examples": {"pip": "pip install dspy-ai"},
-  "tags": ["ai", "llm", "prompt-optimization", "framework", "stanford"],
-  "alternatives": ["LangChain", "LlamaIndex", "Haystack", "Semantic Kernel"],
-  "popularity": 7, "maintained": true, "archived": false, "open_source": true,
-  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+  "installation_examples": {
+    "pip": "pip install dspy-ai"
+  },
+  "tags": [
+    "ai",
+    "llm",
+    "prompt-optimization",
+    "framework",
+    "stanford"
+  ],
+  "alternatives": [
+    "LangChain",
+    "LlamaIndex",
+    "Haystack",
+    "Semantic Kernel"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 36199,
+    "forks": 3107,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

@@ -1,0 +1,41 @@
+{
+  "id": "assetripper",
+  "name": "AssetRipper",
+  "category": "game-development",
+  "description": "GUI application to analyze game files",
+  "official_website": "https://assetripper.github.io/AssetRipper/",
+  "documentation": "https://github.com/AssetRipper/AssetRipper#readme",
+  "github_repository": "https://github.com/AssetRipper/AssetRipper",
+  "license": "GPL-3.0",
+  "programming_languages": [
+    "C#"
+  ],
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux",
+    "Web"
+  ],
+  "tags": [
+    "csharp",
+    "games",
+    "unity",
+    "unity3d"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 7944,
+    "forks": 926,
+    "open_issues": 144,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 72
+}

@@ -7,13 +7,42 @@
   "documentation": "https://yarnpkg.com/docs",
   "github_repository": "https://github.com/yarnpkg/berry",
   "license": "BSD-2-Clause",
-  "latest_version": "4.3.1",
-  "programming_languages": ["TypeScript", "JavaScript"],
-  "platforms": ["Linux", "macOS", "Windows"],
+  "latest_version": "@yarnpkg/cli/4.17.1",
+  "programming_languages": [
+    "TypeScript",
+    "JavaScript"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
   "package_manager": "npm",
-  "installation_examples": {"npm": "npm install -g yarn"},
-  "tags": ["tool", "package-manager", "javascript", "nodejs"],
-  "alternatives": ["npm", "pnpm", "Bun"],
-  "popularity": 8, "maintained": true, "archived": false, "open_source": true,
-  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+  "installation_examples": {
+    "npm": "npm install -g yarn"
+  },
+  "tags": [
+    "tool",
+    "package-manager",
+    "javascript",
+    "nodejs",
+    "yarn"
+  ],
+  "alternatives": [
+    "npm",
+    "pnpm",
+    "Bun"
+  ],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 8090,
+    "forks": 1305,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

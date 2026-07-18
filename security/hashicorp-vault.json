@@ -1,1 +1,50 @@
-{"id":"vault","name":"HashiCorp Vault","category":"security","description":"Tool for secrets management, encryption as a service, and privileged access management","official_website":"https://vaultproject.io","documentation":"https://developer.hashicorp.com/vault/docs","github_repository":"https://github.com/hashicorp/vault","license":"MPL-2.0","latest_version":"1.17.0","programming_languages":["Go"],"platforms":["Linux","macOS","Windows","Cloud"],"package_manager":"brew","installation_examples":{"brew":"brew install vault"},"tags":["security","secrets","encryption","vault","hashicorp"],"alternatives":["AWS Secrets Manager","Azure Key Vault","SOPS","Bitwarden"],"popularity":9,"maintained":true,"archived":false,"open_source":true,"last_checked":"2026-07-11","last_updated":"2026-07-11"}
+{
+  "id": "vault",
+  "name": "HashiCorp Vault",
+  "category": "security",
+  "description": "Tool for secrets management, encryption as a service, and privileged access management",
+  "official_website": "https://vaultproject.io",
+  "documentation": "https://developer.hashicorp.com/vault/docs",
+  "github_repository": "https://github.com/hashicorp/vault",
+  "license": "NOASSERTION",
+  "latest_version": "v2.0.3",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Cloud"
+  ],
+  "package_manager": "brew",
+  "installation_examples": {
+    "brew": "brew install vault"
+  },
+  "tags": [
+    "security",
+    "secrets",
+    "encryption",
+    "vault",
+    "hashicorp",
+    "go"
+  ],
+  "alternatives": [
+    "AWS Secrets Manager",
+    "Azure Key Vault",
+    "SOPS",
+    "Bitwarden"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 35938,
+    "forks": 4717,
+    "open_issues": 0,
+    "watchers": 0
+  }
+}

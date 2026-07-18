@@ -7,21 +7,51 @@
   "documentation": "https://code.visualstudio.com/docs",
   "github_repository": "https://github.com/microsoft/vscode",
   "license": "MIT",
-  "latest_version": "1.90.0",
-  "programming_languages": ["TypeScript", "JavaScript", "CSS"],
-  "platforms": ["Linux", "macOS", "Windows", "Web"],
+  "latest_version": "1.129.1",
+  "programming_languages": [
+    "TypeScript",
+    "JavaScript",
+    "CSS"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Web"
+  ],
   "package_manager": "brew",
   "installation_examples": {
     "brew": "brew install --cask visual-studio-code",
     "choco": "choco install vscode",
     "apt": "sudo snap install code --classic"
   },
-  "tags": ["editor", "ide", "development", "code", "extensions"],
-  "alternatives": ["JetBrains IntelliJ", "Sublime Text", "Vim", "Emacs"],
+  "tags": [
+    "editor",
+    "ide",
+    "development",
+    "code",
+    "extensions",
+    "electron",
+    "visual-studio-code",
+    "typescript",
+    "microsoft"
+  ],
+  "alternatives": [
+    "JetBrains IntelliJ",
+    "Sublime Text",
+    "Vim",
+    "Emacs"
+  ],
   "popularity": 10,
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-11",
-  "last_updated": "2026-07-11"
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 187624,
+    "forks": 41252,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

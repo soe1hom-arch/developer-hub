@@ -1,0 +1,47 @@
+{
+  "id": "chalice",
+  "name": "chalice",
+  "category": "cloud",
+  "description": "Python Serverless Microframework for AWS",
+  "official_website": "https://github.com/aws/chalice",
+  "documentation": "https://github.com/aws/chalice#readme",
+  "github_repository": "https://github.com/aws/chalice",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "aws",
+    "aws-apigateway",
+    "aws-lambda",
+    "cloud",
+    "lambda",
+    "python",
+    "python27",
+    "python3"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 11065,
+    "forks": 1007,
+    "open_issues": 490,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 70
+}

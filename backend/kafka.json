@@ -8,12 +8,45 @@
   "github_repository": "https://github.com/apache/kafka",
   "license": "Apache-2.0",
   "latest_version": "3.7.0",
-  "programming_languages": ["Java", "Scala"],
-  "platforms": ["Linux", "macOS", "Windows"],
+  "programming_languages": [
+    "Java",
+    "Scala"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
   "package_manager": "apt",
-  "installation_examples": {"docker": "docker run -d --name kafka -p 9092:9092 apache/kafka"},
-  "tags": ["backend", "streaming", "message-queue", "event-driven", "data-pipeline"],
-  "alternatives": ["RabbitMQ", "NATS", "Pulsar", "Kinesis"],
-  "popularity": 10, "maintained": true, "archived": false, "open_source": true,
-  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+  "installation_examples": {
+    "docker": "docker run -d --name kafka -p 9092:9092 apache/kafka"
+  },
+  "tags": [
+    "backend",
+    "streaming",
+    "message-queue",
+    "event-driven",
+    "data-pipeline",
+    "scala",
+    "kafka",
+    "java"
+  ],
+  "alternatives": [
+    "RabbitMQ",
+    "NATS",
+    "Pulsar",
+    "Kinesis"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 33256,
+    "forks": 15359,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

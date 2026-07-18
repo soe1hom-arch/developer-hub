@@ -1,1 +1,54 @@
-{"id":"actix-web","name":"Actix Web","category":"backend","description":"Powerful, pragmatic, and extremely fast web framework for Rust with actor pattern support","official_website":"https://actix.rs","documentation":"https://actix.rs/docs","github_repository":"https://github.com/actix/actix-web","license":"Apache-2.0","latest_version":"4.8.0","programming_languages":["Rust"],"platforms":["Linux","macOS","Windows"],"package_manager":"cargo","installation_examples":{"cargo":"cargo add actix-web"},"tags":["backend","framework","rust","http","async","high-performance"],"alternatives":["Rocket","Axum","Warp","Tide"],"popularity":8,"maintained":true,"archived":false,"open_source":true,"last_checked":"2026-07-11","last_updated":"2026-07-11"}
+{
+  "id": "actix-web",
+  "name": "Actix Web",
+  "category": "backend",
+  "description": "Powerful, pragmatic, and extremely fast web framework for Rust with actor pattern support",
+  "official_website": "https://actix.rs",
+  "documentation": "https://actix.rs/docs",
+  "github_repository": "https://github.com/actix/actix-web",
+  "license": "Apache-2.0",
+  "latest_version": "http-v3.13.1",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "package_manager": "cargo",
+  "installation_examples": {
+    "cargo": "cargo add actix-web"
+  },
+  "tags": [
+    "backend",
+    "framework",
+    "rust",
+    "http",
+    "async",
+    "high-performance",
+    "web",
+    "web-development",
+    "websockets",
+    "actix",
+    "actix-web"
+  ],
+  "alternatives": [
+    "Rocket",
+    "Axum",
+    "Warp",
+    "Tide"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 24734,
+    "forks": 1879,
+    "open_issues": 0,
+    "watchers": 0
+  }
+}

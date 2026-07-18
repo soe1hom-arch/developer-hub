@@ -6,20 +6,51 @@
   "official_website": "https://esphome.io",
   "documentation": "https://esphome.io/guides",
   "github_repository": "https://github.com/esphome/esphome",
-  "license": "GPL-3.0",
-  "latest_version": "2024.6.0",
-  "programming_languages": ["C++", "Python", "YAML"],
-  "platforms": ["ESP8266", "ESP32", "Embedded"],
+  "license": "NOASSERTION",
+  "latest_version": "2026.7.0",
+  "programming_languages": [
+    "C++",
+    "Python",
+    "YAML"
+  ],
+  "platforms": [
+    "ESP8266",
+    "ESP32",
+    "Embedded"
+  ],
   "package_manager": "pip",
   "installation_examples": {
     "pip": "pip install esphome"
   },
-  "tags": ["firmware", "esp32", "esp8266", "iot", "home-assistant", "embedded"],
-  "alternatives": ["Tasmota", "ESPurna", "Arduino Core"],
-  "popularity": 8,
+  "tags": [
+    "firmware",
+    "esp32",
+    "esp8266",
+    "iot",
+    "home-assistant",
+    "embedded",
+    "home-automation",
+    "mqtt",
+    "python",
+    "platformio",
+    "yaml",
+    "hacktoberfest"
+  ],
+  "alternatives": [
+    "Tasmota",
+    "ESPurna",
+    "Arduino Core"
+  ],
+  "popularity": 10,
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-11",
-  "last_updated": "2026-07-11"
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 11399,
+    "forks": 5453,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

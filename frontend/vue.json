@@ -7,20 +7,46 @@
   "documentation": "https://vuejs.org/guide",
   "github_repository": "https://github.com/vuejs/vue",
   "license": "MIT",
-  "latest_version": "3.4.27",
-  "programming_languages": ["JavaScript", "TypeScript"],
-  "platforms": ["Web"],
+  "latest_version": "v2.7.16",
+  "programming_languages": [
+    "JavaScript",
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web"
+  ],
   "package_manager": "npm",
   "installation_examples": {
     "npm": "npm create vue@latest",
     "yarn": "yarn create vue"
   },
-  "tags": ["ui", "components", "reactive", "frontend", "spa", "framework"],
-  "alternatives": ["React", "Angular", "Svelte", "Solid", "Alpine"],
-  "popularity": 9,
+  "tags": [
+    "ui",
+    "components",
+    "reactive",
+    "frontend",
+    "spa",
+    "framework",
+    "vue",
+    "javascript"
+  ],
+  "alternatives": [
+    "React",
+    "Angular",
+    "Svelte",
+    "Solid",
+    "Alpine"
+  ],
+  "popularity": 10,
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-11",
-  "last_updated": "2026-07-11"
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 210093,
+    "forks": 33821,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

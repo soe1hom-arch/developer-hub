@@ -1,1 +1,54 @@
-{"id":"gitleaks","name":"Gitleaks","category":"security","description":"Open-source tool for detecting and preventing hardcoded secrets and passwords in Git repos","official_website":"https://gitleaks.io","documentation":"https://github.com/gitleaks/gitleaks","github_repository":"https://github.com/gitleaks/gitleaks","license":"MIT","latest_version":"8.18.3","programming_languages":["Go"],"platforms":["Linux","macOS","Windows"],"package_manager":"brew","installation_examples":{"brew":"brew install gitleaks"},"tags":["security","secrets","git","scanning","devsecops"],"alternatives":["truffleHog","git-secrets","detect-secrets"],"popularity":8,"maintained":true,"archived":false,"open_source":true,"last_checked":"2026-07-11","last_updated":"2026-07-11"}
+{
+  "id": "gitleaks",
+  "name": "Gitleaks",
+  "category": "security",
+  "description": "Open-source tool for detecting and preventing hardcoded secrets and passwords in Git repos",
+  "official_website": "https://gitleaks.io",
+  "documentation": "https://github.com/gitleaks/gitleaks",
+  "github_repository": "https://github.com/gitleaks/gitleaks",
+  "license": "MIT",
+  "latest_version": "v8.30.1",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "package_manager": "brew",
+  "installation_examples": {
+    "brew": "brew install gitleaks"
+  },
+  "tags": [
+    "security",
+    "secrets",
+    "git",
+    "scanning",
+    "devsecops",
+    "security-tools",
+    "golang",
+    "go",
+    "secret",
+    "gitleaks",
+    "hacktoberfest",
+    "ci-cd"
+  ],
+  "alternatives": [
+    "truffleHog",
+    "git-secrets",
+    "detect-secrets"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 28189,
+    "forks": 2151,
+    "open_issues": 0,
+    "watchers": 0
+  }
+}

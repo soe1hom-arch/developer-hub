@@ -7,13 +7,54 @@
   "documentation": "https://qdrant.tech/documentation",
   "github_repository": "https://github.com/qdrant/qdrant",
   "license": "Apache-2.0",
-  "latest_version": "1.9.0",
-  "programming_languages": ["Rust", "Python", "TypeScript"],
-  "platforms": ["Linux", "macOS", "Cloud"],
+  "latest_version": "v1.18.3",
+  "programming_languages": [
+    "Rust",
+    "Python",
+    "TypeScript"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Cloud"
+  ],
   "package_manager": "docker",
-  "installation_examples": {"docker": "docker run -d -p 6333:6333 qdrant/qdrant"},
-  "tags": ["ai", "vector-database", "similarity-search", "rust", "open-source"],
-  "alternatives": ["Pinecone", "Weaviate", "Milvus", "Chroma"],
-  "popularity": 8, "maintained": true, "archived": false, "open_source": true,
-  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+  "installation_examples": {
+    "docker": "docker run -d -p 6333:6333 qdrant/qdrant"
+  },
+  "tags": [
+    "ai",
+    "vector-database",
+    "similarity-search",
+    "rust",
+    "open-source",
+    "neural-network",
+    "search-engine",
+    "knn-algorithm",
+    "hnsw",
+    "vector-search",
+    "nearest-neighbor-search",
+    "image-search",
+    "embeddings-similarity",
+    "recommender-system",
+    "vector-search-engine"
+  ],
+  "alternatives": [
+    "Pinecone",
+    "Weaviate",
+    "Milvus",
+    "Chroma"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 33359,
+    "forks": 2498,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

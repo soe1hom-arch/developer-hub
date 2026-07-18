@@ -1,1 +1,52 @@
-{"id":"ktor-server","name":"Ktor Server","category":"backend","description":"Asynchronous server framework for Kotlin for building microservices and web applications","official_website":"https://ktor.io","documentation":"https://ktor.io/docs/server.html","github_repository":"https://github.com/ktorio/ktor","license":"Apache-2.0","latest_version":"2.3.12","programming_languages":["Kotlin"],"platforms":["JVM","Linux","macOS","Windows"],"package_manager":"gradle","installation_examples":{"gradle":"implementation 'io.ktor:ktor-server-netty:2.3.12'"},"tags":["backend","framework","kotlin","async","microservices"],"alternatives":["Spring Boot","Micronaut","Quarkus","Helidon"],"popularity":7,"maintained":true,"archived":false,"open_source":true,"last_checked":"2026-07-11","last_updated":"2026-07-11"}
+{
+  "id": "ktor-server",
+  "name": "Ktor Server",
+  "category": "backend",
+  "description": "Asynchronous server framework for Kotlin for building microservices and web applications",
+  "official_website": "https://ktor.io",
+  "documentation": "https://ktor.io/docs/server.html",
+  "github_repository": "https://github.com/ktorio/ktor",
+  "license": "Apache-2.0",
+  "latest_version": "3.5.1",
+  "programming_languages": [
+    "Kotlin"
+  ],
+  "platforms": [
+    "JVM",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "package_manager": "gradle",
+  "installation_examples": {
+    "gradle": "implementation 'io.ktor:ktor-server-netty:2.3.12'"
+  },
+  "tags": [
+    "backend",
+    "framework",
+    "kotlin",
+    "async",
+    "microservices",
+    "web-framework",
+    "asynchronous",
+    "web"
+  ],
+  "alternatives": [
+    "Spring Boot",
+    "Micronaut",
+    "Quarkus",
+    "Helidon"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 14471,
+    "forks": 1281,
+    "open_issues": 0,
+    "watchers": 0
+  }
+}

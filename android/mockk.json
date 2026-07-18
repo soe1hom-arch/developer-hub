@@ -7,13 +7,48 @@
   "documentation": "https://mockk.io",
   "github_repository": "https://github.com/mockk/mockk",
   "license": "Apache-2.0",
-  "latest_version": "1.13.12",
-  "programming_languages": ["Kotlin"],
-  "platforms": ["Android", "JVM"],
+  "latest_version": "v1.14.11",
+  "programming_languages": [
+    "Kotlin"
+  ],
+  "platforms": [
+    "Android",
+    "JVM"
+  ],
   "package_manager": "gradle",
-  "installation_examples": {"gradle": "testImplementation 'io.mockk:mockk:1.13.12'"},
-  "tags": ["android", "testing", "mocking", "kotlin", "coroutines"],
-  "alternatives": ["Mockito", "EasyMock", "PowerMock"],
-  "popularity": 8, "maintained": true, "archived": false, "open_source": true,
-  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+  "installation_examples": {
+    "gradle": "testImplementation 'io.mockk:mockk:1.13.12'"
+  },
+  "tags": [
+    "android",
+    "testing",
+    "mocking",
+    "kotlin",
+    "coroutines",
+    "verification",
+    "chain-calls",
+    "matcher",
+    "argument-matchers",
+    "mocking-framework",
+    "mock",
+    "tdd",
+    "hacktoberfest"
+  ],
+  "alternatives": [
+    "Mockito",
+    "EasyMock",
+    "PowerMock"
+  ],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 5748,
+    "forks": 412,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

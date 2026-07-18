@@ -6,21 +6,45 @@
   "official_website": "https://lodash.com",
   "documentation": "https://lodash.com/docs",
   "github_repository": "https://github.com/lodash/lodash",
-  "license": "MIT",
-  "latest_version": "4.17.21",
-  "programming_languages": ["JavaScript"],
-  "platforms": ["Web", "Node.js"],
+  "license": "NOASSERTION",
+  "latest_version": "4.18.1",
+  "programming_languages": [
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web",
+    "Node.js"
+  ],
   "package_manager": "npm",
   "installation_examples": {
     "npm": "npm install lodash",
     "yarn": "yarn add lodash"
   },
-  "tags": ["utility", "javascript", "functional", "collection", "array"],
-  "alternatives": ["Ramda", "Underscore", "Lazy.js"],
-  "popularity": 9,
+  "tags": [
+    "utility",
+    "javascript",
+    "functional",
+    "collection",
+    "array",
+    "lodash",
+    "utilities",
+    "modules"
+  ],
+  "alternatives": [
+    "Ramda",
+    "Underscore",
+    "Lazy.js"
+  ],
+  "popularity": 10,
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-11",
-  "last_updated": "2026-07-11"
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 61241,
+    "forks": 7180,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

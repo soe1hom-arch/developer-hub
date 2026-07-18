@@ -7,13 +7,49 @@
   "documentation": "https://doc.traefik.io/traefik",
   "github_repository": "https://github.com/traefik/traefik",
   "license": "MIT",
-  "latest_version": "3.1.0",
-  "programming_languages": ["Go"],
-  "platforms": ["Linux", "macOS", "Windows"],
+  "latest_version": "v3.7.8",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
   "package_manager": "brew",
-  "installation_examples": {"docker": "docker run -d -p 80:80 -p 8080:8080 traefik:v3.1"},
-  "tags": ["network", "proxy", "load-balancer", "kubernetes", "reverse-proxy"],
-  "alternatives": ["Nginx", "HAProxy", "Caddy", "Envoy"],
-  "popularity": 8, "maintained": true, "archived": false, "open_source": true,
-  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+  "installation_examples": {
+    "docker": "docker run -d -p 80:80 -p 8080:8080 traefik:v3.1"
+  },
+  "tags": [
+    "network",
+    "proxy",
+    "load-balancer",
+    "kubernetes",
+    "reverse-proxy",
+    "microservice",
+    "docker",
+    "marathon",
+    "mesos",
+    "consul",
+    "etcd",
+    "zookeeper"
+  ],
+  "alternatives": [
+    "Nginx",
+    "HAProxy",
+    "Caddy",
+    "Envoy"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 64032,
+    "forks": 6077,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

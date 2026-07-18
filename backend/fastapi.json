@@ -7,19 +7,49 @@
   "documentation": "https://fastapi.tiangolo.com",
   "github_repository": "https://github.com/tiangolo/fastapi",
   "license": "MIT",
-  "latest_version": "0.111.0",
-  "programming_languages": ["Python"],
-  "platforms": ["Linux", "macOS", "Windows"],
+  "latest_version": "0.139.2",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
   "package_manager": "pip",
   "installation_examples": {
     "pip": "pip install fastapi\npip install uvicorn"
   },
-  "tags": ["web", "framework", "python", "api", "async", "openapi", "pydantic"],
-  "alternatives": ["Flask", "Django", "Starlette", "Sanic"],
+  "tags": [
+    "web",
+    "framework",
+    "python",
+    "api",
+    "async",
+    "openapi",
+    "pydantic",
+    "json",
+    "swagger-ui",
+    "redoc",
+    "starlette",
+    "openapi3"
+  ],
+  "alternatives": [
+    "Flask",
+    "Django",
+    "Starlette",
+    "Sanic"
+  ],
   "popularity": 10,
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-11",
-  "last_updated": "2026-07-11"
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 100628,
+    "forks": 9635,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

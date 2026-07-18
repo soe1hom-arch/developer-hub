@@ -6,22 +6,49 @@
   "official_website": "https://mongodb.com",
   "documentation": "https://mongodb.com/docs",
   "github_repository": "https://github.com/mongodb/mongo",
-  "license": "SSPL-1.0",
+  "license": "NOASSERTION",
   "latest_version": "7.0.11",
-  "programming_languages": ["C++", "JavaScript", "Python"],
-  "platforms": ["Linux", "macOS", "Windows"],
+  "programming_languages": [
+    "C++",
+    "JavaScript",
+    "Python"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
   "package_manager": "apt",
   "installation_examples": {
     "apt": "sudo apt install mongodb-org",
     "brew": "brew install mongodb-community",
     "docker": "docker run --name mongo -d mongo"
   },
-  "tags": ["database", "nosql", "document", "json", "scalable"],
-  "alternatives": ["CouchDB", "Firestore", "DynamoDB", "RavenDB"],
-  "popularity": 9,
+  "tags": [
+    "database",
+    "nosql",
+    "document",
+    "json",
+    "scalable",
+    "c-plus-plus",
+    "mongodb"
+  ],
+  "alternatives": [
+    "CouchDB",
+    "Firestore",
+    "DynamoDB",
+    "RavenDB"
+  ],
+  "popularity": 10,
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-11",
-  "last_updated": "2026-07-11"
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 28458,
+    "forks": 5787,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

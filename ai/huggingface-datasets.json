@@ -1,1 +1,56 @@
-{"id":"huggingface-datasets","name":"Hugging Face Datasets","category":"ai","description":"Library for easily accessing and sharing datasets for NLP, vision, and audio with efficient preprocessing","official_website":"https://huggingface.co/docs/datasets","documentation":"https://huggingface.co/docs/datasets","github_repository":"https://github.com/huggingface/datasets","license":"Apache-2.0","latest_version":"2.20.0","programming_languages":["Python","Rust"],"platforms":["Linux","macOS","Windows"],"package_manager":"pip","installation_examples":{"pip":"pip install datasets"},"tags":["ai","datasets","nlp","huggingface","data-processing"],"alternatives":["TensorFlow Datasets","TorchVision","Kaggle"],"popularity":9,"maintained":true,"archived":false,"open_source":true,"last_checked":"2026-07-11","last_updated":"2026-07-11"}
+{
+  "id": "huggingface-datasets",
+  "name": "Hugging Face Datasets",
+  "category": "ai",
+  "description": "Library for easily accessing and sharing datasets for NLP, vision, and audio with efficient preprocessing",
+  "official_website": "https://huggingface.co/docs/datasets",
+  "documentation": "https://huggingface.co/docs/datasets",
+  "github_repository": "https://github.com/huggingface/datasets",
+  "license": "Apache-2.0",
+  "latest_version": "5.0.0",
+  "programming_languages": [
+    "Python",
+    "Rust"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install datasets"
+  },
+  "tags": [
+    "ai",
+    "datasets",
+    "nlp",
+    "huggingface",
+    "data-processing",
+    "pytorch",
+    "tensorflow",
+    "pandas",
+    "numpy",
+    "natural-language-processing",
+    "computer-vision",
+    "machine-learning",
+    "deep-learning"
+  ],
+  "alternatives": [
+    "TensorFlow Datasets",
+    "TorchVision",
+    "Kaggle"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 21722,
+    "forks": 3301,
+    "open_issues": 0,
+    "watchers": 0
+  }
+}

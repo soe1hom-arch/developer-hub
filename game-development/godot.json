@@ -7,20 +7,53 @@
   "documentation": "https://docs.godotengine.org",
   "github_repository": "https://github.com/godotengine/godot",
   "license": "MIT",
-  "latest_version": "4.3",
-  "programming_languages": ["C++", "GDScript", "C#"],
-  "platforms": ["Windows", "macOS", "Linux", "Android", "iOS", "Web"],
+  "latest_version": "4.7.1-stable",
+  "programming_languages": [
+    "C++",
+    "GDScript",
+    "C#"
+  ],
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux",
+    "Android",
+    "iOS",
+    "Web"
+  ],
   "package_manager": null,
   "installation_examples": {
     "brew": "brew install godot",
     "download": "https://godotengine.org/download"
   },
-  "tags": ["game-engine", "2d", "3d", "open-source", "cross-platform"],
-  "alternatives": ["Unity", "Unreal Engine", "CryEngine", "GameMaker"],
-  "popularity": 9,
+  "tags": [
+    "game-engine",
+    "2d",
+    "3d",
+    "open-source",
+    "cross-platform",
+    "godot",
+    "godotengine",
+    "multi-platform",
+    "gamedev",
+    "game-development"
+  ],
+  "alternatives": [
+    "Unity",
+    "Unreal Engine",
+    "CryEngine",
+    "GameMaker"
+  ],
+  "popularity": 10,
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-11",
-  "last_updated": "2026-07-11"
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 114271,
+    "forks": 26020,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

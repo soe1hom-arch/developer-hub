@@ -8,12 +8,39 @@
   "github_repository": "https://github.com/androidx/androidx",
   "license": "Apache-2.0",
   "latest_version": "3.3.0",
-  "programming_languages": ["Kotlin", "Java"],
-  "platforms": ["Android"],
+  "programming_languages": [
+    "Kotlin",
+    "Java"
+  ],
+  "platforms": [
+    "Android"
+  ],
   "package_manager": "gradle",
-  "installation_examples": {"gradle": "implementation 'androidx.paging:paging-compose:3.3.0'"},
-  "tags": ["android", "jetpack", "paging", "lazy-loading", "recyclerview"],
-  "alternatives": ["Paging 2", "RxPaging"],
-  "popularity": 8, "maintained": true, "archived": false, "open_source": true,
-  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+  "installation_examples": {
+    "gradle": "implementation 'androidx.paging:paging-compose:3.3.0'"
+  },
+  "tags": [
+    "android",
+    "jetpack",
+    "paging",
+    "lazy-loading",
+    "recyclerview",
+    "library"
+  ],
+  "alternatives": [
+    "Paging 2",
+    "RxPaging"
+  ],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 6038,
+    "forks": 1359,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

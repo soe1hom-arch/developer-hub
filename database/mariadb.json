@@ -7,13 +7,50 @@
   "documentation": "https://mariadb.com/docs",
   "github_repository": "https://github.com/MariaDB/server",
   "license": "GPL-2.0",
-  "latest_version": "11.4.2",
-  "programming_languages": ["C", "C++"],
-  "platforms": ["Linux", "macOS", "Windows"],
+  "latest_version": "mariadb-12.3.2",
+  "programming_languages": [
+    "C",
+    "C++"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
   "package_manager": "apt",
-  "installation_examples": {"apt": "sudo apt install mariadb-server"},
-  "tags": ["database", "relational", "sql", "open-source", "mysql-compatible"],
-  "alternatives": ["MySQL", "PostgreSQL", "SQLite"],
-  "popularity": 8, "maintained": true, "archived": false, "open_source": true,
-  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+  "installation_examples": {
+    "apt": "sudo apt install mariadb-server"
+  },
+  "tags": [
+    "database",
+    "relational",
+    "sql",
+    "open-source",
+    "mysql-compatible",
+    "amazon-web-services",
+    "fulltext-search",
+    "json",
+    "mariadb",
+    "mysql",
+    "rdbms",
+    "relational-databases",
+    "storage-engine"
+  ],
+  "alternatives": [
+    "MySQL",
+    "PostgreSQL",
+    "SQLite"
+  ],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 7862,
+    "forks": 2075,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

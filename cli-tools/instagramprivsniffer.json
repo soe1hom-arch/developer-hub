@@ -1,0 +1,45 @@
+{
+  "id": "instagramprivsniffer",
+  "name": "InstagramPrivSniffer",
+  "category": "cli-tools",
+  "description": "First ever tool to view \"Instagram private posts\" anonymously",
+  "official_website": "https://github.com/obitouka/InstagramPrivSniffer",
+  "documentation": "https://github.com/obitouka/InstagramPrivSniffer#readme",
+  "github_repository": "https://github.com/obitouka/InstagramPrivSniffer",
+  "license": "MIT",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "awesome",
+    "awesome-cli",
+    "awesome-hacking",
+    "awesome-osint",
+    "awesome-python",
+    "awesome-tool",
+    "cli",
+    "cli-tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 900,
+    "forks": 139,
+    "open_issues": 4,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 60
+}

@@ -7,13 +7,49 @@
   "documentation": "https://docs.opencv.org",
   "github_repository": "https://github.com/opencv/opencv",
   "license": "Apache-2.0",
-  "latest_version": "4.9.0",
-  "programming_languages": ["C++", "Python", "Java"],
-  "platforms": ["Linux", "macOS", "Windows", "Android", "iOS"],
+  "latest_version": "5.0.0",
+  "programming_languages": [
+    "C++",
+    "Python",
+    "Java"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "iOS"
+  ],
   "package_manager": "pip",
-  "installation_examples": {"pip": "pip install opencv-python"},
-  "tags": ["ai", "computer-vision", "image-processing", "c++", "python"],
-  "alternatives": ["Pillow", "scikit-image", "Dlib", "MATLAB Vision"],
-  "popularity": 10, "maintained": true, "archived": false, "open_source": true,
-  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+  "installation_examples": {
+    "pip": "pip install opencv-python"
+  },
+  "tags": [
+    "ai",
+    "computer-vision",
+    "image-processing",
+    "c++",
+    "python",
+    "opencv",
+    "c-plus-plus",
+    "deep-learning"
+  ],
+  "alternatives": [
+    "Pillow",
+    "scikit-image",
+    "Dlib",
+    "MATLAB Vision"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 89982,
+    "forks": 56829,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

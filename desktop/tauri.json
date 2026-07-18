@@ -6,14 +6,50 @@
   "official_website": "https://tauri.app",
   "documentation": "https://tauri.app/v1/guides",
   "github_repository": "https://github.com/tauri-apps/tauri",
-  "license": "MIT",
-  "latest_version": "1.6.0",
-  "programming_languages": ["Rust", "TypeScript", "JavaScript"],
-  "platforms": ["Linux", "macOS", "Windows"],
+  "license": "Apache-2.0",
+  "latest_version": "tauri-v2.11.5",
+  "programming_languages": [
+    "Rust",
+    "TypeScript",
+    "JavaScript"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
   "package_manager": "npm",
-  "installation_examples": {"npm": "npm create tauri-app@latest"},
-  "tags": ["desktop", "rust", "webview", "cross-platform", "lightweight"],
-  "alternatives": ["Electron", "Flutter Desktop", "Qt", "JavaFX"],
-  "popularity": 9, "maintained": true, "archived": false, "open_source": true,
-  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+  "installation_examples": {
+    "npm": "npm create tauri-app@latest"
+  },
+  "tags": [
+    "desktop",
+    "rust",
+    "webview",
+    "cross-platform",
+    "lightweight",
+    "high-performance",
+    "desktop-app",
+    "mobile-app",
+    "native-app",
+    "web-frontend"
+  ],
+  "alternatives": [
+    "Electron",
+    "Flutter Desktop",
+    "Qt",
+    "JavaFX"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 109177,
+    "forks": 3781,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

@@ -8,18 +8,42 @@
   "github_repository": "https://github.com/androidx/androidx",
   "license": "Apache-2.0",
   "latest_version": "2.6.1",
-  "programming_languages": ["Java", "Kotlin"],
-  "platforms": ["Android"],
+  "programming_languages": [
+    "Java",
+    "Kotlin"
+  ],
+  "platforms": [
+    "Android"
+  ],
   "package_manager": "gradle",
   "installation_examples": {
     "gradle": "implementation 'androidx.room:room-runtime:2.6.1'\nkapt 'androidx.room:room-compiler:2.6.1'"
   },
-  "tags": ["android", "database", "orm", "sqlite", "jetpack", "persistence"],
-  "alternatives": ["Realm", "SQLDelight", "ObjectBox", "DBFlow"],
+  "tags": [
+    "android",
+    "database",
+    "orm",
+    "sqlite",
+    "jetpack",
+    "persistence",
+    "library"
+  ],
+  "alternatives": [
+    "Realm",
+    "SQLDelight",
+    "ObjectBox",
+    "DBFlow"
+  ],
   "popularity": 9,
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-11",
-  "last_updated": "2026-07-11"
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 6038,
+    "forks": 1359,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

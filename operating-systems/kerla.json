@@ -1,0 +1,42 @@
+{
+  "id": "kerla",
+  "name": "kerla",
+  "category": "operating-systems",
+  "description": "A new operating system kernel with Linux binary compatibility written in Rust.",
+  "official_website": "https://github.com/nuta/kerla",
+  "documentation": "https://github.com/nuta/kerla#readme",
+  "github_repository": "https://github.com/nuta/kerla",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "operating-system",
+    "operating-system-kernel",
+    "rust"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 3468,
+    "forks": 96,
+    "open_issues": 27,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 62
+}

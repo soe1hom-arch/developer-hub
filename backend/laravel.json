@@ -7,20 +7,47 @@
   "documentation": "https://laravel.com/docs",
   "github_repository": "https://github.com/laravel/laravel",
   "license": "MIT",
-  "latest_version": "11.0",
-  "programming_languages": ["PHP", "JavaScript", "Blade"],
-  "platforms": ["Linux", "macOS", "Windows"],
+  "latest_version": "v13.8.0",
+  "programming_languages": [
+    "PHP",
+    "JavaScript",
+    "Blade"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
   "package_manager": "composer",
   "installation_examples": {
     "composer": "composer create-project laravel/laravel example-app",
     "curl": "curl -s https://laravel.build/example-app | bash"
   },
-  "tags": ["web", "framework", "php", "mvc", "full-stack", "eloquent"],
-  "alternatives": ["Django", "Ruby on Rails", "Symfony", "Spring Boot"],
-  "popularity": 9,
+  "tags": [
+    "web",
+    "framework",
+    "php",
+    "mvc",
+    "full-stack",
+    "eloquent",
+    "laravel"
+  ],
+  "alternatives": [
+    "Django",
+    "Ruby on Rails",
+    "Symfony",
+    "Spring Boot"
+  ],
+  "popularity": 10,
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-11",
-  "last_updated": "2026-07-11"
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 84612,
+    "forks": 24780,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

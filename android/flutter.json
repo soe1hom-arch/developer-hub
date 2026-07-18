@@ -7,19 +7,53 @@
   "documentation": "https://docs.flutter.dev",
   "github_repository": "https://github.com/flutter/flutter",
   "license": "BSD-3-Clause",
-  "latest_version": "3.22.0",
-  "programming_languages": ["Dart"],
-  "platforms": ["Android", "iOS", "Web", "Linux", "macOS", "Windows"],
+  "latest_version": "3.19.0-0.1.pre",
+  "programming_languages": [
+    "Dart"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
   "package_manager": "pub",
   "installation_examples": {
     "pub": "flutter create my_app\ncd my_app\nflutter run"
   },
-  "tags": ["mobile", "ui", "cross-platform", "dart", "widgets"],
-  "alternatives": ["React Native", "Xamarin", "Ionic", "SwiftUI"],
-  "popularity": 9,
+  "tags": [
+    "mobile",
+    "ui",
+    "cross-platform",
+    "dart",
+    "widgets",
+    "android",
+    "ios",
+    "material-design",
+    "skia",
+    "web",
+    "web-framework",
+    "windows",
+    "macos"
+  ],
+  "alternatives": [
+    "React Native",
+    "Xamarin",
+    "Ionic",
+    "SwiftUI"
+  ],
+  "popularity": 10,
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-11",
-  "last_updated": "2026-07-11"
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 177785,
+    "forks": 30730,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

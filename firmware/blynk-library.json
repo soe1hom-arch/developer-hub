@@ -1,0 +1,43 @@
+{
+  "id": "blynk-library",
+  "name": "blynk-library",
+  "category": "firmware",
+  "description": "Blynk library for IoT boards. Works with Arduino, ESP32, ESP8266, Raspberry Pi, Particle, etc.",
+  "official_website": "https://blynk.io",
+  "documentation": "https://github.com/Blynk-Technologies/blynk-library#readme",
+  "github_repository": "https://github.com/Blynk-Technologies/blynk-library",
+  "license": "MIT",
+  "programming_languages": [
+    "C++"
+  ],
+  "platforms": [
+    "Linux",
+    "Embedded"
+  ],
+  "tags": [
+    "arduino",
+    "cellular",
+    "embedded",
+    "esp32",
+    "esp8266",
+    "espressif",
+    "ethernet",
+    "gsm"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 3977,
+    "forks": 1399,
+    "open_issues": 9,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 75
+}

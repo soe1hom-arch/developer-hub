@@ -7,19 +7,45 @@
   "documentation": "https://coil-kt.github.io/coil",
   "github_repository": "https://github.com/coil-kt/coil",
   "license": "Apache-2.0",
-  "latest_version": "2.6.0",
-  "programming_languages": ["Kotlin"],
-  "platforms": ["Android"],
+  "latest_version": "3.5.0",
+  "programming_languages": [
+    "Kotlin"
+  ],
+  "platforms": [
+    "Android"
+  ],
   "package_manager": "gradle",
   "installation_examples": {
     "gradle": "implementation 'io.coil-kt:coil:2.6.0'"
   },
-  "tags": ["android", "image-loading", "kotlin", "coroutines", "compose"],
-  "alternatives": ["Glide", "Picasso", "Fresco"],
-  "popularity": 8,
+  "tags": [
+    "android",
+    "image-loading",
+    "kotlin",
+    "coroutines",
+    "compose",
+    "kotlin-coroutines",
+    "image-loader",
+    "images",
+    "okio",
+    "androidx",
+    "compose-multiplatform"
+  ],
+  "alternatives": [
+    "Glide",
+    "Picasso",
+    "Fresco"
+  ],
+  "popularity": 10,
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-11",
-  "last_updated": "2026-07-11"
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 11857,
+    "forks": 774,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

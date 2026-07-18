@@ -1,0 +1,44 @@
+{
+  "id": "vassonic",
+  "name": "VasSonic",
+  "category": "android",
+  "description": "VasSonic is a lightweight and high-performance Hybrid framework developed by tencent VAS team, which is intended to speed up the first screen of websites working on Android and iOS platform.",
+  "official_website": "https://github.com/Tencent/VasSonic",
+  "documentation": "https://github.com/Tencent/VasSonic#readme",
+  "github_repository": "https://github.com/Tencent/VasSonic",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "Java"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "android-sdk",
+    "h5",
+    "hybrid",
+    "ios-sdk",
+    "web",
+    "webview"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 11859,
+    "forks": 1614,
+    "open_issues": 44,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

@@ -1,0 +1,46 @@
+{
+  "id": "supertonic",
+  "name": "supertonic",
+  "category": "mobile",
+  "description": "Lightning-Fast, On-Device, Multilingual TTS \u2014 running natively via ONNX.",
+  "official_website": "https://huggingface.co/spaces/Supertone/supertonic-3",
+  "documentation": "https://github.com/supertone-inc/supertonic#readme",
+  "github_repository": "https://github.com/supertone-inc/supertonic",
+  "license": "MIT",
+  "programming_languages": [
+    "Swift"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "cpp",
+    "csharp",
+    "flutter",
+    "go",
+    "ios",
+    "java",
+    "lightweight",
+    "multilingual"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 13262,
+    "forks": 1362,
+    "open_issues": 123,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

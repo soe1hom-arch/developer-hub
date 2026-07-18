@@ -1,0 +1,43 @@
+{
+  "id": "firmware",
+  "name": "firmware",
+  "category": "firmware",
+  "description": "The official firmware for Meshtastic, an open-source, off-grid mesh communication system.",
+  "official_website": "https://meshtastic.org",
+  "documentation": "https://github.com/meshtastic/firmware#readme",
+  "github_repository": "https://github.com/meshtastic/firmware",
+  "license": "GPL-3.0",
+  "programming_languages": [
+    "C++"
+  ],
+  "platforms": [
+    "Linux",
+    "Embedded"
+  ],
+  "tags": [
+    "esp32",
+    "gps",
+    "heltec",
+    "hiking",
+    "lora",
+    "mesh",
+    "mesh-networks",
+    "meshtastic"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 7938,
+    "forks": 2541,
+    "open_issues": 485,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

@@ -7,13 +7,46 @@
   "documentation": "https://docs.spring.io/spring-security",
   "github_repository": "https://github.com/spring-projects/spring-security",
   "license": "Apache-2.0",
-  "latest_version": "6.3.1",
-  "programming_languages": ["Java", "Kotlin", "Groovy"],
-  "platforms": ["Linux", "macOS", "Windows"],
+  "latest_version": "7.1.0",
+  "programming_languages": [
+    "Java",
+    "Kotlin",
+    "Groovy"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
   "package_manager": "maven",
-  "installation_examples": {"maven": "<dependency><groupId>org.springframework.boot</groupId><artifactId>spring-boot-starter-security</artifactId></dependency>"},
-  "tags": ["backend", "security", "authentication", "java", "spring"],
-  "alternatives": ["Apache Shiro", "Keycloak", "Auth0", "OAuth"],
-  "popularity": 9, "maintained": true, "archived": false, "open_source": true,
-  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+  "installation_examples": {
+    "maven": "<dependency><groupId>org.springframework.boot</groupId><artifactId>spring-boot-starter-security</artifactId></dependency>"
+  },
+  "tags": [
+    "backend",
+    "security",
+    "authentication",
+    "java",
+    "spring",
+    "spring-framework",
+    "framework"
+  ],
+  "alternatives": [
+    "Apache Shiro",
+    "Keycloak",
+    "Auth0",
+    "OAuth"
+  ],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 9554,
+    "forks": 6303,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

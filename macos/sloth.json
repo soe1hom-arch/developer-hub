@@ -1,0 +1,47 @@
+{
+  "id": "sloth",
+  "name": "Sloth",
+  "category": "macos",
+  "description": "Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.",
+  "official_website": "https://sveinbjorn.org/sloth",
+  "documentation": "https://github.com/sveinbjornt/Sloth#readme",
+  "github_repository": "https://github.com/sveinbjornt/Sloth",
+  "license": "BSD-3-Clause",
+  "programming_languages": [
+    "Objective-C"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "directories",
+    "domain-sockets",
+    "filter",
+    "gui",
+    "ip-sockets",
+    "lsof",
+    "macos",
+    "macos-app"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 8921,
+    "forks": 175,
+    "open_issues": 3,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

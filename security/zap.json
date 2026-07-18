@@ -7,13 +7,51 @@
   "documentation": "https://zaproxy.org/docs",
   "github_repository": "https://github.com/zaproxy/zaproxy",
   "license": "Apache-2.0",
-  "latest_version": "2.15.0",
-  "programming_languages": ["Java", "JavaScript"],
-  "platforms": ["Linux", "macOS", "Windows"],
+  "latest_version": "v2.17.0",
+  "programming_languages": [
+    "Java",
+    "JavaScript"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
   "package_manager": "docker",
-  "installation_examples": {"docker": "docker run -d -p 8080:8080 -p 8090:8090 zaproxy/zap-stable"},
-  "tags": ["security", "web", "scanner", "penetration-testing", "open-source"],
-  "alternatives": ["Burp Suite", "Nessus", "Nikto", "Acunetix"],
-  "popularity": 8, "maintained": true, "archived": false, "open_source": true,
-  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+  "installation_examples": {
+    "docker": "docker run -d -p 8080:8080 -p 8090:8090 zaproxy/zap-stable"
+  },
+  "tags": [
+    "security",
+    "web",
+    "scanner",
+    "penetration-testing",
+    "open-source",
+    "zap",
+    "zap-development",
+    "dast",
+    "appsec",
+    "zaproxy",
+    "security-scanner",
+    "hacktoberfest",
+    "opensource"
+  ],
+  "alternatives": [
+    "Burp Suite",
+    "Nessus",
+    "Nikto",
+    "Acunetix"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 15430,
+    "forks": 2595,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

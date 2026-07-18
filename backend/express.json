@@ -7,20 +7,48 @@
   "documentation": "https://expressjs.com/en/api.html",
   "github_repository": "https://github.com/expressjs/express",
   "license": "MIT",
-  "latest_version": "4.19.2",
-  "programming_languages": ["JavaScript", "TypeScript"],
-  "platforms": ["Linux", "macOS", "Windows"],
+  "latest_version": "v5.2.1",
+  "programming_languages": [
+    "JavaScript",
+    "TypeScript"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
   "package_manager": "npm",
   "installation_examples": {
     "npm": "npm install express",
     "yarn": "yarn add express"
   },
-  "tags": ["web", "framework", "nodejs", "http", "middleware", "api"],
-  "alternatives": ["Fastify", "Koa", "Hapi", "NestJS"],
+  "tags": [
+    "web",
+    "framework",
+    "nodejs",
+    "http",
+    "middleware",
+    "api",
+    "javascript",
+    "express",
+    "server"
+  ],
+  "alternatives": [
+    "Fastify",
+    "Koa",
+    "Hapi",
+    "NestJS"
+  ],
   "popularity": 10,
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-11",
-  "last_updated": "2026-07-11"
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 69223,
+    "forks": 24239,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

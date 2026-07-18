@@ -1,0 +1,47 @@
+{
+  "id": "gitlab-ci-local",
+  "name": "gitlab-ci-local",
+  "category": "devops",
+  "description": "Tired of pushing to test your .gitlab-ci.yml?",
+  "official_website": "https://github.com/firecow/gitlab-ci-local",
+  "documentation": "https://github.com/firecow/gitlab-ci-local#readme",
+  "github_repository": "https://github.com/firecow/gitlab-ci-local",
+  "license": "MIT",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "cd",
+    "ci",
+    "git",
+    "gitlab",
+    "gitlab-ci",
+    "local",
+    "pipeline",
+    "push"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 3998,
+    "forks": 211,
+    "open_issues": 65,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 60
+}

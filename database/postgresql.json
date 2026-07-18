@@ -6,7 +6,7 @@
   "official_website": "https://postgresql.org",
   "documentation": "https://postgresql.org/docs",
   "github_repository": "https://github.com/postgres/postgres",
-  "license": "PostgreSQL",
+  "license": "NOASSERTION",
   "latest_version": "16.3",
   "programming_languages": [
     "C"
@@ -39,6 +39,12 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-11",
-  "last_updated": "2026-07-11"
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 21505,
+    "forks": 5782,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

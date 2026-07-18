@@ -6,14 +6,54 @@
   "official_website": "https://astro.build",
   "documentation": "https://docs.astro.build",
   "github_repository": "https://github.com/withastro/astro",
-  "license": "MIT",
-  "latest_version": "4.11.0",
-  "programming_languages": ["TypeScript", "JavaScript", "Astro"],
-  "platforms": ["Web"],
+  "license": "NOASSERTION",
+  "latest_version": "astro@7.1.1",
+  "programming_languages": [
+    "TypeScript",
+    "JavaScript",
+    "Astro"
+  ],
+  "platforms": [
+    "Web"
+  ],
   "package_manager": "npm",
-  "installation_examples": {"npm": "npm create astro@latest"},
-  "tags": ["web", "framework", "static-site", "ssg", "islands-architecture"],
-  "alternatives": ["Next.js", "Gatsby", "Hugo", "Jekyll", "11ty"],
-  "popularity": 9, "maintained": true, "archived": false, "open_source": true,
-  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+  "installation_examples": {
+    "npm": "npm create astro@latest"
+  },
+  "tags": [
+    "web",
+    "framework",
+    "static-site",
+    "ssg",
+    "islands-architecture",
+    "static-site-generator",
+    "blog",
+    "islands",
+    "components",
+    "node",
+    "browser",
+    "server",
+    "hybrid",
+    "universal",
+    "astro"
+  ],
+  "alternatives": [
+    "Next.js",
+    "Gatsby",
+    "Hugo",
+    "Jekyll",
+    "11ty"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 61106,
+    "forks": 3635,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

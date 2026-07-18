@@ -7,20 +7,48 @@
   "documentation": "https://typescriptlang.org/docs",
   "github_repository": "https://github.com/microsoft/TypeScript",
   "license": "Apache-2.0",
-  "latest_version": "5.4.5",
-  "programming_languages": ["TypeScript", "JavaScript"],
-  "platforms": ["Linux", "macOS", "Windows"],
+  "latest_version": "v6.0.3",
+  "programming_languages": [
+    "TypeScript",
+    "JavaScript"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
   "package_manager": "npm",
   "installation_examples": {
     "npm": "npm install -D typescript",
     "yarn": "yarn add -D typescript"
   },
-  "tags": ["programming-language", "typed", "compiled", "javascript", "frontend", "backend"],
-  "alternatives": ["JavaScript", "Flow", "PureScript", "Reason"],
+  "tags": [
+    "programming-language",
+    "typed",
+    "compiled",
+    "javascript",
+    "frontend",
+    "backend",
+    "typescript",
+    "language",
+    "typechecker"
+  ],
+  "alternatives": [
+    "JavaScript",
+    "Flow",
+    "PureScript",
+    "Reason"
+  ],
   "popularity": 10,
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-11",
-  "last_updated": "2026-07-11"
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 109851,
+    "forks": 13548,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

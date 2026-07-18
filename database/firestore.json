@@ -6,14 +6,55 @@
   "official_website": "https://firebase.google.com/products/firestore",
   "documentation": "https://firebase.google.com/docs/firestore",
   "github_repository": "https://github.com/firebase/firebase-ios-sdk",
-  "license": "Proprietary",
-  "latest_version": "N/A",
-  "programming_languages": ["TypeScript", "JavaScript", "Kotlin", "Swift"],
-  "platforms": ["Cloud", "Android", "iOS", "Web"],
+  "license": "Apache-2.0",
+  "latest_version": "12.16.0",
+  "programming_languages": [
+    "TypeScript",
+    "JavaScript",
+    "Kotlin",
+    "Swift"
+  ],
+  "platforms": [
+    "Cloud",
+    "Android",
+    "iOS",
+    "Web"
+  ],
   "package_manager": "npm",
-  "installation_examples": {"npm": "npm install firebase firebase-admin"},
-  "tags": ["database", "nosql", "cloud", "realtime", "firebase"],
-  "alternatives": ["Supabase", "MongoDB Atlas", "AWS DynamoDB"],
-  "popularity": 9, "maintained": true, "archived": false, "open_source": false,
-  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+  "installation_examples": {
+    "npm": "npm install firebase firebase-admin"
+  },
+  "tags": [
+    "database",
+    "nosql",
+    "cloud",
+    "realtime",
+    "firebase",
+    "ios-sdk",
+    "objective-c",
+    "database-as-a-service",
+    "push-notifications",
+    "storage-service",
+    "authentication",
+    "firebase-database",
+    "firebase-auth",
+    "firebase-authentication"
+  ],
+  "alternatives": [
+    "Supabase",
+    "MongoDB Atlas",
+    "AWS DynamoDB"
+  ],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": false,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 6634,
+    "forks": 1762,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

@@ -1,0 +1,45 @@
+{
+  "id": "nx",
+  "name": "nx",
+  "category": "frontend",
+  "description": "The Monorepo Platform that amplifies both developers and AI agents. Nx optimizes your builds, scales your CI, and fixes failed PRs automatically. Ship in half the time.",
+  "official_website": "https://nx.dev",
+  "documentation": "https://github.com/nrwl/nx#readme",
+  "github_repository": "https://github.com/nrwl/nx",
+  "license": "MIT",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "angular",
+    "build",
+    "build-system",
+    "build-tool",
+    "building-tool",
+    "cli",
+    "cypress",
+    "hacktoberfest"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 29103,
+    "forks": 2833,
+    "open_issues": 483,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 90
+}

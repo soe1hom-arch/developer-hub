@@ -7,13 +7,46 @@
   "documentation": "https://docs.deno.com",
   "github_repository": "https://github.com/denoland/deno",
   "license": "MIT",
-  "latest_version": "1.45.0",
-  "programming_languages": ["TypeScript", "JavaScript", "Rust"],
-  "platforms": ["Linux", "macOS", "Windows"],
+  "latest_version": "v2.9.3",
+  "programming_languages": [
+    "TypeScript",
+    "JavaScript",
+    "Rust"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
   "package_manager": "deno",
-  "installation_examples": {"curl": "curl -fsSL https://deno.land/install.sh | sh", "brew": "brew install deno"},
-  "tags": ["runtime", "javascript", "typescript", "secure", "modern"],
-  "alternatives": ["Node.js", "Bun", "Python"],
-  "popularity": 7, "maintained": true, "archived": false, "open_source": true,
-  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+  "installation_examples": {
+    "curl": "curl -fsSL https://deno.land/install.sh | sh",
+    "brew": "brew install deno"
+  },
+  "tags": [
+    "runtime",
+    "javascript",
+    "typescript",
+    "secure",
+    "modern",
+    "deno",
+    "rust"
+  ],
+  "alternatives": [
+    "Node.js",
+    "Bun",
+    "Python"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 107709,
+    "forks": 6181,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

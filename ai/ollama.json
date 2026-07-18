@@ -7,20 +7,54 @@
   "documentation": "https://github.com/ollama/ollama/tree/main/docs",
   "github_repository": "https://github.com/ollama/ollama",
   "license": "MIT",
-  "latest_version": "0.3.0",
-  "programming_languages": ["Go", "C++"],
-  "platforms": ["Linux", "macOS", "Windows"],
+  "latest_version": "v0.32.1",
+  "programming_languages": [
+    "Go",
+    "C++"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
   "package_manager": "brew",
   "installation_examples": {
     "brew": "brew install ollama",
     "curl": "curl -fsSL https://ollama.com/install.sh | sh"
   },
-  "tags": ["ai", "llm", "local", "inference", "cli", "self-hosted"],
-  "alternatives": ["LocalAI", "llama.cpp", "vLLM", "LM Studio"],
-  "popularity": 9,
+  "tags": [
+    "ai",
+    "llm",
+    "local",
+    "inference",
+    "cli",
+    "self-hosted",
+    "llama",
+    "llms",
+    "go",
+    "golang",
+    "ollama",
+    "mistral",
+    "gemma",
+    "llama3",
+    "deepseek"
+  ],
+  "alternatives": [
+    "LocalAI",
+    "llama.cpp",
+    "vLLM",
+    "LM Studio"
+  ],
+  "popularity": 10,
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-11",
-  "last_updated": "2026-07-11"
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 176345,
+    "forks": 17000,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

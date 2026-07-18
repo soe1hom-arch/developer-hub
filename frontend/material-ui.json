@@ -7,13 +7,43 @@
   "documentation": "https://mui.com/material-ui",
   "github_repository": "https://github.com/mui/material-ui",
   "license": "MIT",
-  "latest_version": "5.16.1",
-  "programming_languages": ["TypeScript", "JavaScript"],
-  "platforms": ["Web"],
+  "latest_version": "v9.2.0",
+  "programming_languages": [
+    "TypeScript",
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web"
+  ],
   "package_manager": "npm",
-  "installation_examples": {"npm": "npm install @mui/material @emotion/react @emotion/styled"},
-  "tags": ["ui", "react", "components", "material-design", "design-system"],
-  "alternatives": ["Chakra UI", "Ant Design", "Shadcn/ui", "Radix UI"],
-  "popularity": 9, "maintained": true, "archived": false, "open_source": true,
-  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+  "installation_examples": {
+    "npm": "npm install @mui/material @emotion/react @emotion/styled"
+  },
+  "tags": [
+    "ui",
+    "react",
+    "components",
+    "material-design",
+    "design-system",
+    "react-components",
+    "material-ui"
+  ],
+  "alternatives": [
+    "Chakra UI",
+    "Ant Design",
+    "Shadcn/ui",
+    "Radix UI"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 98609,
+    "forks": 32569,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

@@ -7,13 +7,47 @@
   "documentation": "https://ui.shadcn.com/docs",
   "github_repository": "https://github.com/shadcn-ui/ui",
   "license": "MIT",
-  "latest_version": "2024-07",
-  "programming_languages": ["TypeScript", "JavaScript"],
-  "platforms": ["Web"],
+  "latest_version": "shadcn@4.13.1",
+  "programming_languages": [
+    "TypeScript",
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web"
+  ],
   "package_manager": "npm",
-  "installation_examples": {"npm": "npx shadcn-ui@latest init"},
-  "tags": ["ui", "react", "components", "tailwind-css", "radix-ui"],
-  "alternatives": ["Chakra UI", "Material UI", "Radix UI", "Headless UI"],
-  "popularity": 10, "maintained": true, "archived": false, "open_source": true,
-  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+  "installation_examples": {
+    "npm": "npx shadcn-ui@latest init"
+  },
+  "tags": [
+    "ui",
+    "react",
+    "components",
+    "tailwind-css",
+    "radix-ui",
+    "nextjs",
+    "tailwindcss",
+    "shadcn",
+    "base-ui",
+    "laravel",
+    "tanstack"
+  ],
+  "alternatives": [
+    "Chakra UI",
+    "Material UI",
+    "Radix UI",
+    "Headless UI"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 119207,
+    "forks": 9433,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

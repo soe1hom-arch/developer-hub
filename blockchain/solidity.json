@@ -7,13 +7,46 @@
   "documentation": "https://docs.soliditylang.org",
   "github_repository": "https://github.com/ethereum/solidity",
   "license": "GPL-3.0",
-  "latest_version": "0.8.26",
-  "programming_languages": ["Solidity"],
-  "platforms": ["Ethereum", "EVM", "Blockchain"],
+  "latest_version": "v0.8.36",
+  "programming_languages": [
+    "Solidity"
+  ],
+  "platforms": [
+    "Ethereum",
+    "EVM",
+    "Blockchain"
+  ],
   "package_manager": "npm",
-  "installation_examples": {"npm": "npm install -g solc"},
-  "tags": ["blockchain", "smart-contracts", "ethereum", "solidity", "programming-language"],
-  "alternatives": ["Vyper", "Rust (WASM)", "Move", "Cairo"],
-  "popularity": 9, "maintained": true, "archived": false, "open_source": true,
-  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+  "installation_examples": {
+    "npm": "npm install -g solc"
+  },
+  "tags": [
+    "blockchain",
+    "smart-contracts",
+    "ethereum",
+    "solidity",
+    "programming-language",
+    "cpp",
+    "smartcontracts",
+    "language",
+    "hacktoberfest"
+  ],
+  "alternatives": [
+    "Vyper",
+    "Rust (WASM)",
+    "Move",
+    "Cairo"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 25683,
+    "forks": 6149,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

@@ -7,7 +7,7 @@
   "documentation": "https://docs.brew.sh",
   "github_repository": "https://github.com/Homebrew/brew",
   "license": "BSD-2-Clause",
-  "latest_version": "4.3.0",
+  "latest_version": "6.0.11",
   "programming_languages": [
     "Ruby",
     "Shell"
@@ -25,7 +25,10 @@
     "package-manager",
     "macos",
     "linux",
-    "cli"
+    "cli",
+    "homebrew",
+    "ruby",
+    "brew"
   ],
   "alternatives": [
     "MacPorts",
@@ -37,6 +40,12 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-11",
-  "last_updated": "2026-07-11"
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 48859,
+    "forks": 11232,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

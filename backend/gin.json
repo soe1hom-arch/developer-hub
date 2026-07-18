@@ -7,13 +7,48 @@
   "documentation": "https://gin-gonic.com/docs",
   "github_repository": "https://github.com/gin-gonic/gin",
   "license": "MIT",
-  "latest_version": "1.10.0",
-  "programming_languages": ["Go"],
-  "platforms": ["Linux", "macOS", "Windows"],
+  "latest_version": "v1.12.0",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
   "package_manager": "go mod",
-  "installation_examples": {"go": "go get -u github.com/gin-gonic/gin"},
-  "tags": ["backend", "web", "framework", "go", "http", "api"],
-  "alternatives": ["Echo", "Fiber", "Chi", "FastHTTP"],
-  "popularity": 9, "maintained": true, "archived": false, "open_source": true,
-  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+  "installation_examples": {
+    "go": "go get -u github.com/gin-gonic/gin"
+  },
+  "tags": [
+    "backend",
+    "web",
+    "framework",
+    "go",
+    "http",
+    "api",
+    "server",
+    "middleware",
+    "router",
+    "performance",
+    "gin"
+  ],
+  "alternatives": [
+    "Echo",
+    "Fiber",
+    "Chi",
+    "FastHTTP"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 88924,
+    "forks": 8642,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

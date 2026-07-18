@@ -7,13 +7,51 @@
   "documentation": "https://docs.llamaindex.ai",
   "github_repository": "https://github.com/run-llama/llama_index",
   "license": "MIT",
-  "latest_version": "0.10.55",
-  "programming_languages": ["Python", "TypeScript"],
-  "platforms": ["Linux", "macOS", "Windows"],
+  "latest_version": "v0.14.23",
+  "programming_languages": [
+    "Python",
+    "TypeScript"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
   "package_manager": "pip",
-  "installation_examples": {"pip": "pip install llama-index"},
-  "tags": ["ai", "llm", "rag", "indexing", "retrieval", "framework"],
-  "alternatives": ["LangChain", "Haystack", "Semantic Kernel", "DSPy"],
-  "popularity": 9, "maintained": true, "archived": false, "open_source": true,
-  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+  "installation_examples": {
+    "pip": "pip install llama-index"
+  },
+  "tags": [
+    "ai",
+    "llm",
+    "rag",
+    "indexing",
+    "retrieval",
+    "framework",
+    "agents",
+    "application",
+    "data",
+    "fine-tuning",
+    "llamaindex",
+    "vector-database",
+    "multi-agents"
+  ],
+  "alternatives": [
+    "LangChain",
+    "Haystack",
+    "Semantic Kernel",
+    "DSPy"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 50917,
+    "forks": 7766,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

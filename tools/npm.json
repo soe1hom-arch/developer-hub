@@ -6,14 +6,46 @@
   "official_website": "https://npmjs.com",
   "documentation": "https://docs.npmjs.com",
   "github_repository": "https://github.com/npm/cli",
-  "license": "Artistic-2.0",
-  "latest_version": "10.8.1",
-  "programming_languages": ["JavaScript", "Node.js"],
-  "platforms": ["Linux", "macOS", "Windows"],
+  "license": "NOASSERTION",
+  "latest_version": "libnpmpack-v10.0.1",
+  "programming_languages": [
+    "JavaScript",
+    "Node.js"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
   "package_manager": "npm",
-  "installation_examples": {"npm": "npm install -g npm@latest"},
-  "tags": ["tool", "package-manager", "javascript", "nodejs", "registry"],
-  "alternatives": ["Yarn", "pnpm", "Bun"],
-  "popularity": 10, "maintained": true, "archived": false, "open_source": true,
-  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+  "installation_examples": {
+    "npm": "npm install -g npm@latest"
+  },
+  "tags": [
+    "tool",
+    "package-manager",
+    "javascript",
+    "nodejs",
+    "registry",
+    "npm",
+    "tools",
+    "npm-cli"
+  ],
+  "alternatives": [
+    "Yarn",
+    "pnpm",
+    "Bun"
+  ],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 9951,
+    "forks": 4517,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

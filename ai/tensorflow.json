@@ -7,19 +7,52 @@
   "documentation": "https://tensorflow.org/api_docs",
   "github_repository": "https://github.com/tensorflow/tensorflow",
   "license": "Apache-2.0",
-  "latest_version": "2.16.1",
-  "programming_languages": ["Python", "C++", "CUDA"],
-  "platforms": ["Linux", "macOS", "Windows", "Android", "iOS", "Web"],
+  "latest_version": "v2.21.0",
+  "programming_languages": [
+    "Python",
+    "C++",
+    "CUDA"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "iOS",
+    "Web"
+  ],
   "package_manager": "pip",
   "installation_examples": {
     "pip": "pip install tensorflow"
   },
-  "tags": ["machine-learning", "deep-learning", "neural-networks", "ml", "ai-framework"],
-  "alternatives": ["PyTorch", "JAX", "Keras", "MXNet"],
-  "popularity": 9,
+  "tags": [
+    "machine-learning",
+    "deep-learning",
+    "neural-networks",
+    "ml",
+    "ai-framework",
+    "tensorflow",
+    "python",
+    "deep-neural-networks",
+    "neural-network",
+    "distributed"
+  ],
+  "alternatives": [
+    "PyTorch",
+    "JAX",
+    "Keras",
+    "MXNet"
+  ],
+  "popularity": 10,
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-11",
-  "last_updated": "2026-07-11"
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 196322,
+    "forks": 75529,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

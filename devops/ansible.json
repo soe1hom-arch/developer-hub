@@ -7,20 +7,45 @@
   "documentation": "https://docs.ansible.com",
   "github_repository": "https://github.com/ansible/ansible",
   "license": "GPL-3.0",
-  "latest_version": "10.1.0",
-  "programming_languages": ["Python"],
-  "platforms": ["Linux", "macOS", "Windows"],
+  "latest_version": "v2.21.2",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
   "package_manager": "pip",
   "installation_examples": {
     "pip": "pip install ansible",
     "apt": "sudo apt install ansible"
   },
-  "tags": ["automation", "configuration-management", "devops", "iac", "provisioning"],
-  "alternatives": ["Puppet", "Chef", "SaltStack", "Terraform"],
-  "popularity": 9,
+  "tags": [
+    "automation",
+    "configuration-management",
+    "devops",
+    "iac",
+    "provisioning",
+    "python",
+    "ansible"
+  ],
+  "alternatives": [
+    "Puppet",
+    "Chef",
+    "SaltStack",
+    "Terraform"
+  ],
+  "popularity": 10,
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-11",
-  "last_updated": "2026-07-11"
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 69621,
+    "forks": 24179,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

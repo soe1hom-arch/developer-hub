@@ -1,0 +1,47 @@
+{
+  "id": "uvloop",
+  "name": "uvloop",
+  "category": "network",
+  "description": "Ultra fast asyncio event loop.",
+  "official_website": "https://github.com/MagicStack/uvloop",
+  "documentation": "https://github.com/MagicStack/uvloop#readme",
+  "github_repository": "https://github.com/MagicStack/uvloop",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Cython"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "async",
+    "async-await",
+    "async-python",
+    "asyncio",
+    "event-loop",
+    "high-performance",
+    "libuv",
+    "networking"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 11861,
+    "forks": 611,
+    "open_issues": 155,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 70
+}

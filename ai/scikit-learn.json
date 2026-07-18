@@ -7,13 +7,47 @@
   "documentation": "https://scikit-learn.org/stable/documentation.html",
   "github_repository": "https://github.com/scikit-learn/scikit-learn",
   "license": "BSD-3-Clause",
-  "latest_version": "1.5.1",
-  "programming_languages": ["Python", "Cython", "C++"],
-  "platforms": ["Linux", "macOS", "Windows"],
+  "latest_version": "1.9.0",
+  "programming_languages": [
+    "Python",
+    "Cython",
+    "C++"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
   "package_manager": "pip",
-  "installation_examples": {"pip": "pip install scikit-learn"},
-  "tags": ["ai", "machine-learning", "python", "classification", "clustering"],
-  "alternatives": ["XGBoost", "LightGBM", "CatBoost", "PyCaret"],
-  "popularity": 10, "maintained": true, "archived": false, "open_source": true,
-  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+  "installation_examples": {
+    "pip": "pip install scikit-learn"
+  },
+  "tags": [
+    "ai",
+    "machine-learning",
+    "python",
+    "classification",
+    "clustering",
+    "statistics",
+    "data-science",
+    "data-analysis"
+  ],
+  "alternatives": [
+    "XGBoost",
+    "LightGBM",
+    "CatBoost",
+    "PyCaret"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 66708,
+    "forks": 27188,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

@@ -1,0 +1,41 @@
+{
+  "id": "swift-algorithm-club",
+  "name": "swift-algorithm-club",
+  "category": "mobile",
+  "description": "Algorithms and data structures in Swift, with explanations!",
+  "official_website": "https://github.com/kodecocodes/swift-algorithm-club",
+  "documentation": "https://github.com/kodecocodes/swift-algorithm-club#readme",
+  "github_repository": "https://github.com/kodecocodes/swift-algorithm-club",
+  "license": "MIT",
+  "programming_languages": [
+    "Swift"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "algorithms",
+    "data-structures",
+    "swift"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 29101,
+    "forks": 4954,
+    "open_issues": 62,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 72
+}

@@ -1,0 +1,41 @@
+{
+  "id": "bandwhich",
+  "name": "bandwhich",
+  "category": "cli-tools",
+  "description": "Terminal bandwidth utilization tool",
+  "official_website": "https://github.com/imsnif/bandwhich",
+  "documentation": "https://github.com/imsnif/bandwhich#readme",
+  "github_repository": "https://github.com/imsnif/bandwhich",
+  "license": "MIT",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "bandwidth",
+    "cli",
+    "dashboard",
+    "networking"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 11856,
+    "forks": 344,
+    "open_issues": 54,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 67
+}

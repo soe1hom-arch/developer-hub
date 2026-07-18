@@ -1,0 +1,47 @@
+{
+  "id": "darwinkit",
+  "name": "darwinkit",
+  "category": "macos",
+  "description": "Native Mac APIs for Go. Previously known as MacDriver",
+  "official_website": "https://github.com/progrium/darwinkit",
+  "documentation": "https://github.com/progrium/darwinkit#readme",
+  "github_repository": "https://github.com/progrium/darwinkit",
+  "license": "MIT",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "appkit",
+    "apple",
+    "apple-apis",
+    "bindings",
+    "bridge",
+    "cgo",
+    "cocoa",
+    "coremidi"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 5434,
+    "forks": 175,
+    "open_issues": 41,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 70
+}

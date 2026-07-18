@@ -1,0 +1,45 @@
+{
+  "id": "extension",
+  "name": "extension",
+  "category": "blockchain",
+  "description": "Taho, the community owned and operated Web3 wallet.",
+  "official_website": "https://taho.xyz",
+  "documentation": "https://github.com/tahowallet/extension#readme",
+  "github_repository": "https://github.com/tahowallet/extension",
+  "license": "GPL-3.0",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "bitcoin",
+    "cryptocurrency",
+    "dapp",
+    "ethereum",
+    "wallet",
+    "web3"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 3201,
+    "forks": 425,
+    "open_issues": 333,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 75
+}

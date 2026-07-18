@@ -7,13 +7,51 @@
   "documentation": "https://www.jenkins.io/doc",
   "github_repository": "https://github.com/jenkinsci/jenkins",
   "license": "MIT",
-  "latest_version": "2.462",
-  "programming_languages": ["Java", "Groovy"],
-  "platforms": ["Linux", "macOS", "Windows"],
+  "latest_version": "jenkins-2.573",
+  "programming_languages": [
+    "Java",
+    "Groovy"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
   "package_manager": "apt",
-  "installation_examples": {"docker": "docker run -d -p 8080:8080 -p 50000:50000 jenkins/jenkins:lts"},
-  "tags": ["devops", "ci/cd", "automation", "java", "pipeline"],
-  "alternatives": ["GitHub Actions", "GitLab CI", "CircleCI", "Travis CI"],
-  "popularity": 8, "maintained": true, "archived": false, "open_source": true,
-  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+  "installation_examples": {
+    "docker": "docker run -d -p 8080:8080 -p 50000:50000 jenkins/jenkins:lts"
+  },
+  "tags": [
+    "devops",
+    "ci/cd",
+    "automation",
+    "java",
+    "pipeline",
+    "continuous-integration",
+    "continuous-delivery",
+    "continuous-deployment",
+    "groovy",
+    "jenkins",
+    "pipelines-as-code",
+    "cicd",
+    "hacktoberfest"
+  ],
+  "alternatives": [
+    "GitHub Actions",
+    "GitLab CI",
+    "CircleCI",
+    "Travis CI"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 25585,
+    "forks": 9614,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

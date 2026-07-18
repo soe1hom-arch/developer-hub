@@ -1,0 +1,45 @@
+{
+  "id": "androiddevtools",
+  "name": "AndroidDevTools",
+  "category": "android",
+  "description": "\u6536\u96c6\u6574\u7406Android\u5f00\u53d1\u6240\u9700\u7684Android SDK\u3001\u5f00\u53d1\u4e2d\u7528\u5230\u7684\u5de5\u5177\u3001Android\u5f00\u53d1\u6559\u7a0b\u3001Android\u8bbe\u8ba1\u89c4\u8303\uff0c\u514d\u8d39\u7684\u8bbe\u8ba1\u7d20\u6750\u7b49\u3002",
+  "official_website": "https://www.androiddevtools.cn",
+  "documentation": "https://github.com/inferjay/AndroidDevTools#readme",
+  "github_repository": "https://github.com/inferjay/AndroidDevTools",
+  "license": "MIT",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "adt",
+    "android-development",
+    "android-sdk",
+    "android-studio",
+    "gradle",
+    "ndk",
+    "sdk-manager"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 8045,
+    "forks": 2074,
+    "open_issues": 6,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 75
+}

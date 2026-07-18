@@ -1,0 +1,47 @@
+{
+  "id": "automatic-ripping-machine",
+  "name": "automatic-ripping-machine",
+  "category": "devops",
+  "description": "Automatic Ripping Machine (ARM) Scripts",
+  "official_website": "https://b3n.org/automatic-ripping-machine",
+  "documentation": "https://github.com/automatic-ripping-machine/automatic-ripping-machine#readme",
+  "github_repository": "https://github.com/automatic-ripping-machine/automatic-ripping-machine",
+  "license": "MIT",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "automatic",
+    "blu-ray",
+    "cd",
+    "disc",
+    "dvd",
+    "emby",
+    "hacktoberfest",
+    "handbrake"
+  ],
+  "alternatives": [],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 4999,
+    "forks": 483,
+    "open_issues": 157,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 70
+}

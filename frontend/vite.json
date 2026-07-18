@@ -7,13 +7,45 @@
   "documentation": "https://vitejs.dev/guide",
   "github_repository": "https://github.com/vitejs/vite",
   "license": "MIT",
-  "latest_version": "5.3.3",
-  "programming_languages": ["TypeScript", "JavaScript"],
-  "platforms": ["Web", "Linux", "macOS", "Windows"],
+  "latest_version": "v8.1.5",
+  "programming_languages": [
+    "TypeScript",
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
   "package_manager": "npm",
-  "installation_examples": {"npm": "npm create vite@latest"},
-  "tags": ["web", "build-tool", "dev-server", "hmr", "frontend"],
-  "alternatives": ["Webpack", "esbuild", "Parcel", "Rollup"],
-  "popularity": 10, "maintained": true, "archived": false, "open_source": true,
-  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+  "installation_examples": {
+    "npm": "npm create vite@latest"
+  },
+  "tags": [
+    "web",
+    "build-tool",
+    "dev-server",
+    "hmr",
+    "frontend",
+    "vite"
+  ],
+  "alternatives": [
+    "Webpack",
+    "esbuild",
+    "Parcel",
+    "Rollup"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 81971,
+    "forks": 8498,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

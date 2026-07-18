@@ -1,0 +1,43 @@
+{
+  "id": "pixez-flutter",
+  "name": "pixez-flutter",
+  "category": "mobile",
+  "description": "\u4e00\u4e2a\u652f\u6301\u514d\u4ee3\u7406\u76f4\u8fde\u53ca\u67e5\u770b\u52a8\u56fe\u7684\u7b2c\u4e09\u65b9Pixiv flutter\u5ba2\u6237\u7aef",
+  "official_website": "https://github.com/Notsfsssf/pixez-flutter",
+  "documentation": "https://github.com/Notsfsssf/pixez-flutter#readme",
+  "github_repository": "https://github.com/Notsfsssf/pixez-flutter",
+  "license": "GPL-3.0",
+  "programming_languages": [
+    "Dart"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "android",
+    "flutter",
+    "ios",
+    "pixez",
+    "pixiv"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 12345,
+    "forks": 451,
+    "open_issues": 487,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 70
+}

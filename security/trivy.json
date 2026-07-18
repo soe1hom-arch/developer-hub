@@ -7,13 +7,51 @@
   "documentation": "https://trivy.dev/docs",
   "github_repository": "https://github.com/aquasecurity/trivy",
   "license": "Apache-2.0",
-  "latest_version": "0.53.0",
-  "programming_languages": ["Go"],
-  "platforms": ["Linux", "macOS", "Windows"],
+  "latest_version": "v0.72.0",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
   "package_manager": "brew",
-  "installation_examples": {"brew": "brew install trivy", "curl": "curl -sfL https://raw.githubusercontent.com/aquasecurity/trivy/main/contrib/install.sh | sh"},
-  "tags": ["security", "vulnerability", "container", "scanner", "open-source"],
-  "alternatives": ["Snyk", "Clair", "Anchore", "Grype"],
-  "popularity": 9, "maintained": true, "archived": false, "open_source": true,
-  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+  "installation_examples": {
+    "brew": "brew install trivy",
+    "curl": "curl -sfL https://raw.githubusercontent.com/aquasecurity/trivy/main/contrib/install.sh | sh"
+  },
+  "tags": [
+    "security",
+    "vulnerability",
+    "container",
+    "scanner",
+    "open-source",
+    "security-tools",
+    "docker",
+    "containers",
+    "vulnerability-scanners",
+    "vulnerability-detection",
+    "golang",
+    "go",
+    "kubernetes"
+  ],
+  "alternatives": [
+    "Snyk",
+    "Clair",
+    "Anchore",
+    "Grype"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 36963,
+    "forks": 543,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

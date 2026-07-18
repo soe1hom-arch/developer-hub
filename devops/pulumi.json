@@ -1,1 +1,62 @@
-{"id":"pulumi","name":"Pulumi","category":"devops","description":"Infrastructure as Code platform using general-purpose programming languages for cloud provisioning","official_website":"https://pulumi.com","documentation":"https://pulumi.com/docs","github_repository":"https://github.com/pulumi/pulumi","license":"Apache-2.0","latest_version":"3.120.0","programming_languages":["TypeScript","Python","Go","C#","Java"],"platforms":["Cloud","Linux","macOS","Windows"],"package_manager":"npm","installation_examples":{"brew":"brew install pulumi","npm":"npm install -g @pulumi/cli"},"tags":["devops","iac","infrastructure","cloud","automation"],"alternatives":["Terraform","AWS CDK","CloudFormation","CDKTF"],"popularity":8,"maintained":true,"archived":false,"open_source":true,"last_checked":"2026-07-11","last_updated":"2026-07-11"}
+{
+  "id": "pulumi",
+  "name": "Pulumi",
+  "category": "devops",
+  "description": "Infrastructure as Code platform using general-purpose programming languages for cloud provisioning",
+  "official_website": "https://pulumi.com",
+  "documentation": "https://pulumi.com/docs",
+  "github_repository": "https://github.com/pulumi/pulumi",
+  "license": "Apache-2.0",
+  "latest_version": "v3.253.0",
+  "programming_languages": [
+    "TypeScript",
+    "Python",
+    "Go",
+    "C#",
+    "Java"
+  ],
+  "platforms": [
+    "Cloud",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "package_manager": "npm",
+  "installation_examples": {
+    "brew": "brew install pulumi",
+    "npm": "npm install -g @pulumi/cli"
+  },
+  "tags": [
+    "devops",
+    "iac",
+    "infrastructure",
+    "cloud",
+    "automation",
+    "infrastructure-as-code",
+    "serverless",
+    "containers",
+    "aws",
+    "azure",
+    "gcp",
+    "kubernetes",
+    "cloud-computing"
+  ],
+  "alternatives": [
+    "Terraform",
+    "AWS CDK",
+    "CloudFormation",
+    "CDKTF"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 25452,
+    "forks": 1402,
+    "open_issues": 0,
+    "watchers": 0
+  }
+}

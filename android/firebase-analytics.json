@@ -1,1 +1,57 @@
-{"id":"firebase-analytics","name":"Firebase Analytics","category":"android","description":"Google's free app measurement solution providing insights on app usage, engagement, and retention","official_website":"https://firebase.google.com/products/analytics","documentation":"https://firebase.google.com/docs/analytics","github_repository":"https://github.com/firebase/firebase-android-sdk","license":"Proprietary","latest_version":"N/A","programming_languages":["Kotlin","Java"],"platforms":["Android","iOS","Web"],"package_manager":"gradle","installation_examples":{"gradle":"implementation 'com.google.firebase:firebase-analytics-ktx:21.5.0'"},"tags":["android","analytics","firebase","google","tracking"],"alternatives":["Mixpanel","Amplitude","Segment","MATomo"],"popularity":9,"maintained":true,"archived":false,"open_source":false,"last_checked":"2026-07-11","last_updated":"2026-07-11"}
+{
+  "id": "firebase-analytics",
+  "name": "Firebase Analytics",
+  "category": "android",
+  "description": "Google's free app measurement solution providing insights on app usage, engagement, and retention",
+  "official_website": "https://firebase.google.com/products/analytics",
+  "documentation": "https://firebase.google.com/docs/analytics",
+  "github_repository": "https://github.com/firebase/firebase-android-sdk",
+  "license": "Apache-2.0",
+  "latest_version": "N/A",
+  "programming_languages": [
+    "Kotlin",
+    "Java"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Web"
+  ],
+  "package_manager": "gradle",
+  "installation_examples": {
+    "gradle": "implementation 'com.google.firebase:firebase-analytics-ktx:21.5.0'"
+  },
+  "tags": [
+    "android",
+    "analytics",
+    "firebase",
+    "google",
+    "tracking",
+    "firebase-database",
+    "firebase-realtime-database",
+    "firebase-functions",
+    "firebase-storage",
+    "database-as-a-service",
+    "firebase-firestore",
+    "firebase-inappmessaging",
+    "firebase-remote-config"
+  ],
+  "alternatives": [
+    "Mixpanel",
+    "Amplitude",
+    "Segment",
+    "MATomo"
+  ],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": false,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 2550,
+    "forks": 706,
+    "open_issues": 0,
+    "watchers": 0
+  }
+}

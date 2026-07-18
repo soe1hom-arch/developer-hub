@@ -7,13 +7,42 @@
   "documentation": "https://remix.run/docs",
   "github_repository": "https://github.com/remix-run/remix",
   "license": "MIT",
-  "latest_version": "2.10.2",
-  "programming_languages": ["TypeScript", "JavaScript"],
-  "platforms": ["Web"],
+  "latest_version": "remix@3.0.0-beta.5",
+  "programming_languages": [
+    "TypeScript",
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web"
+  ],
   "package_manager": "npm",
-  "installation_examples": {"npm": "npx create-remix@latest"},
-  "tags": ["web", "framework", "ssr", "react", "full-stack", "routing"],
-  "alternatives": ["Next.js", "Nuxt", "SvelteKit", "Astro"],
-  "popularity": 8, "maintained": true, "archived": false, "open_source": true,
-  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+  "installation_examples": {
+    "npm": "npx create-remix@latest"
+  },
+  "tags": [
+    "web",
+    "framework",
+    "ssr",
+    "react",
+    "full-stack",
+    "routing"
+  ],
+  "alternatives": [
+    "Next.js",
+    "Nuxt",
+    "SvelteKit",
+    "Astro"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 33220,
+    "forks": 2784,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

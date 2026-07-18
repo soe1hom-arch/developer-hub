@@ -7,13 +7,48 @@
   "documentation": "https://docs.pola.rs",
   "github_repository": "https://github.com/pola-rs/polars",
   "license": "MIT",
-  "latest_version": "1.1.0",
-  "programming_languages": ["Rust", "Python"],
-  "platforms": ["Linux", "macOS", "Windows"],
+  "latest_version": "py-1.42.1",
+  "programming_languages": [
+    "Rust",
+    "Python"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
   "package_manager": "pip",
-  "installation_examples": {"pip": "pip install polars"},
-  "tags": ["python", "dataframe", "analytics", "rust", "fast"],
-  "alternatives": ["Pandas", "Dask", "Vaex", "Spark"],
-  "popularity": 9, "maintained": true, "archived": false, "open_source": true,
-  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+  "installation_examples": {
+    "pip": "pip install polars"
+  },
+  "tags": [
+    "python",
+    "dataframe",
+    "analytics",
+    "rust",
+    "fast",
+    "dataframe-library",
+    "dataframes",
+    "arrow",
+    "out-of-core",
+    "polars"
+  ],
+  "alternatives": [
+    "Pandas",
+    "Dask",
+    "Vaex",
+    "Spark"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 39034,
+    "forks": 2949,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

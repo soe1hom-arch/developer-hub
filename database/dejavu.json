@@ -1,0 +1,47 @@
+{
+  "id": "dejavu",
+  "name": "dejavu",
+  "category": "database",
+  "description": "A Web UI for Elasticsearch and OpenSearch: Import, browse and edit data with rich filters and query views, create reference search UIs.",
+  "official_website": "https://dejavu.reactivesearch.io",
+  "documentation": "https://github.com/appbaseio/dejavu#readme",
+  "github_repository": "https://github.com/appbaseio/dejavu",
+  "license": "MIT",
+  "programming_languages": [
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "appbaseio",
+    "chrome-extension",
+    "database",
+    "database-gui",
+    "dejavu",
+    "elasticsearch",
+    "elasticsearch-gui",
+    "elasticsearch-plugin"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 8468,
+    "forks": 514,
+    "open_issues": 69,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

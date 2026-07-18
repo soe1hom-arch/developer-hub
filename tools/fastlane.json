@@ -1,1 +1,53 @@
-{"id":"fastlane","name":"Fastlane","category":"tools","description":"Automation tool for building and releasing mobile apps for Android and iOS","official_website":"https://fastlane.tools","documentation":"https://docs.fastlane.tools","github_repository":"https://github.com/fastlane/fastlane","license":"MIT","latest_version":"2.221.0","programming_languages":["Ruby"],"platforms":["Linux","macOS"],"package_manager":"gem","installation_examples":{"gem":"sudo gem install fastlane"},"tags":["tool","mobile","automation","deployment","ci/cd"],"alternatives":["Bitrise","Codemagic","MS App Center"],"popularity":9,"maintained":true,"archived":false,"open_source":true,"last_checked":"2026-07-11","last_updated":"2026-07-11"}
+{
+  "id": "fastlane",
+  "name": "Fastlane",
+  "category": "tools",
+  "description": "Automation tool for building and releasing mobile apps for Android and iOS",
+  "official_website": "https://fastlane.tools",
+  "documentation": "https://docs.fastlane.tools",
+  "github_repository": "https://github.com/fastlane/fastlane",
+  "license": "MIT",
+  "latest_version": "2.237.0",
+  "programming_languages": [
+    "Ruby"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS"
+  ],
+  "package_manager": "gem",
+  "installation_examples": {
+    "gem": "sudo gem install fastlane"
+  },
+  "tags": [
+    "tool",
+    "mobile",
+    "automation",
+    "deployment",
+    "ci/cd",
+    "fastlane",
+    "screenshots",
+    "ios",
+    "android",
+    "apps",
+    "ruby",
+    "hacktoberfest"
+  ],
+  "alternatives": [
+    "Bitrise",
+    "Codemagic",
+    "MS App Center"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 41827,
+    "forks": 6023,
+    "open_issues": 0,
+    "watchers": 0
+  }
+}

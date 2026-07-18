@@ -7,20 +7,52 @@
   "documentation": "https://reactnative.dev/docs",
   "github_repository": "https://github.com/facebook/react-native",
   "license": "MIT",
-  "latest_version": "0.74.3",
-  "programming_languages": ["JavaScript", "TypeScript", "Java", "Kotlin", "Objective-C", "Swift"],
-  "platforms": ["Android", "iOS", "Web"],
+  "latest_version": "v0.86.0",
+  "programming_languages": [
+    "JavaScript",
+    "TypeScript",
+    "Java",
+    "Kotlin",
+    "Objective-C",
+    "Swift"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Web"
+  ],
   "package_manager": "npm",
   "installation_examples": {
     "npm": "npx react-native init MyApp",
     "expo": "npx create-expo-app MyApp"
   },
-  "tags": ["mobile", "cross-platform", "react", "native", "ios", "android"],
-  "alternatives": ["Flutter", "Xamarin", "Ionic", "Cordova"],
-  "popularity": 9,
+  "tags": [
+    "mobile",
+    "cross-platform",
+    "react",
+    "native",
+    "ios",
+    "android",
+    "app-framework",
+    "mobile-development",
+    "react-native"
+  ],
+  "alternatives": [
+    "Flutter",
+    "Xamarin",
+    "Ionic",
+    "Cordova"
+  ],
+  "popularity": 10,
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-11",
-  "last_updated": "2026-07-11"
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 126220,
+    "forks": 25185,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

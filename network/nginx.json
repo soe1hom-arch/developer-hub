@@ -7,21 +7,50 @@
   "documentation": "https://nginx.org/en/docs",
   "github_repository": "https://github.com/nginx/nginx",
   "license": "BSD-2-Clause",
-  "latest_version": "1.26.1",
-  "programming_languages": ["C"],
-  "platforms": ["Linux", "macOS", "Windows"],
+  "latest_version": "release-1.31.3",
+  "programming_languages": [
+    "C"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
   "package_manager": "apt",
   "installation_examples": {
     "apt": "sudo apt install nginx",
     "brew": "brew install nginx",
     "docker": "docker run --name nginx -p 80:80 -d nginx"
   },
-  "tags": ["web-server", "reverse-proxy", "load-balancer", "http", "performance"],
-  "alternatives": ["Apache HTTPD", "Caddy", "HAProxy", "Traefik"],
+  "tags": [
+    "web-server",
+    "reverse-proxy",
+    "load-balancer",
+    "http",
+    "performance",
+    "content-cache",
+    "https",
+    "quic",
+    "tls",
+    "tcp-proxy-server",
+    "mail-proxy-server"
+  ],
+  "alternatives": [
+    "Apache HTTPD",
+    "Caddy",
+    "HAProxy",
+    "Traefik"
+  ],
   "popularity": 10,
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-11",
-  "last_updated": "2026-07-11"
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 31152,
+    "forks": 8109,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

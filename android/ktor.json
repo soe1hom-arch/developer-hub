@@ -7,13 +7,49 @@
   "documentation": "https://ktor.io/docs",
   "github_repository": "https://github.com/ktorio/ktor",
   "license": "Apache-2.0",
-  "latest_version": "2.3.12",
-  "programming_languages": ["Kotlin"],
-  "platforms": ["Android", "JVM", "macOS", "iOS", "Linux"],
+  "latest_version": "3.5.1",
+  "programming_languages": [
+    "Kotlin"
+  ],
+  "platforms": [
+    "Android",
+    "JVM",
+    "macOS",
+    "iOS",
+    "Linux"
+  ],
   "package_manager": "gradle",
-  "installation_examples": {"gradle": "implementation 'io.ktor:ktor-client-android:2.3.12'"},
-  "tags": ["android", "http", "client", "kotlin", "coroutines", "networking"],
-  "alternatives": ["Retrofit", "OkHttp", "Volley", "Fuel"],
-  "popularity": 8, "maintained": true, "archived": false, "open_source": true,
-  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+  "installation_examples": {
+    "gradle": "implementation 'io.ktor:ktor-client-android:2.3.12'"
+  },
+  "tags": [
+    "android",
+    "http",
+    "client",
+    "kotlin",
+    "coroutines",
+    "networking",
+    "web-framework",
+    "asynchronous",
+    "async",
+    "web"
+  ],
+  "alternatives": [
+    "Retrofit",
+    "OkHttp",
+    "Volley",
+    "Fuel"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 14471,
+    "forks": 1281,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

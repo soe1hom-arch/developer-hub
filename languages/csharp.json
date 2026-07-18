@@ -8,12 +8,44 @@
   "github_repository": "https://github.com/dotnet/csharplang",
   "license": "MIT",
   "latest_version": "12.0",
-  "programming_languages": ["C#"],
-  "platforms": ["Linux", "macOS", "Windows", "Mobile", "Web"],
+  "programming_languages": [
+    "C#"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Mobile",
+    "Web"
+  ],
   "package_manager": "nuget",
-  "installation_examples": {"brew": "brew install dotnet"},
-  "tags": ["programming-language", "dotnet", "microsoft", "object-oriented"],
-  "alternatives": ["Java", "Kotlin", "Go", "F#"],
-  "popularity": 9, "maintained": true, "archived": false, "open_source": true,
-  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+  "installation_examples": {
+    "brew": "brew install dotnet"
+  },
+  "tags": [
+    "programming-language",
+    "dotnet",
+    "microsoft",
+    "object-oriented",
+    "csharp",
+    "language-design"
+  ],
+  "alternatives": [
+    "Java",
+    "Kotlin",
+    "Go",
+    "F#"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 12649,
+    "forks": 1070,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

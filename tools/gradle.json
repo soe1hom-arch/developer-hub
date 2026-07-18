@@ -7,21 +7,50 @@
   "documentation": "https://docs.gradle.org",
   "github_repository": "https://github.com/gradle/gradle",
   "license": "Apache-2.0",
-  "latest_version": "8.8",
-  "programming_languages": ["Java", "Groovy", "Kotlin"],
-  "platforms": ["Linux", "macOS", "Windows"],
+  "latest_version": "v9.6.1",
+  "programming_languages": [
+    "Java",
+    "Groovy",
+    "Kotlin"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
   "package_manager": "sdkman",
   "installation_examples": {
     "sdkman": "sdk install gradle",
     "brew": "brew install gradle",
     "choco": "choco install gradle"
   },
-  "tags": ["build-tool", "java", "kotlin", "automation", "jvm"],
-  "alternatives": ["Maven", "Bazel", "Ant", "Mill"],
-  "popularity": 9,
+  "tags": [
+    "build-tool",
+    "java",
+    "kotlin",
+    "automation",
+    "jvm",
+    "gradle",
+    "groovy",
+    "good-first-issue",
+    "gradle-bt"
+  ],
+  "alternatives": [
+    "Maven",
+    "Bazel",
+    "Ant",
+    "Mill"
+  ],
+  "popularity": 10,
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-11",
-  "last_updated": "2026-07-11"
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 18702,
+    "forks": 5212,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

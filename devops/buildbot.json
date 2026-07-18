@@ -1,0 +1,43 @@
+{
+  "id": "buildbot",
+  "name": "buildbot",
+  "category": "devops",
+  "description": "Python-based continuous integration testing framework; your pull requests are more than welcome!",
+  "official_website": "https://www.buildbot.net",
+  "documentation": "https://github.com/buildbot/buildbot#readme",
+  "github_repository": "https://github.com/buildbot/buildbot",
+  "license": "GPL-2.0",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "ci",
+    "ci-framework",
+    "continuous-integration",
+    "python"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 5461,
+    "forks": 1673,
+    "open_issues": 805,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 77
+}

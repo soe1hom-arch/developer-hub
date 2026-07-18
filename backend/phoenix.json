@@ -7,13 +7,47 @@
   "documentation": "https://hexdocs.pm/phoenix",
   "github_repository": "https://github.com/phoenixframework/phoenix",
   "license": "MIT",
-  "latest_version": "1.7.14",
-  "programming_languages": ["Elixir", "JavaScript"],
-  "platforms": ["Linux", "macOS", "Windows"],
+  "latest_version": "v1.5.3",
+  "programming_languages": [
+    "Elixir",
+    "JavaScript"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
   "package_manager": "mix",
-  "installation_examples": {"mix": "mix phx.new my_app"},
-  "tags": ["backend", "framework", "elixir", "real-time", "liveview"],
-  "alternatives": ["Ruby on Rails", "Django", "Laravel", "Spring Boot"],
-  "popularity": 7, "maintained": true, "archived": false, "open_source": true,
-  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+  "installation_examples": {
+    "mix": "mix phx.new my_app"
+  },
+  "tags": [
+    "backend",
+    "framework",
+    "elixir",
+    "real-time",
+    "liveview",
+    "web-framework",
+    "distributed",
+    "realtime",
+    "api-server"
+  ],
+  "alternatives": [
+    "Ruby on Rails",
+    "Django",
+    "Laravel",
+    "Spring Boot"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 23076,
+    "forks": 3080,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

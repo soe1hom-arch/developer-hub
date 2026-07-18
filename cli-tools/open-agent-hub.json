@@ -1,0 +1,45 @@
+{
+  "id": "open-agent-hub",
+  "name": "open-agent-hub",
+  "category": "cli-tools",
+  "description": "A lightweight, zero-dependency CLI tool to manage and activate capabilities for AI coding assistants (such as Claude Code, Cursor, Trae, etc.).",
+  "official_website": "https://github.com/guanyang/open-agent-hub",
+  "documentation": "https://github.com/guanyang/open-agent-hub#readme",
+  "github_repository": "https://github.com/guanyang/open-agent-hub",
+  "license": "MIT",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "agents",
+    "ai-agents",
+    "ai-skills",
+    "anthropic-skills",
+    "claude-code",
+    "cli-tool",
+    "context-engineering",
+    "full-stack"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 928,
+    "forks": 163,
+    "open_issues": 5,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 65
+}

@@ -1,1 +1,56 @@
-{"id":"timescaledb","name":"TimescaleDB","category":"database","description":"Time-series database built on PostgreSQL with automatic partitioning and compression","official_website":"https://timescale.com","documentation":"https://docs.timescale.com","github_repository":"https://github.com/timescale/timescaledb","license":"Apache-2.0","latest_version":"2.15.0","programming_languages":["C","SQL"],"platforms":["Linux","macOS","Windows","Cloud"],"package_manager":"apt","installation_examples":{"apt":"sudo apt install timescaledb-2-postgresql-16"},"tags":["database","time-series","postgresql","sql","analytics"],"alternatives":["InfluxDB","QuestDB","ClickHouse","Prometheus"],"popularity":8,"maintained":true,"archived":false,"open_source":true,"last_checked":"2026-07-11","last_updated":"2026-07-11"}
+{
+  "id": "timescaledb",
+  "name": "TimescaleDB",
+  "category": "database",
+  "description": "Time-series database built on PostgreSQL with automatic partitioning and compression",
+  "official_website": "https://timescale.com",
+  "documentation": "https://docs.timescale.com",
+  "github_repository": "https://github.com/timescale/timescaledb",
+  "license": "NOASSERTION",
+  "latest_version": "2.28.3",
+  "programming_languages": [
+    "C",
+    "SQL"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Cloud"
+  ],
+  "package_manager": "apt",
+  "installation_examples": {
+    "apt": "sudo apt install timescaledb-2-postgresql-16"
+  },
+  "tags": [
+    "database",
+    "time-series",
+    "postgresql",
+    "sql",
+    "analytics",
+    "time-series-database",
+    "postgres",
+    "tsdb",
+    "iot",
+    "financial-analysis",
+    "timescaledb"
+  ],
+  "alternatives": [
+    "InfluxDB",
+    "QuestDB",
+    "ClickHouse",
+    "Prometheus"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 23118,
+    "forks": 1121,
+    "open_issues": 0,
+    "watchers": 0
+  }
+}

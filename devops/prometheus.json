@@ -7,13 +7,45 @@
   "documentation": "https://prometheus.io/docs",
   "github_repository": "https://github.com/prometheus/prometheus",
   "license": "Apache-2.0",
-  "latest_version": "2.53.0",
-  "programming_languages": ["Go"],
-  "platforms": ["Linux", "macOS", "Windows"],
+  "latest_version": "v3.13.1",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
   "package_manager": "docker",
-  "installation_examples": {"docker": "docker run -d -p 9090:9090 prom/prometheus"},
-  "tags": ["devops", "monitoring", "metrics", "alerting", "time-series"],
-  "alternatives": ["Grafana Mimir", "VictoriaMetrics", "InfluxDB", "Datadog"],
-  "popularity": 10, "maintained": true, "archived": false, "open_source": true,
-  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+  "installation_examples": {
+    "docker": "docker run -d -p 9090:9090 prom/prometheus"
+  },
+  "tags": [
+    "devops",
+    "monitoring",
+    "metrics",
+    "alerting",
+    "time-series",
+    "graphing",
+    "prometheus",
+    "hacktoberfest"
+  ],
+  "alternatives": [
+    "Grafana Mimir",
+    "VictoriaMetrics",
+    "InfluxDB",
+    "Datadog"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 65187,
+    "forks": 10649,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

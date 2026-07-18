@@ -1,1 +1,58 @@
-{"id":"mlflow","name":"MLflow","category":"ai","description":"Open-source platform for managing the complete ML lifecycle including experimentation and deployment","official_website":"https://mlflow.org","documentation":"https://mlflow.org/docs","github_repository":"https://github.com/mlflow/mlflow","license":"Apache-2.0","latest_version":"2.14.1","programming_languages":["Python","R","Java"],"platforms":["Linux","macOS","Windows"],"package_manager":"pip","installation_examples":{"pip":"pip install mlflow"},"tags":["ai","mlops","experiment-tracking","model-management","open-source"],"alternatives":["Kubeflow","Weights & Biases","Neptune","Comet"],"popularity":9,"maintained":true,"archived":false,"open_source":true,"last_checked":"2026-07-11","last_updated":"2026-07-11"}
+{
+  "id": "mlflow",
+  "name": "MLflow",
+  "category": "ai",
+  "description": "Open-source platform for managing the complete ML lifecycle including experimentation and deployment",
+  "official_website": "https://mlflow.org",
+  "documentation": "https://mlflow.org/docs",
+  "github_repository": "https://github.com/mlflow/mlflow",
+  "license": "Apache-2.0",
+  "latest_version": "v3.14.0",
+  "programming_languages": [
+    "Python",
+    "R",
+    "Java"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install mlflow"
+  },
+  "tags": [
+    "ai",
+    "mlops",
+    "experiment-tracking",
+    "model-management",
+    "open-source",
+    "machine-learning",
+    "ml",
+    "mlflow",
+    "apache-spark",
+    "agentops",
+    "agents",
+    "evaluation",
+    "langchain"
+  ],
+  "alternatives": [
+    "Kubeflow",
+    "Weights & Biases",
+    "Neptune",
+    "Comet"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 27084,
+    "forks": 6019,
+    "open_issues": 0,
+    "watchers": 0
+  }
+}

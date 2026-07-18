@@ -7,13 +7,54 @@
   "documentation": "https://huggingface.co/docs/transformers",
   "github_repository": "https://github.com/huggingface/transformers",
   "license": "Apache-2.0",
-  "latest_version": "4.42.0",
-  "programming_languages": ["Python", "Rust", "JavaScript"],
-  "platforms": ["Linux", "macOS", "Windows"],
+  "latest_version": "v5.14.1",
+  "programming_languages": [
+    "Python",
+    "Rust",
+    "JavaScript"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
   "package_manager": "pip",
-  "installation_examples": {"pip": "pip install transformers"},
-  "tags": ["ai", "nlp", "models", "transformers", "huggingface", "pretrained"],
-  "alternatives": ["spaCy", "NLTK", "Stanza", "ulmFit"],
-  "popularity": 10, "maintained": true, "archived": false, "open_source": true,
-  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+  "installation_examples": {
+    "pip": "pip install transformers"
+  },
+  "tags": [
+    "ai",
+    "nlp",
+    "models",
+    "transformers",
+    "huggingface",
+    "pretrained",
+    "natural-language-processing",
+    "pytorch",
+    "pytorch-transformers",
+    "transformer",
+    "model-hub",
+    "pretrained-models",
+    "speech-recognition",
+    "hacktoberfest",
+    "python"
+  ],
+  "alternatives": [
+    "spaCy",
+    "NLTK",
+    "Stanza",
+    "ulmFit"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 162697,
+    "forks": 33916,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

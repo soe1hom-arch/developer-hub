@@ -8,19 +8,49 @@
   "github_repository": "https://github.com/django/django",
   "license": "BSD-3-Clause",
   "latest_version": "5.0.6",
-  "programming_languages": ["Python"],
-  "platforms": ["Linux", "macOS", "Windows"],
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
   "package_manager": "pip",
   "installation_examples": {
     "pip": "pip install django",
     "pipenv": "pipenv install django"
   },
-  "tags": ["web", "framework", "python", "orm", "mvc", "batteries-included"],
-  "alternatives": ["Flask", "FastAPI", "Ruby on Rails", "Laravel", "Spring"],
-  "popularity": 9,
+  "tags": [
+    "web",
+    "framework",
+    "python",
+    "orm",
+    "mvc",
+    "batteries-included",
+    "django",
+    "templates",
+    "models",
+    "views",
+    "apps"
+  ],
+  "alternatives": [
+    "Flask",
+    "FastAPI",
+    "Ruby on Rails",
+    "Laravel",
+    "Spring"
+  ],
+  "popularity": 10,
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-11",
-  "last_updated": "2026-07-11"
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 88160,
+    "forks": 34087,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

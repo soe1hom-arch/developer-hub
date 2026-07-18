@@ -8,12 +8,43 @@
   "github_repository": "https://github.com/apache/cassandra",
   "license": "Apache-2.0",
   "latest_version": "5.0.0",
-  "programming_languages": ["Java"],
-  "platforms": ["Linux", "macOS", "Windows"],
+  "programming_languages": [
+    "Java"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
   "package_manager": "apt",
-  "installation_examples": {"docker": "docker run -d --name cassandra cassandra:latest"},
-  "tags": ["database", "nosql", "wide-column", "distributed", "scalable"],
-  "alternatives": ["MongoDB", "HBase", "ScyllaDB", "Couchbase"],
-  "popularity": 8, "maintained": true, "archived": false, "open_source": true,
-  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+  "installation_examples": {
+    "docker": "docker run -d --name cassandra cassandra:latest"
+  },
+  "tags": [
+    "database",
+    "nosql",
+    "wide-column",
+    "distributed",
+    "scalable",
+    "cassandra",
+    "java"
+  ],
+  "alternatives": [
+    "MongoDB",
+    "HBase",
+    "ScyllaDB",
+    "Couchbase"
+  ],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 9861,
+    "forks": 3949,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

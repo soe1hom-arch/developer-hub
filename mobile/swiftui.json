@@ -7,13 +7,41 @@
   "documentation": "https://developer.apple.com/documentation/swiftui",
   "github_repository": "https://github.com/apple/swift",
   "license": "Apache-2.0",
-  "latest_version": "5.10",
-  "programming_languages": ["Swift"],
-  "platforms": ["iOS", "macOS", "watchOS", "tvOS"],
+  "latest_version": "swift-6.3.3-RELEASE",
+  "programming_languages": [
+    "Swift"
+  ],
+  "platforms": [
+    "iOS",
+    "macOS",
+    "watchOS",
+    "tvOS"
+  ],
   "package_manager": "spm",
   "installation_examples": {},
-  "tags": ["mobile", "ui", "apple", "swift", "declarative", "framework"],
-  "alternatives": ["Jetpack Compose", "Flutter", "React Native"],
-  "popularity": 9, "maintained": true, "archived": false, "open_source": true,
-  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+  "tags": [
+    "mobile",
+    "ui",
+    "apple",
+    "swift",
+    "declarative",
+    "framework"
+  ],
+  "alternatives": [
+    "Jetpack Compose",
+    "Flutter",
+    "React Native"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 70158,
+    "forks": 10765,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

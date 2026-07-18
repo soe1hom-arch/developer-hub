@@ -7,21 +7,48 @@
   "documentation": "https://maven.apache.org/guides",
   "github_repository": "https://github.com/apache/maven",
   "license": "Apache-2.0",
-  "latest_version": "3.9.7",
-  "programming_languages": ["Java"],
-  "platforms": ["Linux", "macOS", "Windows"],
+  "latest_version": "maven-3.10.0-rc-1",
+  "programming_languages": [
+    "Java"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
   "package_manager": "sdkman",
   "installation_examples": {
     "sdkman": "sdk install maven",
     "brew": "brew install maven",
     "apt": "sudo apt install maven"
   },
-  "tags": ["build-tool", "java", "automation", "jvm", "project-management"],
-  "alternatives": ["Gradle", "Bazel", "Ant", "Mill"],
+  "tags": [
+    "build-tool",
+    "java",
+    "automation",
+    "jvm",
+    "project-management",
+    "maven",
+    "build-management",
+    "apache-maven",
+    "hacktoberfest"
+  ],
+  "alternatives": [
+    "Gradle",
+    "Bazel",
+    "Ant",
+    "Mill"
+  ],
   "popularity": 9,
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-11",
-  "last_updated": "2026-07-11"
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 5245,
+    "forks": 2957,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

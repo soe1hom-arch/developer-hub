@@ -1,0 +1,47 @@
+{
+  "id": "typechain",
+  "name": "TypeChain",
+  "category": "blockchain",
+  "description": "\ud83d\udd0c TypeScript bindings for Ethereum smart contracts",
+  "official_website": "https://github.com/dethcrypto/TypeChain",
+  "documentation": "https://github.com/dethcrypto/TypeChain#readme",
+  "github_repository": "https://github.com/dethcrypto/TypeChain",
+  "license": "MIT",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "abi",
+    "blockchain",
+    "ethereum",
+    "smartcontract",
+    "solidity",
+    "truffle",
+    "typescript",
+    "web3"
+  ],
+  "alternatives": [],
+  "popularity": 7,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 2795,
+    "forks": 376,
+    "open_issues": 127,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 65
+}

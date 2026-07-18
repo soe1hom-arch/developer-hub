@@ -1,1 +1,57 @@
-{"id":"nats","name":"NATS","category":"backend","description":"Cloud-native messaging system for high-performance pub/sub, request-reply, and streaming","official_website":"https://nats.io","documentation":"https://docs.nats.io","github_repository":"https://github.com/nats-io/nats-server","license":"Apache-2.0","latest_version":"2.10.18","programming_languages":["Go"],"platforms":["Linux","macOS","Windows","Cloud"],"package_manager":"docker","installation_examples":{"docker":"docker run -d -p 4222:4222 nats:latest"},"tags":["backend","messaging","pub-sub","async","cloud-native"],"alternatives":["RabbitMQ","Kafka","ZeroMQ","Redis"],"popularity":8,"maintained":true,"archived":false,"open_source":true,"last_checked":"2026-07-11","last_updated":"2026-07-11"}
+{
+  "id": "nats",
+  "name": "NATS",
+  "category": "backend",
+  "description": "Cloud-native messaging system for high-performance pub/sub, request-reply, and streaming",
+  "official_website": "https://nats.io",
+  "documentation": "https://docs.nats.io",
+  "github_repository": "https://github.com/nats-io/nats-server",
+  "license": "Apache-2.0",
+  "latest_version": "v2.14.3",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Cloud"
+  ],
+  "package_manager": "docker",
+  "installation_examples": {
+    "docker": "docker run -d -p 4222:4222 nats:latest"
+  },
+  "tags": [
+    "backend",
+    "messaging",
+    "pub-sub",
+    "async",
+    "cloud-native",
+    "go",
+    "golang",
+    "message-bus",
+    "message-queue",
+    "microservices-architecture",
+    "nats-server",
+    "distributed-systems",
+    "cloud"
+  ],
+  "alternatives": [
+    "RabbitMQ",
+    "Kafka",
+    "ZeroMQ",
+    "Redis"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 20256,
+    "forks": 1874,
+    "open_issues": 0,
+    "watchers": 0
+  }
+}

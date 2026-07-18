@@ -1,0 +1,43 @@
+{
+  "id": "esp32-bluejammer",
+  "name": "ESP32-BlueJammer",
+  "category": "firmware",
+  "description": "The ESP32-BlueJammer (Bluetooth jammer, BLE jammer, WiFi jammer, RC jammer) disrupts 2.4GHz communications. Using an ESP32 and nRF24 modules, it generates noise and unnecessary packets, causing interf",
+  "official_website": "https://esp32-bluejammerflasher.pages.dev",
+  "documentation": "https://github.com/EmenstaNougat/ESP32-BlueJammer#readme",
+  "github_repository": "https://github.com/EmenstaNougat/ESP32-BlueJammer",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Linux",
+    "Embedded"
+  ],
+  "tags": [
+    "bluetooth",
+    "bt",
+    "coding",
+    "cybersecurity",
+    "diy",
+    "electronics",
+    "esp32",
+    "flashing"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 6927,
+    "forks": 774,
+    "open_issues": 12,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

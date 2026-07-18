@@ -8,20 +8,46 @@
   "github_repository": "https://github.com/golang/go",
   "license": "BSD-3-Clause",
   "latest_version": "1.22.4",
-  "programming_languages": ["Go"],
-  "platforms": ["Linux", "macOS", "Windows"],
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
   "package_manager": "go mod",
   "installation_examples": {
     "apt": "sudo apt install golang",
     "brew": "brew install go",
     "choco": "choco install golang"
   },
-  "tags": ["programming-language", "compiled", "concurrent", "systems"],
-  "alternatives": ["Rust", "Python", "Java", "C#", "Zig"],
-  "popularity": 9,
+  "tags": [
+    "programming-language",
+    "compiled",
+    "concurrent",
+    "systems",
+    "language",
+    "go",
+    "golang"
+  ],
+  "alternatives": [
+    "Rust",
+    "Python",
+    "Java",
+    "C#",
+    "Zig"
+  ],
+  "popularity": 10,
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-11",
-  "last_updated": "2026-07-11"
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 135284,
+    "forks": 19258,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

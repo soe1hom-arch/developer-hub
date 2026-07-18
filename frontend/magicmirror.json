@@ -1,0 +1,43 @@
+{
+  "id": "magicmirror",
+  "name": "MagicMirror",
+  "category": "frontend",
+  "description": "MagicMirror\u00b2 is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror\u00b2 allows you to convert your hallway or bathroom mirror into your personal assi",
+  "official_website": "https://magicmirror.builders",
+  "documentation": "https://github.com/MagicMirrorOrg/MagicMirror#readme",
+  "github_repository": "https://github.com/MagicMirrorOrg/MagicMirror",
+  "license": "MIT",
+  "programming_languages": [
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "domotics",
+    "javascript",
+    "magicmirror",
+    "mirror",
+    "raspberry-pi",
+    "smarthome"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 23672,
+    "forks": 4545,
+    "open_issues": 8,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 90
+}

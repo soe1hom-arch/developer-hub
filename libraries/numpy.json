@@ -6,14 +6,46 @@
   "official_website": "https://numpy.org",
   "documentation": "https://numpy.org/doc",
   "github_repository": "https://github.com/numpy/numpy",
-  "license": "BSD-3-Clause",
-  "latest_version": "1.26.4",
-  "programming_languages": ["Python", "C", "C++"],
-  "platforms": ["Linux", "macOS", "Windows"],
+  "license": "NOASSERTION",
+  "latest_version": "v2.5.1",
+  "programming_languages": [
+    "Python",
+    "C",
+    "C++"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
   "package_manager": "pip",
-  "installation_examples": {"pip": "pip install numpy"},
-  "tags": ["python", "scientific", "array", "numerical", "computation"],
-  "alternatives": ["CuPy", "JAX", "TensorFlow", "PyTorch"],
-  "popularity": 10, "maintained": true, "archived": false, "open_source": true,
-  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+  "installation_examples": {
+    "pip": "pip install numpy"
+  },
+  "tags": [
+    "python",
+    "scientific",
+    "array",
+    "numerical",
+    "computation",
+    "numpy"
+  ],
+  "alternatives": [
+    "CuPy",
+    "JAX",
+    "TensorFlow",
+    "PyTorch"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 32387,
+    "forks": 12570,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

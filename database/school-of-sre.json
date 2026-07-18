@@ -1,0 +1,47 @@
+{
+  "id": "school-of-sre",
+  "name": "school-of-sre",
+  "category": "database",
+  "description": "At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.",
+  "official_website": "https://linkedin.github.io/school-of-sre/",
+  "documentation": "https://github.com/linkedin/school-of-sre#readme",
+  "github_repository": "https://github.com/linkedin/school-of-sre",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "HTML"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "git",
+    "hadoop",
+    "linux",
+    "mysql",
+    "networking",
+    "nosql",
+    "python",
+    "security"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 8128,
+    "forks": 738,
+    "open_issues": 1,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

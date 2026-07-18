@@ -7,13 +7,53 @@
   "documentation": "https://grafana.com/docs",
   "github_repository": "https://github.com/grafana/grafana",
   "license": "AGPL-3.0",
-  "latest_version": "11.1.0",
-  "programming_languages": ["Go", "TypeScript"],
-  "platforms": ["Linux", "macOS", "Windows", "Cloud"],
+  "latest_version": "v13.1.0",
+  "programming_languages": [
+    "Go",
+    "TypeScript"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Cloud"
+  ],
   "package_manager": "apt",
-  "installation_examples": {"docker": "docker run -d -p 3000:3000 grafana/grafana"},
-  "tags": ["devops", "monitoring", "visualization", "dashboard", "observability"],
-  "alternatives": ["Kibana", "Chronograf", "Tableau", "Datadog"],
-  "popularity": 10, "maintained": true, "archived": false, "open_source": true,
-  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+  "installation_examples": {
+    "docker": "docker run -d -p 3000:3000 grafana/grafana"
+  },
+  "tags": [
+    "devops",
+    "monitoring",
+    "visualization",
+    "dashboard",
+    "observability",
+    "grafana",
+    "analytics",
+    "metrics",
+    "influxdb",
+    "prometheus",
+    "elasticsearch",
+    "alerting",
+    "data-visualization",
+    "go"
+  ],
+  "alternatives": [
+    "Kibana",
+    "Chronograf",
+    "Tableau",
+    "Datadog"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 75608,
+    "forks": 14293,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

@@ -6,22 +6,54 @@
   "official_website": "https://nodejs.org",
   "documentation": "https://nodejs.org/docs",
   "github_repository": "https://github.com/nodejs/node",
-  "license": "MIT",
-  "latest_version": "22.3.0",
-  "programming_languages": ["JavaScript", "C++", "Python"],
-  "platforms": ["Linux", "macOS", "Windows"],
+  "license": "NOASSERTION",
+  "latest_version": "v26.5.0",
+  "programming_languages": [
+    "JavaScript",
+    "C++",
+    "Python"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
   "package_manager": "npm",
   "installation_examples": {
     "brew": "brew install node",
     "apt": "sudo apt install nodejs npm",
     "choco": "choco install nodejs"
   },
-  "tags": ["runtime", "server-side", "javascript", "event-driven", "non-blocking"],
-  "alternatives": ["Deno", "Bun", "Java", "Python"],
+  "tags": [
+    "runtime",
+    "server-side",
+    "javascript",
+    "event-driven",
+    "non-blocking",
+    "nodejs",
+    "node",
+    "js",
+    "mit",
+    "linux",
+    "macos",
+    "windows"
+  ],
+  "alternatives": [
+    "Deno",
+    "Bun",
+    "Java",
+    "Python"
+  ],
   "popularity": 10,
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-11",
-  "last_updated": "2026-07-11"
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 118281,
+    "forks": 36140,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

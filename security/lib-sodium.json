@@ -6,14 +6,50 @@
   "official_website": "https://doc.libsodium.org",
   "documentation": "https://doc.libsodium.org",
   "github_repository": "https://github.com/jedisct1/libsodium",
-  "license": "ISC",
-  "latest_version": "1.0.19",
-  "programming_languages": ["C", "Python", "JavaScript"],
-  "platforms": ["Linux", "macOS", "Windows", "Web"],
+  "license": "NOASSERTION",
+  "latest_version": "1.0.22-RELEASE",
+  "programming_languages": [
+    "C",
+    "Python",
+    "JavaScript"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Web"
+  ],
   "package_manager": "apt",
-  "installation_examples": {"apt": "sudo apt install libsodium-dev", "pip": "pip install pynacl"},
-  "tags": ["security", "cryptography", "encryption", "hashing", "c-lib"],
-  "alternatives": ["OpenSSL", "GnuPG", "Bouncy Castle", "Crypto++"],
-  "popularity": 8, "maintained": true, "archived": false, "open_source": true,
-  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+  "installation_examples": {
+    "apt": "sudo apt install libsodium-dev",
+    "pip": "pip install pynacl"
+  },
+  "tags": [
+    "security",
+    "cryptography",
+    "encryption",
+    "hashing",
+    "c-lib",
+    "crypto",
+    "c",
+    "zig-package"
+  ],
+  "alternatives": [
+    "OpenSSL",
+    "GnuPG",
+    "Bouncy Castle",
+    "Crypto++"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 13812,
+    "forks": 1885,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

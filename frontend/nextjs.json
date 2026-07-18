@@ -7,20 +7,53 @@
   "documentation": "https://nextjs.org/docs",
   "github_repository": "https://github.com/vercel/next.js",
   "license": "MIT",
-  "latest_version": "14.2.3",
-  "programming_languages": ["JavaScript", "TypeScript"],
-  "platforms": ["Web"],
+  "latest_version": "v16.2.10",
+  "programming_languages": [
+    "JavaScript",
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web"
+  ],
   "package_manager": "npm",
   "installation_examples": {
     "npm": "npx create-next-app@latest",
     "yarn": "yarn create next-app"
   },
-  "tags": ["react", "ssr", "static-site", "frontend", "framework", "full-stack"],
-  "alternatives": ["Nuxt", "Remix", "Gatsby", "Astro", "SvelteKit"],
+  "tags": [
+    "react",
+    "ssr",
+    "static-site",
+    "frontend",
+    "framework",
+    "full-stack",
+    "server-rendering",
+    "universal",
+    "node",
+    "components",
+    "browser",
+    "nextjs",
+    "vercel",
+    "static-site-generator",
+    "hybrid"
+  ],
+  "alternatives": [
+    "Nuxt",
+    "Remix",
+    "Gatsby",
+    "Astro",
+    "SvelteKit"
+  ],
   "popularity": 10,
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-11",
-  "last_updated": "2026-07-11"
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 140998,
+    "forks": 31468,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

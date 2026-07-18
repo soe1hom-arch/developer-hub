@@ -6,7 +6,7 @@
   "official_website": "https://mysql.com",
   "documentation": "https://dev.mysql.com/doc",
   "github_repository": "https://github.com/mysql/mysql-server",
-  "license": "GPL-2.0",
+  "license": "NOASSERTION",
   "latest_version": "8.4.0",
   "programming_languages": [
     "C",
@@ -40,6 +40,12 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-11",
-  "last_updated": "2026-07-11"
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 12339,
+    "forks": 4310,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

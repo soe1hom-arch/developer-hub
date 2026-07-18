@@ -1,1 +1,56 @@
-{"id":"detekt","name":"Detekt","category":"tools","description":"Static code analysis tool for Kotlin with customizable rule sets and IDE integration","official_website":"https://detekt.dev","documentation":"https://detekt.dev/docs","github_repository":"https://github.com/detekt/detekt","license":"Apache-2.0","latest_version":"1.23.6","programming_languages":["Kotlin"],"platforms":["Linux","macOS","Windows"],"package_manager":"gradle","installation_examples":{"gradle":"detekt(\"io.gitlab.arturbosch.detekt:detekt-gradle-plugin:1.23.6\")"},"tags":["tool","kotlin","linting","static-analysis","android"],"alternatives":["ktlint","SpotBugs","PMD","Checkstyle"],"popularity":8,"maintained":true,"archived":false,"open_source":true,"last_checked":"2026-07-11","last_updated":"2026-07-11"}
+{
+  "id": "detekt",
+  "name": "Detekt",
+  "category": "tools",
+  "description": "Static code analysis tool for Kotlin with customizable rule sets and IDE integration",
+  "official_website": "https://detekt.dev",
+  "documentation": "https://detekt.dev/docs",
+  "github_repository": "https://github.com/detekt/detekt",
+  "license": "Apache-2.0",
+  "latest_version": "v1.23.8",
+  "programming_languages": [
+    "Kotlin"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "package_manager": "gradle",
+  "installation_examples": {
+    "gradle": "detekt(\"io.gitlab.arturbosch.detekt:detekt-gradle-plugin:1.23.6\")"
+  },
+  "tags": [
+    "tool",
+    "kotlin",
+    "linting",
+    "static-analysis",
+    "android",
+    "static",
+    "analysis",
+    "codesmells",
+    "linter",
+    "gradle-plugin",
+    "lint",
+    "code-quality",
+    "hacktoberfest"
+  ],
+  "alternatives": [
+    "ktlint",
+    "SpotBugs",
+    "PMD",
+    "Checkstyle"
+  ],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 7006,
+    "forks": 846,
+    "open_issues": 0,
+    "watchers": 0
+  }
+}

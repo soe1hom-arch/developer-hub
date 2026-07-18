@@ -7,13 +7,50 @@
   "documentation": "https://matplotlib.org/stable",
   "github_repository": "https://github.com/matplotlib/matplotlib",
   "license": "BSD-3-Clause",
-  "latest_version": "3.9.1",
-  "programming_languages": ["Python", "C++"],
-  "platforms": ["Linux", "macOS", "Windows"],
+  "latest_version": "v3.11.0",
+  "programming_languages": [
+    "Python",
+    "C++"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
   "package_manager": "pip",
-  "installation_examples": {"pip": "pip install matplotlib"},
-  "tags": ["python", "visualization", "plotting", "chart", "scientific"],
-  "alternatives": ["Seaborn", "Plotly", "Bokeh", "Altair"],
-  "popularity": 10, "maintained": true, "archived": false, "open_source": true,
-  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+  "installation_examples": {
+    "pip": "pip install matplotlib"
+  },
+  "tags": [
+    "python",
+    "visualization",
+    "plotting",
+    "chart",
+    "scientific",
+    "matplotlib",
+    "data-visualization",
+    "data-science",
+    "qt",
+    "wx",
+    "gtk",
+    "tk"
+  ],
+  "alternatives": [
+    "Seaborn",
+    "Plotly",
+    "Bokeh",
+    "Altair"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 23012,
+    "forks": 8398,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

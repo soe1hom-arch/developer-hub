@@ -1,1 +1,59 @@
-{"id":"weights-biases","name":"Weights & Biases","category":"ai","description":"MLOps platform for experiment tracking, dataset versioning, and model management","official_website":"https://wandb.ai","documentation":"https://docs.wandb.ai","github_repository":"https://github.com/wandb/wandb","license":"Proprietary","latest_version":"0.17.0","programming_languages":["Python","TypeScript"],"platforms":["Cloud","Linux","macOS","Windows"],"package_manager":"pip","installation_examples":{"pip":"pip install wandb"},"tags":["ai","mlops","experiment-tracking","visualization","collaboration"],"alternatives":["MLflow","Neptune","Comet","TensorBoard"],"popularity":9,"maintained":true,"archived":false,"open_source":false,"last_checked":"2026-07-11","last_updated":"2026-07-11"}
+{
+  "id": "weights-biases",
+  "name": "Weights & Biases",
+  "category": "ai",
+  "description": "MLOps platform for experiment tracking, dataset versioning, and model management",
+  "official_website": "https://wandb.ai",
+  "documentation": "https://docs.wandb.ai",
+  "github_repository": "https://github.com/wandb/wandb",
+  "license": "MIT",
+  "latest_version": "v0.28.1",
+  "programming_languages": [
+    "Python",
+    "TypeScript"
+  ],
+  "platforms": [
+    "Cloud",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install wandb"
+  },
+  "tags": [
+    "ai",
+    "mlops",
+    "experiment-tracking",
+    "visualization",
+    "collaboration",
+    "machine-learning",
+    "experiment-track",
+    "deep-learning",
+    "keras",
+    "tensorflow",
+    "pytorch",
+    "hyperparameter-search",
+    "reinforcement-learning",
+    "data-science"
+  ],
+  "alternatives": [
+    "MLflow",
+    "Neptune",
+    "Comet",
+    "TensorBoard"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": false,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 11187,
+    "forks": 885,
+    "open_issues": 0,
+    "watchers": 0
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "tinydb",
+  "name": "tinydb",
+  "category": "database",
+  "description": "TinyDB is a lightweight document oriented database optimized for your happiness :)",
+  "official_website": "https://tinydb.readthedocs.org",
+  "documentation": "https://github.com/msiemens/tinydb#readme",
+  "github_repository": "https://github.com/msiemens/tinydb",
+  "license": "MIT",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "database",
+    "documentdb",
+    "json",
+    "nosql",
+    "python"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 7546,
+    "forks": 616,
+    "open_issues": 14,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

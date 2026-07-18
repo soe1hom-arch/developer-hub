@@ -6,14 +6,52 @@
   "official_website": "https://insomnia.rest",
   "documentation": "https://docs.insomnia.rest",
   "github_repository": "https://github.com/Kong/insomnia",
-  "license": "MIT",
-  "latest_version": "9.1.0",
-  "programming_languages": ["TypeScript", "JavaScript"],
-  "platforms": ["Linux", "macOS", "Windows"],
+  "license": "Apache-2.0",
+  "latest_version": "core@13.0.2",
+  "programming_languages": [
+    "TypeScript",
+    "JavaScript"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
   "package_manager": "brew",
-  "installation_examples": {"brew": "brew install --cask insomnia"},
-  "tags": ["tool", "api", "testing", "graphql", "rest"],
-  "alternatives": ["Postman", "Bruno", "Hoppscotch", "curl"],
-  "popularity": 8, "maintained": true, "archived": false, "open_source": true,
-  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+  "installation_examples": {
+    "brew": "brew install --cask insomnia"
+  },
+  "tags": [
+    "tool",
+    "api",
+    "testing",
+    "graphql",
+    "rest",
+    "electron-app",
+    "rest-api",
+    "api-client",
+    "curl",
+    "http-client",
+    "api-design",
+    "grpc",
+    "websockets"
+  ],
+  "alternatives": [
+    "Postman",
+    "Bruno",
+    "Hoppscotch",
+    "curl"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 39895,
+    "forks": 2356,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

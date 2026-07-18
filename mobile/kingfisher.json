@@ -1,0 +1,46 @@
+{
+  "id": "kingfisher",
+  "name": "Kingfisher",
+  "category": "mobile",
+  "description": "A lightweight, pure-Swift library for downloading and caching images from the web.",
+  "official_website": "https://github.com/onevcat/Kingfisher",
+  "documentation": "https://github.com/onevcat/Kingfisher#readme",
+  "github_repository": "https://github.com/onevcat/Kingfisher",
+  "license": "MIT",
+  "programming_languages": [
+    "Swift"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "cache",
+    "filters",
+    "image",
+    "image-processor",
+    "ios",
+    "kingfisher",
+    "macos",
+    "swift"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 24379,
+    "forks": 2762,
+    "open_issues": 170,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 75
+}

@@ -1,0 +1,45 @@
+{
+  "id": "shadowsocksx-ng",
+  "name": "ShadowsocksX-NG",
+  "category": "macos",
+  "description": "Next Generation of ShadowsocksX",
+  "official_website": "https://github.com/shadowsocks/ShadowsocksX-NG",
+  "documentation": "https://github.com/shadowsocks/ShadowsocksX-NG#readme",
+  "github_repository": "https://github.com/shadowsocks/ShadowsocksX-NG",
+  "license": "GPL-3.0",
+  "programming_languages": [
+    "Swift"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "kcptun",
+    "macos",
+    "shadowsocks",
+    "shadowsocksx-ng",
+    "swift",
+    "v2ray-plugin"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 32896,
+    "forks": 7789,
+    "open_issues": 306,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 70
+}

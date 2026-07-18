@@ -6,14 +6,52 @@
   "official_website": "https://bun.sh",
   "documentation": "https://bun.sh/docs",
   "github_repository": "https://github.com/oven-sh/bun",
-  "license": "MIT",
-  "latest_version": "1.1.17",
-  "programming_languages": ["Zig", "TypeScript", "JavaScript"],
-  "platforms": ["Linux", "macOS", "Windows"],
+  "license": "NOASSERTION",
+  "latest_version": "bun-v1.3.14",
+  "programming_languages": [
+    "Zig",
+    "TypeScript",
+    "JavaScript"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
   "package_manager": "curl",
-  "installation_examples": {"curl": "curl -fsSL https://bun.sh/install | bash", "brew": "brew install oven-sh/bun/bun"},
-  "tags": ["runtime", "javascript", "typescript", "bundler", "package-manager"],
-  "alternatives": ["Node.js", "Deno", "npm"],
-  "popularity": 8, "maintained": true, "archived": false, "open_source": true,
-  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+  "installation_examples": {
+    "curl": "curl -fsSL https://bun.sh/install | bash",
+    "brew": "brew install oven-sh/bun/bun"
+  },
+  "tags": [
+    "runtime",
+    "javascript",
+    "typescript",
+    "bundler",
+    "package-manager",
+    "bun",
+    "javascriptcore",
+    "jsx",
+    "nodejs",
+    "npm",
+    "react",
+    "transpiler"
+  ],
+  "alternatives": [
+    "Node.js",
+    "Deno",
+    "npm"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 94807,
+    "forks": 4884,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

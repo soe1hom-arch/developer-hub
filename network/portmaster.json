@@ -1,0 +1,47 @@
+{
+  "id": "portmaster",
+  "name": "portmaster",
+  "category": "network",
+  "description": "\ud83c\udfd4 Love Freedom - \u274c Block Mass Surveillance",
+  "official_website": "https://safing.io",
+  "documentation": "https://github.com/safing/portmaster#readme",
+  "github_repository": "https://github.com/safing/portmaster",
+  "license": "GPL-3.0",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "application-firewall",
+    "dns",
+    "firewall",
+    "go",
+    "golang",
+    "networking",
+    "privacy",
+    "privacy-by-design"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 13226,
+    "forks": 541,
+    "open_issues": 79,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

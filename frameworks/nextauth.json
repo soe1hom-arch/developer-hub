@@ -1,1 +1,53 @@
-{"id":"nextauth","name":"NextAuth.js","category":"frameworks","description":"Authentication library for Next.js applications with support for OAuth, email, and credentials providers","official_website":"https://next-auth.js.org","documentation":"https://next-auth.js.org/getting-started/introduction","github_repository":"https://github.com/nextauthjs/next-auth","license":"ISC","latest_version":"4.24.7","programming_languages":["TypeScript","JavaScript"],"platforms":["Web"],"package_manager":"npm","installation_examples":{"npm":"npm install next-auth"},"tags":["framework","authentication","nextjs","oauth","react"],"alternatives":["Clerk","Auth0","Supabase Auth","Lucia"],"popularity":9,"maintained":true,"archived":false,"open_source":true,"last_checked":"2026-07-11","last_updated":"2026-07-11"}
+{
+  "id": "nextauth",
+  "name": "NextAuth.js",
+  "category": "frameworks",
+  "description": "Authentication library for Next.js applications with support for OAuth, email, and credentials providers",
+  "official_website": "https://next-auth.js.org",
+  "documentation": "https://next-auth.js.org/getting-started/introduction",
+  "github_repository": "https://github.com/nextauthjs/next-auth",
+  "license": "ISC",
+  "latest_version": "next-auth@4.24.14",
+  "programming_languages": [
+    "TypeScript",
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "npm",
+  "installation_examples": {
+    "npm": "npm install next-auth"
+  },
+  "tags": [
+    "framework",
+    "authentication",
+    "nextjs",
+    "oauth",
+    "react",
+    "nodejs",
+    "nextauth",
+    "csrf",
+    "jwt",
+    "oauth2",
+    "oidc"
+  ],
+  "alternatives": [
+    "Clerk",
+    "Auth0",
+    "Supabase Auth",
+    "Lucia"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 28308,
+    "forks": 4042,
+    "open_issues": 0,
+    "watchers": 0
+  }
+}

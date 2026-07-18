@@ -1,0 +1,47 @@
+{
+  "id": "glfw",
+  "name": "glfw",
+  "category": "linux",
+  "description": "A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input",
+  "official_website": "https://www.glfw.org",
+  "documentation": "https://github.com/glfw/glfw#readme",
+  "github_repository": "https://github.com/glfw/glfw",
+  "license": "Zlib",
+  "programming_languages": [
+    "C"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "c",
+    "linux",
+    "macos",
+    "opengl",
+    "opengl-es",
+    "unix",
+    "vulkan",
+    "windows"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 15197,
+    "forks": 5916,
+    "open_issues": 760,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

@@ -7,20 +7,45 @@
   "documentation": "https://svelte.dev/docs",
   "github_repository": "https://github.com/sveltejs/svelte",
   "license": "MIT",
-  "latest_version": "4.2.18",
-  "programming_languages": ["TypeScript", "JavaScript", "HTML", "CSS"],
-  "platforms": ["Web"],
+  "latest_version": "svelte@5.56.6",
+  "programming_languages": [
+    "TypeScript",
+    "JavaScript",
+    "HTML",
+    "CSS"
+  ],
+  "platforms": [
+    "Web"
+  ],
   "package_manager": "npm",
   "installation_examples": {
     "npm": "npm create svelte@latest my-app",
     "yarn": "yarn create svelte my-app"
   },
-  "tags": ["ui", "components", "compiler", "reactivity", "frontend"],
-  "alternatives": ["React", "Vue", "Angular", "Solid"],
-  "popularity": 8,
+  "tags": [
+    "ui",
+    "components",
+    "compiler",
+    "reactivity",
+    "frontend",
+    "template"
+  ],
+  "alternatives": [
+    "React",
+    "Vue",
+    "Angular",
+    "Solid"
+  ],
+  "popularity": 10,
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-11",
-  "last_updated": "2026-07-11"
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 87594,
+    "forks": 5039,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

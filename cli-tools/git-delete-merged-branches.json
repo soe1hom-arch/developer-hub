@@ -1,0 +1,45 @@
+{
+  "id": "git-delete-merged-branches",
+  "name": "git-delete-merged-branches",
+  "category": "cli-tools",
+  "description": ":fire: Command-line tool to delete merged Git branches",
+  "official_website": "https://pypi.org/project/git-delete-merged-branches/",
+  "documentation": "https://github.com/hartwork/git-delete-merged-branches#readme",
+  "github_repository": "https://github.com/hartwork/git-delete-merged-branches",
+  "license": "GPL-3.0",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "automation",
+    "cleanup",
+    "cli",
+    "cli-tool",
+    "command-line",
+    "command-line-tool",
+    "developer-tool",
+    "developer-tools"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 914,
+    "forks": 21,
+    "open_issues": 4,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 70
+}

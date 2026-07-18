@@ -7,13 +7,44 @@
   "documentation": "https://helm.sh/docs",
   "github_repository": "https://github.com/helm/helm",
   "license": "Apache-2.0",
-  "latest_version": "3.15.2",
-  "programming_languages": ["Go"],
-  "platforms": ["Linux", "macOS", "Windows"],
+  "latest_version": "v4.2.3",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
   "package_manager": "brew",
-  "installation_examples": {"brew": "brew install helm"},
-  "tags": ["containers", "kubernetes", "package-manager", "charts", "devops"],
-  "alternatives": ["Kustomize", "Skaffold", "Ksonnet"],
-  "popularity": 9, "maintained": true, "archived": false, "open_source": true,
-  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+  "installation_examples": {
+    "brew": "brew install helm"
+  },
+  "tags": [
+    "containers",
+    "kubernetes",
+    "package-manager",
+    "charts",
+    "devops",
+    "cncf",
+    "chart",
+    "helm"
+  ],
+  "alternatives": [
+    "Kustomize",
+    "Skaffold",
+    "Ksonnet"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 30013,
+    "forks": 7707,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

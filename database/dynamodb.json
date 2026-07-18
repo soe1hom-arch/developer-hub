@@ -1,1 +1,53 @@
-{"id":"dynamodb","name":"Amazon DynamoDB","category":"database","description":"Fully managed NoSQL key-value and document database with single-digit millisecond performance","official_website":"https://aws.amazon.com/dynamodb","documentation":"https://docs.aws.amazon.com/dynamodb","github_repository":"https://github.com/aws/aws-sdk-java","license":"Proprietary","latest_version":"N/A","programming_languages":["Java","Python","TypeScript","Go"],"platforms":["Cloud"],"package_manager":"pip","installation_examples":{"pip":"pip install boto3"},"tags":["database","nosql","aws","cloud","key-value","managed"],"alternatives":["MongoDB Atlas","Firestore","Cassandra","ScyllaDB"],"popularity":9,"maintained":true,"archived":false,"open_source":false,"last_checked":"2026-07-11","last_updated":"2026-07-11"}
+{
+  "id": "dynamodb",
+  "name": "Amazon DynamoDB",
+  "category": "database",
+  "description": "Fully managed NoSQL key-value and document database with single-digit millisecond performance",
+  "official_website": "https://aws.amazon.com/dynamodb",
+  "documentation": "https://docs.aws.amazon.com/dynamodb",
+  "github_repository": "https://github.com/aws/aws-sdk-java",
+  "license": "Apache-2.0",
+  "latest_version": "N/A",
+  "programming_languages": [
+    "Java",
+    "Python",
+    "TypeScript",
+    "Go"
+  ],
+  "platforms": [
+    "Cloud"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install boto3"
+  },
+  "tags": [
+    "database",
+    "nosql",
+    "aws",
+    "cloud",
+    "key-value",
+    "managed",
+    "aws-sdk",
+    "java",
+    "amazon"
+  ],
+  "alternatives": [
+    "MongoDB Atlas",
+    "Firestore",
+    "Cassandra",
+    "ScyllaDB"
+  ],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": false,
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 4202,
+    "forks": 2792,
+    "open_issues": 0,
+    "watchers": 0
+  }
+}

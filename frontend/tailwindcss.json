@@ -7,20 +7,48 @@
   "documentation": "https://tailwindcss.com/docs",
   "github_repository": "https://github.com/tailwindlabs/tailwindcss",
   "license": "MIT",
-  "latest_version": "3.4.3",
-  "programming_languages": ["CSS", "JavaScript", "TypeScript"],
-  "platforms": ["Web"],
+  "latest_version": "v4.3.3",
+  "programming_languages": [
+    "CSS",
+    "JavaScript",
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web"
+  ],
   "package_manager": "npm",
   "installation_examples": {
     "npm": "npm install -D tailwindcss",
     "yarn": "yarn add -D tailwindcss"
   },
-  "tags": ["css", "utility-first", "design", "frontend", "responsive"],
-  "alternatives": ["Bootstrap", "Bulma", "Chakra UI", "Material UI"],
+  "tags": [
+    "css",
+    "utility-first",
+    "design",
+    "frontend",
+    "responsive",
+    "tailwindcss",
+    "css-framework",
+    "postcss",
+    "functional-css",
+    "utility-classes"
+  ],
+  "alternatives": [
+    "Bootstrap",
+    "Bulma",
+    "Chakra UI",
+    "Material UI"
+  ],
   "popularity": 10,
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-11",
-  "last_updated": "2026-07-11"
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "repository_statistics": {
+    "stars": 95960,
+    "forks": 5403,
+    "open_issues": 0,
+    "watchers": 0
+  }
 }

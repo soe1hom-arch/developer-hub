@@ -1,0 +1,45 @@
+{
+  "id": "libretube",
+  "name": "LibreTube",
+  "category": "android",
+  "description": "An alternative frontend for YouTube, for Android.",
+  "official_website": "https://libretube.dev",
+  "documentation": "https://github.com/libre-tube/LibreTube#readme",
+  "github_repository": "https://github.com/libre-tube/LibreTube",
+  "license": "GPL-3.0",
+  "programming_languages": [
+    "Kotlin"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "android",
+    "kotlin",
+    "material-design",
+    "material-design-3-expressive",
+    "material-you",
+    "privacy",
+    "youtube"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 12304,
+    "forks": 630,
+    "open_issues": 141,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-18",
+  "last_updated": "2026-07-18",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

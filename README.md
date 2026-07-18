@@ -5,8 +5,8 @@
 
 # Developer Hub
 
-> Sebuah database open-source yang berisi **1.066 sumber daya developer** — API, SDK, library, framework, tools, dan bahasa pemrograman.  
-> Saya buat karena saya sendiri sering kesusahan mencari referensi tools yang terpercaya dan terorganisir dalam satu tempat.
+> Sebuah database open-source yang berisi  **Sumber Daya Developer** — API, SDK, library, framework, tools, dan bahasa pemrograman.  
+> I often have trouble finding organized tool references in one place, so I finally tried to build this simple project.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
@@ -18,17 +18,12 @@
 
 **[🌐 Akses Website](https://developer-hub-production.up.railway.app)**
 
+> ⚠️ This site is just an example/demo that I made, maybe you will still find bugs.
 ---
 
 ## Tentang Project Ini
 
-Halo! Saya **Wandi** — seorang Android firmware enthusiast dari Indonesia. Project ini saya buat karena saya ingin ada satu tempat yang mudah dicari, terstruktur, dan bisa dipakai siapa saja untuk menemukan tools developer berkualitas. Baik itu buat Android, web, backend, IoT, Termux, atau binary tools — semuanya ada di sini.
-
-**Yang saya jaga di repo ini:**
-- Semua data resource developer yang legitimate dan legal
-- Tools yang betul-betul dipakai developer, bukan untuk kegiatan ilegal
-- Informasi yang akurat, terbuka, dan bisa diverifikasi
-- Tidak ada konten yang melanggar hukum — no malware, no crack, no piracy
+Halo, Saya **Wandi** — seorang pengembang dari Indonesia. Project ini saya buat karena saya ingin ada satu tempat yang mudah dicari, terstruktur, dan bisa dipakai siapa saja untuk menemukan tools developer. Baik itu buat Android, web, backend, IoT, Termux, atau binary tools — semuanya ada di sini.
 
 ## 📊 Statistik Saat Ini
 
@@ -116,7 +111,7 @@ open http://localhost:8000
 
 ## 🌐 Website
 
-Website-nya single-page application, udah termasuk dark theme, search, filter, trending, tech stacks, dan detail project. Tinggal akses:
+This website is just an example/demo; you can customize it with your own version. It includes a dark theme, search, filters, trending pages, tech stacks, and project details. Just access:
 
 **[https://developer-hub-production.up.railway.app](https://developer-hub-production.up.railway.app)**
 
@@ -142,24 +137,21 @@ MIT License — silakan pakai, modifikasi, dan sebarkan. Lihat [LICENSE](LICENSE
 
 ---
 
-## 👤 Tentang Saya
+## 👤 About Me
 
-Halo, saya **Wandi** (@soe1hom-arch). Saya bikin project ini di waktu luang, karena hobi saya di Android, firmware, dan open-source tools.
+Hello, I'm **Wandi** (@soe1hom-arch). I created this project in my spare time, based on my interests in Android, firmware, and open-source tools.
 
-- 🔭 Sehari-hari saya berkutat dengan Android development dan firmware
-- 🌟 Saya juga bikin tools lain kayak [AFFT](https://github.com/soe1hom-arch/AFFT) dan [CalcDuo](https://github.com/soe1hom-arch/calcduo)
+- 🔭 Sehari-hari saya fokus dengan Android development dan firmware
+- 🌟 Saya juga bikin tools lain kayak [AFFT-Toolkit](https://github.com/soe1hom-arch/AFFT-Toolkit) dan [CalcDuo](https://github.com/soe1hom-arch/calcduo)
 - 💬 Kalau ada pertanyaan atau feedback, [buka issue aja](https://github.com/soe1hom-arch/developer-hub/issues)
 
-## ⚖️ Hal yang Perlu Kamu Tahu
+## ⚖️ Things You Need to Know
 
-**Yang saya jamin:**
-- Semua resource di sini adalah tools developer yang legitimate
-- Tidak ada malware, crack, hack, atau konten ilegal
-- Semua data diambil dari sumber publik (GitHub, website resmi, dokumentasi)
-- Saya selalu berusaha menjaga akurasi dan kepatuhan hukum
+- All data is taken from public sources (GitHub, official website, documentation)
+  
 
-**Yang perlu kamu catat:**
-- Nama produk, logo, dan merek dagang adalah milik pemiliknya masing-masing
-- Saya tidak terafiliasi dengan project atau perusahaan yang tercantum
-- Data ini saya sediakan "apa adanya" — selalu verifikasi informasi penting dari sumber resmi
-- Kalau ada resource yang melanggar hak kamu, [laporkan ke sini](https://github.com/soe1hom-arch/developer-hub/issues) — akan saya review dan hapus kalau perlu
+**Things to note:**
+- Product names, logos, and trademarks belong to their respective owners
+- I am not affiliated with any of the projects or companies listed
+- I provide this data "as is" — always verify important information from official sources
+- If any resource violates your rights, [report here](https://github.com/soe1hom-arch/developer-hub/issues) — I will review and delete if necessary.

@@ -7,7 +7,7 @@
   "documentation": "https://github.com/NousResearch/hermes-agent#readme",
   "github_repository": "https://github.com/NousResearch/hermes-agent",
   "license": "MIT",
-  "latest_version": "main",
+  "latest_version": "v2026.7.7.2",
   "programming_languages": [
     "Python"
   ],
@@ -27,7 +27,9 @@
     "chatgpt",
     "claude",
     "claude-code",
-    "clawdbot"
+    "clawdbot",
+    "llm",
+    "codex"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +38,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 213384,
-    "forks": 39486,
-    "open_issues": 27906,
+    "stars": 216889,
+    "forks": 40749,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

@@ -7,7 +7,7 @@
   "documentation": "https://turso.tech/docs",
   "github_repository": "https://github.com/drizzle-team/drizzle-orm",
   "license": "Apache-2.0",
-  "latest_version": "1.0.0",
+  "latest_version": "0.45.2",
   "programming_languages": [
     "TypeScript",
     "JavaScript"
@@ -39,12 +39,12 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12",
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19",
   "repository_statistics": {
-    "stars": 35109,
-    "forks": 1475,
-    "open_issues": 1885,
-    "watchers": 85
+    "stars": 35187,
+    "forks": 1484,
+    "open_issues": 0,
+    "watchers": 0
   }
 }

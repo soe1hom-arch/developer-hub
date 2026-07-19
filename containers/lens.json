@@ -7,7 +7,7 @@
   "documentation": "https://github.com/lensapp/lens#readme",
   "github_repository": "https://github.com/lensapp/lens",
   "license": "MIT",
-  "latest_version": "lens-desktop",
+  "latest_version": "v2024.1.300751-latest",
   "programming_languages": [
     "Generic"
   ],
@@ -33,11 +33,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 23188,
+    "stars": 23193,
     "forks": 1482,
-    "open_issues": 1184,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

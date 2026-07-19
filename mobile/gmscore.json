@@ -7,7 +7,7 @@
   "documentation": "https://github.com/microg/GmsCore#readme",
   "github_repository": "https://github.com/microg/GmsCore",
   "license": "Apache-2.0",
-  "latest_version": "master",
+  "latest_version": "v0.3.15.250932",
   "programming_languages": [
     "Java"
   ],
@@ -24,7 +24,10 @@
     "geolocation",
     "google",
     "google-cloud-messaging",
-    "java"
+    "java",
+    "microg",
+    "maps",
+    "push-notifications"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -33,11 +36,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 13877,
-    "forks": 2940,
-    "open_issues": 1332,
+    "stars": 13967,
+    "forks": 2965,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

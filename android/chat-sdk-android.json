@@ -1,0 +1,46 @@
+{
+  "id": "chat-sdk-android",
+  "name": "chat-sdk-android",
+  "category": "android",
+  "description": "Chat SDK Android - Open Source Mobile Messenger",
+  "official_website": "https://chatsdk.co",
+  "documentation": "https://github.com/chat-sdk/chat-sdk-android#readme",
+  "github_repository": "https://github.com/chat-sdk/chat-sdk-android",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "Java"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "android",
+    "android-sdk",
+    "chat-sdk",
+    "firebase",
+    "instant-messaging",
+    "messaging",
+    "messenger",
+    "messenger-client"
+  ],
+  "alternatives": [],
+  "popularity": 6,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 1642,
+    "forks": 602,
+    "open_issues": 8,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 70
+}

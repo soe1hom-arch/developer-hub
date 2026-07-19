@@ -7,7 +7,7 @@
   "documentation": "https://jekyllrb.com/docs",
   "github_repository": "https://github.com/jekyll/jekyll",
   "license": "MIT",
-  "latest_version": "1.0.0",
+  "latest_version": "v4.4.1",
   "programming_languages": [
     "Ruby",
     "Gherkin",
@@ -37,12 +37,12 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12",
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19",
   "repository_statistics": {
-    "stars": 51546,
-    "forks": 10290,
-    "open_issues": 250,
-    "watchers": 1399
+    "stars": 51574,
+    "forks": 10296,
+    "open_issues": 0,
+    "watchers": 0
   }
 }

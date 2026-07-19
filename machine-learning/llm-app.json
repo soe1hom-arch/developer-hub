@@ -27,7 +27,10 @@
     "llm-prompting",
     "llm-security",
     "llmops",
-    "machine-learning"
+    "machine-learning",
+    "pathway",
+    "real-time",
+    "vector-index"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +39,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 59063,
-    "forks": 1432,
-    "open_issues": 10,
+    "stars": 59028,
+    "forks": 1439,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

@@ -7,7 +7,7 @@
   "documentation": "https://github.com/microsoft/autogen#readme",
   "github_repository": "https://github.com/microsoft/autogen",
   "license": "CC-BY-4.0",
-  "latest_version": "main",
+  "latest_version": "python-v0.7.5",
   "programming_languages": [
     "Python"
   ],
@@ -27,7 +27,9 @@
     "autogen",
     "autogen-ecosystem",
     "chatgpt",
-    "framework"
+    "framework",
+    "llm-agent",
+    "llm-framework"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +38,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 59666,
-    "forks": 8983,
-    "open_issues": 945,
+    "stars": 59808,
+    "forks": 9002,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

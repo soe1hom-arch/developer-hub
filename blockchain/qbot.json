@@ -7,7 +7,7 @@
   "documentation": "https://github.com/UFund-Me/Qbot#readme",
   "github_repository": "https://github.com/UFund-Me/Qbot",
   "license": "MIT",
-  "latest_version": "main",
+  "latest_version": "qbot-pro_v1.2.1",
   "programming_languages": [
     "Jupyter Notebook"
   ],
@@ -25,7 +25,14 @@
     "fintech",
     "funds",
     "machine-learning",
-    "pytrade"
+    "pytrade",
+    "quantitative-finance",
+    "quantitative-trading",
+    "quantization",
+    "strategies",
+    "trademarks",
+    "quant-trade",
+    "quant-trader"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -34,11 +41,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 18044,
-    "forks": 2535,
-    "open_issues": 70,
+    "stars": 18104,
+    "forks": 2547,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

@@ -1,0 +1,46 @@
+{
+  "id": "chucker",
+  "name": "chucker",
+  "category": "android",
+  "description": "\ud83d\udd0e An HTTP inspector for Android & OkHTTP (like Charles but on device)",
+  "official_website": "https://github.com/ChuckerTeam/chucker",
+  "documentation": "https://github.com/ChuckerTeam/chucker#readme",
+  "github_repository": "https://github.com/ChuckerTeam/chucker",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Kotlin"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "android",
+    "android-library",
+    "android-sdk",
+    "hacktoberfest",
+    "http-requests",
+    "interceptor",
+    "kotlin",
+    "kotlin-library"
+  ],
+  "alternatives": [],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 4539,
+    "forks": 458,
+    "open_issues": 79,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 65
+}

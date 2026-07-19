@@ -1,0 +1,45 @@
+{
+  "id": "vike",
+  "name": "vike",
+  "category": "frontend",
+  "description": "(Replaces Next.js/Nuxt) \ud83d\udd28 Build mission-critical applications with stability and development freedom.",
+  "official_website": "https://vike.dev",
+  "documentation": "https://github.com/vikejs/vike#readme",
+  "github_repository": "https://github.com/vikejs/vike",
+  "license": "MIT",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "full-stack",
+    "node",
+    "react",
+    "react-ssr",
+    "server-rendering",
+    "server-side-rendering",
+    "solid",
+    "solid-ssr"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 5783,
+    "forks": 395,
+    "open_issues": 83,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

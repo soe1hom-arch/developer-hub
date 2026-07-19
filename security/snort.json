@@ -7,7 +7,7 @@
   "documentation": "https://snort.org/documents",
   "github_repository": "https://github.com/snort3/snort3",
   "license": "NOASSERTION",
-  "latest_version": "1.0.0",
+  "latest_version": "3.12.2.0",
   "programming_languages": [
     "C++",
     "C",
@@ -31,12 +31,12 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12",
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19",
   "repository_statistics": {
-    "stars": 3382,
-    "forks": 683,
-    "open_issues": 78,
-    "watchers": 126
+    "stars": 3385,
+    "forks": 684,
+    "open_issues": 0,
+    "watchers": 0
   }
 }

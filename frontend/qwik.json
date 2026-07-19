@@ -7,7 +7,7 @@
   "documentation": "https://qwik.dev/docs",
   "github_repository": "https://github.com/QwikDev/qwik",
   "license": "MIT",
-  "latest_version": "1.0.0",
+  "latest_version": "@qwik.dev/core@2.0.0-beta.38",
   "programming_languages": [
     "TypeScript",
     "MDX",
@@ -36,12 +36,12 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12",
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19",
   "repository_statistics": {
-    "stars": 22036,
-    "forks": 1392,
-    "open_issues": 149,
-    "watchers": 130
+    "stars": 22038,
+    "forks": 1395,
+    "open_issues": 0,
+    "watchers": 0
   }
 }

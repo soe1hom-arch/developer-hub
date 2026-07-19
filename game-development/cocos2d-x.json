@@ -25,7 +25,11 @@
     "game-development",
     "game-engine",
     "gamedev",
-    "ios"
+    "ios",
+    "lua",
+    "metal",
+    "linx",
+    "windows"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -34,11 +38,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 19103,
-    "forks": 7057,
-    "open_issues": 1604,
+    "stars": 19116,
+    "forks": 7054,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

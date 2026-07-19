@@ -7,7 +7,7 @@
   "documentation": "https://github.com/FuelLabs/fuel-core#readme",
   "github_repository": "https://github.com/FuelLabs/fuel-core",
   "license": "NOASSERTION",
-  "latest_version": "master",
+  "latest_version": "v0.48.2",
   "programming_languages": [
     "Rust"
   ],
@@ -30,11 +30,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 56973,
-    "forks": 2871,
-    "open_issues": 196,
+    "stars": 56957,
+    "forks": 2859,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

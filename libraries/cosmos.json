@@ -24,7 +24,13 @@
     "hacktoberfest2022",
     "hacktoberfest2023",
     "hacktoberfest2024",
-    "internship"
+    "internship",
+    "opengenus",
+    "library",
+    "offline-app",
+    "interview-questions",
+    "sorting-algorithms",
+    "search-algorithms"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -33,11 +39,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 13724,
-    "forks": 3663,
-    "open_issues": 2603,
+    "stars": 13725,
+    "forks": 3662,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

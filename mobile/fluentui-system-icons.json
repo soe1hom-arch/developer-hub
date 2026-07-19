@@ -1,0 +1,45 @@
+{
+  "id": "fluentui-system-icons",
+  "name": "fluentui-system-icons",
+  "category": "mobile",
+  "description": "Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.",
+  "official_website": "https://aka.ms/fluentui-system-icons",
+  "documentation": "https://github.com/microsoft/fluentui-system-icons#readme",
+  "github_repository": "https://github.com/microsoft/fluentui-system-icons",
+  "license": "MIT",
+  "programming_languages": [
+    "HTML"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "android",
+    "design",
+    "fluent",
+    "flutter",
+    "icons",
+    "ios",
+    "react"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 10692,
+    "forks": 788,
+    "open_issues": 215,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

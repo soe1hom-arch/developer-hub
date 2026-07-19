@@ -7,7 +7,7 @@
   "documentation": "https://redux.js.org/introduction/getting-started",
   "github_repository": "https://github.com/reduxjs/redux",
   "license": "MIT",
-  "latest_version": "1.0.0",
+  "latest_version": "v5.0.1",
   "programming_languages": [
     "TypeScript",
     "JavaScript",
@@ -31,12 +31,12 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12",
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19",
   "repository_statistics": {
-    "stars": 61594,
-    "forks": 15221,
-    "open_issues": 48,
-    "watchers": 1331
+    "stars": 61502,
+    "forks": 15098,
+    "open_issues": 0,
+    "watchers": 0
   }
 }

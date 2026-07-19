@@ -7,7 +7,7 @@
   "documentation": "https://github.com/emilk/egui#readme",
   "github_repository": "https://github.com/emilk/egui",
   "license": "Apache-2.0",
-  "latest_version": "main",
+  "latest_version": "0.35.0",
   "programming_languages": [
     "Rust"
   ],
@@ -35,11 +35,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 29617,
-    "forks": 2064,
-    "open_issues": 1112,
+    "stars": 29741,
+    "forks": 2070,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

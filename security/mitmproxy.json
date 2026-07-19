@@ -7,7 +7,7 @@
   "documentation": "https://github.com/mitmproxy/mitmproxy#readme",
   "github_repository": "https://github.com/mitmproxy/mitmproxy",
   "license": "MIT",
-  "latest_version": "main",
+  "latest_version": "v12.2.3",
   "programming_languages": [
     "Python"
   ],
@@ -27,7 +27,10 @@
     "mitmproxy",
     "proxy",
     "python",
-    "security"
+    "security",
+    "tls",
+    "ssl",
+    "websocket"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +39,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 44254,
-    "forks": 4623,
-    "open_issues": 458,
+    "stars": 44367,
+    "forks": 4632,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

@@ -7,7 +7,7 @@
   "documentation": "https://github.com/nextcloud/server#readme",
   "github_repository": "https://github.com/nextcloud/server",
   "license": "AGPL-3.0",
-  "latest_version": "master",
+  "latest_version": "v34.0.1",
   "programming_languages": [
     "PHP"
   ],
@@ -27,7 +27,11 @@
     "distributed",
     "enterprise",
     "federation",
-    "file-sharing"
+    "file-sharing",
+    "open-source",
+    "sharing",
+    "nextcloud",
+    "self-hosting"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +40,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 36105,
-    "forks": 5070,
-    "open_issues": 3462,
+    "stars": 36188,
+    "forks": 5067,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

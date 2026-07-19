@@ -7,7 +7,7 @@
   "documentation": "https://github.com/sherlock-project/sherlock#readme",
   "github_repository": "https://github.com/sherlock-project/sherlock",
   "license": "MIT",
-  "latest_version": "master",
+  "latest_version": "v0.16.0",
   "programming_languages": [
     "Python"
   ],
@@ -27,7 +27,13 @@
     "hacktoberfest",
     "information-gathering",
     "infosec",
-    "linux"
+    "linux",
+    "osint",
+    "reconnaissance",
+    "sherlock",
+    "python3",
+    "redteam",
+    "tools"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +42,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 86408,
-    "forks": 10116,
-    "open_issues": 309,
+    "stars": 86762,
+    "forks": 10179,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

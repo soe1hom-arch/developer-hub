@@ -7,7 +7,7 @@
   "documentation": "https://github.com/goharbor/harbor#readme",
   "github_repository": "https://github.com/goharbor/harbor",
   "license": "Apache-2.0",
-  "latest_version": "main",
+  "latest_version": "v2.15.2",
   "programming_languages": [
     "Go"
   ],
@@ -27,7 +27,10 @@
     "container-management",
     "container-registry",
     "containers",
-    "docker"
+    "docker",
+    "registry",
+    "helm",
+    "kubernetes"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +39,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 28902,
+    "stars": 28964,
     "forks": 5290,
-    "open_issues": 843,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

@@ -7,7 +7,7 @@
   "documentation": "https://day.js.org/docs",
   "github_repository": "https://github.com/iamkun/dayjs",
   "license": "MIT",
-  "latest_version": "1.0.0",
+  "latest_version": "v1.11.21",
   "programming_languages": [
     "JavaScript"
   ],
@@ -33,12 +33,12 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12",
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19",
   "repository_statistics": {
-    "stars": 48667,
-    "forks": 2454,
-    "open_issues": 1284,
-    "watchers": 271
+    "stars": 48662,
+    "forks": 2453,
+    "open_issues": 0,
+    "watchers": 0
   }
 }

@@ -1,0 +1,45 @@
+{
+  "id": "uieffect",
+  "name": "UIEffect",
+  "category": "frontend",
+  "description": "UIEffect is an open-source package that allows you to intuitively apply rich UI effects directly from the Inspector or via code. Combine various filters, such as grayscale, blur, and dissolve, to deco",
+  "official_website": "https://mob-sakai.github.io/UIEffect/",
+  "documentation": "https://github.com/mob-sakai/UIEffect#readme",
+  "github_repository": "https://github.com/mob-sakai/UIEffect",
+  "license": "MIT",
+  "programming_languages": [
+    "C#"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "blur",
+    "burn",
+    "component",
+    "contrast",
+    "edge-detection",
+    "effect",
+    "grayscale",
+    "hsv-color"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 7459,
+    "forks": 935,
+    "open_issues": 9,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

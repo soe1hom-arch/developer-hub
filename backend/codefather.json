@@ -7,7 +7,7 @@
   "documentation": "https://github.com/liyupi/codefather#readme",
   "github_repository": "https://github.com/liyupi/codefather",
   "license": "MIT",
-  "latest_version": "main",
+  "latest_version": "basic",
   "programming_languages": [
     "TypeScript"
   ],
@@ -23,20 +23,25 @@
     "cpp",
     "frontend",
     "go",
-    "java"
+    "java",
+    "javascript",
+    "spring",
+    "mysql",
+    "python",
+    "linux"
   ],
   "has_binaries": false,
   "alternatives": [],
-  "popularity": 10,
+  "popularity": 9,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 7925,
-    "forks": 1304,
-    "open_issues": 23,
+    "stars": 7989,
+    "forks": 1307,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

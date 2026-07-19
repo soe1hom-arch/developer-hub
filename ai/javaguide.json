@@ -27,7 +27,11 @@
     "interview",
     "java",
     "mcp",
-    "mysql"
+    "mysql",
+    "redis",
+    "system-design",
+    "redisson",
+    "skills"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +40,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 156960,
-    "forks": 46170,
-    "open_issues": 58,
+    "stars": 157118,
+    "forks": 46178,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

@@ -7,7 +7,7 @@
   "documentation": "https://k9scli.io/topics",
   "github_repository": "https://github.com/derailed/k9s",
   "license": "Apache-2.0",
-  "latest_version": "1.0.0",
+  "latest_version": "v0.51.0",
   "programming_languages": [
     "Go",
     "Makefile",
@@ -39,12 +39,12 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12",
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19",
   "repository_statistics": {
-    "stars": 34112,
-    "forks": 2212,
-    "open_issues": 135,
-    "watchers": 152
+    "stars": 34154,
+    "forks": 2221,
+    "open_issues": 0,
+    "watchers": 0
   }
 }

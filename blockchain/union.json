@@ -7,7 +7,7 @@
   "documentation": "https://github.com/unionlabs/union#readme",
   "github_repository": "https://github.com/unionlabs/union",
   "license": "Apache-2.0",
-  "latest_version": "main",
+  "latest_version": "bundle-union-1/v1.2.3",
   "programming_languages": [
     "Rust"
   ],
@@ -27,7 +27,11 @@
     "ethereum",
     "evm",
     "golang",
-    "indexer"
+    "indexer",
+    "rust",
+    "solidity",
+    "nix",
+    "zero-knowledge"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +40,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 73913,
-    "forks": 3900,
-    "open_issues": 194,
+    "stars": 73899,
+    "forks": 3887,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

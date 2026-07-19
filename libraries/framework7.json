@@ -7,7 +7,7 @@
   "documentation": "https://github.com/framework7io/framework7#readme",
   "github_repository": "https://github.com/framework7io/framework7",
   "license": "MIT",
-  "latest_version": "master",
+  "latest_version": "v9.1.1",
   "programming_languages": [
     "JavaScript"
   ],
@@ -25,7 +25,10 @@
     "ios",
     "library",
     "material",
-    "material-design"
+    "material-design",
+    "phonegap",
+    "mobile",
+    "touch"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -34,11 +37,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 18702,
-    "forks": 3191,
-    "open_issues": 241,
+    "stars": 18712,
+    "forks": 3192,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

@@ -7,7 +7,7 @@
   "documentation": "https://github.com/atom/atom#readme",
   "github_repository": "https://github.com/atom/atom",
   "license": "MIT",
-  "latest_version": "master",
+  "latest_version": "v1.60.0",
   "programming_languages": [
     "JavaScript"
   ],
@@ -35,11 +35,11 @@
   "archived": true,
   "open_source": true,
   "repository_statistics": {
-    "stars": 60809,
-    "forks": 17199,
-    "open_issues": 994,
+    "stars": 60806,
+    "forks": 17179,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

@@ -7,7 +7,7 @@
   "documentation": "https://kotlinlang.org/docs/serialization",
   "github_repository": "https://github.com/Kotlin/kotlinx.serialization",
   "license": "Apache-2.0",
-  "latest_version": "1.0.0",
+  "latest_version": "v1.11.0",
   "programming_languages": [
     "Kotlin",
     "Java"
@@ -33,12 +33,12 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12",
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19",
   "repository_statistics": {
-    "stars": 5930,
-    "forks": 676,
-    "open_issues": 320,
-    "watchers": 99
+    "stars": 5933,
+    "forks": 677,
+    "open_issues": 0,
+    "watchers": 0
   }
 }

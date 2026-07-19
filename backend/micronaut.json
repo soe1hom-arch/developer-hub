@@ -7,7 +7,7 @@
   "documentation": "https://docs.micronaut.io",
   "github_repository": "https://github.com/redisson/redisson",
   "license": "Apache-2.0",
-  "latest_version": "1.0.0",
+  "latest_version": "redisson-4.6.1",
   "programming_languages": [
     "Java"
   ],
@@ -48,12 +48,12 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12",
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19",
   "repository_statistics": {
-    "stars": 24373,
-    "forks": 5489,
-    "open_issues": 235,
-    "watchers": 860
+    "stars": 24376,
+    "forks": 5486,
+    "open_issues": 0,
+    "watchers": 0
   }
 }

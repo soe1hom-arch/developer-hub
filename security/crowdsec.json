@@ -7,7 +7,7 @@
   "documentation": "https://docs.crowdsec.net",
   "github_repository": "https://github.com/crowdsecurity/crowdsec",
   "license": "MIT",
-  "latest_version": "1.0.0",
+  "latest_version": "v1.7.8",
   "programming_languages": [
     "Go",
     "Shell",
@@ -39,12 +39,12 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12",
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19",
   "repository_statistics": {
-    "stars": 14182,
-    "forks": 674,
-    "open_issues": 288,
-    "watchers": 121
+    "stars": 14240,
+    "forks": 679,
+    "open_issues": 0,
+    "watchers": 0
   }
 }

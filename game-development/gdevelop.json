@@ -7,7 +7,7 @@
   "documentation": "https://github.com/4ian/GDevelop#readme",
   "github_repository": "https://github.com/4ian/GDevelop",
   "license": "NOASSERTION",
-  "latest_version": "master",
+  "latest_version": "v5.6.274",
   "programming_languages": [
     "JavaScript"
   ],
@@ -26,7 +26,12 @@
     "3d-game-engine",
     "game",
     "game-development",
-    "game-engine"
+    "game-engine",
+    "javascript",
+    "gamedev",
+    "html5",
+    "gamemaker",
+    "gdevelop"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -35,11 +40,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 24583,
-    "forks": 1450,
-    "open_issues": 607,
+    "stars": 24907,
+    "forks": 1468,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

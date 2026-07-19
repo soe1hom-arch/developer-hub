@@ -7,7 +7,7 @@
   "documentation": "https://github.com/ethereumbook/ethereumbook#readme",
   "github_repository": "https://github.com/ethereumbook/ethereumbook",
   "license": "MIT",
-  "latest_version": "develop",
+  "latest_version": "second-edition",
   "programming_languages": [
     "Generic"
   ],
@@ -26,7 +26,10 @@
     "embark",
     "ethereum",
     "oreilly",
-    "smart-contracts"
+    "smart-contracts",
+    "solidity",
+    "truffle-framework",
+    "web3js"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -35,11 +38,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 21520,
-    "forks": 5180,
+    "stars": 21519,
+    "forks": 5178,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

@@ -7,7 +7,7 @@
   "documentation": "https://vertx.io/docs",
   "github_repository": "https://github.com/reactiverse/es4x",
   "license": "Apache-2.0",
-  "latest_version": "1.0.0",
+  "latest_version": "0.22.0",
   "programming_languages": [
     "Java",
     "JavaScript",
@@ -40,12 +40,12 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12",
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19",
   "repository_statistics": {
     "stars": 891,
     "forks": 74,
-    "open_issues": 53,
-    "watchers": 22
+    "open_issues": 0,
+    "watchers": 0
   }
 }

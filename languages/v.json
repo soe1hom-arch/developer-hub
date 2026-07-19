@@ -7,7 +7,7 @@
   "documentation": "https://github.com/vlang/v#readme",
   "github_repository": "https://github.com/vlang/v",
   "license": "MIT",
-  "latest_version": "master",
+  "latest_version": "0.5.2",
   "programming_languages": [
     "V"
   ],
@@ -32,11 +32,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 37705,
-    "forks": 2254,
-    "open_issues": 56,
+    "stars": 37714,
+    "forks": 2257,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

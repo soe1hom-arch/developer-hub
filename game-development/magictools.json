@@ -25,7 +25,11 @@
     "curated",
     "design",
     "frameworks",
-    "game-design"
+    "game-design",
+    "game-development",
+    "gamedev",
+    "list",
+    "games"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -34,11 +38,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 16961,
+    "stars": 16994,
     "forks": 1203,
-    "open_issues": 11,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

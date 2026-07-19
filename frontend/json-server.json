@@ -7,7 +7,7 @@
   "documentation": "https://github.com/typicode/json-server#readme",
   "github_repository": "https://github.com/typicode/json-server",
   "license": "MIT",
-  "latest_version": "main",
+  "latest_version": "v1.0.0-beta.15",
   "programming_languages": [
     "JavaScript"
   ],
@@ -35,11 +35,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 75650,
-    "forks": 7266,
-    "open_issues": 718,
+    "stars": 75655,
+    "forks": 7267,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

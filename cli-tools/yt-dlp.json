@@ -7,7 +7,7 @@
   "documentation": "https://github.com/yt-dlp/yt-dlp#readme",
   "github_repository": "https://github.com/yt-dlp/yt-dlp",
   "license": "Unlicense",
-  "latest_version": "master",
+  "latest_version": "2026.07.04",
   "programming_languages": [
     "Python"
   ],
@@ -35,11 +35,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 177395,
-    "forks": 15167,
-    "open_issues": 2506,
+    "stars": 178782,
+    "forks": 15200,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

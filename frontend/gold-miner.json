@@ -27,7 +27,9 @@
     "javascript",
     "react",
     "swift",
-    "tensorflow"
+    "tensorflow",
+    "translation",
+    "tutorials"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +38,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 34312,
-    "forks": 4990,
-    "open_issues": 15,
+    "stars": 34316,
+    "forks": 4987,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

@@ -7,7 +7,7 @@
   "documentation": "https://github.com/rwaldron/johnny-five#readme",
   "github_repository": "https://github.com/rwaldron/johnny-five",
   "license": "NOASSERTION",
-  "latest_version": "main",
+  "latest_version": "v2.1.0",
   "programming_languages": [
     "JavaScript"
   ],
@@ -24,7 +24,13 @@
     "bluetooth",
     "chip",
     "dac",
-    "gpio"
+    "gpio",
+    "javascript",
+    "tessel",
+    "raspberry-pi",
+    "photon",
+    "pcduino",
+    "i2c"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -33,11 +39,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 13404,
+    "stars": 13406,
     "forks": 1733,
-    "open_issues": 64,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

@@ -7,7 +7,7 @@
   "documentation": "https://labelstud.io/guide",
   "github_repository": "https://github.com/HumanSignal/label-studio",
   "license": "Apache-2.0",
-  "latest_version": "1.0.0",
+  "latest_version": "1.23.0",
   "programming_languages": [
     "TypeScript",
     "JavaScript",
@@ -52,12 +52,12 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12",
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19",
   "repository_statistics": {
-    "stars": 27816,
-    "forks": 3616,
-    "open_issues": 893,
-    "watchers": 181
+    "stars": 27870,
+    "forks": 3623,
+    "open_issues": 0,
+    "watchers": 0
   }
 }

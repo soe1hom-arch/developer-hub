@@ -7,7 +7,7 @@
   "documentation": "https://github.com/AlDanial/cloc#readme",
   "github_repository": "https://github.com/AlDanial/cloc",
   "license": "GPL-2.0",
-  "latest_version": "master",
+  "latest_version": "v2.10",
   "programming_languages": [
     "Perl"
   ],
@@ -30,11 +30,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 23288,
+    "stars": 23314,
     "forks": 1119,
-    "open_issues": 25,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

@@ -7,7 +7,7 @@
   "documentation": "https://github.com/dapr/dapr#readme",
   "github_repository": "https://github.com/dapr/dapr",
   "license": "Apache-2.0",
-  "latest_version": "master",
+  "latest_version": "v1.18.1",
   "programming_languages": [
     "Go"
   ],
@@ -27,7 +27,8 @@
     "microservices",
     "pubsub",
     "serverless",
-    "sidecar"
+    "sidecar",
+    "state-management"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +37,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 25925,
-    "forks": 2102,
-    "open_issues": 403,
+    "stars": 25969,
+    "forks": 2113,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

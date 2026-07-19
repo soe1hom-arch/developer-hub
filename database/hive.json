@@ -1,0 +1,46 @@
+{
+  "id": "hive",
+  "name": "hive",
+  "category": "database",
+  "description": "Lightweight and blazing fast key-value database written in pure Dart.",
+  "official_website": "https://github.com/isar/hive",
+  "documentation": "https://github.com/isar/hive#readme",
+  "github_repository": "https://github.com/isar/hive",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Dart"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "dart",
+    "database",
+    "encryption",
+    "flutter",
+    "hive",
+    "key-value",
+    "nosql"
+  ],
+  "alternatives": [],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 4387,
+    "forks": 451,
+    "open_issues": 569,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 65
+}

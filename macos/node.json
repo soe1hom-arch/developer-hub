@@ -7,7 +7,7 @@
   "documentation": "https://github.com/nodejs/node#readme",
   "github_repository": "https://github.com/nodejs/node",
   "license": "NOASSERTION",
-  "latest_version": "main",
+  "latest_version": "v26.5.0",
   "programming_languages": [
     "JavaScript"
   ],
@@ -27,7 +27,8 @@
     "mit",
     "node",
     "nodejs",
-    "runtime"
+    "runtime",
+    "windows"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +37,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 118323,
-    "forks": 36180,
-    "open_issues": 2349,
+    "stars": 118299,
+    "forks": 36165,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

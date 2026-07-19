@@ -7,7 +7,7 @@
   "documentation": "https://github.com/thingsboard/thingsboard#readme",
   "github_repository": "https://github.com/thingsboard/thingsboard",
   "license": "Apache-2.0",
-  "latest_version": "master",
+  "latest_version": "v4.3.1.3",
   "programming_languages": [
     "Java"
   ],
@@ -26,7 +26,14 @@
     "http",
     "iiot",
     "iot",
-    "iot-analytics"
+    "iot-analytics",
+    "visualization",
+    "iot-platform",
+    "mqtt",
+    "middleware",
+    "thingsboard",
+    "snmp",
+    "microservices"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -35,11 +42,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 22043,
-    "forks": 6373,
-    "open_issues": 257,
+    "stars": 22087,
+    "forks": 6377,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

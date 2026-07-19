@@ -7,7 +7,7 @@
   "documentation": "https://github.com/libevent/libevent#readme",
   "github_repository": "https://github.com/libevent/libevent",
   "license": "NOASSERTION",
-  "latest_version": "master",
+  "latest_version": "release-2.1.13-stable",
   "programming_languages": [
     "C"
   ],
@@ -29,11 +29,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 11925,
-    "forks": 3463,
-    "open_issues": 149,
+    "stars": 11929,
+    "forks": 3461,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

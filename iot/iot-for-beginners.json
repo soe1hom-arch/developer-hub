@@ -25,7 +25,9 @@
     "iot-edge",
     "microcontroller",
     "microsoft-for-beginners",
-    "python"
+    "python",
+    "raspberry-pi",
+    "rpi"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -34,11 +36,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 16966,
-    "forks": 2899,
+    "stars": 16970,
+    "forks": 2897,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

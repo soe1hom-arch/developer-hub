@@ -7,7 +7,7 @@
   "documentation": "https://github.com/barbajs/barba#readme",
   "github_repository": "https://github.com/barbajs/barba",
   "license": "MIT",
-  "latest_version": "main",
+  "latest_version": "v2.10.3",
   "programming_languages": [
     "TypeScript"
   ],
@@ -24,7 +24,11 @@
     "fluid",
     "library",
     "page",
-    "page-transitions"
+    "page-transitions",
+    "transition",
+    "prefetch",
+    "router",
+    "plugin-system"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -33,11 +37,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 12947,
-    "forks": 496,
-    "open_issues": 15,
+    "stars": 12951,
+    "forks": 497,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

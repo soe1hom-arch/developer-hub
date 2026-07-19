@@ -7,7 +7,7 @@
   "documentation": "https://github.com/alibaba/weex#readme",
   "github_repository": "https://github.com/alibaba/weex",
   "license": "Apache-2.0",
-  "latest_version": "master",
+  "latest_version": "0.30.0",
   "programming_languages": [
     "C++"
   ],
@@ -32,11 +32,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 18536,
-    "forks": 2122,
-    "open_issues": 65,
+    "stars": 18535,
+    "forks": 2123,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

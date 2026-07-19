@@ -7,7 +7,7 @@
   "documentation": "https://zod.dev",
   "github_repository": "https://github.com/calcom/cal.diy",
   "license": "MIT",
-  "latest_version": "1.0.0",
+  "latest_version": "v6.2.0",
   "programming_languages": [
     "TypeScript",
     "CSS",
@@ -43,12 +43,12 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12",
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19",
   "repository_statistics": {
-    "stars": 46322,
-    "forks": 14422,
-    "open_issues": 1318,
-    "watchers": 193
+    "stars": 46584,
+    "forks": 14489,
+    "open_issues": 0,
+    "watchers": 0
   }
 }

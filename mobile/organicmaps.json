@@ -7,7 +7,7 @@
   "documentation": "https://github.com/organicmaps/organicmaps#readme",
   "github_repository": "https://github.com/organicmaps/organicmaps",
   "license": "NOASSERTION",
-  "latest_version": "master",
+  "latest_version": "2026.07.15-11-android",
   "programming_languages": [
     "C++"
   ],
@@ -24,7 +24,13 @@
     "hacktoberfest",
     "hikers",
     "ios",
-    "java"
+    "java",
+    "privacy",
+    "objective-c",
+    "maps",
+    "mobile-app",
+    "mobile",
+    "offline-maps"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -33,11 +39,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 14709,
-    "forks": 1494,
-    "open_issues": 3385,
+    "stars": 14771,
+    "forks": 1500,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

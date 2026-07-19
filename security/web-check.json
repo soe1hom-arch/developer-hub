@@ -7,7 +7,7 @@
   "documentation": "https://github.com/lissy93/web-check#readme",
   "github_repository": "https://github.com/lissy93/web-check",
   "license": "MIT",
-  "latest_version": "master",
+  "latest_version": "2.1.0",
   "programming_languages": [
     "TypeScript"
   ],
@@ -33,11 +33,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 34119,
-    "forks": 2815,
-    "open_issues": 80,
+    "stars": 34200,
+    "forks": 2817,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

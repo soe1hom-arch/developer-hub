@@ -7,7 +7,7 @@
   "documentation": "https://github.com/laurent22/joplin#readme",
   "github_repository": "https://github.com/laurent22/joplin",
   "license": "NOASSERTION",
-  "latest_version": "dev",
+  "latest_version": "v3.6.15",
   "programming_languages": [
     "TypeScript"
   ],
@@ -27,7 +27,12 @@
     "evernote",
     "javascript",
     "joplin",
-    "nextcloud"
+    "nextcloud",
+    "react-native",
+    "nodejs",
+    "onedrive",
+    "synchronisation",
+    "webdav"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +41,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 55543,
-    "forks": 6181,
-    "open_issues": 590,
+    "stars": 55647,
+    "forks": 6179,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

@@ -7,7 +7,7 @@
   "documentation": "https://github.com/OpenHands/OpenHands#readme",
   "github_repository": "https://github.com/OpenHands/OpenHands",
   "license": "NOASSERTION",
-  "latest_version": "main",
+  "latest_version": "cloud-1.46.2",
   "programming_languages": [
     "Python"
   ],
@@ -27,7 +27,8 @@
     "cli",
     "developer-tools",
     "gpt",
-    "llm"
+    "llm",
+    "openai"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +37,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 80508,
-    "forks": 10270,
-    "open_issues": 360,
+    "stars": 81231,
+    "forks": 10388,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

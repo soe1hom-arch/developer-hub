@@ -7,7 +7,7 @@
   "documentation": "https://github.com/apache/dubbo#readme",
   "github_repository": "https://github.com/apache/dubbo",
   "license": "Apache-2.0",
-  "latest_version": "3.3",
+  "latest_version": "dubbo-3.3.6",
   "programming_languages": [
     "Java"
   ],
@@ -27,7 +27,9 @@
     "http",
     "java",
     "microservices",
-    "restful"
+    "restful",
+    "rpc",
+    "service-mesh"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +38,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 41527,
-    "forks": 26421,
-    "open_issues": 1002,
+    "stars": 41532,
+    "forks": 26401,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

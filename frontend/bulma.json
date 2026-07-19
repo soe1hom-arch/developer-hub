@@ -7,7 +7,7 @@
   "documentation": "https://bulma.io/documentation",
   "github_repository": "https://github.com/jgthms/bulma",
   "license": "MIT",
-  "latest_version": "1.0.0",
+  "latest_version": "1.0.4",
   "programming_languages": [
     "CSS",
     "SCSS",
@@ -37,12 +37,12 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12",
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19",
   "repository_statistics": {
-    "stars": 50069,
-    "forks": 3888,
-    "open_issues": 523,
-    "watchers": 570
+    "stars": 50065,
+    "forks": 3887,
+    "open_issues": 0,
+    "watchers": 0
   }
 }

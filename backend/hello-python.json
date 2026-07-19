@@ -27,7 +27,11 @@
     "frontend",
     "gpt-3",
     "gpt-4",
-    "mongodb"
+    "mongodb",
+    "python",
+    "python3",
+    "tutorial",
+    "openai"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +40,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 36344,
-    "forks": 2313,
-    "open_issues": 37,
+    "stars": 36435,
+    "forks": 2312,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

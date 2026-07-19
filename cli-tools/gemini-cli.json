@@ -7,7 +7,7 @@
   "documentation": "https://github.com/google-gemini/gemini-cli#readme",
   "github_repository": "https://github.com/google-gemini/gemini-cli",
   "license": "Apache-2.0",
-  "latest_version": "main",
+  "latest_version": "v0.51.0",
   "programming_languages": [
     "TypeScript"
   ],
@@ -35,11 +35,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 105928,
-    "forks": 14246,
-    "open_issues": 1366,
+    "stars": 106066,
+    "forks": 14279,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

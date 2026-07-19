@@ -7,7 +7,7 @@
   "documentation": "https://github.com/pystardust/ani-cli#readme",
   "github_repository": "https://github.com/pystardust/ani-cli",
   "license": "GPL-3.0",
-  "latest_version": "master",
+  "latest_version": "v4.14",
   "programming_languages": [
     "Shell"
   ],
@@ -24,7 +24,11 @@
     "mac",
     "posix",
     "rofi",
-    "shell"
+    "shell",
+    "steamdeck",
+    "syncplay",
+    "termux",
+    "webscraping"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -33,11 +37,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 13137,
-    "forks": 827,
-    "open_issues": 29,
+    "stars": 13264,
+    "forks": 832,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

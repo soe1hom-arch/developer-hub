@@ -7,7 +7,7 @@
   "documentation": "https://github.com/swisskyrepo/PayloadsAllTheThings#readme",
   "github_repository": "https://github.com/swisskyrepo/PayloadsAllTheThings",
   "license": "MIT",
-  "latest_version": "master",
+  "latest_version": "4.2",
   "programming_languages": [
     "Python"
   ],
@@ -27,7 +27,13 @@
     "enumeration",
     "hacking",
     "hacktoberfest",
-    "methodology"
+    "methodology",
+    "pentest",
+    "payload",
+    "web-application",
+    "vulnerability",
+    "privilege-escalation",
+    "penetration-testing"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +42,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 79089,
-    "forks": 17170,
-    "open_issues": 31,
+    "stars": 79263,
+    "forks": 17182,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

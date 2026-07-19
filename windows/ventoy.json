@@ -7,7 +7,7 @@
   "documentation": "https://github.com/ventoy/Ventoy#readme",
   "github_repository": "https://github.com/ventoy/Ventoy",
   "license": "GPL-3.0",
-  "latest_version": "master",
+  "latest_version": "v1.1.16",
   "programming_languages": [
     "C"
   ],
@@ -27,7 +27,13 @@
     "chromeos",
     "iso-files",
     "legacy",
-    "linux"
+    "linux",
+    "multiboot",
+    "uefi",
+    "usb",
+    "secure-boot",
+    "windows",
+    "unix"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +42,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 77957,
-    "forks": 4868,
-    "open_issues": 991,
+    "stars": 78094,
+    "forks": 4858,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

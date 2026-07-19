@@ -7,7 +7,7 @@
   "documentation": "https://github.com/aframevr/aframe#readme",
   "github_repository": "https://github.com/aframevr/aframe",
   "license": "MIT",
-  "latest_version": "master",
+  "latest_version": "v1.8.0",
   "programming_languages": [
     "JavaScript"
   ],
@@ -25,7 +25,15 @@
     "ecs",
     "game-development",
     "game-engine",
-    "gamedev"
+    "gamedev",
+    "vr",
+    "webvr",
+    "virtualreality",
+    "threejs",
+    "html",
+    "vive",
+    "oculus",
+    "rift"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -34,11 +42,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 17588,
-    "forks": 4383,
-    "open_issues": 339,
+    "stars": 17591,
+    "forks": 4385,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

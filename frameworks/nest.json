@@ -7,7 +7,7 @@
   "documentation": "https://github.com/nestjs/nest#readme",
   "github_repository": "https://github.com/nestjs/nest",
   "license": "MIT",
-  "latest_version": "master",
+  "latest_version": "v11.1.28",
   "programming_languages": [
     "TypeScript"
   ],
@@ -27,7 +27,12 @@
     "microservices",
     "nest",
     "nestjs",
-    "node"
+    "node",
+    "typescript",
+    "nodejs",
+    "nodejs-framework",
+    "typescript-framework",
+    "websockets"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +41,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 76235,
-    "forks": 8450,
-    "open_issues": 37,
+    "stars": 76142,
+    "forks": 8370,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

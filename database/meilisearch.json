@@ -7,7 +7,7 @@
   "documentation": "https://github.com/meilisearch/meilisearch#readme",
   "github_repository": "https://github.com/meilisearch/meilisearch",
   "license": "NOASSERTION",
-  "latest_version": "main",
+  "latest_version": "v1.49.0",
   "programming_languages": [
     "Rust"
   ],
@@ -27,7 +27,13 @@
     "enterprise-search",
     "faceting",
     "full-text-search",
-    "fuzzy-search"
+    "fuzzy-search",
+    "search-engine",
+    "typo-tolerance",
+    "site-search",
+    "search",
+    "geosearch",
+    "instantsearch"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +42,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 58511,
-    "forks": 2610,
-    "open_issues": 310,
+    "stars": 58642,
+    "forks": 2627,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

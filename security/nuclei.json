@@ -7,7 +7,7 @@
   "documentation": "https://github.com/projectdiscovery/nuclei#readme",
   "github_repository": "https://github.com/projectdiscovery/nuclei",
   "license": "MIT",
-  "latest_version": "dev",
+  "latest_version": "v3.11.0",
   "programming_languages": [
     "Go"
   ],
@@ -27,7 +27,10 @@
     "nuclei-engine",
     "security",
     "security-scanner",
-    "subdomain-takeover"
+    "subdomain-takeover",
+    "vulnerability-detection",
+    "vulnerability-assessment",
+    "vulnerability-scanner"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +39,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 29736,
-    "forks": 3718,
-    "open_issues": 102,
+    "stars": 29827,
+    "forks": 3611,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

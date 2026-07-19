@@ -7,7 +7,7 @@
   "documentation": "https://github.com/x64dbg/x64dbg#readme",
   "github_repository": "https://github.com/x64dbg/x64dbg",
   "license": "NOASSERTION",
-  "latest_version": "development",
+  "latest_version": "2026.05.27",
   "programming_languages": [
     "C++"
   ],
@@ -27,7 +27,15 @@
     "debugging",
     "disassembler",
     "dynamic-analysis",
-    "exploit-development"
+    "exploit-development",
+    "windows",
+    "x64",
+    "reverse-engineering",
+    "security",
+    "x86",
+    "x86-64",
+    "malware-analysis",
+    "security-tools"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +44,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 48858,
-    "forks": 2778,
-    "open_issues": 577,
+    "stars": 48929,
+    "forks": 2785,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

@@ -7,7 +7,7 @@
   "documentation": "https://github.com/microsoft/PowerToys#readme",
   "github_repository": "https://github.com/microsoft/PowerToys",
   "license": "MIT",
-  "latest_version": "main",
+  "latest_version": "v0.100.2",
   "programming_languages": [
     "C"
   ],
@@ -27,7 +27,10 @@
     "fancyzones",
     "keyboard-manager",
     "microsoft-powertoys",
-    "powerrename"
+    "powerrename",
+    "powertoys",
+    "windows",
+    "windows-10"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +39,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 136471,
-    "forks": 8366,
-    "open_issues": 7353,
+    "stars": 136552,
+    "forks": 8282,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

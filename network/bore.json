@@ -1,0 +1,47 @@
+{
+  "id": "bore",
+  "name": "bore",
+  "category": "network",
+  "description": "\ud83d\udd73 bore is a simple CLI tool for making tunnels to localhost",
+  "official_website": "http://bore.pub",
+  "documentation": "https://github.com/ekzhang/bore#readme",
+  "github_repository": "https://github.com/ekzhang/bore",
+  "license": "MIT",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "cli",
+    "localhost",
+    "networking",
+    "proxy",
+    "rust",
+    "self-hosted",
+    "tcp",
+    "tunnel"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 11320,
+    "forks": 516,
+    "open_issues": 14,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

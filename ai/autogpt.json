@@ -7,7 +7,7 @@
   "documentation": "https://github.com/Significant-Gravitas/AutoGPT#readme",
   "github_repository": "https://github.com/Significant-Gravitas/AutoGPT",
   "license": "NOASSERTION",
-  "latest_version": "master",
+  "latest_version": "autogpt-platform-beta-v0.6.68",
   "programming_languages": [
     "Python"
   ],
@@ -27,7 +27,10 @@
     "autonomous-agents",
     "claude",
     "gpt",
-    "llama-api"
+    "llama-api",
+    "openai",
+    "python",
+    "llm"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +39,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 185484,
-    "forks": 46106,
-    "open_issues": 497,
+    "stars": 185599,
+    "forks": 46075,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

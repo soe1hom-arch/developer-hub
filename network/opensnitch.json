@@ -7,7 +7,7 @@
   "documentation": "https://github.com/evilsocket/opensnitch#readme",
   "github_repository": "https://github.com/evilsocket/opensnitch",
   "license": "GPL-3.0",
-  "latest_version": "master",
+  "latest_version": "v1.8.0",
   "programming_languages": [
     "Python"
   ],
@@ -31,11 +31,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 13872,
-    "forks": 646,
-    "open_issues": 170,
+    "stars": 13889,
+    "forks": 650,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

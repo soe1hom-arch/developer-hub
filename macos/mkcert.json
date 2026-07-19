@@ -7,7 +7,7 @@
   "documentation": "https://github.com/FiloSottile/mkcert#readme",
   "github_repository": "https://github.com/FiloSottile/mkcert",
   "license": "BSD-3-Clause",
-  "latest_version": "master",
+  "latest_version": "v1.4.4",
   "programming_languages": [
     "Go"
   ],
@@ -27,7 +27,11 @@
     "ios",
     "linux",
     "local-development",
-    "localhost"
+    "localhost",
+    "tls",
+    "root-ca",
+    "macos",
+    "windows"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +40,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 59279,
-    "forks": 3131,
-    "open_issues": 174,
+    "stars": 59329,
+    "forks": 3129,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

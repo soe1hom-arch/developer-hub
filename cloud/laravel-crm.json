@@ -7,7 +7,7 @@
   "documentation": "https://github.com/krayin/laravel-crm#readme",
   "github_repository": "https://github.com/krayin/laravel-crm",
   "license": "MIT",
-  "latest_version": "2.2",
+  "latest_version": "v2.2.3",
   "programming_languages": [
     "Blade"
   ],
@@ -26,7 +26,15 @@
     "crm-platform",
     "hacktoberfest",
     "laravel",
-    "laravel-application"
+    "laravel-application",
+    "php",
+    "laravel-package",
+    "laravel-framework",
+    "laravel-crm",
+    "vuejs",
+    "opensource",
+    "vue",
+    "opensource-crm-framework"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -35,11 +43,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 23341,
-    "forks": 1527,
-    "open_issues": 154,
+    "stars": 23409,
+    "forks": 1531,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

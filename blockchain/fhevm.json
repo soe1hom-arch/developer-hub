@@ -7,7 +7,7 @@
   "documentation": "https://github.com/zama-ai/fhevm#readme",
   "github_repository": "https://github.com/zama-ai/fhevm",
   "license": "NOASSERTION",
-  "latest_version": "main",
+  "latest_version": "v0.13.1",
   "programming_languages": [
     "Rust"
   ],
@@ -31,11 +31,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 25167,
-    "forks": 2025,
-    "open_issues": 111,
+    "stars": 25161,
+    "forks": 2022,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

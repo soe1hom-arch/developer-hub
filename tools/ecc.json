@@ -7,7 +7,7 @@
   "documentation": "https://github.com/affaan-m/ECC#readme",
   "github_repository": "https://github.com/affaan-m/ECC",
   "license": "MIT",
-  "latest_version": "main",
+  "latest_version": "v2.0.0",
   "programming_languages": [
     "JavaScript"
   ],
@@ -36,11 +36,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 228684,
-    "forks": 35073,
-    "open_issues": 96,
+    "stars": 230967,
+    "forks": 35241,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

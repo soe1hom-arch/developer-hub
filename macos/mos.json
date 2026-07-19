@@ -1,0 +1,47 @@
+{
+  "id": "mos",
+  "name": "Mos",
+  "category": "macos",
+  "description": "\u4e00\u4e2a\u7528\u4e8e\u5728 macOS \u4e0a\u5e73\u6ed1\u4f60\u7684\u9f20\u6807\u6eda\u52a8\u6548\u679c\u6216\u5355\u72ec\u8bbe\u7f6e\u6eda\u52a8\u65b9\u5411\u7684\u5c0f\u5de5\u5177, \u8ba9\u4f60\u7684\u6eda\u8f6e\u723d\u5982\u89e6\u63a7\u677f  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS",
+  "official_website": "http://mos.caldis.me",
+  "documentation": "https://github.com/Caldis/Mos#readme",
+  "github_repository": "https://github.com/Caldis/Mos",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "Swift"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "homebrew",
+    "macos",
+    "mouse",
+    "osx",
+    "reverse",
+    "scroll",
+    "smooth",
+    "smooth-scrolling"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 20883,
+    "forks": 660,
+    "open_issues": 386,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 90
+}

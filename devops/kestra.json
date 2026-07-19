@@ -7,7 +7,7 @@
   "documentation": "https://github.com/kestra-io/kestra#readme",
   "github_repository": "https://github.com/kestra-io/kestra",
   "license": "Apache-2.0",
-  "latest_version": "develop",
+  "latest_version": "v1.3.26",
   "programming_languages": [
     "Java"
   ],
@@ -27,7 +27,14 @@
     "data-orchestration",
     "data-orchestrator",
     "devops",
-    "etl"
+    "etl",
+    "orchestration",
+    "high-availability",
+    "infrastructure-as-code",
+    "java",
+    "low-code",
+    "pipeline",
+    "pipeline-as-code"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +43,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 27402,
-    "forks": 2806,
-    "open_issues": 548,
+    "stars": 27380,
+    "forks": 2734,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

@@ -1,0 +1,43 @@
+{
+  "id": "slither",
+  "name": "slither",
+  "category": "blockchain",
+  "description": "Static Analyzer for Solidity and Vyper",
+  "official_website": "https://blog.trailofbits.com/2018/10/19/slither-a-solidity-static-analysis-framework/",
+  "documentation": "https://github.com/crytic/slither#readme",
+  "github_repository": "https://github.com/crytic/slither",
+  "license": "AGPL-3.0",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "ethereum",
+    "solidity",
+    "static-analysis",
+    "vyper"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 6323,
+    "forks": 1117,
+    "open_issues": 472,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 72
+}

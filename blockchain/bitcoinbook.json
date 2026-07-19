@@ -7,7 +7,7 @@
   "documentation": "https://github.com/bitcoinbook/bitcoinbook#readme",
   "github_repository": "https://github.com/bitcoinbook/bitcoinbook",
   "license": "NOASSERTION",
-  "latest_version": "develop",
+  "latest_version": "third_edition_print1",
   "programming_languages": [
     "HTML"
   ],
@@ -33,11 +33,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 25238,
-    "forks": 6184,
-    "open_issues": 194,
+    "stars": 25250,
+    "forks": 6182,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

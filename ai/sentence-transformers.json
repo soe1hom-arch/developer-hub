@@ -7,7 +7,7 @@
   "documentation": "https://sbert.net/docs",
   "github_repository": "https://github.com/huggingface/sentence-transformers",
   "license": "Apache-2.0",
-  "latest_version": "1.0.0",
+  "latest_version": "v5.6.0",
   "programming_languages": [
     "Python",
     "Makefile"
@@ -29,12 +29,12 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12",
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19",
   "repository_statistics": {
-    "stars": 18903,
-    "forks": 2826,
-    "open_issues": 1302,
-    "watchers": 148
+    "stars": 18919,
+    "forks": 2830,
+    "open_issues": 0,
+    "watchers": 0
   }
 }

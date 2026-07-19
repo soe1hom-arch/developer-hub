@@ -7,7 +7,7 @@
   "documentation": "https://github.com/DietrichGebert/ponytail#readme",
   "github_repository": "https://github.com/DietrichGebert/ponytail",
   "license": "MIT",
-  "latest_version": "main",
+  "latest_version": "v4.8.4",
   "programming_languages": [
     "JavaScript"
   ],
@@ -27,7 +27,9 @@
     "claude-code-plugin",
     "cursor-rules",
     "developer-tools",
-    "llm"
+    "llm",
+    "prompt-engineering",
+    "yagni"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +38,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 80887,
-    "forks": 4367,
-    "open_issues": 62,
+    "stars": 85629,
+    "forks": 4666,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

@@ -7,7 +7,7 @@
   "documentation": "https://github.com/termux/termux-packages#readme",
   "github_repository": "https://github.com/termux/termux-packages",
   "license": "NOASSERTION",
-  "latest_version": "master",
+  "latest_version": "bootstrap-2026.07.19-r1+apt.android-7",
   "programming_languages": [
     "Shell"
   ],
@@ -32,11 +32,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 16557,
-    "forks": 4211,
-    "open_issues": 1064,
+    "stars": 16619,
+    "forks": 4231,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

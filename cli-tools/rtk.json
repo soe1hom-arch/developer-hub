@@ -7,7 +7,7 @@
   "documentation": "https://github.com/rtk-ai/rtk#readme",
   "github_repository": "https://github.com/rtk-ai/rtk",
   "license": "Apache-2.0",
-  "latest_version": "develop",
+  "latest_version": "v0.43.0",
   "programming_languages": [
     "Rust"
   ],
@@ -27,7 +27,9 @@
     "cli",
     "command-line-tool",
     "cost-reduction",
-    "developer-tools"
+    "developer-tools",
+    "llm",
+    "open-source"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +38,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 70411,
-    "forks": 4379,
-    "open_issues": 1566,
+    "stars": 71738,
+    "forks": 4468,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

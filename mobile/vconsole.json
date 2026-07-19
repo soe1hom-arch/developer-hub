@@ -7,7 +7,7 @@
   "documentation": "https://github.com/Tencent/vConsole#readme",
   "github_repository": "https://github.com/Tencent/vConsole",
   "license": "NOASSERTION",
-  "latest_version": "dev",
+  "latest_version": "v3.15.1",
   "programming_languages": [
     "TypeScript"
   ],
@@ -29,11 +29,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 17498,
-    "forks": 2965,
-    "open_issues": 45,
+    "stars": 17501,
+    "forks": 2967,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

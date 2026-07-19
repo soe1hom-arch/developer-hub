@@ -7,7 +7,7 @@
   "documentation": "https://github.com/ElemeFE/mint-ui#readme",
   "github_repository": "https://github.com/ElemeFE/mint-ui",
   "license": "MIT",
-  "latest_version": "master",
+  "latest_version": "v2.2.7",
   "programming_languages": [
     "Vue"
   ],
@@ -31,11 +31,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 16450,
-    "forks": 3488,
-    "open_issues": 291,
+    "stars": 16449,
+    "forks": 3486,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

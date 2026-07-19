@@ -7,7 +7,7 @@
   "documentation": "https://github.com/daytonaio/daytona#readme",
   "github_repository": "https://github.com/daytonaio/daytona",
   "license": "MIT",
-  "latest_version": "main",
+  "latest_version": "v0.190.0",
   "programming_languages": [
     "Generic"
   ],
@@ -36,11 +36,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 72220,
-    "forks": 5663,
-    "open_issues": 444,
+    "stars": 72255,
+    "forks": 5662,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

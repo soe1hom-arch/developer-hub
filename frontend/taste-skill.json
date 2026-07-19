@@ -27,7 +27,12 @@
     "codex",
     "coding",
     "design",
-    "frontend"
+    "frontend",
+    "lowcode",
+    "nocode",
+    "skill",
+    "skills",
+    "vibecoding"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +41,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 62201,
-    "forks": 4385,
-    "open_issues": 44,
+    "stars": 64965,
+    "forks": 4483,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

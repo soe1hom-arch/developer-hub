@@ -7,7 +7,7 @@
   "documentation": "https://www.deepspeed.ai/docs",
   "github_repository": "https://github.com/deepspeedai/DeepSpeed",
   "license": "Apache-2.0",
-  "latest_version": "1.0.0",
+  "latest_version": "v0.19.2",
   "programming_languages": [
     "Python",
     "C++",
@@ -45,12 +45,12 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12",
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19",
   "repository_statistics": {
-    "stars": 42685,
-    "forks": 4884,
-    "open_issues": 1298,
-    "watchers": 359
+    "stars": 42743,
+    "forks": 4891,
+    "open_issues": 0,
+    "watchers": 0
   }
 }

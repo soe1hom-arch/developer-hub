@@ -7,7 +7,7 @@
   "documentation": "https://github.com/ageitgey/face_recognition#readme",
   "github_repository": "https://github.com/ageitgey/face_recognition",
   "license": "MIT",
-  "latest_version": "master",
+  "latest_version": "v1.2.2",
   "programming_languages": [
     "Python"
   ],
@@ -32,11 +32,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 56574,
-    "forks": 13696,
-    "open_issues": 831,
+    "stars": 56597,
+    "forks": 13694,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

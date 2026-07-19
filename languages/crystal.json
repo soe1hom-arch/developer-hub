@@ -7,7 +7,7 @@
   "documentation": "https://github.com/crystal-lang/crystal#readme",
   "github_repository": "https://github.com/crystal-lang/crystal",
   "license": "Apache-2.0",
-  "latest_version": "master",
+  "latest_version": "1.21.0",
   "programming_languages": [
     "Crystal"
   ],
@@ -32,11 +32,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 20326,
-    "forks": 1687,
-    "open_issues": 2000,
+    "stars": 20328,
+    "forks": 1690,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

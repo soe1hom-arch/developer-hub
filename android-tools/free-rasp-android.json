@@ -7,7 +7,7 @@
   "documentation": "https://github.com/talsec/Free-RASP-Android#readme",
   "github_repository": "https://github.com/talsec/Free-RASP-Android",
   "license": "MIT",
-  "latest_version": "master",
+  "latest_version": "v18.3.0",
   "programming_languages": [
     "Kotlin"
   ],
@@ -22,20 +22,25 @@
     "android-security",
     "android-tools",
     "freerasp",
-    "frida"
+    "frida",
+    "frida-detection",
+    "hooking",
+    "root",
+    "root-detection",
+    "tampering-detection"
   ],
   "has_binaries": false,
   "alternatives": [],
-  "popularity": 5,
+  "popularity": 6,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 252,
+    "stars": 255,
     "forks": 22,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

@@ -7,7 +7,7 @@
   "documentation": "https://gradio.app/docs",
   "github_repository": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
   "license": "AGPL-3.0",
-  "latest_version": "1.0.0",
+  "latest_version": "v1.10.1",
   "programming_languages": [
     "Python",
     "JavaScript",
@@ -47,12 +47,12 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12",
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19",
   "repository_statistics": {
-    "stars": 164196,
-    "forks": 30537,
-    "open_issues": 2499,
-    "watchers": 1307
+    "stars": 164215,
+    "forks": 30418,
+    "open_issues": 0,
+    "watchers": 0
   }
 }

@@ -7,7 +7,7 @@
   "documentation": "https://github.com/agalwood/Motrix#readme",
   "github_repository": "https://github.com/agalwood/Motrix",
   "license": "MIT",
-  "latest_version": "master",
+  "latest_version": "v1.8.19",
   "programming_languages": [
     "JavaScript"
   ],
@@ -27,7 +27,11 @@
     "download-manager",
     "electron",
     "linux",
-    "mac"
+    "mac",
+    "motrix",
+    "macos",
+    "windows",
+    "magnet"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +40,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 52234,
-    "forks": 4890,
-    "open_issues": 780,
+    "stars": 52257,
+    "forks": 4893,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

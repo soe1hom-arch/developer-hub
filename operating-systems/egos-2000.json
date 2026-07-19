@@ -1,0 +1,41 @@
+{
+  "id": "egos-2000",
+  "name": "egos-2000",
+  "category": "operating-systems",
+  "description": "Envision a future where everyone can read all the code of an educational operating system.",
+  "official_website": "https://egos.fun/",
+  "documentation": "https://github.com/yhzhang0128/egos-2000#readme",
+  "github_repository": "https://github.com/yhzhang0128/egos-2000",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "C"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "education",
+    "operating-system"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 3424,
+    "forks": 295,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 68
+}

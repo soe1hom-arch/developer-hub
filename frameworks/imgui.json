@@ -7,7 +7,7 @@
   "documentation": "https://github.com/ocornut/imgui#readme",
   "github_repository": "https://github.com/ocornut/imgui",
   "license": "MIT",
-  "latest_version": "master",
+  "latest_version": "v1.92.8",
   "programming_languages": [
     "C++"
   ],
@@ -27,7 +27,11 @@
     "game-engine",
     "gamedev",
     "gui",
-    "imgui"
+    "imgui",
+    "tools",
+    "ui",
+    "toolkit",
+    "native"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +40,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 74508,
-    "forks": 12001,
-    "open_issues": 1231,
+    "stars": 74781,
+    "forks": 11915,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

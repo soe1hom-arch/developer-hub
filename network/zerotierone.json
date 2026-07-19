@@ -7,7 +7,7 @@
   "documentation": "https://github.com/zerotier/ZeroTierOne#readme",
   "github_repository": "https://github.com/zerotier/ZeroTierOne",
   "license": "NOASSERTION",
-  "latest_version": "dev",
+  "latest_version": "1.16.2",
   "programming_languages": [
     "C++"
   ],
@@ -33,11 +33,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 16915,
-    "forks": 1952,
-    "open_issues": 391,
+    "stars": 16937,
+    "forks": 1960,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

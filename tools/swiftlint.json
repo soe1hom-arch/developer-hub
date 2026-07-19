@@ -1,0 +1,45 @@
+{
+  "id": "swiftlint",
+  "name": "SwiftLint",
+  "category": "tools",
+  "description": "A tool to enforce Swift style and conventions.",
+  "official_website": "https://realm.github.io/SwiftLint",
+  "documentation": "https://github.com/realm/SwiftLint#readme",
+  "github_repository": "https://github.com/realm/SwiftLint",
+  "license": "MIT",
+  "programming_languages": [
+    "Swift"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "code-quality",
+    "hacktoberfest",
+    "linter",
+    "linting",
+    "static-analysis",
+    "swift"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 19664,
+    "forks": 2312,
+    "open_issues": 484,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

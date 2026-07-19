@@ -7,7 +7,7 @@
   "documentation": "https://github.com/FreeRDP/FreeRDP#readme",
   "github_repository": "https://github.com/FreeRDP/FreeRDP",
   "license": "Apache-2.0",
-  "latest_version": "master",
+  "latest_version": "3.30.0",
   "programming_languages": [
     "C"
   ],
@@ -24,7 +24,9 @@
     "rdp",
     "rdp-client",
     "rdp-connection",
-    "remote-desktop"
+    "remote-desktop",
+    "sdl",
+    "wayland-client"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -33,11 +35,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 13417,
-    "forks": 15374,
-    "open_issues": 171,
+    "stars": 13459,
+    "forks": 15366,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

@@ -7,7 +7,7 @@
   "documentation": "https://github.com/HeyPuter/puter#readme",
   "github_repository": "https://github.com/HeyPuter/puter",
   "license": "AGPL-3.0",
-  "latest_version": "main",
+  "latest_version": "26.07.1",
   "programming_languages": [
     "TypeScript"
   ],
@@ -27,7 +27,13 @@
     "desktop-environment",
     "dropbox",
     "good-first-issue",
-    "gui"
+    "gui",
+    "osjs",
+    "web-desktop",
+    "webtop",
+    "web-os",
+    "javascript",
+    "os"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +42,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 42695,
-    "forks": 3951,
-    "open_issues": 14,
+    "stars": 42781,
+    "forks": 3955,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

@@ -1,0 +1,43 @@
+{
+  "id": "automq",
+  "name": "automq",
+  "category": "cloud",
+  "description": "Diskless Kafka\u00ae on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.",
+  "official_website": "https://www.automq.com",
+  "documentation": "https://github.com/AutoMQ/automq#readme",
+  "github_repository": "https://github.com/AutoMQ/automq",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Java"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "automq",
+    "diskless",
+    "kafka",
+    "serverless"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 10270,
+    "forks": 739,
+    "open_issues": 77,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 87
+}

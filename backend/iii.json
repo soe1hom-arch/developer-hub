@@ -7,7 +7,7 @@
   "documentation": "https://github.com/iii-hq/iii#readme",
   "github_repository": "https://github.com/iii-hq/iii",
   "license": "MIT",
-  "latest_version": "main",
+  "latest_version": "iii/v0.21.6",
   "programming_languages": [
     "Rust"
   ],
@@ -25,7 +25,10 @@
     "developer-tools",
     "engine",
     "genai",
-    "javascript"
+    "javascript",
+    "python",
+    "typescript",
+    "primitives"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -34,11 +37,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 18433,
-    "forks": 1228,
-    "open_issues": 49,
+    "stars": 18472,
+    "forks": 1237,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

@@ -7,7 +7,7 @@
   "documentation": "https://github.com/ultralytics/ultralytics#readme",
   "github_repository": "https://github.com/ultralytics/ultralytics",
   "license": "AGPL-3.0",
-  "latest_version": "main",
+  "latest_version": "v8.4.101",
   "programming_languages": [
     "Python"
   ],
@@ -27,7 +27,12 @@
     "machine-learning",
     "object-detection",
     "object-tracking",
-    "pose-estimation"
+    "pose-estimation",
+    "ultralytics",
+    "yolov8",
+    "yolo",
+    "pytorch",
+    "tracking"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +41,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 59376,
-    "forks": 11357,
-    "open_issues": 196,
+    "stars": 59627,
+    "forks": 11405,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

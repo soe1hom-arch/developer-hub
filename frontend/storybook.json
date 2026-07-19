@@ -7,7 +7,7 @@
   "documentation": "https://storybook.js.org/docs",
   "github_repository": "https://github.com/storybookjs/storybook",
   "license": "MIT",
-  "latest_version": "1.0.0",
+  "latest_version": "v10.5.2",
   "programming_languages": [
     "TypeScript",
     "JavaScript",
@@ -52,12 +52,12 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12",
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19",
   "repository_statistics": {
-    "stars": 90663,
-    "forks": 10325,
-    "open_issues": 1796,
-    "watchers": 1021
+    "stars": 90622,
+    "forks": 10219,
+    "open_issues": 0,
+    "watchers": 0
   }
 }

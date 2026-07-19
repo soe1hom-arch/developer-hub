@@ -7,7 +7,7 @@
   "documentation": "https://github.com/httptoolkit/httptoolkit-android#readme",
   "github_repository": "https://github.com/httptoolkit/httptoolkit-android",
   "license": "AGPL-3.0",
-  "latest_version": "main",
+  "latest_version": "v1.6.0",
   "programming_languages": [
     "Kotlin"
   ],
@@ -24,16 +24,16 @@
   ],
   "has_binaries": false,
   "alternatives": [],
-  "popularity": 5,
+  "popularity": 7,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 616,
+    "stars": 617,
     "forks": 97,
-    "open_issues": 5,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

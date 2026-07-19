@@ -7,7 +7,7 @@
   "documentation": "https://github.com/Moya/Moya#readme",
   "github_repository": "https://github.com/Moya/Moya",
   "license": "MIT",
-  "latest_version": "master",
+  "latest_version": "15.0.3",
   "programming_languages": [
     "Swift"
   ],
@@ -32,11 +32,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 15360,
-    "forks": 1999,
-    "open_issues": 177,
+    "stars": 15364,
+    "forks": 1998,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

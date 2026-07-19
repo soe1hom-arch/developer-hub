@@ -7,7 +7,7 @@
   "documentation": "https://github.com/ruvnet/RuView#readme",
   "github_repository": "https://github.com/ruvnet/RuView",
   "license": "MIT",
-  "latest_version": "main",
+  "latest_version": "v0.8.4-esp32",
   "programming_languages": [
     "Rust"
   ],
@@ -27,7 +27,14 @@
     "firmware",
     "home-assistant",
     "home-automation",
-    "iot"
+    "iot",
+    "wifi",
+    "monitoring",
+    "rf",
+    "wifi-security",
+    "self-learning",
+    "pose-estimation",
+    "spatial-intelligence"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +43,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 80118,
-    "forks": 10785,
-    "open_issues": 371,
+    "stars": 81179,
+    "forks": 10934,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

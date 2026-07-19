@@ -7,7 +7,7 @@
   "documentation": "https://docs.brew.sh/Cask",
   "github_repository": "https://github.com/Homebrew/homebrew-cask",
   "license": "BSD-2-Clause",
-  "latest_version": "1.0.0",
+  "latest_version": "v0.60.1",
   "programming_languages": [
     "Ruby",
     "Python",
@@ -32,12 +32,12 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12",
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19",
   "repository_statistics": {
-    "stars": 22112,
-    "forks": 11680,
-    "open_issues": 42,
-    "watchers": 308
+    "stars": 22115,
+    "forks": 11704,
+    "open_issues": 0,
+    "watchers": 0
   }
 }

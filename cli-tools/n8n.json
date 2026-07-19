@@ -7,7 +7,7 @@
   "documentation": "https://github.com/n8n-io/n8n#readme",
   "github_repository": "https://github.com/n8n-io/n8n",
   "license": "NOASSERTION",
-  "latest_version": "master",
+  "latest_version": "n8n@2.30.7",
   "programming_languages": [
     "TypeScript"
   ],
@@ -27,7 +27,13 @@
     "data-flow",
     "development",
     "integration-framework",
-    "integrations"
+    "integrations",
+    "ipaas",
+    "n8n",
+    "workflow",
+    "typescript",
+    "self-hosted",
+    "workflow-automation"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +42,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 196119,
-    "forks": 59263,
-    "open_issues": 1451,
+    "stars": 196986,
+    "forks": 59453,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

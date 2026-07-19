@@ -7,7 +7,7 @@
   "documentation": "https://github.com/BabylonJS/Babylon.js#readme",
   "github_repository": "https://github.com/BabylonJS/Babylon.js",
   "license": "Apache-2.0",
-  "latest_version": "master",
+  "latest_version": "9.17.0",
   "programming_languages": [
     "TypeScript"
   ],
@@ -27,7 +27,11 @@
     "game-engine-3d",
     "typescript",
     "webaudio",
-    "webgl"
+    "webgl",
+    "webgl2",
+    "webvr",
+    "webxr",
+    "webgpu"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +40,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 25772,
-    "forks": 3661,
-    "open_issues": 22,
+    "stars": 25829,
+    "forks": 3668,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

@@ -7,7 +7,7 @@
   "documentation": "https://github.com/rustdesk/rustdesk#readme",
   "github_repository": "https://github.com/rustdesk/rustdesk",
   "license": "AGPL-3.0",
-  "latest_version": "master",
+  "latest_version": "1.4.9",
   "programming_languages": [
     "Rust"
   ],
@@ -27,7 +27,14 @@
     "flutter",
     "flutter-apps",
     "ios",
-    "linux"
+    "linux",
+    "remote-control",
+    "remote-desktop",
+    "teamviewer",
+    "vnc",
+    "rdp",
+    "rust",
+    "p2p"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +43,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 118068,
-    "forks": 17958,
-    "open_issues": 118,
+    "stars": 118458,
+    "forks": 18038,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

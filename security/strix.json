@@ -7,7 +7,7 @@
   "documentation": "https://github.com/usestrix/strix#readme",
   "github_repository": "https://github.com/usestrix/strix",
   "license": "Apache-2.0",
-  "latest_version": "main",
+  "latest_version": "v1.1.0",
   "programming_languages": [
     "Python"
   ],
@@ -27,7 +27,11 @@
     "ai-security",
     "artificial-intelligence",
     "bug-bounty",
-    "code-quality"
+    "code-quality",
+    "cybersecurity",
+    "penetration-testing",
+    "ctf-tools",
+    "cybersecurity-tools"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +40,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 40633,
-    "forks": 4282,
-    "open_issues": 187,
+    "stars": 42468,
+    "forks": 4383,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

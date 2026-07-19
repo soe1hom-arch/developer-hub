@@ -27,7 +27,10 @@
     "meteor",
     "mongodb",
     "nodejs",
-    "npm"
+    "npm",
+    "zero-configuration",
+    "reactive-programming",
+    "realtime"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -37,10 +40,10 @@
   "open_source": true,
   "repository_statistics": {
     "stars": 44800,
-    "forks": 5243,
-    "open_issues": 453,
+    "forks": 5241,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

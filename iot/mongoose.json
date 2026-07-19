@@ -7,7 +7,7 @@
   "documentation": "https://github.com/cesanta/mongoose#readme",
   "github_repository": "https://github.com/cesanta/mongoose",
   "license": "NOASSERTION",
-  "latest_version": "master",
+  "latest_version": "7.22",
   "programming_languages": [
     "C"
   ],
@@ -24,7 +24,10 @@
     "tcp",
     "tcpip",
     "tls13",
-    "udp"
+    "udp",
+    "websocket",
+    "webserver",
+    "web-server"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -33,11 +36,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 12921,
-    "forks": 2919,
-    "open_issues": 2,
+    "stars": 12944,
+    "forks": 2925,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

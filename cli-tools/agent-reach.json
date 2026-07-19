@@ -7,7 +7,7 @@
   "documentation": "https://github.com/Panniantong/Agent-Reach#readme",
   "github_repository": "https://github.com/Panniantong/Agent-Reach",
   "license": "MIT",
-  "latest_version": "main",
+  "latest_version": "v1.5.0",
   "programming_languages": [
     "Python"
   ],
@@ -27,7 +27,9 @@
     "bilibili",
     "claude-code",
     "cli",
-    "cursor"
+    "cursor",
+    "free-api",
+    "llm-tools"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +38,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 55022,
-    "forks": 4531,
-    "open_issues": 145,
+    "stars": 57800,
+    "forks": 4629,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

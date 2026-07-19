@@ -7,7 +7,7 @@
   "documentation": "https://github.com/phaserjs/phaser#readme",
   "github_repository": "https://github.com/phaserjs/phaser",
   "license": "MIT",
-  "latest_version": "master",
+  "latest_version": "v4.2.1",
   "programming_languages": [
     "JavaScript"
   ],
@@ -27,7 +27,11 @@
     "game-frameworks",
     "gamedev",
     "html5-game-development",
-    "javascript"
+    "javascript",
+    "phaser",
+    "phaserjs",
+    "webgl",
+    "phaser-development"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +40,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 39937,
-    "forks": 7145,
-    "open_issues": 112,
+    "stars": 39985,
+    "forks": 7140,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

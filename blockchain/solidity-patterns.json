@@ -1,0 +1,43 @@
+{
+  "id": "solidity-patterns",
+  "name": "solidity-patterns",
+  "category": "blockchain",
+  "description": "A compilation of patterns and best practices for the smart contract programming language Solidity",
+  "official_website": "https://fravoll.github.io/solidity-patterns/",
+  "documentation": "https://github.com/fravoll/solidity-patterns#readme",
+  "github_repository": "https://github.com/fravoll/solidity-patterns",
+  "license": "MIT",
+  "programming_languages": [
+    "Solidity"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "smart-contract",
+    "solidity",
+    "solidity-language",
+    "solidity-patterns"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 3324,
+    "forks": 533,
+    "open_issues": 2,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 72
+}

@@ -7,7 +7,7 @@
   "documentation": "https://docs.celeryq.dev",
   "github_repository": "https://github.com/celery/celery",
   "license": "NOASSERTION",
-  "latest_version": "1.0.0",
+  "latest_version": "v5.6.3",
   "programming_languages": [
     "Python",
     "Shell",
@@ -46,12 +46,12 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12",
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19",
   "repository_statistics": {
-    "stars": 28678,
-    "forks": 5099,
-    "open_issues": 786,
-    "watchers": 451
+    "stars": 28697,
+    "forks": 5106,
+    "open_issues": 0,
+    "watchers": 0
   }
 }

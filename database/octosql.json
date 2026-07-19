@@ -1,0 +1,47 @@
+{
+  "id": "octosql",
+  "name": "octosql",
+  "category": "database",
+  "description": "OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.",
+  "official_website": "https://github.com/cube2222/octosql",
+  "documentation": "https://github.com/cube2222/octosql#readme",
+  "github_repository": "https://github.com/cube2222/octosql",
+  "license": "MPL-2.0",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "cli",
+    "csv",
+    "data-analysis",
+    "go",
+    "golang",
+    "json",
+    "mysql",
+    "nosql"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 5263,
+    "forks": 213,
+    "open_issues": 49,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 75
+}

@@ -7,7 +7,7 @@
   "documentation": "https://github.com/agno-agi/agno#readme",
   "github_repository": "https://github.com/agno-agi/agno",
   "license": "Apache-2.0",
-  "latest_version": "main",
+  "latest_version": "v2.7.4",
   "programming_languages": [
     "Python"
   ],
@@ -33,11 +33,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 41105,
-    "forks": 5626,
-    "open_issues": 1011,
+    "stars": 41266,
+    "forks": 5662,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

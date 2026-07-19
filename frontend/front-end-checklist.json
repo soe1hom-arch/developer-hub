@@ -7,7 +7,7 @@
   "documentation": "https://github.com/thedaviddias/Front-End-Checklist#readme",
   "github_repository": "https://github.com/thedaviddias/Front-End-Checklist",
   "license": "MIT",
-  "latest_version": "main",
+  "latest_version": "v2.0",
   "programming_languages": [
     "MDX"
   ],
@@ -27,7 +27,11 @@
     "front-end-developer-tool",
     "front-end-development",
     "frontend",
-    "guidelines"
+    "guidelines",
+    "reference",
+    "web-development",
+    "html",
+    "javascript"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +40,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 73187,
-    "forks": 6651,
-    "open_issues": 3,
+    "stars": 73249,
+    "forks": 6653,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

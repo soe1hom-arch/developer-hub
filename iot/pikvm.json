@@ -1,0 +1,43 @@
+{
+  "id": "pikvm",
+  "name": "pikvm",
+  "category": "iot",
+  "description": "Open and inexpensive DIY IP-KVM based on Raspberry Pi",
+  "official_website": "https://pikvm.org",
+  "documentation": "https://github.com/pikvm/pikvm#readme",
+  "github_repository": "https://github.com/pikvm/pikvm",
+  "license": "GPL-3.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Linux",
+    "Embedded"
+  ],
+  "tags": [
+    "atx",
+    "hardware",
+    "hdmi",
+    "ip-kvm",
+    "ipkvm",
+    "ipmi",
+    "kvm",
+    "mass-storage-device"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 10167,
+    "forks": 560,
+    "open_issues": 89,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

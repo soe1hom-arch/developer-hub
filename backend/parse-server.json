@@ -7,7 +7,7 @@
   "documentation": "https://github.com/parse-community/parse-server#readme",
   "github_repository": "https://github.com/parse-community/parse-server",
   "license": "Apache-2.0",
-  "latest_version": "alpha",
+  "latest_version": "9.10.0",
   "programming_languages": [
     "JavaScript"
   ],
@@ -26,7 +26,14 @@
     "graphql-api",
     "graphql-relay",
     "graphql-server",
-    "hacktoberfest"
+    "hacktoberfest",
+    "parse-server",
+    "parse-platform",
+    "mongodb",
+    "postgres",
+    "rest-api",
+    "object-storage",
+    "nodejs"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -35,11 +42,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 21400,
-    "forks": 4819,
-    "open_issues": 537,
+    "stars": 21404,
+    "forks": 4817,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

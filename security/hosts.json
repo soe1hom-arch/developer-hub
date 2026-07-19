@@ -7,7 +7,7 @@
   "documentation": "https://github.com/StevenBlack/hosts#readme",
   "github_repository": "https://github.com/StevenBlack/hosts",
   "license": "MIT",
-  "latest_version": "master",
+  "latest_version": "3.16.99",
   "programming_languages": [
     "Python"
   ],
@@ -27,7 +27,12 @@
     "hosts",
     "malware",
     "porn-filter",
-    "pornblocker"
+    "pornblocker",
+    "python",
+    "unified-hosts",
+    "social-media-filter",
+    "privacy",
+    "protection"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +41,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 30695,
-    "forks": 2425,
-    "open_issues": 151,
+    "stars": 30726,
+    "forks": 2427,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

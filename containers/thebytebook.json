@@ -1,0 +1,47 @@
+{
+  "id": "thebytebook",
+  "name": "theByteBook",
+  "category": "containers",
+  "description": "\u2b50 \u3010\u51fa\u7248\u4e66\u7c4d\u3011\u4eac\u4e1c\u8d2d\u4e70\u94fe\u63a5 https://item.jd.com/14531549.html  \u6df1\u5165\u8bb2\u89e3\u5185\u6838\u7f51\u7edc\u3001Kubernetes\u3001ServiceMesh\u3001\u5bb9\u5668\u7b49\u4e91\u539f\u751f\u76f8\u5173\u6280\u672f\u3002\u7ecf\u5386\u5b9e\u8df5\u68c0\u9a8c\u7684\u201c\u5927\u89c4\u6a21\u5206\u5e03\u5f0f\u7cfb\u7edf\u201d\u5f00\u53d1\u6307\u5357\u3002",
+  "official_website": "https://www.thebyte.com.cn",
+  "documentation": "https://github.com/isno/theByteBook#readme",
+  "github_repository": "https://github.com/isno/theByteBook",
+  "license": "MIT",
+  "programming_languages": [
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "cloud-native",
+    "container",
+    "devops",
+    "distributed-systems",
+    "finops",
+    "kubernetes",
+    "networking",
+    "paas"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 8543,
+    "forks": 625,
+    "open_issues": 2,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

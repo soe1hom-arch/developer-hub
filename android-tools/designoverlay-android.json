@@ -7,7 +7,7 @@
   "documentation": "https://github.com/Manabu-GT/DesignOverlay-Android#readme",
   "github_repository": "https://github.com/Manabu-GT/DesignOverlay-Android",
   "license": "Apache-2.0",
-  "latest_version": "master",
+  "latest_version": "v1.0.4",
   "programming_languages": [
     "Java"
   ],
@@ -24,7 +24,7 @@
   ],
   "has_binaries": false,
   "alternatives": [],
-  "popularity": 5,
+  "popularity": 6,
   "maintained": false,
   "archived": true,
   "open_source": true,
@@ -34,6 +34,6 @@
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

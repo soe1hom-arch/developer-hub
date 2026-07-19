@@ -7,7 +7,7 @@
   "documentation": "https://htop.dev/docs",
   "github_repository": "https://github.com/nicolargo/glances",
   "license": "NOASSERTION",
-  "latest_version": "1.0.0",
+  "latest_version": "v4.5.5",
   "programming_languages": [
     "Python",
     "Vue",
@@ -40,12 +40,12 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12",
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19",
   "repository_statistics": {
-    "stars": 33077,
-    "forks": 1764,
-    "open_issues": 101,
-    "watchers": 497
+    "stars": 33127,
+    "forks": 1768,
+    "open_issues": 0,
+    "watchers": 0
   }
 }

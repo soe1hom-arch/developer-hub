@@ -7,7 +7,7 @@
   "documentation": "https://github.com/hoppscotch/hoppscotch#readme",
   "github_repository": "https://github.com/hoppscotch/hoppscotch",
   "license": "MIT",
-  "latest_version": "main",
+  "latest_version": "2026.6.1",
   "programming_languages": [
     "TypeScript"
   ],
@@ -27,7 +27,13 @@
     "developer-tools",
     "graphql",
     "http",
-    "http-client"
+    "http-client",
+    "pwa",
+    "vue",
+    "vuejs",
+    "tools",
+    "testing-tools",
+    "testing"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +42,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 79780,
-    "forks": 5959,
-    "open_issues": 753,
+    "stars": 79825,
+    "forks": 5969,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

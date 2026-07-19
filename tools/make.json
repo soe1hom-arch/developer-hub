@@ -44,12 +44,12 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12",
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19",
   "repository_statistics": {
-    "stars": 188651,
-    "forks": 26553,
-    "open_issues": 576,
-    "watchers": 2733
+    "stars": 188677,
+    "forks": 26465,
+    "open_issues": 0,
+    "watchers": 0
   }
 }

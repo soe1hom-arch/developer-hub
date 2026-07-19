@@ -1,0 +1,45 @@
+{
+  "id": "pixelflasher",
+  "name": "PixelFlasher",
+  "category": "android-tools",
+  "description": "Pixel\u2122 phone flashing GUI utility with features.",
+  "official_website": "https://github.com/badabing2005/PixelFlasher",
+  "documentation": "https://github.com/badabing2005/PixelFlasher#readme",
+  "github_repository": "https://github.com/badabing2005/PixelFlasher",
+  "license": "GPL-3.0",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Android",
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "tags": [
+    "adb",
+    "android",
+    "fastboot",
+    "flash",
+    "linux",
+    "magisk",
+    "pixel",
+    "pyinstaller"
+  ],
+  "alternatives": [],
+  "popularity": 7,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 2215,
+    "forks": 273,
+    "open_issues": 2,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 60
+}

@@ -27,7 +27,13 @@
     "finetuning",
     "from-scratch",
     "generative-ai",
-    "gpt"
+    "gpt",
+    "large-language-models",
+    "llm",
+    "python",
+    "pytorch",
+    "language-model",
+    "machine-learning"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +42,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 98945,
-    "forks": 15186,
-    "open_issues": 2,
+    "stars": 99328,
+    "forks": 15243,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

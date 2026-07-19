@@ -7,7 +7,7 @@
   "documentation": "https://github.com/files-community/Files#readme",
   "github_repository": "https://github.com/files-community/Files",
   "license": "MIT",
-  "latest_version": "main",
+  "latest_version": "v4.2",
   "programming_languages": [
     "C#"
   ],
@@ -27,7 +27,13 @@
     "dotnet",
     "file-manager",
     "files",
-    "fluent"
+    "fluent",
+    "fluent-design",
+    "xaml",
+    "winui",
+    "windows",
+    "windows-10",
+    "windows-11"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +42,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 44254,
-    "forks": 2788,
-    "open_issues": 480,
+    "stars": 44351,
+    "forks": 2794,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

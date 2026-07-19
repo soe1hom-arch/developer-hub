@@ -7,7 +7,7 @@
   "documentation": "https://github.com/Alamofire/Alamofire#readme",
   "github_repository": "https://github.com/Alamofire/Alamofire",
   "license": "MIT",
-  "latest_version": "master",
+  "latest_version": "5.12.0",
   "programming_languages": [
     "Swift"
   ],
@@ -27,7 +27,13 @@
     "httpurlresponse",
     "networking",
     "parameter-encoding",
-    "public-key-pinning"
+    "public-key-pinning",
+    "urlsession",
+    "urlrequest",
+    "request",
+    "response",
+    "swift",
+    "xcode"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +42,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 42406,
-    "forks": 7666,
-    "open_issues": 44,
+    "stars": 42407,
+    "forks": 7671,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

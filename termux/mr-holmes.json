@@ -7,7 +7,7 @@
   "documentation": "https://github.com/Lucksi/Mr.Holmes#readme",
   "github_repository": "https://github.com/Lucksi/Mr.Holmes",
   "license": "GPL-3.0",
-  "latest_version": "master",
+  "latest_version": "T.G.D-1.0.2",
   "programming_languages": [
     "Python"
   ],
@@ -22,7 +22,12 @@
     "macos",
     "open-source-intelligence",
     "osint",
-    "osint-framework"
+    "osint-framework",
+    "python",
+    "python-script",
+    "osint-python",
+    "osint-tool",
+    "termux"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -31,11 +36,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 3824,
-    "forks": 568,
-    "open_issues": 40,
+    "stars": 3879,
+    "forks": 573,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

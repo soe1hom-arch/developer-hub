@@ -7,7 +7,7 @@
   "documentation": "https://github.com/typeorm/typeorm#readme",
   "github_repository": "https://github.com/typeorm/typeorm",
   "license": "MIT",
-  "latest_version": "master",
+  "latest_version": "1.1.0",
   "programming_languages": [
     "TypeScript"
   ],
@@ -27,7 +27,13 @@
     "hacktoberfest",
     "javascript",
     "mariadb",
-    "mysql"
+    "mysql",
+    "orm",
+    "typescript",
+    "typeorm",
+    "postgresql",
+    "sqlite",
+    "sqlserver"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +42,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 36585,
-    "forks": 6636,
-    "open_issues": 554,
+    "stars": 36601,
+    "forks": 6642,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

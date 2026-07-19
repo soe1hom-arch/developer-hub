@@ -7,7 +7,7 @@
   "documentation": "https://github.com/ccxt/ccxt#readme",
   "github_repository": "https://github.com/ccxt/ccxt",
   "license": "MIT",
-  "latest_version": "master",
+  "latest_version": "v4.5.66",
   "programming_languages": [
     "Python"
   ],
@@ -27,7 +27,11 @@
     "bot",
     "btc",
     "crypto",
-    "cryptocurrencies"
+    "cryptocurrencies",
+    "cryptocurrency",
+    "ethereum",
+    "exchange",
+    "invest"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +40,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 43286,
-    "forks": 8736,
-    "open_issues": 1297,
+    "stars": 43339,
+    "forks": 8745,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

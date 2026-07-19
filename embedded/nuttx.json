@@ -1,0 +1,41 @@
+{
+  "id": "nuttx",
+  "name": "nuttx",
+  "category": "embedded",
+  "description": "Apache NuttX is a mature, real-time embedded operating system (RTOS)",
+  "official_website": "https://nuttx.apache.org/",
+  "documentation": "https://github.com/apache/nuttx#readme",
+  "github_repository": "https://github.com/apache/nuttx",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "C"
+  ],
+  "platforms": [
+    "Linux",
+    "Embedded"
+  ],
+  "tags": [
+    "embedded",
+    "mcu",
+    "microcontroller",
+    "nuttx",
+    "real-time",
+    "rtos"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 3956,
+    "forks": 1632,
+    "open_issues": 739,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 75
+}

@@ -7,7 +7,7 @@
   "documentation": "https://docs.monai.io",
   "github_repository": "https://github.com/Project-MONAI/MONAI",
   "license": "Apache-2.0",
-  "latest_version": "1.0.0",
+  "latest_version": "1.6.0",
   "programming_languages": [
     "Python",
     "C++",
@@ -38,12 +38,12 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12",
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19",
   "repository_statistics": {
-    "stars": 8412,
-    "forks": 1559,
-    "open_issues": 494,
-    "watchers": 100
+    "stars": 8441,
+    "forks": 1567,
+    "open_issues": 0,
+    "watchers": 0
   }
 }

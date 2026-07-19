@@ -7,7 +7,7 @@
   "documentation": "https://github.com/modular/modular#readme",
   "github_repository": "https://github.com/modular/modular",
   "license": "NOASSERTION",
-  "latest_version": "main",
+  "latest_version": "max/v26.4.0",
   "programming_languages": [
     "Mojo"
   ],
@@ -35,11 +35,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 26537,
-    "forks": 2881,
-    "open_issues": 1074,
+    "stars": 26577,
+    "forks": 2894,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

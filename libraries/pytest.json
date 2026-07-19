@@ -7,7 +7,7 @@
   "documentation": "https://docs.pytest.org",
   "github_repository": "https://github.com/pytest-dev/pytest",
   "license": "MIT",
-  "latest_version": "1.0.0",
+  "latest_version": "9.1.1",
   "programming_languages": [
     "Python",
     "Gherkin"
@@ -34,12 +34,12 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12",
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19",
   "repository_statistics": {
-    "stars": 14337,
-    "forks": 3230,
-    "open_issues": 979,
-    "watchers": 196
+    "stars": 14345,
+    "forks": 3242,
+    "open_issues": 0,
+    "watchers": 0
   }
 }

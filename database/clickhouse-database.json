@@ -7,7 +7,7 @@
   "documentation": "https://github.com/ClickHouse/ClickHouse#readme",
   "github_repository": "https://github.com/ClickHouse/ClickHouse",
   "license": "Apache-2.0",
-  "latest_version": "master",
+  "latest_version": "v25.8.28.1-lts",
   "programming_languages": [
     "C++"
   ],
@@ -27,7 +27,12 @@
     "cloud-native",
     "cpp",
     "database",
-    "dbms"
+    "dbms",
+    "olap",
+    "sql",
+    "mpp",
+    "hacktoberfest",
+    "rust"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +41,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 48589,
-    "forks": 8641,
-    "open_issues": 6313,
+    "stars": 48714,
+    "forks": 8664,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

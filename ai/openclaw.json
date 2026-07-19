@@ -7,7 +7,7 @@
   "documentation": "https://github.com/openclaw/openclaw#readme",
   "github_repository": "https://github.com/openclaw/openclaw",
   "license": "NOASSERTION",
-  "latest_version": "main",
+  "latest_version": "v2026.7.1",
   "programming_languages": [
     "TypeScript"
   ],
@@ -35,11 +35,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 382641,
-    "forks": 80305,
-    "open_issues": 6394,
+    "stars": 383410,
+    "forks": 80532,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

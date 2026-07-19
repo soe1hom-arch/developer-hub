@@ -7,7 +7,7 @@
   "documentation": "https://github.com/abiosoft/colima#readme",
   "github_repository": "https://github.com/abiosoft/colima",
   "license": "MIT",
-  "latest_version": "main",
+  "latest_version": "v0.10.3",
   "programming_languages": [
     "Go"
   ],
@@ -27,7 +27,11 @@
     "docker-compose",
     "incus",
     "k3s",
-    "k8s"
+    "k8s",
+    "kubernetes",
+    "macos",
+    "nerdctl",
+    "lima"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +40,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 29867,
-    "forks": 588,
-    "open_issues": 372,
+    "stars": 29994,
+    "forks": 592,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

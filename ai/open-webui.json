@@ -7,7 +7,7 @@
   "documentation": "https://github.com/open-webui/open-webui#readme",
   "github_repository": "https://github.com/open-webui/open-webui",
   "license": "NOASSERTION",
-  "latest_version": "main",
+  "latest_version": "v0.10.2",
   "programming_languages": [
     "Python"
   ],
@@ -27,7 +27,10 @@
     "llms",
     "mcp",
     "ollama",
-    "ollama-webui"
+    "ollama-webui",
+    "webui",
+    "self-hosted",
+    "rag"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +39,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 145108,
-    "forks": 21018,
-    "open_issues": 404,
+    "stars": 145893,
+    "forks": 21147,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

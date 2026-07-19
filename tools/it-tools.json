@@ -7,7 +7,7 @@
   "documentation": "https://github.com/CorentinTh/it-tools#readme",
   "github_repository": "https://github.com/CorentinTh/it-tools",
   "license": "GPL-3.0",
-  "latest_version": "main",
+  "latest_version": "v2024.10.22-7ca5933",
   "programming_languages": [
     "Vue"
   ],
@@ -27,7 +27,9 @@
     "javascript",
     "productivity",
     "tool",
-    "tools"
+    "tools",
+    "vuejs",
+    "website"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +38,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 39752,
-    "forks": 5169,
-    "open_issues": 813,
+    "stars": 39857,
+    "forks": 5227,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

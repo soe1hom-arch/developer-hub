@@ -7,7 +7,7 @@
   "documentation": "https://github.com/anoma/anoma#readme",
   "github_repository": "https://github.com/anoma/anoma",
   "license": "MIT",
-  "latest_version": "base",
+  "latest_version": "v0.35.1",
   "programming_languages": [
     "Elixir"
   ],
@@ -27,7 +27,8 @@
     "elixir",
     "erlang",
     "operating-system",
-    "p2p"
+    "p2p",
+    "protocol"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +37,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 33737,
+    "stars": 33726,
     "forks": 4113,
-    "open_issues": 122,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

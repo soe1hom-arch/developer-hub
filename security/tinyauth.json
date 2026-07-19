@@ -1,0 +1,47 @@
+{
+  "id": "tinyauth",
+  "name": "tinyauth",
+  "category": "security",
+  "description": "The tiniest OpenID Certified\u2122 authorization and authentication server you have ever seen.",
+  "official_website": "https://tinyauth.app",
+  "documentation": "https://github.com/tinyauthapp/tinyauth#readme",
+  "github_repository": "https://github.com/tinyauthapp/tinyauth",
+  "license": "AGPL-3.0",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "2fa",
+    "authentication",
+    "caddy",
+    "golang",
+    "middleware",
+    "nginx",
+    "oidc",
+    "selfhosted"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 7908,
+    "forks": 252,
+    "open_issues": 35,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

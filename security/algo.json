@@ -7,7 +7,7 @@
   "documentation": "https://github.com/trailofbits/algo#readme",
   "github_repository": "https://github.com/trailofbits/algo",
   "license": "AGPL-3.0",
-  "latest_version": "main",
+  "latest_version": "v2.0.1",
   "programming_languages": [
     "Python"
   ],
@@ -27,7 +27,9 @@
     "security",
     "ssh-tunnel",
     "strongswan",
-    "vpn"
+    "vpn",
+    "vpn-server",
+    "vpn-client"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +38,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 30312,
-    "forks": 2364,
-    "open_issues": 71,
+    "stars": 30325,
+    "forks": 2365,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

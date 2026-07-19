@@ -7,7 +7,7 @@
   "documentation": "https://dart.dev/guides",
   "github_repository": "https://github.com/flutter/flutter",
   "license": "BSD-3-Clause",
-  "latest_version": "1.0.0",
+  "latest_version": "3.19.0-0.1.pre",
   "programming_languages": [
     "Dart",
     "C++",
@@ -50,12 +50,12 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12",
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19",
   "repository_statistics": {
-    "stars": 177847,
-    "forks": 30788,
-    "open_issues": 12928,
-    "watchers": 3593
+    "stars": 177812,
+    "forks": 30729,
+    "open_issues": 0,
+    "watchers": 0
   }
 }

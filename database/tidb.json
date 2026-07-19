@@ -7,7 +7,7 @@
   "documentation": "https://github.com/pingcap/tidb#readme",
   "github_repository": "https://github.com/pingcap/tidb",
   "license": "Apache-2.0",
-  "latest_version": "master",
+  "latest_version": "v8.5.7",
   "programming_languages": [
     "Go"
   ],
@@ -27,7 +27,14 @@
     "ai",
     "cloud-native",
     "database",
-    "distributed-database"
+    "distributed-database",
+    "distributed-transactions",
+    "tidb",
+    "scale",
+    "mysql",
+    "htap",
+    "sql",
+    "serverless"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +43,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 40280,
-    "forks": 6225,
-    "open_issues": 6478,
+    "stars": 40312,
+    "forks": 6216,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

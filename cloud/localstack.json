@@ -7,7 +7,7 @@
   "documentation": "https://github.com/localstack/localstack#readme",
   "github_repository": "https://github.com/localstack/localstack",
   "license": "NOASSERTION",
-  "latest_version": "main",
+  "latest_version": "v4.14.0",
   "programming_languages": [
     "Python"
   ],
@@ -35,11 +35,11 @@
   "archived": true,
   "open_source": true,
   "repository_statistics": {
-    "stars": 65117,
-    "forks": 4758,
+    "stars": 65134,
+    "forks": 4764,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

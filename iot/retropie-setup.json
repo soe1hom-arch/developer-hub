@@ -1,0 +1,39 @@
+{
+  "id": "retropie-setup",
+  "name": "RetroPie-Setup",
+  "category": "iot",
+  "description": "Shell script to set up a Raspberry Pi/Odroid/PC with RetroArch emulator and various cores",
+  "official_website": "https://github.com/RetroPie/RetroPie-Setup",
+  "documentation": "https://github.com/RetroPie/RetroPie-Setup#readme",
+  "github_repository": "https://github.com/RetroPie/RetroPie-Setup",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "Shell"
+  ],
+  "platforms": [
+    "Linux",
+    "Embedded"
+  ],
+  "tags": [
+    "emulation",
+    "pi",
+    "raspberry-pi",
+    "retrogaming"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 10385,
+    "forks": 1406,
+    "open_issues": 88,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 72
+}

@@ -7,7 +7,7 @@
   "documentation": "https://github.com/heroui-inc/heroui#readme",
   "github_repository": "https://github.com/heroui-inc/heroui",
   "license": "Apache-2.0",
-  "latest_version": "v3",
+  "latest_version": "v3.2.2",
   "programming_languages": [
     "MDX"
   ],
@@ -32,11 +32,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 29872,
-    "forks": 2177,
-    "open_issues": 45,
+    "stars": 29948,
+    "forks": 2184,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

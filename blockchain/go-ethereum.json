@@ -7,7 +7,7 @@
   "documentation": "https://github.com/ethereum/go-ethereum#readme",
   "github_repository": "https://github.com/ethereum/go-ethereum",
   "license": "LGPL-3.0",
-  "latest_version": "master",
+  "latest_version": "v1.17.4",
   "programming_languages": [
     "Go"
   ],
@@ -33,11 +33,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 51338,
-    "forks": 22092,
-    "open_issues": 394,
+    "stars": 51196,
+    "forks": 21982,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

@@ -7,7 +7,7 @@
   "documentation": "https://github.com/go-gitea/gitea#readme",
   "github_repository": "https://github.com/go-gitea/gitea",
   "license": "MIT",
-  "latest_version": "main",
+  "latest_version": "v1.27.0",
   "programming_languages": [
     "Go"
   ],
@@ -27,7 +27,13 @@
     "git",
     "git-gui",
     "git-lfs",
-    "git-server"
+    "git-server",
+    "gitea",
+    "golang",
+    "gitlab",
+    "github",
+    "go",
+    "hacktoberfest"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +42,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 56786,
-    "forks": 6908,
-    "open_issues": 2682,
+    "stars": 56896,
+    "forks": 6923,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

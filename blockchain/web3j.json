@@ -1,0 +1,47 @@
+{
+  "id": "web3j",
+  "name": "web3j",
+  "category": "blockchain",
+  "description": "Lightweight Java and Android library for integration with Ethereum clients",
+  "official_website": "https://www.web3labs.com/web3j-sdk",
+  "documentation": "https://github.com/LFDT-web3j/web3j#readme",
+  "github_repository": "https://github.com/LFDT-web3j/web3j",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "Java"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "android",
+    "blockchain",
+    "ether",
+    "ethereum",
+    "java",
+    "reactivex",
+    "rxjava",
+    "smart-contract-tools"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 5389,
+    "forks": 1773,
+    "open_issues": 153,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

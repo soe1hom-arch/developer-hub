@@ -1,0 +1,47 @@
+{
+  "id": "cosmos-server",
+  "name": "Cosmos-Server",
+  "category": "security",
+  "description": "\u2601\ufe0f The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)",
+  "official_website": "https://cosmos-cloud.io",
+  "documentation": "https://github.com/azukaar/Cosmos-Server#readme",
+  "github_repository": "https://github.com/azukaar/Cosmos-Server",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "authentication",
+    "cloud",
+    "cosmos",
+    "reverse-proxy",
+    "security",
+    "self-hosted",
+    "self-hosting",
+    "selfhosted"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 6029,
+    "forks": 232,
+    "open_issues": 175,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

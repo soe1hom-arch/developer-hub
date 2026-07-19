@@ -1,0 +1,45 @@
+{
+  "id": "cmder",
+  "name": "cmder",
+  "category": "cli-tools",
+  "description": "Lovely console emulator package for Windows",
+  "official_website": "https://cmder.app",
+  "documentation": "https://github.com/cmderdev/cmder#readme",
+  "github_repository": "https://github.com/cmderdev/cmder",
+  "license": "MIT",
+  "programming_languages": [
+    "PowerShell"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "c-plus-plus",
+    "cmder",
+    "color-scheme",
+    "command-line",
+    "conemu",
+    "mintty",
+    "portable",
+    "powershell"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 26964,
+    "forks": 2072,
+    "open_issues": 65,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

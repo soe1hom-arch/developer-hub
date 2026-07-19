@@ -19,7 +19,7 @@
   ],
   "has_binaries": false,
   "alternatives": [],
-  "popularity": 5,
+  "popularity": 6,
   "maintained": true,
   "archived": false,
   "open_source": true,
@@ -29,6 +29,6 @@
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

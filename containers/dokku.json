@@ -7,7 +7,7 @@
   "documentation": "https://github.com/dokku/dokku#readme",
   "github_repository": "https://github.com/dokku/dokku",
   "license": "MIT",
-  "latest_version": "master",
+  "latest_version": "v0.38.24",
   "programming_languages": [
     "Shell"
   ],
@@ -27,7 +27,9 @@
     "dokku",
     "heroku",
     "kubernetes",
-    "nomad"
+    "nomad",
+    "paas",
+    "self-hosted"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +38,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 32026,
-    "forks": 2056,
-    "open_issues": 19,
+    "stars": 32044,
+    "forks": 2058,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

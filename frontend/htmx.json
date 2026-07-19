@@ -7,7 +7,7 @@
   "documentation": "https://htmx.org/docs",
   "github_repository": "https://github.com/bigskysoftware/htmx",
   "license": "NOASSERTION",
-  "latest_version": "1.0.0",
+  "latest_version": "v4.0.0-beta5",
   "programming_languages": [
     "JavaScript",
     "HTML",
@@ -38,12 +38,12 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12",
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19",
   "repository_statistics": {
-    "stars": 48432,
-    "forks": 1611,
-    "open_issues": 663,
-    "watchers": 211
+    "stars": 48536,
+    "forks": 1615,
+    "open_issues": 0,
+    "watchers": 0
   }
 }

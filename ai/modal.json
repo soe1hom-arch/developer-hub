@@ -7,7 +7,7 @@
   "documentation": "https://modal.com/docs",
   "github_repository": "https://github.com/helix-editor/helix",
   "license": "MPL-2.0",
-  "latest_version": "1.0.0",
+  "latest_version": "25.07.1",
   "programming_languages": [
     "Rust",
     "Tree-sitter Query",
@@ -36,12 +36,12 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12",
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19",
   "repository_statistics": {
-    "stars": 45320,
-    "forks": 3615,
-    "open_issues": 1528,
-    "watchers": 216
+    "stars": 45513,
+    "forks": 3619,
+    "open_issues": 0,
+    "watchers": 0
   }
 }

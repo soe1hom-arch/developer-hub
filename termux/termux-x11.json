@@ -7,7 +7,7 @@
   "documentation": "https://github.com/termux/termux-x11#readme",
   "github_repository": "https://github.com/termux/termux-x11",
   "license": "GPL-3.0",
-  "latest_version": "master",
+  "latest_version": "nightly",
   "programming_languages": [
     "C"
   ],
@@ -23,16 +23,16 @@
   ],
   "has_binaries": false,
   "alternatives": [],
-  "popularity": 9,
+  "popularity": 8,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 4376,
-    "forks": 603,
-    "open_issues": 27,
+    "stars": 4413,
+    "forks": 610,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

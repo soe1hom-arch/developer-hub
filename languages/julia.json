@@ -7,7 +7,7 @@
   "documentation": "https://github.com/JuliaLang/julia#readme",
   "github_repository": "https://github.com/JuliaLang/julia",
   "license": "MIT",
-  "latest_version": "master",
+  "latest_version": "v1.12.6",
   "programming_languages": [
     "Julia"
   ],
@@ -27,7 +27,9 @@
     "julialang",
     "machine-learning",
     "numerical",
-    "programming-language"
+    "programming-language",
+    "scientific",
+    "science"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +38,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 49023,
-    "forks": 5928,
-    "open_issues": 4693,
+    "stars": 48896,
+    "forks": 5850,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

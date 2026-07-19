@@ -7,7 +7,7 @@
   "documentation": "https://github.com/Donchitos/Claude-Code-Game-Studios#readme",
   "github_repository": "https://github.com/Donchitos/Claude-Code-Game-Studios",
   "license": "MIT",
-  "latest_version": "main",
+  "latest_version": "v1.0.0",
   "programming_languages": [
     "Shell"
   ],
@@ -26,7 +26,9 @@
     "claude-code",
     "game-design",
     "game-development",
-    "gamedev"
+    "gamedev",
+    "godot",
+    "indie-game-dev"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -35,11 +37,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 22873,
-    "forks": 3285,
-    "open_issues": 50,
+    "stars": 23172,
+    "forks": 3320,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

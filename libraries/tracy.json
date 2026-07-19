@@ -7,7 +7,7 @@
   "documentation": "https://github.com/wolfpld/tracy#readme",
   "github_repository": "https://github.com/wolfpld/tracy",
   "license": "NOASSERTION",
-  "latest_version": "master",
+  "latest_version": "v0.13.1",
   "programming_languages": [
     "C++"
   ],
@@ -25,7 +25,8 @@
     "performance",
     "performance-analysis",
     "profiler",
-    "profiling"
+    "profiling",
+    "profiling-library"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -34,11 +35,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 16436,
-    "forks": 1260,
-    "open_issues": 248,
+    "stars": 16370,
+    "forks": 1169,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

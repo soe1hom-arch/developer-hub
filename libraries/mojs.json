@@ -7,7 +7,7 @@
   "documentation": "https://github.com/mojs/mojs#readme",
   "github_repository": "https://github.com/mojs/mojs",
   "license": "MIT",
-  "latest_version": "main",
+  "latest_version": "v1.7.1",
   "programming_languages": [
     "CoffeeScript"
   ],
@@ -25,7 +25,12 @@
     "graphics",
     "javascript",
     "library",
-    "mo-js"
+    "mo-js",
+    "web",
+    "motion",
+    "toolbelt",
+    "mojs",
+    "webpack"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -34,11 +39,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 18723,
-    "forks": 887,
-    "open_issues": 37,
+    "stars": 18729,
+    "forks": 888,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

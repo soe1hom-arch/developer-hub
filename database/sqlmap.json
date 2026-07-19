@@ -7,7 +7,7 @@
   "documentation": "https://github.com/sqlmapproject/sqlmap#readme",
   "github_repository": "https://github.com/sqlmapproject/sqlmap",
   "license": "NOASSERTION",
-  "latest_version": "master",
+  "latest_version": "1.10",
   "programming_languages": [
     "Python"
   ],
@@ -27,7 +27,11 @@
     "dbms",
     "detection",
     "exploitation",
-    "pentesting"
+    "pentesting",
+    "sql-injection",
+    "python",
+    "security-testing",
+    "security-testing-tool"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +40,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 37876,
-    "forks": 6313,
-    "open_issues": 35,
+    "stars": 37937,
+    "forks": 6316,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

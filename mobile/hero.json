@@ -1,0 +1,46 @@
+{
+  "id": "hero",
+  "name": "Hero",
+  "category": "mobile",
+  "description": "Elegant transition library for iOS & tvOS",
+  "official_website": "https://HeroTransitions.github.io/Hero/",
+  "documentation": "https://github.com/HeroTransitions/Hero#readme",
+  "github_repository": "https://github.com/HeroTransitions/Hero",
+  "license": "MIT",
+  "programming_languages": [
+    "Swift"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "animation",
+    "animations",
+    "carthage",
+    "custom-transitions",
+    "hero",
+    "ios",
+    "ios-animation",
+    "ios-framework"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 22479,
+    "forks": 1733,
+    "open_issues": 42,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

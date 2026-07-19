@@ -7,7 +7,7 @@
   "documentation": "https://gamemaker.io/en/manual",
   "github_repository": "https://github.com/4ian/GDevelop",
   "license": "NOASSERTION",
-  "latest_version": "1.0.0",
+  "latest_version": "v5.6.274",
   "programming_languages": [
     "JavaScript",
     "C++",
@@ -49,12 +49,12 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12",
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19",
   "repository_statistics": {
-    "stars": 24585,
-    "forks": 1450,
-    "open_issues": 607,
-    "watchers": 362
+    "stars": 24907,
+    "forks": 1468,
+    "open_issues": 0,
+    "watchers": 0
   }
 }

@@ -7,7 +7,7 @@
   "documentation": "https://github.com/saltstack/salt#readme",
   "github_repository": "https://github.com/saltstack/salt",
   "license": "Apache-2.0",
-  "latest_version": "master",
+  "latest_version": "v3008.2",
   "programming_languages": [
     "Python"
   ],
@@ -25,7 +25,11 @@
     "configuration-management",
     "edge",
     "event-management",
-    "event-stream"
+    "event-stream",
+    "python",
+    "remote-execution",
+    "infrastructure-management",
+    "zeromq"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -34,11 +38,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 15548,
-    "forks": 5601,
-    "open_issues": 1841,
+    "stars": 15561,
+    "forks": 5602,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

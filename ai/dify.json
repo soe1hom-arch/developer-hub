@@ -7,7 +7,7 @@
   "documentation": "https://github.com/langgenius/dify#readme",
   "github_repository": "https://github.com/langgenius/dify",
   "license": "NOASSERTION",
-  "latest_version": "main",
+  "latest_version": "1.16.0",
   "programming_languages": [
     "TypeScript"
   ],
@@ -27,7 +27,15 @@
     "ai",
     "automation",
     "gemini",
-    "genai"
+    "genai",
+    "gpt",
+    "llm",
+    "openai",
+    "python",
+    "rag",
+    "orchestration",
+    "gpt-4",
+    "nextjs"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +44,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 148542,
-    "forks": 23418,
-    "open_issues": 954,
+    "stars": 149270,
+    "forks": 23516,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

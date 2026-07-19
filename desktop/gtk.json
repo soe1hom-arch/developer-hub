@@ -7,7 +7,7 @@
   "documentation": "https://docs.gtk.org",
   "github_repository": "https://github.com/matplotlib/matplotlib",
   "license": "MIT",
-  "latest_version": "1.0.0",
+  "latest_version": "v3.11.1",
   "programming_languages": [
     "Python",
     "C++",
@@ -40,12 +40,12 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12",
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19",
   "repository_statistics": {
-    "stars": 22981,
-    "forks": 8385,
-    "open_issues": 1471,
-    "watchers": 579
+    "stars": 23013,
+    "forks": 8405,
+    "open_issues": 0,
+    "watchers": 0
   }
 }

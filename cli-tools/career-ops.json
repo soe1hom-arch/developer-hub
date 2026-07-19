@@ -7,7 +7,7 @@
   "documentation": "https://github.com/santifer/career-ops#readme",
   "github_repository": "https://github.com/santifer/career-ops",
   "license": "MIT",
-  "latest_version": "main",
+  "latest_version": "career-ops-v1.21.0",
   "programming_languages": [
     "JavaScript"
   ],
@@ -27,7 +27,13 @@
     "automation",
     "beginner-friendly",
     "career",
-    "careerops"
+    "careerops",
+    "claude",
+    "claude-code",
+    "cli",
+    "golang",
+    "interview-prep",
+    "job-search"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +42,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 59674,
-    "forks": 11847,
-    "open_issues": 149,
+    "stars": 60524,
+    "forks": 11912,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

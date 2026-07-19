@@ -27,7 +27,14 @@
     "oh-my-zsh-theme",
     "ohmyzsh",
     "plugin-framework",
-    "plugins"
+    "plugins",
+    "shell",
+    "zsh-configuration",
+    "theme",
+    "terminal",
+    "productivity",
+    "zsh",
+    "themes"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +43,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 188650,
-    "forks": 26553,
-    "open_issues": 576,
+    "stars": 188677,
+    "forks": 26465,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

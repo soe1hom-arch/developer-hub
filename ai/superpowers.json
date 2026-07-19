@@ -7,7 +7,7 @@
   "documentation": "https://github.com/obra/superpowers#readme",
   "github_repository": "https://github.com/obra/superpowers",
   "license": "MIT",
-  "latest_version": "main",
+  "latest_version": "v6.1.1",
   "programming_languages": [
     "Shell"
   ],
@@ -36,11 +36,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 252594,
-    "forks": 22553,
-    "open_issues": 320,
+    "stars": 257160,
+    "forks": 22913,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

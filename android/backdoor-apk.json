@@ -1,0 +1,45 @@
+{
+  "id": "backdoor-apk",
+  "name": "backdoor-apk",
+  "category": "android",
+  "description": "backdoor-apk is a shell script that simplifies the process of adding a backdoor to any Android APK file. Users of this shell script should have working knowledge of Linux, Bash, Metasploit, Apktool, t",
+  "official_website": "https://github.com/dana-at-cp/backdoor-apk",
+  "documentation": "https://github.com/dana-at-cp/backdoor-apk#readme",
+  "github_repository": "https://github.com/dana-at-cp/backdoor-apk",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Shell"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "android",
+    "android-development",
+    "android-sdk",
+    "apk",
+    "apktool",
+    "metasploit",
+    "smali"
+  ],
+  "alternatives": [],
+  "popularity": 7,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 2365,
+    "forks": 713,
+    "open_issues": 11,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 70
+}

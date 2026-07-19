@@ -27,7 +27,10 @@
     "hacker",
     "hacking",
     "linux",
-    "password-attack"
+    "password-attack",
+    "web-attack",
+    "wireless-attack",
+    "xss-attacks"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +39,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 78210,
-    "forks": 8883,
-    "open_issues": 120,
+    "stars": 78354,
+    "forks": 8892,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

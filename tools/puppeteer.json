@@ -7,7 +7,7 @@
   "documentation": "https://github.com/puppeteer/puppeteer#readme",
   "github_repository": "https://github.com/puppeteer/puppeteer",
   "license": "Apache-2.0",
-  "latest_version": "main",
+  "latest_version": "browsers-v3.0.6",
   "programming_languages": [
     "TypeScript"
   ],
@@ -27,7 +27,8 @@
     "firefox",
     "headless-chrome",
     "node-module",
-    "testing"
+    "testing",
+    "web"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +37,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 95413,
-    "forks": 9644,
-    "open_issues": 272,
+    "stars": 95322,
+    "forks": 9533,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

@@ -7,7 +7,7 @@
   "documentation": "https://github.com/Comfy-Org/ComfyUI#readme",
   "github_repository": "https://github.com/Comfy-Org/ComfyUI",
   "license": "GPL-3.0",
-  "latest_version": "master",
+  "latest_version": "v0.28.0",
   "programming_languages": [
     "Python"
   ],
@@ -34,11 +34,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 120409,
-    "forks": 14158,
-    "open_issues": 4266,
+    "stars": 121332,
+    "forks": 14276,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

@@ -27,7 +27,14 @@
     "gzip",
     "hacktoberfest",
     "hsts",
-    "http2"
+    "http2",
+    "nginx",
+    "nginx-configuration",
+    "php-fpm",
+    "ssl",
+    "letsencrypt",
+    "wordpress",
+    "https"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +43,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 28287,
-    "forks": 2048,
-    "open_issues": 71,
+    "stars": 28289,
+    "forks": 2046,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

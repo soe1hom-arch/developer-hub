@@ -7,7 +7,7 @@
   "documentation": "https://cmake.org/documentation",
   "github_repository": "https://github.com/microsoft/vcpkg",
   "license": "MIT",
-  "latest_version": "1.0.0",
+  "latest_version": "2026.06.24",
   "programming_languages": [
     "CMake",
     "PowerShell",
@@ -41,12 +41,12 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12",
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19",
   "repository_statistics": {
-    "stars": 27246,
-    "forks": 7619,
-    "open_issues": 1215,
-    "watchers": 431
+    "stars": 27264,
+    "forks": 7630,
+    "open_issues": 0,
+    "watchers": 0
   }
 }

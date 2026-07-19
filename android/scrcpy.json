@@ -7,7 +7,7 @@
   "documentation": "https://github.com/Genymobile/scrcpy#readme",
   "github_repository": "https://github.com/Genymobile/scrcpy",
   "license": "Apache-2.0",
-  "latest_version": "master",
+  "latest_version": "v4.1",
   "programming_languages": [
     "C"
   ],
@@ -36,11 +36,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 145520,
-    "forks": 13425,
-    "open_issues": 2851,
+    "stars": 145969,
+    "forks": 13456,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

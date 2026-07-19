@@ -7,7 +7,7 @@
   "documentation": "https://docs.aquasec.com",
   "github_repository": "https://github.com/michenriksen/aquatone",
   "license": "MIT",
-  "latest_version": "1.0.0",
+  "latest_version": "v1.7.0",
   "programming_languages": [
     "Go",
     "HTML",
@@ -34,12 +34,12 @@
   "maintained": false,
   "archived": true,
   "open_source": true,
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12",
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19",
   "repository_statistics": {
-    "stars": 5951,
+    "stars": 5954,
     "forks": 905,
-    "open_issues": 106,
-    "watchers": 1
+    "open_issues": 0,
+    "watchers": 0
   }
 }

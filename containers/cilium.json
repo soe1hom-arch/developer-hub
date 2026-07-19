@@ -7,7 +7,7 @@
   "documentation": "https://github.com/cilium/cilium#readme",
   "github_repository": "https://github.com/cilium/cilium",
   "license": "Apache-2.0",
-  "latest_version": "main",
+  "latest_version": "v1.19.6",
   "programming_languages": [
     "Go"
   ],
@@ -26,7 +26,12 @@
     "ebpf",
     "k8s",
     "kernel",
-    "kubernetes"
+    "kubernetes",
+    "security",
+    "kubernetes-networking",
+    "loadbalancing",
+    "monitoring",
+    "troubleshooting"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -35,11 +40,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 24703,
-    "forks": 3887,
-    "open_issues": 1048,
+    "stars": 24737,
+    "forks": 3909,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

@@ -7,7 +7,7 @@
   "documentation": "https://github.com/nektos/act#readme",
   "github_repository": "https://github.com/nektos/act",
   "license": "MIT",
-  "latest_version": "master",
+  "latest_version": "v0.2.89",
   "programming_languages": [
     "Go"
   ],
@@ -32,11 +32,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 71031,
-    "forks": 1971,
-    "open_issues": 345,
+    "stars": 71115,
+    "forks": 1977,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

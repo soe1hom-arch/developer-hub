@@ -7,7 +7,7 @@
   "documentation": "https://github.com/marktext/marktext#readme",
   "github_repository": "https://github.com/marktext/marktext",
   "license": "MIT",
-  "latest_version": "develop",
+  "latest_version": "v0.19.1",
   "programming_languages": [
     "TypeScript"
   ],
@@ -27,7 +27,12 @@
     "latex",
     "linux",
     "mac",
-    "macos"
+    "macos",
+    "typewriter-mode",
+    "vue",
+    "markdown",
+    "windows",
+    "source-code"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +41,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 58536,
-    "forks": 4355,
-    "open_issues": 472,
+    "stars": 58866,
+    "forks": 4370,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

@@ -7,7 +7,7 @@
   "documentation": "https://github.com/haizlin/fe-interview#readme",
   "github_repository": "https://github.com/haizlin/fe-interview",
   "license": "MIT",
-  "latest_version": "master",
+  "latest_version": "v2.0.0",
   "programming_languages": [
     "JavaScript"
   ],
@@ -27,7 +27,9 @@
     "frontend-interview",
     "html",
     "interview",
-    "interview-questions"
+    "interview-questions",
+    "javascript",
+    "resume"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -36,11 +38,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 26252,
-    "forks": 3245,
-    "open_issues": 6259,
+    "stars": 26255,
+    "forks": 3244,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

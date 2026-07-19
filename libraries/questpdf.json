@@ -7,7 +7,7 @@
   "documentation": "https://github.com/QuestPDF/QuestPDF#readme",
   "github_repository": "https://github.com/QuestPDF/QuestPDF",
   "license": "NOASSERTION",
-  "latest_version": "main",
+  "latest_version": "2026.7.1",
   "programming_languages": [
     "C#"
   ],
@@ -24,7 +24,9 @@
     "html",
     "invoice",
     "library",
-    "nuget"
+    "nuget",
+    "pdf",
+    "report"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -33,11 +35,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 14123,
-    "forks": 764,
-    "open_issues": 90,
+    "stars": 14136,
+    "forks": 765,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-12",
-  "last_updated": "2026-07-12"
+  "last_checked": "2026-07-19",
+  "last_updated": "2026-07-19"
 }

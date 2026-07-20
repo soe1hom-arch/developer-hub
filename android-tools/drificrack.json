@@ -18,20 +18,30 @@
     "wifi",
     "penetration-testing",
     "android",
-    "educational"
+    "educational",
+    "android-root",
+    "android-tools",
+    "bash-script",
+    "javascript",
+    "nodejs",
+    "termux-tools",
+    "pentest-tool",
+    "pentesting",
+    "pentesting-tools",
+    "wifi-attack"
   ],
   "alternatives": [],
-  "popularity": 3,
+  "popularity": 6,
   "maintained": false,
-  "archived": false,
+  "archived": true,
   "open_source": true,
   "repository_statistics": {
-    "stars": 0,
-    "forks": 0,
+    "stars": 189,
+    "forks": 15,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-13",
-  "last_updated": "2026-07-13",
-  "latest_version": "main"
+  "last_checked": "2026-07-20",
+  "last_updated": "2026-07-20",
+  "latest_version": "v1.0.1"
 }

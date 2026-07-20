@@ -1,0 +1,47 @@
+{
+  "id": "changie",
+  "name": "changie",
+  "category": "devops",
+  "description": "Automated changelog tool for preparing releases with lots of customization options",
+  "official_website": "https://changie.dev/",
+  "documentation": "https://github.com/miniscruff/changie#readme",
+  "github_repository": "https://github.com/miniscruff/changie",
+  "license": "MIT",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "cd",
+    "changelog",
+    "changelog-generator",
+    "ci",
+    "devops",
+    "devops-tools",
+    "go",
+    "golang"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 892,
+    "forks": 45,
+    "open_issues": 10,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-20",
+  "last_updated": "2026-07-20",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 70
+}

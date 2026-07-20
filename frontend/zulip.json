@@ -1,0 +1,45 @@
+{
+  "id": "zulip",
+  "name": "zulip",
+  "category": "frontend",
+  "description": "Zulip server and web application. Open-source team chat that helps teams stay productive and focused.",
+  "official_website": "https://zulip.com",
+  "documentation": "https://github.com/zulip/zulip#readme",
+  "github_repository": "https://github.com/zulip/zulip",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "apache",
+    "chat",
+    "collaboration",
+    "electron",
+    "foss",
+    "free",
+    "javascript",
+    "python"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 25521,
+    "forks": 9971,
+    "open_issues": 2041,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-20",
+  "last_updated": "2026-07-20",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 90
+}

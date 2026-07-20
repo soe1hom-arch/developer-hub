@@ -1,0 +1,41 @@
+{
+  "id": "react-navigation",
+  "name": "react-navigation",
+  "category": "frontend",
+  "description": "Routing and navigation for React Native and Web apps",
+  "official_website": "https://reactnavigation.org",
+  "documentation": "https://github.com/react-navigation/react-navigation#readme",
+  "github_repository": "https://github.com/react-navigation/react-navigation",
+  "license": "MIT",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "navigation",
+    "react",
+    "react-native",
+    "react-navigation"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 24490,
+    "forks": 5126,
+    "open_issues": 837,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-20",
+  "last_updated": "2026-07-20",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 82
+}

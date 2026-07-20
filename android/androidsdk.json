@@ -1,0 +1,46 @@
+{
+  "id": "androidsdk",
+  "name": "AndroidSDK",
+  "category": "android",
+  "description": "\ud83d\udc33 Full-fledged Android SDK Docker Image",
+  "official_website": "https://github.com/thyrlian/AndroidSDK",
+  "documentation": "https://github.com/thyrlian/AndroidSDK#readme",
+  "github_repository": "https://github.com/thyrlian/AndroidSDK",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Shell"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "android",
+    "android-sdk",
+    "build",
+    "ci",
+    "containerization",
+    "continuous-integration",
+    "docker",
+    "docker-container"
+  ],
+  "alternatives": [],
+  "popularity": 6,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 1386,
+    "forks": 218,
+    "open_issues": 2,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-20",
+  "last_updated": "2026-07-20",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 60
+}

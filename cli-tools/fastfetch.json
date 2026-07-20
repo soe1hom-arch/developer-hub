@@ -1,0 +1,45 @@
+{
+  "id": "fastfetch",
+  "name": "fastfetch",
+  "category": "cli-tools",
+  "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
+  "official_website": "https://github.com/fastfetch-cli/fastfetch",
+  "documentation": "https://github.com/fastfetch-cli/fastfetch#readme",
+  "github_repository": "https://github.com/fastfetch-cli/fastfetch",
+  "license": "MIT",
+  "programming_languages": [
+    "C"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "bsdfetch",
+    "command-line",
+    "fastfetch",
+    "fetch",
+    "flashfetch",
+    "hacktoberfest",
+    "macfetch",
+    "neofetch"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 23810,
+    "forks": 841,
+    "open_issues": 66,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-20",
+  "last_updated": "2026-07-20",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 75
+}

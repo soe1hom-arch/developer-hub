@@ -6,7 +6,7 @@
   "official_website": "https://github.com/mishakorzik/AllHackingTools",
   "documentation": "https://github.com/mishakorzik/AllHackingTools#readme",
   "github_repository": "https://github.com/mishakorzik/AllHackingTools",
-  "license": "MIT",
+  "license": "GPL-3.0",
   "programming_languages": [
     "Shell",
     "Python"
@@ -21,20 +21,29 @@
     "penetration-testing",
     "termux",
     "educational",
-    "ethical-hacking"
+    "ethical-hacking",
+    "hacking",
+    "cibersecurity",
+    "all-in-one",
+    "programming",
+    "tools",
+    "packages",
+    "termux-hacking",
+    "xss-attacks",
+    "password-attack"
   ],
   "alternatives": [],
-  "popularity": 3,
+  "popularity": 9,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 0,
-    "forks": 0,
+    "stars": 5909,
+    "forks": 977,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-13",
-  "last_updated": "2026-07-13",
+  "last_checked": "2026-07-20",
+  "last_updated": "2026-07-20",
   "latest_version": "main"
 }

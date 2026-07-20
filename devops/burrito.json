@@ -1,0 +1,47 @@
+{
+  "id": "burrito",
+  "name": "burrito",
+  "category": "devops",
+  "description": "\ud83c\udf2f Burrito is a TACoS Kubernetes Operator - \"Argo CD for Terraform\"",
+  "official_website": "https://docs.burrito.tf",
+  "documentation": "https://github.com/padok-team/burrito#readme",
+  "github_repository": "https://github.com/padok-team/burrito",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "cd",
+    "ci",
+    "cicd",
+    "infrastructure-as-code",
+    "kubernetes",
+    "kubernetes-operator",
+    "opentofu",
+    "operator"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 740,
+    "forks": 54,
+    "open_issues": 70,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-20",
+  "last_updated": "2026-07-20",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 70
+}

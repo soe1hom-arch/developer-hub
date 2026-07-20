@@ -1,0 +1,41 @@
+{
+  "id": "daedalos",
+  "name": "daedalOS",
+  "category": "frontend",
+  "description": "Desktop environment in the browser",
+  "official_website": "https://dustinbrett.com",
+  "documentation": "https://github.com/DustinBrett/daedalOS#readme",
+  "github_repository": "https://github.com/DustinBrett/daedalOS",
+  "license": "MIT",
+  "programming_languages": [
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "desktop-environment",
+    "javascript",
+    "os",
+    "web-desktop"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 12958,
+    "forks": 1186,
+    "open_issues": 43,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-20",
+  "last_updated": "2026-07-20",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 77
+}

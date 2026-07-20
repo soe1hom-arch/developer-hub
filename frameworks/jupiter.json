@@ -1,0 +1,47 @@
+{
+  "id": "jupiter",
+  "name": "jupiter",
+  "category": "frameworks",
+  "description": "Jupiter: Governance-oriented Microservice Framework.",
+  "official_website": "http://jupiter.douyu.com",
+  "documentation": "https://github.com/douyu/jupiter#readme",
+  "github_repository": "https://github.com/douyu/jupiter",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "douyu",
+    "douyutv",
+    "etcd",
+    "go",
+    "golang",
+    "governance",
+    "grpc",
+    "jupiter"
+  ],
+  "alternatives": [],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 4566,
+    "forks": 711,
+    "open_issues": 14,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-20",
+  "last_updated": "2026-07-20",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 75
+}

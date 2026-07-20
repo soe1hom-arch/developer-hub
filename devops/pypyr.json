@@ -1,0 +1,47 @@
+{
+  "id": "pypyr",
+  "name": "pypyr",
+  "category": "devops",
+  "description": "pypyr task-runner cli & api for automation pipelines. Automate anything by combining commands, different scripts in different languages & applications into one pipeline process.",
+  "official_website": "https://pypyr.io",
+  "documentation": "https://github.com/pypyr/pypyr#readme",
+  "github_repository": "https://github.com/pypyr/pypyr",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "automation",
+    "cd",
+    "ci",
+    "ci-cd",
+    "continuous-deployment",
+    "continuous-integration",
+    "devops",
+    "pipeline"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 644,
+    "forks": 30,
+    "open_issues": 16,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-20",
+  "last_updated": "2026-07-20",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 75
+}

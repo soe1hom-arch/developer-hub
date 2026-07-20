@@ -1,0 +1,46 @@
+{
+  "id": "kalendar",
+  "name": "kalendar",
+  "category": "android",
+  "description": "Kalendar is no ordinary library \u2014 it\u2019s the Elder Wand of calendar components, crafted for Compose (now with KMP support) sorcerers who demand both power and elegance. With the flick of your wrist (or ",
+  "official_website": "https://www.himanshoe.com",
+  "documentation": "https://github.com/hi-manshu/kalendar#readme",
+  "github_repository": "https://github.com/hi-manshu/kalendar",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Kotlin"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "android",
+    "android-library",
+    "android-sdk",
+    "android-sdk-library",
+    "android-ui",
+    "calendar",
+    "calendar-component",
+    "cmp"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 921,
+    "forks": 71,
+    "open_issues": 6,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-20",
+  "last_updated": "2026-07-20",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 75
+}

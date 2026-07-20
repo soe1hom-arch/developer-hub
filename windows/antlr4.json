@@ -1,0 +1,47 @@
+{
+  "id": "antlr4",
+  "name": "antlr4",
+  "category": "windows",
+  "description": "ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.",
+  "official_website": "http://antlr.org",
+  "documentation": "https://github.com/antlr/antlr4#readme",
+  "github_repository": "https://github.com/antlr/antlr4",
+  "license": "BSD-3-Clause",
+  "programming_languages": [
+    "Java"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "antlr",
+    "antlr4",
+    "cpp",
+    "csharp",
+    "dart",
+    "golang",
+    "grammar",
+    "java"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 18957,
+    "forks": 3459,
+    "open_issues": 1073,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-20",
+  "last_updated": "2026-07-20",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 90
+}

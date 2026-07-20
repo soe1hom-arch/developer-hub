@@ -1,0 +1,47 @@
+{
+  "id": "abstruse",
+  "name": "abstruse",
+  "category": "devops",
+  "description": "Abstruse is a free and open-source CI/CD platform that tests your models and code.",
+  "official_website": "https://ci.abstruse.app",
+  "documentation": "https://github.com/bleenco/abstruse#readme",
+  "github_repository": "https://github.com/bleenco/abstruse",
+  "license": "MIT",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "cd",
+    "ci",
+    "continuous-delivery",
+    "continuous-deployment",
+    "continuous-integration",
+    "continuous-testing",
+    "docker",
+    "dockerized"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 956,
+    "forks": 103,
+    "open_issues": 36,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-20",
+  "last_updated": "2026-07-20",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 70
+}

@@ -1,0 +1,43 @@
+{
+  "id": "mean",
+  "name": "mean",
+  "category": "frontend",
+  "description": "The MEAN stack uses Mongo, Express, Angular(6) and Node for simple and scalable fullstack js applications",
+  "official_website": "http://mean.io",
+  "documentation": "https://github.com/linnovate/mean#readme",
+  "github_repository": "https://github.com/linnovate/mean",
+  "license": "MIT",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "angular",
+    "express",
+    "javascript",
+    "mongodb",
+    "node",
+    "stack"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 12054,
+    "forks": 3362,
+    "open_issues": 96,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-20",
+  "last_updated": "2026-07-20",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 90
+}

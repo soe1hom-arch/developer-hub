@@ -1,0 +1,45 @@
+{
+  "id": "openreplay",
+  "name": "openreplay",
+  "category": "frontend",
+  "description": "Session replay, cobrowsing and product analytics you can self-host. Best for reproducing issues and iterating on your product.",
+  "official_website": "https://openreplay.com",
+  "documentation": "https://github.com/openreplay/openreplay#readme",
+  "github_repository": "https://github.com/openreplay/openreplay",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "analytics",
+    "angular",
+    "devtools",
+    "feature-flags",
+    "ios",
+    "javascript",
+    "nextjs",
+    "product-analytics"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 12249,
+    "forks": 761,
+    "open_issues": 173,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-20",
+  "last_updated": "2026-07-20",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 90
+}

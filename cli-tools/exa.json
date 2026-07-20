@@ -1,0 +1,41 @@
+{
+  "id": "exa",
+  "name": "exa",
+  "category": "cli-tools",
+  "description": "A modern replacement for \u2018ls\u2019.",
+  "official_website": "https://the.exa.website/",
+  "documentation": "https://github.com/ogham/exa#readme",
+  "github_repository": "https://github.com/ogham/exa",
+  "license": "MIT",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "command-line",
+    "files",
+    "ls",
+    "rust"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 24437,
+    "forks": 656,
+    "open_issues": 213,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-20",
+  "last_updated": "2026-07-20",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 77
+}

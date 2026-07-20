@@ -1,0 +1,43 @@
+{
+  "id": "teslamate",
+  "name": "teslamate",
+  "category": "iot",
+  "description": "A self-hosted data logger for your Tesla  \ud83d\ude98 [main maintainer=@JakobLichterfeld]",
+  "official_website": "https://docs.teslamate.org",
+  "documentation": "https://github.com/teslamate-org/teslamate#readme",
+  "github_repository": "https://github.com/teslamate-org/teslamate",
+  "license": "AGPL-3.0",
+  "programming_languages": [
+    "Elixir"
+  ],
+  "platforms": [
+    "Linux",
+    "Embedded"
+  ],
+  "tags": [
+    "dashboard",
+    "datalogger",
+    "docker",
+    "elixir-lang",
+    "grafana",
+    "hacktoberfest",
+    "home-automation",
+    "mqtt"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 8746,
+    "forks": 990,
+    "open_issues": 80,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-20",
+  "last_updated": "2026-07-20",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

@@ -6,7 +6,7 @@
   "official_website": "https://github.com/TheSpeedX/TBomb",
   "documentation": "https://github.com/TheSpeedX/TBomb#readme",
   "github_repository": "https://github.com/TheSpeedX/TBomb",
-  "license": "MIT",
+  "license": "NOASSERTION",
   "programming_languages": [
     "Python"
   ],
@@ -19,20 +19,29 @@
     "security",
     "testing",
     "educational",
-    "termux"
+    "termux",
+    "sms",
+    "bomber",
+    "sms-bomber",
+    "android",
+    "bombing",
+    "spamming",
+    "spam",
+    "linux",
+    "python"
   ],
   "alternatives": [],
-  "popularity": 3,
+  "popularity": 9,
   "maintained": false,
-  "archived": false,
+  "archived": true,
   "open_source": true,
   "repository_statistics": {
-    "stars": 0,
-    "forks": 0,
+    "stars": 5534,
+    "forks": 1853,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-13",
-  "last_updated": "2026-07-13",
+  "last_checked": "2026-07-20",
+  "last_updated": "2026-07-20",
   "latest_version": "main"
 }

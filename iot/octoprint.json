@@ -1,0 +1,39 @@
+{
+  "id": "octoprint",
+  "name": "OctoPrint",
+  "category": "iot",
+  "description": "OctoPrint is the snappy web interface for your 3D printer!",
+  "official_website": "https://octoprint.org",
+  "documentation": "https://github.com/OctoPrint/OctoPrint#readme",
+  "github_repository": "https://github.com/OctoPrint/OctoPrint",
+  "license": "AGPL-3.0",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Linux",
+    "Embedded"
+  ],
+  "tags": [
+    "3d-printer",
+    "octoprint",
+    "python",
+    "raspberry-pi"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 9042,
+    "forks": 1697,
+    "open_issues": 248,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-20",
+  "last_updated": "2026-07-20",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 77
+}

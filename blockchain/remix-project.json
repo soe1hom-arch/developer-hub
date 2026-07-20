@@ -1,0 +1,47 @@
+{
+  "id": "remix-project",
+  "name": "remix-project",
+  "category": "blockchain",
+  "description": "Remix is a browser-based compiler and IDE that enables users to build Ethereum contracts with Solidity language and to debug transactions.",
+  "official_website": "https://remix.live",
+  "documentation": "https://github.com/remix-project-org/remix-project#readme",
+  "github_repository": "https://github.com/remix-project-org/remix-project",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "blockchain",
+    "ethereum",
+    "evm",
+    "hacktoberfest",
+    "remix",
+    "remix-ide",
+    "smart-contracts",
+    "solidity"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 3019,
+    "forks": 1387,
+    "open_issues": 903,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-20",
+  "last_updated": "2026-07-20",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

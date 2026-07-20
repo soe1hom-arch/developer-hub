@@ -1,0 +1,42 @@
+{
+  "id": "gameframework",
+  "name": "GameFramework",
+  "category": "game-development",
+  "description": "This is literally a game framework, based on Unity game engine. It encapsulates commonly used game modules during development, and, to a large degree, standardises the process, enhances the developmen",
+  "official_website": "https://GameFramework.cn",
+  "documentation": "https://github.com/EllanJiang/GameFramework#readme",
+  "github_repository": "https://github.com/EllanJiang/GameFramework",
+  "license": "MIT",
+  "programming_languages": [
+    "C#"
+  ],
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux",
+    "Web"
+  ],
+  "tags": [
+    "game-development",
+    "game-frameworks",
+    "game-modules",
+    "unity",
+    "unity3d"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 6822,
+    "forks": 1567,
+    "open_issues": 11,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-20",
+  "last_updated": "2026-07-20",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

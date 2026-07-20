@@ -6,7 +6,7 @@
   "official_website": "https://github.com/techchipnet/CamPhish",
   "documentation": "https://github.com/techchipnet/CamPhish#readme",
   "github_repository": "https://github.com/techchipnet/CamPhish",
-  "license": "MIT",
+  "license": "GPL-3.0",
   "programming_languages": [
     "Python",
     "HTML"
@@ -21,20 +21,29 @@
     "educational",
     "awareness",
     "termux",
-    "ethical-hacking"
+    "ethical-hacking",
+    "hacking",
+    "kali-linux",
+    "hack",
+    "penetration-testing",
+    "camera-hacking",
+    "android-hacking",
+    "techchip",
+    "gps",
+    "gps-location"
   ],
   "alternatives": [],
-  "popularity": 3,
+  "popularity": 8,
   "maintained": false,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 0,
-    "forks": 0,
+    "stars": 4876,
+    "forks": 1324,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-13",
-  "last_updated": "2026-07-13",
+  "last_checked": "2026-07-20",
+  "last_updated": "2026-07-20",
   "latest_version": "main"
 }

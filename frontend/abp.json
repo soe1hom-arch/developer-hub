@@ -1,0 +1,45 @@
+{
+  "id": "abp",
+  "name": "abp",
+  "category": "frontend",
+  "description": "Open-source web application framework for ASP.NET Core! Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET. Provides the fundamental infra",
+  "official_website": "https://abp.io",
+  "documentation": "https://github.com/abpframework/abp#readme",
+  "github_repository": "https://github.com/abpframework/abp",
+  "license": "LGPL-3.0",
+  "programming_languages": [
+    "C#"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "abp",
+    "angular",
+    "architecture",
+    "aspnet",
+    "aspnet-core",
+    "aspnetcore",
+    "blazor",
+    "c-sharp"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 14362,
+    "forks": 3712,
+    "open_issues": 321,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-20",
+  "last_updated": "2026-07-20",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 90
+}

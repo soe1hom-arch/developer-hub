@@ -1,0 +1,43 @@
+{
+  "id": "esp-wifi-repeater",
+  "name": "esp_wifi_repeater",
+  "category": "firmware",
+  "description": "A full functional WiFi NAT Router (and now also a WiFi Repeater)",
+  "official_website": "https://github.com/martin-ger/esp_wifi_repeater",
+  "documentation": "https://github.com/martin-ger/esp_wifi_repeater#readme",
+  "github_repository": "https://github.com/martin-ger/esp_wifi_repeater",
+  "license": "MIT",
+  "programming_languages": [
+    "C"
+  ],
+  "platforms": [
+    "Linux",
+    "Embedded"
+  ],
+  "tags": [
+    "acls",
+    "esp8266",
+    "firewall",
+    "l2-bridge",
+    "nat",
+    "range-extender",
+    "repeater",
+    "router"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 5211,
+    "forks": 979,
+    "open_issues": 261,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-20",
+  "last_updated": "2026-07-20",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 70
+}

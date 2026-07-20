@@ -1,0 +1,47 @@
+{
+  "id": "landscape",
+  "name": "landscape",
+  "category": "cloud",
+  "description": "\ud83c\udf04 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding, first and last commits, contributor counts and headquar",
+  "official_website": "https://l.cncf.io",
+  "documentation": "https://github.com/cncf/landscape#readme",
+  "github_repository": "https://github.com/cncf/landscape",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "cloud-native",
+    "cncf",
+    "crunchbase",
+    "landscape",
+    "logo",
+    "serverless",
+    "svg",
+    "wasm"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 9942,
+    "forks": 2174,
+    "open_issues": 62,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-20",
+  "last_updated": "2026-07-20",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

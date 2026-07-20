@@ -20,20 +20,30 @@
     "testing",
     "educational",
     "termux",
-    "stress-test"
+    "stress-test",
+    "sms",
+    "email-bomber",
+    "bomber",
+    "python",
+    "whatsappbomber",
+    "sms-bomber",
+    "sms-bombing",
+    "bombing",
+    "email-bomb",
+    "spam"
   ],
   "alternatives": [],
-  "popularity": 3,
+  "popularity": 8,
   "maintained": false,
-  "archived": false,
+  "archived": true,
   "open_source": true,
   "repository_statistics": {
-    "stars": 0,
-    "forks": 0,
+    "stars": 3689,
+    "forks": 1223,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-13",
-  "last_updated": "2026-07-13",
+  "last_checked": "2026-07-20",
+  "last_updated": "2026-07-20",
   "latest_version": "main"
 }

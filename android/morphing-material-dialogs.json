@@ -1,0 +1,44 @@
+{
+  "id": "morphing-material-dialogs",
+  "name": "Morphing-Material-Dialogs",
+  "category": "android",
+  "description": "Material dialog :heart: morphing animation. An android kotlin UI library for building beautiful animations for converting a floating action button into a material dialog.",
+  "official_website": "https://adi.bio",
+  "documentation": "https://github.com/Aditya94A/Morphing-Material-Dialogs#readme",
+  "github_repository": "https://github.com/Aditya94A/Morphing-Material-Dialogs",
+  "license": "MIT",
+  "programming_languages": [
+    "Kotlin"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "android",
+    "android-app",
+    "android-application",
+    "android-sdk",
+    "android-ui",
+    "material-design"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 899,
+    "forks": 64,
+    "open_issues": 6,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-20",
+  "last_updated": "2026-07-20",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 75
+}

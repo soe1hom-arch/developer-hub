@@ -1,0 +1,45 @@
+{
+  "id": "xyflow",
+  "name": "xyflow",
+  "category": "frontend",
+  "description": "React Flow |\u00a0Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi",
+  "official_website": "https://xyflow.com",
+  "documentation": "https://github.com/xyflow/xyflow#readme",
+  "github_repository": "https://github.com/xyflow/xyflow",
+  "license": "MIT",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "flowchart",
+    "graph",
+    "javascript",
+    "node-based-ui",
+    "react",
+    "react-flow",
+    "svelte",
+    "svelte-flow"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 37706,
+    "forks": 2473,
+    "open_issues": 130,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-20",
+  "last_updated": "2026-07-20",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 90
+}

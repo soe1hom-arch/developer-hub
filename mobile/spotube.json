@@ -25,7 +25,12 @@
     "fdroid",
     "flutter",
     "flutter-desktop",
-    "linux"
+    "linux",
+    "youtube",
+    "music-player",
+    "music",
+    "windows",
+    "macos"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -33,14 +38,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 47533,
-    "forks": 2196,
-    "open_issues": 822,
+    "stars": 47719,
+    "forks": 2209,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-14",
-  "last_updated": "2026-07-14",
-  "latest_version": "latest",
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "v5.1.2",
   "auto_discovered": true,
   "quality_score": 85
 }

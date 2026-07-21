@@ -26,7 +26,14 @@
     "image-classification",
     "imagenet",
     "maxvit",
-    "mixnet"
+    "mixnet",
+    "pytorch",
+    "resnet",
+    "pretrained-models",
+    "pretrained-weights",
+    "mobile-deep-learning",
+    "mobilenet-v2",
+    "mobilenetv3"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -34,14 +41,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 36981,
-    "forks": 5172,
-    "open_issues": 61,
+    "stars": 36995,
+    "forks": 5173,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-14",
-  "last_updated": "2026-07-14",
-  "latest_version": "latest",
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "v1.0.28",
   "auto_discovered": true,
   "quality_score": 90
 }

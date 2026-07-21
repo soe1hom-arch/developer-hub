@@ -24,7 +24,10 @@
     "admin-panel",
     "admin-template",
     "admin-ui",
-    "adminlte"
+    "adminlte",
+    "bootstrap",
+    "css",
+    "dashboard"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -32,14 +35,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 45504,
-    "forks": 18192,
+    "stars": 45518,
+    "forks": 18191,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-14",
-  "last_updated": "2026-07-14",
-  "latest_version": "latest",
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "v4.1.0",
   "auto_discovered": true,
   "quality_score": 85
 }

@@ -26,7 +26,10 @@
     "copilot",
     "cursor",
     "game-development",
-    "gamedev"
+    "gamedev",
+    "mcp",
+    "unity",
+    "gemini"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -34,14 +37,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 12451,
-    "forks": 1323,
-    "open_issues": 73,
+    "stars": 12702,
+    "forks": 1344,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-14",
-  "last_updated": "2026-07-14",
-  "latest_version": "latest",
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "v10.1.0",
   "auto_discovered": true,
   "quality_score": 90
 }

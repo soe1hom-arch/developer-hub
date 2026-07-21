@@ -24,7 +24,13 @@
     "bootstrap4-theme",
     "bootstrap5",
     "css",
-    "dashboard"
+    "dashboard",
+    "html",
+    "sass",
+    "scss",
+    "dashboard-templates",
+    "modular",
+    "dashboards"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -32,14 +38,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 41296,
-    "forks": 4380,
-    "open_issues": 137,
+    "stars": 41336,
+    "forks": 4384,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-14",
-  "last_updated": "2026-07-14",
-  "latest_version": "latest",
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "@tabler/core@1.4.0",
   "auto_discovered": true,
   "quality_score": 85
 }

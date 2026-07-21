@@ -24,22 +24,25 @@
     "dfxml",
     "digital-forensics",
     "disk-analysis",
-    "disk-image"
+    "disk-image",
+    "file-carving",
+    "filesystem-analysis",
+    "golang"
   ],
   "alternatives": [],
-  "popularity": 6,
+  "popularity": 8,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 1319,
-    "forks": 77,
-    "open_issues": 9,
+    "stars": 1344,
+    "forks": 79,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-14",
-  "last_updated": "2026-07-14",
-  "latest_version": "latest",
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "v0.1.0",
   "auto_discovered": true,
   "quality_score": 70
 }

@@ -24,7 +24,10 @@
     "game-development",
     "game-engine",
     "game-engine-2d",
-    "game-library"
+    "game-library",
+    "go",
+    "golang",
+    "golang-library"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -32,14 +35,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 13333,
+    "stars": 13350,
     "forks": 773,
-    "open_issues": 297,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-14",
-  "last_updated": "2026-07-14",
-  "latest_version": "latest",
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "v2.9.9",
   "auto_discovered": true,
   "quality_score": 80
 }

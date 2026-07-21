@@ -26,7 +26,13 @@
     "microsoft-sql-server",
     "mssql",
     "mssql-server",
-    "mysql"
+    "mysql",
+    "sql",
+    "orm",
+    "transactions",
+    "postgresql",
+    "sqlite",
+    "sequelize"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -34,14 +40,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 30372,
-    "forks": 4342,
-    "open_issues": 1048,
+    "stars": 30375,
+    "forks": 4347,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-14",
-  "last_updated": "2026-07-14",
-  "latest_version": "latest",
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "v6.37.8",
   "auto_discovered": true,
   "quality_score": 90
 }

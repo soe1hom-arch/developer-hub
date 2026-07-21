@@ -24,22 +24,25 @@
     "cli-tools",
     "devtools",
     "devtools-team",
-    "golang"
+    "golang",
+    "proxy-server",
+    "webdev",
+    "webdevelopment"
   ],
   "alternatives": [],
-  "popularity": 6,
+  "popularity": 8,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 1445,
+    "stars": 1448,
     "forks": 16,
-    "open_issues": 5,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-14",
-  "last_updated": "2026-07-14",
-  "latest_version": "latest",
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "v3.0.0+commit.43c3619",
   "auto_discovered": true,
   "quality_score": 60
 }

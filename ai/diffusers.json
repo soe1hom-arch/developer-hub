@@ -26,7 +26,11 @@
     "image2image",
     "image2video",
     "latent-diffusion-models",
-    "pytorch"
+    "pytorch",
+    "score-based-generative-modeling",
+    "text2image",
+    "stable-diffusion",
+    "stable-diffusion-diffusers"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -34,14 +38,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 34057,
-    "forks": 7150,
-    "open_issues": 1277,
+    "stars": 34118,
+    "forks": 7174,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-14",
-  "last_updated": "2026-07-14",
-  "latest_version": "latest",
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "v0.39.0",
   "auto_discovered": true,
   "quality_score": 85
 }

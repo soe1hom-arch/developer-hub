@@ -26,7 +26,10 @@
     "ipam",
     "netbox",
     "network",
-    "network-automation"
+    "network-automation",
+    "sysadmin",
+    "python",
+    "sot"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -34,14 +37,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 21090,
-    "forks": 3067,
-    "open_issues": 220,
+    "stars": 21150,
+    "forks": 3073,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-14",
-  "last_updated": "2026-07-14",
-  "latest_version": "latest",
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "v4.6.5",
   "auto_discovered": true,
   "quality_score": 90
 }

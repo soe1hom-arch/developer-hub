@@ -1,0 +1,44 @@
+{
+  "id": "ratatui",
+  "name": "ratatui",
+  "category": "cli-tools",
+  "description": "A Rust crate for cooking up terminal user interfaces (TUIs) \ud83d\udc68\u200d\ud83c\udf73\ud83d\udc00 https://ratatui.rs",
+  "official_website": "https://ratatui.rs",
+  "documentation": "https://github.com/ratatui/ratatui#readme",
+  "github_repository": "https://github.com/ratatui/ratatui",
+  "license": "MIT",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "cli",
+    "ratatui",
+    "rust",
+    "terminal",
+    "terminal-user-interface",
+    "tui",
+    "widgets"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 21806,
+    "forks": 720,
+    "open_issues": 213,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

@@ -26,7 +26,13 @@
     "azure",
     "cloud",
     "docker",
-    "docker-android"
+    "docker-android",
+    "novnc",
+    "mobile-web",
+    "mobile-app",
+    "selenium-grid",
+    "emulator",
+    "genymotion"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -34,14 +40,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 15526,
-    "forks": 1738,
-    "open_issues": 161,
+    "stars": 15558,
+    "forks": 1741,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-14",
-  "last_updated": "2026-07-14",
-  "latest_version": "latest",
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "v3.5.2-p0",
   "auto_discovered": true,
   "quality_score": 75
 }

@@ -26,7 +26,10 @@
     "newapi",
     "payment",
     "payments",
-    "polygon"
+    "polygon",
+    "web3",
+    "solana",
+    "tron"
   ],
   "alternatives": [],
   "popularity": 8,
@@ -34,14 +37,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 3616,
-    "forks": 986,
-    "open_issues": 29,
+    "stars": 3625,
+    "forks": 990,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-14",
-  "last_updated": "2026-07-14",
-  "latest_version": "latest",
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "v1.0.10",
   "auto_discovered": true,
   "quality_score": 70
 }

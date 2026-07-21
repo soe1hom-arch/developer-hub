@@ -27,14 +27,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 16670,
-    "forks": 2544,
-    "open_issues": 377,
+    "stars": 16675,
+    "forks": 2546,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-14",
-  "last_updated": "2026-07-14",
-  "latest_version": "latest",
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "diem-core-v1.4.4",
   "auto_discovered": true,
   "quality_score": 83
 }

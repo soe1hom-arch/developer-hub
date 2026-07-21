@@ -1,0 +1,47 @@
+{
+  "id": "librechat",
+  "name": "LibreChat",
+  "category": "cloud",
+  "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me",
+  "official_website": "https://librechat.ai/",
+  "documentation": "https://github.com/danny-avila/LibreChat#readme",
+  "github_repository": "https://github.com/danny-avila/LibreChat",
+  "license": "MIT",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "ai",
+    "anthropic",
+    "artifacts",
+    "aws",
+    "azure",
+    "chatgpt",
+    "chatgpt-clone",
+    "claude"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 41009,
+    "forks": 8425,
+    "open_issues": 603,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 90
+}

@@ -26,7 +26,13 @@
     "easyocr",
     "image-processing",
     "information-retrieval",
-    "lstm"
+    "lstm",
+    "ocr",
+    "pytorch",
+    "machine-learning",
+    "scene-text",
+    "scene-text-recognition",
+    "optical-character-recognition"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -34,14 +40,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 29748,
-    "forks": 3586,
-    "open_issues": 528,
+    "stars": 29796,
+    "forks": 3583,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-14",
-  "last_updated": "2026-07-14",
-  "latest_version": "latest",
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "v1.7.2",
   "auto_discovered": true,
   "quality_score": 90
 }

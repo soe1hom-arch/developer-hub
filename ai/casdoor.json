@@ -26,7 +26,16 @@
     "auth",
     "authentication",
     "iam",
-    "llm"
+    "llm",
+    "oidc",
+    "sso",
+    "oauth",
+    "saml",
+    "webauthn",
+    "mfa",
+    "single-sign-on",
+    "radius",
+    "scim"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -34,14 +43,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 13932,
-    "forks": 1737,
-    "open_issues": 101,
+    "stars": 13988,
+    "forks": 1742,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-14",
-  "last_updated": "2026-07-14",
-  "latest_version": "latest",
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "v3.119.0",
   "auto_discovered": true,
   "quality_score": 90
 }

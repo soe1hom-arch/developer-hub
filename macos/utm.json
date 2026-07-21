@@ -26,7 +26,8 @@
     "macos",
     "qemu",
     "utm",
-    "virtual-machines"
+    "virtual-machines",
+    "vm"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -34,14 +35,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 34686,
-    "forks": 1755,
-    "open_issues": 1079,
+    "stars": 34732,
+    "forks": 1761,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-14",
-  "last_updated": "2026-07-14",
-  "latest_version": "latest",
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "v4.7.5",
   "auto_discovered": true,
   "quality_score": 80
 }

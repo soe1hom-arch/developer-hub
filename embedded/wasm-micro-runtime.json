@@ -22,22 +22,25 @@
     "iot",
     "jit",
     "pthread",
-    "runtime"
+    "runtime",
+    "wasm",
+    "webassembly",
+    "sgx"
   ],
   "alternatives": [],
-  "popularity": 10,
+  "popularity": 9,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 6016,
-    "forks": 822,
-    "open_issues": 593,
+    "stars": 6019,
+    "forks": 827,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-14",
-  "last_updated": "2026-07-14",
-  "latest_version": "latest",
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "WAMR-2.4.5",
   "auto_discovered": true,
   "quality_score": 65
 }

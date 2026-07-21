@@ -1,0 +1,46 @@
+{
+  "id": "wsa-sideloader",
+  "name": "WSA-Sideloader",
+  "category": "android",
+  "description": "Easily sideload Android apps on Windows Subsystem for Android",
+  "official_website": "https://github.com/infinitepower18/WSA-Sideloader",
+  "documentation": "https://github.com/infinitepower18/WSA-Sideloader#readme",
+  "github_repository": "https://github.com/infinitepower18/WSA-Sideloader",
+  "license": "GPL-3.0",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "adb",
+    "android",
+    "android-sdk",
+    "apk",
+    "apk-installer",
+    "pysimplegui",
+    "python",
+    "windows"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 564,
+    "forks": 74,
+    "open_issues": 15,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 60
+}

@@ -26,7 +26,12 @@
     "display",
     "external-monitor",
     "gamma",
-    "keyboard"
+    "keyboard",
+    "macos",
+    "volume",
+    "m1",
+    "silicon",
+    "macos-app"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -34,14 +39,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 33687,
-    "forks": 979,
-    "open_issues": 27,
+    "stars": 33764,
+    "forks": 982,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-14",
-  "last_updated": "2026-07-14",
-  "latest_version": "latest",
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "v4.3.3",
   "auto_discovered": true,
   "quality_score": 90
 }

@@ -24,7 +24,10 @@
     "javascript",
     "linux",
     "macos",
-    "react"
+    "react",
+    "vuejs",
+    "windows",
+    "svelte"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -32,14 +35,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 35191,
-    "forks": 1755,
-    "open_issues": 256,
+    "stars": 35284,
+    "forks": 1764,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-14",
-  "last_updated": "2026-07-14",
-  "latest_version": "latest",
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "v2.13.0",
   "auto_discovered": true,
   "quality_score": 80
 }

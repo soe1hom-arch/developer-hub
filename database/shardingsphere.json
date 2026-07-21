@@ -26,7 +26,13 @@
     "database-cluster",
     "database-gateway",
     "database-middleware",
-    "distributed-database"
+    "distributed-database",
+    "distributed-sql-database",
+    "sql",
+    "shard",
+    "mysql",
+    "postgresql",
+    "encrypt"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -34,14 +40,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 20753,
-    "forks": 6892,
-    "open_issues": 306,
+    "stars": 20761,
+    "forks": 6894,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-14",
-  "last_updated": "2026-07-14",
-  "latest_version": "latest",
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "5.5.3",
   "auto_discovered": true,
   "quality_score": 80
 }

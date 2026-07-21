@@ -24,7 +24,14 @@
     "contract-testing",
     "e2e",
     "e2e-tests",
-    "express"
+    "express",
+    "nodejs",
+    "testing",
+    "unittest",
+    "test",
+    "integration-testing",
+    "javascript",
+    "react"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -32,13 +39,13 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 24613,
-    "forks": 2097,
-    "open_issues": 70,
+    "stars": 24616,
+    "forks": 2096,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-14",
-  "last_updated": "2026-07-14",
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
   "latest_version": "latest",
   "auto_discovered": true,
   "quality_score": 85

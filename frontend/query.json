@@ -24,7 +24,9 @@
     "graphql",
     "hooks",
     "query",
-    "react"
+    "react",
+    "rest",
+    "stale"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -32,14 +34,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 49991,
-    "forks": 4076,
-    "open_issues": 190,
+    "stars": 49959,
+    "forks": 4000,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-14",
-  "last_updated": "2026-07-14",
-  "latest_version": "latest",
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "release-2026-07-20-1205",
   "auto_discovered": true,
   "quality_score": 90
 }

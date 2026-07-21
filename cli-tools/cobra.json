@@ -24,7 +24,9 @@
     "cobra-library",
     "command",
     "command-cobra",
-    "command-line"
+    "command-line",
+    "posix-compliant-flags",
+    "commandline"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -32,14 +34,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 44269,
-    "forks": 3162,
-    "open_issues": 386,
+    "stars": 44295,
+    "forks": 3173,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-14",
-  "last_updated": "2026-07-14",
-  "latest_version": "latest",
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "v1.10.2",
   "auto_discovered": true,
   "quality_score": 80
 }

@@ -26,7 +26,10 @@
     "garbage-collection",
     "operating-system",
     "parallel-computing",
-    "reading"
+    "reading",
+    "science",
+    "research",
+    "type-system"
   ],
   "alternatives": [],
   "popularity": 8,
@@ -34,13 +37,13 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 3615,
-    "forks": 773,
-    "open_issues": 7,
+    "stars": 3621,
+    "forks": 774,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-14",
-  "last_updated": "2026-07-14",
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
   "latest_version": "latest",
   "auto_discovered": true,
   "quality_score": 55

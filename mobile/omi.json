@@ -25,7 +25,11 @@
     "flutter",
     "friend",
     "mobile",
-    "necklace"
+    "necklace",
+    "omi",
+    "python",
+    "summary",
+    "transcription"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -33,14 +37,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 12997,
-    "forks": 2117,
-    "open_issues": 692,
+    "stars": 13031,
+    "forks": 2126,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-14",
-  "last_updated": "2026-07-14",
-  "latest_version": "latest",
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "v0.12.90+12090-macos",
   "auto_discovered": true,
   "quality_score": 85
 }

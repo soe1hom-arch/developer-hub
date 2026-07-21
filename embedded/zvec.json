@@ -22,7 +22,11 @@
     "hnsw",
     "llm-memory",
     "local",
-    "rag"
+    "rag",
+    "search-engine",
+    "semantic-search",
+    "similarity-search",
+    "vector-database"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -30,14 +34,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 14871,
-    "forks": 924,
-    "open_issues": 67,
+    "stars": 15185,
+    "forks": 957,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-14",
-  "last_updated": "2026-07-14",
-  "latest_version": "latest",
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "v0.6.0",
   "auto_discovered": true,
   "quality_score": 85
 }

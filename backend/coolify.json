@@ -26,7 +26,14 @@
     "docker-compose",
     "inertiajs",
     "laravel",
-    "mariadb"
+    "mariadb",
+    "nodejs",
+    "mysql",
+    "php",
+    "self-hosting",
+    "redis",
+    "svelte",
+    "nextjs"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -34,14 +41,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 58473,
-    "forks": 5015,
-    "open_issues": 812,
+    "stars": 59091,
+    "forks": 5095,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-14",
-  "last_updated": "2026-07-14",
-  "latest_version": "latest",
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "v4.1.2",
   "auto_discovered": true,
   "quality_score": 90
 }

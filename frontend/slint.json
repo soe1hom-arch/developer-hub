@@ -24,7 +24,11 @@
     "gui",
     "javascript",
     "language",
-    "lsp-server"
+    "lsp-server",
+    "rust",
+    "wasm",
+    "ui",
+    "webassembly"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -32,14 +36,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 23196,
-    "forks": 927,
-    "open_issues": 874,
+    "stars": 23270,
+    "forks": 932,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-14",
-  "last_updated": "2026-07-14",
-  "latest_version": "latest",
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "v1.17.1",
   "auto_discovered": true,
   "quality_score": 90
 }

@@ -26,7 +26,9 @@
     "revoke",
     "revokemsg",
     "tim",
-    "tool"
+    "tool",
+    "windows",
+    "wechat"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -34,14 +36,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 38157,
-    "forks": 4023,
-    "open_issues": 58,
+    "stars": 38201,
+    "forks": 4029,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-14",
-  "last_updated": "2026-07-14",
-  "latest_version": "latest",
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "2.1",
   "auto_discovered": true,
   "quality_score": 75
 }

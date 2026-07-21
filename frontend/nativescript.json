@@ -24,7 +24,12 @@
     "flutter",
     "ios",
     "java",
-    "javascript"
+    "javascript",
+    "nativescript",
+    "vue",
+    "typescript",
+    "react",
+    "svelte"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -32,14 +37,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 25553,
-    "forks": 1733,
-    "open_issues": 838,
+    "stars": 25560,
+    "forks": 1736,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-14",
-  "last_updated": "2026-07-14",
-  "latest_version": "latest",
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "9.0.20-core",
   "auto_discovered": true,
   "quality_score": 90
 }

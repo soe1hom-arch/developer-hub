@@ -26,7 +26,15 @@
     "gemma",
     "gpt",
     "instruction-tuning",
-    "large-language-models"
+    "large-language-models",
+    "llama",
+    "llm",
+    "peft",
+    "transformers",
+    "rlhf",
+    "qlora",
+    "quantization",
+    "qwen"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -34,14 +42,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 73263,
-    "forks": 8945,
-    "open_issues": 1066,
+    "stars": 73401,
+    "forks": 8961,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-14",
-  "last_updated": "2026-07-14",
-  "latest_version": "latest",
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "v0.9.5",
   "auto_discovered": true,
   "quality_score": 85
 }

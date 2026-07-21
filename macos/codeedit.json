@@ -26,7 +26,12 @@
     "code-edit",
     "code-editor",
     "editor",
-    "ide"
+    "ide",
+    "macos",
+    "swift",
+    "swiftui",
+    "ios",
+    "open-source"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -34,14 +39,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 22953,
-    "forks": 1178,
-    "open_issues": 205,
+    "stars": 22954,
+    "forks": 1179,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-14",
-  "last_updated": "2026-07-14",
-  "latest_version": "latest",
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "v0.3.6",
   "auto_discovered": true,
   "quality_score": 85
 }

@@ -26,7 +26,13 @@
     "email-password-login",
     "firebase-auth",
     "hacktoberfest",
-    "java"
+    "java",
+    "session-management",
+    "login",
+    "supertokens",
+    "signin",
+    "password",
+    "social-login"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -34,14 +40,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 15249,
-    "forks": 827,
-    "open_issues": 141,
+    "stars": 15216,
+    "forks": 730,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-14",
-  "last_updated": "2026-07-14",
-  "latest_version": "latest",
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "v12.0.7",
   "auto_discovered": true,
   "quality_score": 85
 }

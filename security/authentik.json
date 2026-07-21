@@ -26,7 +26,13 @@
     "oauth2",
     "oauth2-client",
     "oauth2-server",
-    "oidc"
+    "oidc",
+    "saml",
+    "saml-idp",
+    "saml-sp",
+    "oidc-provider",
+    "oidc-client",
+    "sso"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -34,14 +40,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 22328,
-    "forks": 1703,
-    "open_issues": 1258,
+    "stars": 22402,
+    "forks": 1710,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-14",
-  "last_updated": "2026-07-14",
-  "latest_version": "latest",
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "version/2026.5.5",
   "auto_discovered": true,
   "quality_score": 80
 }

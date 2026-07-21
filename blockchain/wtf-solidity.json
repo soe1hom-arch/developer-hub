@@ -26,7 +26,9 @@
     "dapps",
     "erc20",
     "erc721",
-    "ethereum"
+    "ethereum",
+    "merkle-tree",
+    "nft"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -34,13 +36,13 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 14012,
-    "forks": 2425,
-    "open_issues": 11,
+    "stars": 14017,
+    "forks": 2424,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-14",
-  "last_updated": "2026-07-14",
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
   "latest_version": "latest",
   "auto_discovered": true,
   "quality_score": 85

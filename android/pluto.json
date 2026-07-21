@@ -1,0 +1,46 @@
+{
+  "id": "pluto",
+  "name": "pluto",
+  "category": "android",
+  "description": "Android Pluto is a on-device debugging framework for Android applications, which helps intercept Network calls, capture Crashes & ANRs, manipulate application data on-the-go, and much more.",
+  "official_website": "https://androidpluto.com",
+  "documentation": "https://github.com/androidPluto/pluto#readme",
+  "github_repository": "https://github.com/androidPluto/pluto",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Kotlin"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "android",
+    "android-debug-tools",
+    "android-development",
+    "android-library",
+    "android-sdk",
+    "datastore-preferences",
+    "http-requests",
+    "java"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 699,
+    "forks": 66,
+    "open_issues": 26,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 75
+}

@@ -25,7 +25,14 @@
     "apple-watch",
     "awesome",
     "cocoapods",
-    "example"
+    "example",
+    "ios",
+    "swift",
+    "objective-c",
+    "iphone",
+    "ipad",
+    "react-native",
+    "list"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -33,14 +40,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 51215,
-    "forks": 5850,
-    "open_issues": 4,
+    "stars": 51320,
+    "forks": 5988,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-14",
-  "last_updated": "2026-07-14",
-  "latest_version": "latest",
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "3.3.0",
   "auto_discovered": true,
   "quality_score": 70
 }

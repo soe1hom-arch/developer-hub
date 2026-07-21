@@ -24,7 +24,10 @@
     "components-library",
     "components-react",
     "css-animations",
-    "javascript"
+    "javascript",
+    "react",
+    "reactjs",
+    "web"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -32,13 +35,13 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 43376,
-    "forks": 2026,
-    "open_issues": 2,
+    "stars": 43854,
+    "forks": 2058,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-14",
-  "last_updated": "2026-07-14",
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
   "latest_version": "latest",
   "auto_discovered": true,
   "quality_score": 90

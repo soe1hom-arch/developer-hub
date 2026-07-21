@@ -26,22 +26,25 @@
     "code-review",
     "codereview",
     "github",
-    "gitlab"
+    "gitlab",
+    "linter",
+    "go",
+    "lint"
   ],
   "alternatives": [],
-  "popularity": 10,
+  "popularity": 9,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 9451,
-    "forks": 490,
-    "open_issues": 140,
+    "stars": 9469,
+    "forks": 489,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-14",
-  "last_updated": "2026-07-14",
-  "latest_version": "latest",
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "v0.21.0",
   "auto_discovered": true,
   "quality_score": 85
 }

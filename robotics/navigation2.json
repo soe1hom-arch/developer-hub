@@ -20,19 +20,19 @@
     "ros2"
   ],
   "alternatives": [],
-  "popularity": 9,
+  "popularity": 8,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 4459,
-    "forks": 1874,
-    "open_issues": 83,
+    "stars": 4489,
+    "forks": 1880,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-14",
-  "last_updated": "2026-07-14",
-  "latest_version": "latest",
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "1.3.12",
   "auto_discovered": true,
   "quality_score": 67
 }

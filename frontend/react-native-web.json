@@ -1,0 +1,45 @@
+{
+  "id": "react-native-web",
+  "name": "react-native-web",
+  "category": "frontend",
+  "description": "Cross-platform React UI packages",
+  "official_website": "https://necolas.github.io/react-native-web",
+  "documentation": "https://github.com/necolas/react-native-web#readme",
+  "github_repository": "https://github.com/necolas/react-native-web",
+  "license": "MIT",
+  "programming_languages": [
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "cross-platform",
+    "css-in-js",
+    "gui-framework",
+    "react",
+    "react-components",
+    "react-dom",
+    "react-native",
+    "react-native-web"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 22140,
+    "forks": 1822,
+    "open_issues": 158,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

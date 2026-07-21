@@ -25,21 +25,25 @@
     "android-library",
     "android-studio",
     "cheatsheet",
-    "gradle"
+    "gradle",
+    "tips",
+    "tricks",
+    "kotlin",
+    "material"
   ],
   "alternatives": [],
-  "popularity": 9,
+  "popularity": 8,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 4750,
+    "stars": 4749,
     "forks": 566,
-    "open_issues": 2,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-14",
-  "last_updated": "2026-07-14",
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
   "latest_version": "latest",
   "auto_discovered": true,
   "quality_score": 75

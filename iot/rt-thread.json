@@ -22,7 +22,10 @@
     "embedded-systems",
     "iot",
     "kernel",
-    "microcontroller"
+    "microcontroller",
+    "rtos",
+    "risc-v",
+    "mips"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -30,14 +33,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 12104,
-    "forks": 5434,
-    "open_issues": 502,
+    "stars": 12121,
+    "forks": 5437,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-14",
-  "last_updated": "2026-07-14",
-  "latest_version": "latest",
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "v5.2.2",
   "auto_discovered": true,
   "quality_score": 90
 }

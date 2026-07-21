@@ -1,0 +1,45 @@
+{
+  "id": "ai",
+  "name": "ai",
+  "category": "frontend",
+  "description": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents",
+  "official_website": "https://ai-sdk.dev",
+  "documentation": "https://github.com/vercel/ai#readme",
+  "github_repository": "https://github.com/vercel/ai",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "anthropic",
+    "artificial-intelligence",
+    "gemini",
+    "generative-ai",
+    "generative-ui",
+    "javascript",
+    "language-model",
+    "llm"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 25687,
+    "forks": 4817,
+    "open_issues": 1681,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 90
+}

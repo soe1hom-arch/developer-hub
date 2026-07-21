@@ -22,22 +22,25 @@
     "earbuds",
     "firmware",
     "galaxy-buds",
-    "manager"
+    "manager",
+    "samsung",
+    "rfcomm",
+    "reverse-engineering"
   ],
   "alternatives": [],
-  "popularity": 10,
+  "popularity": 9,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 5088,
-    "forks": 290,
-    "open_issues": 106,
+    "stars": 5101,
+    "forks": 293,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-14",
-  "last_updated": "2026-07-14",
-  "latest_version": "latest",
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "5.2.1",
   "auto_discovered": true,
   "quality_score": 70
 }

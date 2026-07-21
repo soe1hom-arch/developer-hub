@@ -26,7 +26,12 @@
     "dotnet",
     "heic",
     "image-viewer",
-    "imageglass"
+    "imageglass",
+    "photo-viewer",
+    "picture-viewer",
+    "jpeg-xl",
+    "jxl",
+    "raw-image"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -34,14 +39,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 13744,
+    "stars": 13792,
     "forks": 726,
-    "open_issues": 249,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-14",
-  "last_updated": "2026-07-14",
-  "latest_version": "latest",
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "9.5.0.515",
   "auto_discovered": true,
   "quality_score": 90
 }

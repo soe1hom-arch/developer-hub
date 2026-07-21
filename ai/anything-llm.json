@@ -26,7 +26,12 @@
     "ai-agents",
     "computer-use",
     "hermes-agent",
-    "llm"
+    "llm",
+    "rag",
+    "localai",
+    "vector-database",
+    "multimodal",
+    "no-code"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -34,14 +39,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 63267,
-    "forks": 6919,
-    "open_issues": 321,
+    "stars": 63613,
+    "forks": 6960,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-14",
-  "last_updated": "2026-07-14",
-  "latest_version": "latest",
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "v1.15.0",
   "auto_discovered": true,
   "quality_score": 90
 }

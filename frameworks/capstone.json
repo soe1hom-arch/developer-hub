@@ -26,22 +26,28 @@
     "ethereum",
     "framework",
     "m0s65xx",
-    "m680x"
+    "m680x",
+    "reverse-engineering",
+    "security",
+    "x86",
+    "sparc",
+    "powerpc",
+    "mips"
   ],
   "alternatives": [],
-  "popularity": 10,
+  "popularity": 9,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 8889,
-    "forks": 1701,
-    "open_issues": 356,
+    "stars": 8901,
+    "forks": 1702,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-14",
-  "last_updated": "2026-07-14",
-  "latest_version": "latest",
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "6.0.0-Alpha9",
   "auto_discovered": true,
   "quality_score": 85
 }

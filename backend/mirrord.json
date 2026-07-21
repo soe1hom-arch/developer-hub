@@ -26,22 +26,29 @@
     "backend",
     "claude-code",
     "cli",
-    "cloud"
+    "cloud",
+    "kubernetes",
+    "debug",
+    "traffic",
+    "ide",
+    "vscode",
+    "development",
+    "devtool"
   ],
   "alternatives": [],
-  "popularity": 10,
+  "popularity": 9,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 5215,
+    "stars": 5230,
     "forks": 204,
-    "open_issues": 79,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-14",
-  "last_updated": "2026-07-14",
-  "latest_version": "latest",
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "3.235.0",
   "auto_discovered": true,
   "quality_score": 85
 }

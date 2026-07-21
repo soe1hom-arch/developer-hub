@@ -25,7 +25,11 @@
     "cache",
     "encode",
     "encrypt",
-    "eventbus"
+    "eventbus",
+    "file",
+    "fragment",
+    "log",
+    "network"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -34,13 +38,13 @@
   "open_source": true,
   "repository_statistics": {
     "stars": 33653,
-    "forks": 10634,
-    "open_issues": 328,
+    "forks": 10632,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-14",
-  "last_updated": "2026-07-14",
-  "latest_version": "latest",
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "1.31.1",
   "auto_discovered": true,
   "quality_score": 85
 }

@@ -26,7 +26,13 @@
     "ci",
     "ci-cd",
     "cicd",
-    "container-builder"
+    "container-builder",
+    "hacktoberfest",
+    "docker-images",
+    "hacktoberfest2020",
+    "reproducible-builds",
+    "dockerfiles",
+    "hacktoberfest2021"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -34,14 +40,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 12045,
-    "forks": 455,
-    "open_issues": 743,
+    "stars": 12049,
+    "forks": 456,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-14",
-  "last_updated": "2026-07-14",
-  "latest_version": "latest",
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "v0.8.16",
   "auto_discovered": true,
   "quality_score": 90
 }

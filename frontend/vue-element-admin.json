@@ -24,7 +24,12 @@
     "dashboard",
     "desktop",
     "element",
-    "element-ui"
+    "element-ui",
+    "vue",
+    "vuex",
+    "vue-cli",
+    "vue-admin",
+    "mock"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -32,14 +37,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 90248,
-    "forks": 30410,
-    "open_issues": 1402,
+    "stars": 90245,
+    "forks": 30406,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-14",
-  "last_updated": "2026-07-14",
-  "latest_version": "latest",
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "4.4.0",
   "auto_discovered": true,
   "quality_score": 80
 }

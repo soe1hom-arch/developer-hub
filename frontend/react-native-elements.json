@@ -24,7 +24,8 @@
     "mobile-app",
     "react",
     "react-native",
-    "ui"
+    "ui",
+    "ui-components"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -33,13 +34,13 @@
   "open_source": true,
   "repository_statistics": {
     "stars": 25853,
-    "forks": 4677,
-    "open_issues": 151,
+    "forks": 4676,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-14",
-  "last_updated": "2026-07-14",
-  "latest_version": "latest",
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "v5.0.0",
   "auto_discovered": true,
   "quality_score": 80
 }

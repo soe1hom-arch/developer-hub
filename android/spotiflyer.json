@@ -25,7 +25,15 @@
     "desktop",
     "gaana",
     "gaana-downloader",
-    "metadata"
+    "metadata",
+    "spotify-downloader",
+    "mp3",
+    "youtube",
+    "song-downloader",
+    "playlist-downloader",
+    "youtube-downloader",
+    "music",
+    "music-downloader"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -33,14 +41,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 11196,
-    "forks": 814,
-    "open_issues": 573,
+    "stars": 11201,
+    "forks": 816,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-14",
-  "last_updated": "2026-07-14",
-  "latest_version": "latest",
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "v3.6.4",
   "auto_discovered": true,
   "quality_score": 90
 }

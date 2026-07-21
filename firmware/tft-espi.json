@@ -22,22 +22,24 @@
     "raspberry-pico",
     "rp2040",
     "spi",
-    "stm32"
+    "stm32",
+    "tft",
+    "tft-displays"
   ],
   "alternatives": [],
-  "popularity": 9,
+  "popularity": 8,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 4838,
+    "stars": 4845,
     "forks": 1382,
-    "open_issues": 350,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-14",
-  "last_updated": "2026-07-14",
-  "latest_version": "latest",
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "V2.5.43",
   "auto_discovered": true,
   "quality_score": 70
 }

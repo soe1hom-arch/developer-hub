@@ -25,19 +25,19 @@
     "gamedev"
   ],
   "alternatives": [],
-  "popularity": 10,
+  "popularity": 9,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 9507,
-    "forks": 2513,
-    "open_issues": 3473,
+    "stars": 9527,
+    "forks": 2519,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-14",
-  "last_updated": "2026-07-14",
-  "latest_version": "latest",
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "2605.0",
   "auto_discovered": true,
   "quality_score": 85
 }

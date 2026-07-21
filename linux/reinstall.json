@@ -1,0 +1,47 @@
+{
+  "id": "reinstall",
+  "name": "reinstall",
+  "category": "linux",
+  "description": "\u4e00\u952eDD/\u91cd\u88c5\u811a\u672c (One-click reinstall OS on VPS)",
+  "official_website": "https://github.com/bin456789/reinstall",
+  "documentation": "https://github.com/bin456789/reinstall#readme",
+  "github_repository": "https://github.com/bin456789/reinstall",
+  "license": "GPL-3.0",
+  "programming_languages": [
+    "Shell"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "alpine",
+    "alpine-linux",
+    "boot",
+    "distro",
+    "linux",
+    "linux-distribution",
+    "liveos",
+    "netboot"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 12574,
+    "forks": 2026,
+    "open_issues": 41,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 70
+}

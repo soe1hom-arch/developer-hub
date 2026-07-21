@@ -22,7 +22,13 @@
     "darkflippers",
     "firmware",
     "flipper",
-    "flipper-plugins"
+    "flipper-plugins",
+    "jailbreak",
+    "keeloq",
+    "rolling-codes",
+    "flipperzero",
+    "unleashed",
+    "flipper-zero"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -30,14 +36,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 21830,
-    "forks": 1902,
-    "open_issues": 29,
+    "stars": 21861,
+    "forks": 1904,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-14",
-  "last_updated": "2026-07-14",
-  "latest_version": "latest",
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "unlshd-089",
   "auto_discovered": true,
   "quality_score": 80
 }

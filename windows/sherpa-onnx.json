@@ -26,7 +26,12 @@
     "cpp",
     "csharp",
     "dotnet",
-    "ios"
+    "ios",
+    "onnx",
+    "windows",
+    "linux",
+    "macos",
+    "raspberry-pi"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -34,14 +39,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 13554,
-    "forks": 1553,
-    "open_issues": 604,
+    "stars": 13678,
+    "forks": 1572,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-14",
-  "last_updated": "2026-07-14",
-  "latest_version": "latest",
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "asr-models-qnn-binary-3",
   "auto_discovered": true,
   "quality_score": 90
 }

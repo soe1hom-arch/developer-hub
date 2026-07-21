@@ -26,7 +26,8 @@
     "framework",
     "laravel",
     "octobercms",
-    "php"
+    "php",
+    "platform"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -35,13 +36,13 @@
   "open_source": true,
   "repository_statistics": {
     "stars": 11144,
-    "forks": 2208,
-    "open_issues": 18,
+    "forks": 2207,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-14",
-  "last_updated": "2026-07-14",
-  "latest_version": "latest",
+  "last_checked": "2026-07-21",
+  "last_updated": "2026-07-21",
+  "latest_version": "v4.3.0",
   "auto_discovered": true,
   "quality_score": 85
 }

@@ -1,0 +1,45 @@
+{
+  "id": "herdr",
+  "name": "herdr",
+  "category": "cli-tools",
+  "description": "agent multiplexer that lives in your terminal.",
+  "official_website": "https://herdr.dev",
+  "documentation": "https://github.com/ogulcancelik/herdr#readme",
+  "github_repository": "https://github.com/ogulcancelik/herdr",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "agent",
+    "agent-orchestration",
+    "ai",
+    "ai-agents",
+    "claude-code",
+    "cli",
+    "codex",
+    "coding-agents"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 19202,
+    "forks": 1259,
+    "open_issues": 82,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-22",
+  "last_updated": "2026-07-22",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

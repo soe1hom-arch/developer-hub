@@ -1,0 +1,45 @@
+{
+  "id": "htmlnative",
+  "name": "HtmlNative",
+  "category": "android",
+  "description": ":page_with_curl:Use HTML/CSS to render Android View, Lua to control its logic (Not Webview)",
+  "official_website": "https://github.com/hsllany/HtmlNative",
+  "documentation": "https://github.com/hsllany/HtmlNative#readme",
+  "github_repository": "https://github.com/hsllany/HtmlNative",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Java"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "android",
+    "android-library",
+    "android-sdk",
+    "dynamic",
+    "html",
+    "mobile",
+    "web"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 470,
+    "forks": 66,
+    "open_issues": 7,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-22",
+  "last_updated": "2026-07-22",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 55
+}

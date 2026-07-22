@@ -1,0 +1,45 @@
+{
+  "id": "tsparticles",
+  "name": "tsparticles",
+  "category": "frontend",
+  "description": "tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component",
+  "official_website": "https://particles.js.org",
+  "documentation": "https://github.com/tsparticles/tsparticles#readme",
+  "github_repository": "https://github.com/tsparticles/tsparticles",
+  "license": "MIT",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "2d",
+    "angular",
+    "animations",
+    "bg",
+    "canvas",
+    "confetti",
+    "fireworks",
+    "hacktoberfest"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 8930,
+    "forks": 948,
+    "open_issues": 23,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-22",
+  "last_updated": "2026-07-22",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

@@ -1,0 +1,47 @@
+{
+  "id": "riot",
+  "name": "RIOT",
+  "category": "operating-systems",
+  "description": "RIOT -  The friendly OS for IoT",
+  "official_website": "https://riot-os.org",
+  "documentation": "https://github.com/RIOT-OS/RIOT#readme",
+  "github_repository": "https://github.com/RIOT-OS/RIOT",
+  "license": "LGPL-2.1",
+  "programming_languages": [
+    "C"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "c",
+    "hacktoberfest",
+    "internet",
+    "internet-of-things",
+    "internetofthings",
+    "iot",
+    "microcontrollers",
+    "os"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 5764,
+    "forks": 2106,
+    "open_issues": 877,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-22",
+  "last_updated": "2026-07-22",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 75
+}

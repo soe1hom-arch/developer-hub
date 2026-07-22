@@ -1,0 +1,46 @@
+{
+  "id": "edittext-mask",
+  "name": "edittext-mask",
+  "category": "android",
+  "description": "The custom mask for EditText. The solution for masked edit text input phone numbers, SSN, and so on for Android",
+  "official_website": "https://github.com/egslava/edittext-mask",
+  "documentation": "https://github.com/egslava/edittext-mask#readme",
+  "github_repository": "https://github.com/egslava/edittext-mask",
+  "license": "MIT",
+  "programming_languages": [
+    "Java"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "android",
+    "android-library",
+    "android-sdk",
+    "edittext",
+    "java",
+    "mask",
+    "maskededittext",
+    "phone-format"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 478,
+    "forks": 126,
+    "open_issues": 41,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-22",
+  "last_updated": "2026-07-22",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 60
+}

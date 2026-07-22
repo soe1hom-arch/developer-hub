@@ -1,0 +1,45 @@
+{
+  "id": "pokemon-cards-css",
+  "name": "pokemon-cards-css",
+  "category": "frontend",
+  "description": "A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.",
+  "official_website": "https://poke-holo.simey.me/",
+  "documentation": "https://github.com/simeydotme/pokemon-cards-css#readme",
+  "github_repository": "https://github.com/simeydotme/pokemon-cards-css",
+  "license": "GPL-3.0",
+  "programming_languages": [
+    "CSS"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "blend-modes",
+    "css",
+    "filter",
+    "gradient",
+    "holo",
+    "holographic",
+    "pokemon",
+    "svelte"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 7811,
+    "forks": 766,
+    "open_issues": 3,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-22",
+  "last_updated": "2026-07-22",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

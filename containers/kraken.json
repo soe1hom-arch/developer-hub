@@ -1,0 +1,46 @@
+{
+  "id": "kraken",
+  "name": "kraken",
+  "category": "containers",
+  "description": "P2P Docker registry capable of distributing TBs of data in seconds",
+  "official_website": "https://github.com/uber/kraken",
+  "documentation": "https://github.com/uber/kraken#readme",
+  "github_repository": "https://github.com/uber/kraken",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "bittorrent",
+    "container",
+    "containerd",
+    "docker",
+    "docker-image",
+    "docker-registry",
+    "p2p"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 6728,
+    "forks": 478,
+    "open_issues": 122,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-22",
+  "last_updated": "2026-07-22",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 70
+}

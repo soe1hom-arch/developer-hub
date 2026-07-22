@@ -1,0 +1,46 @@
+{
+  "id": "optivideoeditor-for-android",
+  "name": "OptiVideoEditor-for-android",
+  "category": "android",
+  "description": "Native Video editor : Video trim, Audio, Video merge, Slow and fast motion, Text and image, etc...",
+  "official_website": "https://github.com/jaiobs/OptiVideoEditor-for-android",
+  "documentation": "https://github.com/jaiobs/OptiVideoEditor-for-android#readme",
+  "github_repository": "https://github.com/jaiobs/OptiVideoEditor-for-android",
+  "license": "MIT",
+  "programming_languages": [
+    "Kotlin"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "add-image-to-video",
+    "add-text-to-video",
+    "android-sdk",
+    "android-video-editor",
+    "android-video-player",
+    "android-video-recorder",
+    "audio",
+    "slow-motion"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 512,
+    "forks": 132,
+    "open_issues": 9,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-22",
+  "last_updated": "2026-07-22",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 60
+}

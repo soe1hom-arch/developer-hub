@@ -1,0 +1,47 @@
+{
+  "id": "caprover",
+  "name": "caprover",
+  "category": "cloud",
+  "description": "Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids",
+  "official_website": "https://CapRover.com",
+  "documentation": "https://github.com/caprover/caprover#readme",
+  "github_repository": "https://github.com/caprover/caprover",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "aws",
+    "azure",
+    "caprover",
+    "captainduckduck",
+    "containers",
+    "deployment",
+    "digitalocean",
+    "docker"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 15098,
+    "forks": 984,
+    "open_issues": 174,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-22",
+  "last_updated": "2026-07-22",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

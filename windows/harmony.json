@@ -1,0 +1,47 @@
+{
+  "id": "harmony",
+  "name": "Harmony",
+  "category": "windows",
+  "description": "A library for patching, replacing and decorating .NET and Mono methods during runtime",
+  "official_website": "https://www.patreon.com/pardeike",
+  "documentation": "https://github.com/pardeike/Harmony#readme",
+  "github_repository": "https://github.com/pardeike/Harmony",
+  "license": "MIT",
+  "programming_languages": [
+    "C#"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "cil",
+    "csharp",
+    "detour",
+    "detours",
+    "dotnet",
+    "monkey-patching",
+    "mono",
+    "non-destructive"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 6574,
+    "forks": 566,
+    "open_issues": 4,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-22",
+  "last_updated": "2026-07-22",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

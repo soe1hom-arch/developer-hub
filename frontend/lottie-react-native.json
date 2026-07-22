@@ -1,0 +1,42 @@
+{
+  "id": "lottie-react-native",
+  "name": "lottie-react-native",
+  "category": "frontend",
+  "description": "Lottie wrapper for React Native.",
+  "official_website": "https://airbnb.io/lottie/#/react-native",
+  "documentation": "https://github.com/lottie-react-native/lottie-react-native#readme",
+  "github_repository": "https://github.com/lottie-react-native/lottie-react-native",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Kotlin"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "after-effects",
+    "animations",
+    "bodymovin",
+    "react",
+    "react-native"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 17186,
+    "forks": 1799,
+    "open_issues": 31,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-22",
+  "last_updated": "2026-07-22",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

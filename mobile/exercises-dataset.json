@@ -1,0 +1,46 @@
+{
+  "id": "exercises-dataset",
+  "name": "exercises-dataset",
+  "category": "mobile",
+  "description": "1,324-exercise fitness dataset \u2014 animation GIFs, 180\u00d7180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+  "official_website": "https://github.com/hasaneyldrm/exercises-dataset",
+  "documentation": "https://github.com/hasaneyldrm/exercises-dataset#readme",
+  "github_repository": "https://github.com/hasaneyldrm/exercises-dataset",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "HTML"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "dataset",
+    "exercise-database",
+    "exercises",
+    "fitness",
+    "fitness-app",
+    "gym",
+    "json",
+    "logpress"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 16463,
+    "forks": 1998,
+    "open_issues": 32,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-22",
+  "last_updated": "2026-07-22",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

@@ -1,0 +1,41 @@
+{
+  "id": "react-native-maps",
+  "name": "react-native-maps",
+  "category": "mobile",
+  "description": "React Native Mapview component for iOS + Android",
+  "official_website": "https://github.com/react-native-maps/react-native-maps",
+  "documentation": "https://github.com/react-native-maps/react-native-maps#readme",
+  "github_repository": "https://github.com/react-native-maps/react-native-maps",
+  "license": "MIT",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "google-maps",
+    "maps",
+    "react-native"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 15982,
+    "forks": 4954,
+    "open_issues": 86,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-22",
+  "last_updated": "2026-07-22",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 67
+}

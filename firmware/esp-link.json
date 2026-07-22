@@ -1,0 +1,41 @@
+{
+  "id": "esp-link",
+  "name": "esp-link",
+  "category": "firmware",
+  "description": "esp8266 wifi-serial bridge, outbound TCP, and arduino/AVR/LPC/NXP programmer",
+  "official_website": "https://github.com/jeelabs/esp-link",
+  "documentation": "https://github.com/jeelabs/esp-link#readme",
+  "github_repository": "https://github.com/jeelabs/esp-link",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "C"
+  ],
+  "platforms": [
+    "Linux",
+    "Embedded"
+  ],
+  "tags": [
+    "esp-8266",
+    "esp8266",
+    "esp8266mqtt",
+    "mqtt",
+    "serial",
+    "serial-bridge"
+  ],
+  "alternatives": [],
+  "popularity": 7,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 2999,
+    "forks": 730,
+    "open_issues": 238,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-22",
+  "last_updated": "2026-07-22",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 65
+}

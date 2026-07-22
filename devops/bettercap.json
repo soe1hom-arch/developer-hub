@@ -1,0 +1,47 @@
+{
+  "id": "bettercap",
+  "name": "bettercap",
+  "category": "devops",
+  "description": "The Swiss Army knife for 802.11, BLE, HID, CAN-bus, IPv4 and IPv6 networks reconnaissance and MITM attacks.",
+  "official_website": "https://www.bettercap.org/",
+  "documentation": "https://github.com/bettercap/bettercap#readme",
+  "github_repository": "https://github.com/bettercap/bettercap",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "ble",
+    "deauthentication-attack",
+    "dot11",
+    "hacking",
+    "hid",
+    "mitm",
+    "monitoring",
+    "mousejack"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 19536,
+    "forks": 1677,
+    "open_issues": 51,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-22",
+  "last_updated": "2026-07-22",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 90
+}

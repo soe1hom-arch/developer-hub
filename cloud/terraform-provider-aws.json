@@ -1,0 +1,42 @@
+{
+  "id": "terraform-provider-aws",
+  "name": "terraform-provider-aws",
+  "category": "cloud",
+  "description": "The AWS Provider enables Terraform to manage AWS resources.",
+  "official_website": "https://registry.terraform.io/providers/hashicorp/aws",
+  "documentation": "https://github.com/hashicorp/terraform-provider-aws#readme",
+  "github_repository": "https://github.com/hashicorp/terraform-provider-aws",
+  "license": "MPL-2.0",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "aws",
+    "terraform",
+    "terraform-provider"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 11002,
+    "forks": 10264,
+    "open_issues": 3558,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-23",
+  "last_updated": "2026-07-23",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 82
+}

@@ -1,0 +1,41 @@
+{
+  "id": "androidaudit",
+  "name": "AndroidAudit",
+  "category": "android",
+  "description": "Your Android app as a crime scene!!!",
+  "official_website": "http://karumi.github.io/AndroidAudit/",
+  "documentation": "https://github.com/Karumi/AndroidAudit#readme",
+  "github_repository": "https://github.com/Karumi/AndroidAudit",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "android",
+    "android-sdk",
+    "application-architecture"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 465,
+    "forks": 53,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-23",
+  "last_updated": "2026-07-23",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 52
+}

@@ -1,0 +1,46 @@
+{
+  "id": "ready-for-tech-interview",
+  "name": "Ready-For-Tech-Interview",
+  "category": "android",
+  "description": "\ud83d\udcbb \uc2e0\uc785 \uac1c\ubc1c\uc790\ub85c\uc11c \uc9c0\uc2dd\uc744 \uc313\uae30 \uc704\ud574 \uacf5\ubd80\ud558\ub294 \uacf5\uac04 \ud83d\udc68\u200d\ud83d\udcbb",
+  "official_website": "https://github.com/WooVictory/Ready-For-Tech-Interview",
+  "documentation": "https://github.com/WooVictory/Ready-For-Tech-Interview#readme",
+  "github_repository": "https://github.com/WooVictory/Ready-For-Tech-Interview",
+  "license": "MIT",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "algorithms",
+    "android",
+    "android-application",
+    "beginner",
+    "computer-science",
+    "data-structures",
+    "datbase",
+    "developer"
+  ],
+  "alternatives": [],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 4961,
+    "forks": 532,
+    "open_issues": 5,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-23",
+  "last_updated": "2026-07-23",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 55
+}

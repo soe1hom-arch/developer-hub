@@ -1,0 +1,47 @@
+{
+  "id": "victoriametrics",
+  "name": "VictoriaMetrics",
+  "category": "devops",
+  "description": "VictoriaMetrics: fast, cost-effective monitoring solution and time series database",
+  "official_website": "https://victoriametrics.com/",
+  "documentation": "https://github.com/VictoriaMetrics/VictoriaMetrics#readme",
+  "github_repository": "https://github.com/VictoriaMetrics/VictoriaMetrics",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "database",
+    "grafana",
+    "graphite",
+    "influxdb",
+    "kubernetes",
+    "monitoring",
+    "observability",
+    "opentelemetry"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 17380,
+    "forks": 1699,
+    "open_issues": 736,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-23",
+  "last_updated": "2026-07-23",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

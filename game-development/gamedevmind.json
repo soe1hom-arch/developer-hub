@@ -1,0 +1,45 @@
+{
+  "id": "gamedevmind",
+  "name": "GameDevMind",
+  "category": "game-development",
+  "description": "\u6700\u5168\u9762\u7684\u6e38\u620f\u5f00\u53d1\u6280\u672f\u56fe\u8c31(Game Development Map)\u3002\u5e2e\u52a9\u6e38\u620f\u5f00\u53d1\u8005\u4eec\u5728\u5df2\u77e5\u95ee\u9898\u4e0a\u8282\u7701\u65f6\u95f4\uff0c\u7701\u51fa\u66f4\u591a\u7684\u7cbe\u529b\u6295\u5165\u5230\u66f4\u6709\u521b\u9020\u6027\u7684\u5de5\u4f5c\u4e2d\u53bb\u3002",
+  "official_website": "https://github.com/gonglei007/GameDevMind",
+  "documentation": "https://github.com/gonglei007/GameDevMind#readme",
+  "github_repository": "https://github.com/gonglei007/GameDevMind",
+  "license": "MIT",
+  "programming_languages": [
+    "C++"
+  ],
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux",
+    "Web"
+  ],
+  "tags": [
+    "3d",
+    "cpp",
+    "devops",
+    "framework",
+    "game",
+    "game-development",
+    "game-framework",
+    "game-server"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 6416,
+    "forks": 651,
+    "open_issues": 2,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-23",
+  "last_updated": "2026-07-23",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 70
+}

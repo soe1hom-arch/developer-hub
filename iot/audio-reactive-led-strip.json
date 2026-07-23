@@ -1,0 +1,42 @@
+{
+  "id": "audio-reactive-led-strip",
+  "name": "audio-reactive-led-strip",
+  "category": "iot",
+  "description": ":musical_note: :rainbow: Real-time LED strip music visualization using Python and the ESP8266 or Raspberry Pi",
+  "official_website": "https://github.com/scottlawsonbc/audio-reactive-led-strip",
+  "documentation": "https://github.com/scottlawsonbc/audio-reactive-led-strip#readme",
+  "github_repository": "https://github.com/scottlawsonbc/audio-reactive-led-strip",
+  "license": "MIT",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Linux",
+    "Embedded"
+  ],
+  "tags": [
+    "arduino",
+    "audio-processing",
+    "esp8266",
+    "music-visualizer",
+    "python",
+    "raspberry-pi",
+    "signal-processing"
+  ],
+  "alternatives": [],
+  "popularity": 7,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 2980,
+    "forks": 644,
+    "open_issues": 107,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-23",
+  "last_updated": "2026-07-23",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 70
+}

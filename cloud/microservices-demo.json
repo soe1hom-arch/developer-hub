@@ -1,0 +1,47 @@
+{
+  "id": "microservices-demo",
+  "name": "microservices-demo",
+  "category": "cloud",
+  "description": "Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",
+  "official_website": "https://cymbal-shops.retail.cymbal.dev",
+  "documentation": "https://github.com/GoogleCloudPlatform/microservices-demo#readme",
+  "github_repository": "https://github.com/GoogleCloudPlatform/microservices-demo",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "gcp",
+    "gke",
+    "google-cloud",
+    "grpc",
+    "istio",
+    "kubernetes",
+    "kustomize",
+    "sample-application"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 20618,
+    "forks": 10221,
+    "open_issues": 67,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-24",
+  "last_updated": "2026-07-24",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

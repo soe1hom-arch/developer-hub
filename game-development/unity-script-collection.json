@@ -1,0 +1,45 @@
+{
+  "id": "unity-script-collection",
+  "name": "Unity-Script-Collection",
+  "category": "game-development",
+  "description": "A maintained collection of useful & free unity scripts / library's / plugins and extensions",
+  "official_website": "https://michidk.github.io/Unity-Script-Collection/",
+  "documentation": "https://github.com/michidk/Unity-Script-Collection#readme",
+  "github_repository": "https://github.com/michidk/Unity-Script-Collection",
+  "license": "GPL-3.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux",
+    "Web"
+  ],
+  "tags": [
+    "csharp",
+    "hacktoberfest",
+    "material",
+    "particles",
+    "pathfinding",
+    "physics",
+    "script",
+    "scripts"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 6346,
+    "forks": 652,
+    "open_issues": 1,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-24",
+  "last_updated": "2026-07-24",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 75
+}

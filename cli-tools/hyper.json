@@ -1,0 +1,46 @@
+{
+  "id": "hyper",
+  "name": "hyper",
+  "category": "cli-tools",
+  "description": "A terminal built on web technologies",
+  "official_website": "https://hyper.is",
+  "documentation": "https://github.com/vercel/hyper#readme",
+  "github_repository": "https://github.com/vercel/hyper",
+  "license": "MIT",
+  "latest_version": "canary",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "css",
+    "html",
+    "hyper",
+    "javascript",
+    "linux",
+    "macos",
+    "react",
+    "terminal",
+    "cli",
+    "command-line"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 44674,
+    "forks": 3570,
+    "open_issues": 1045,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "source": "cli-github"
+}

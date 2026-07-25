@@ -1,0 +1,44 @@
+{
+  "id": "bin-bdwgc",
+  "name": "bdwgc",
+  "category": "binary",
+  "description": "The Boehm-Demers-Weiser conservative C/C++ Garbage Collector (bdwgc, also known as bdw-gc, boehm-gc, libgc)",
+  "official_website": "https://www.hboehm.info/gc/",
+  "documentation": "https://github.com/bdwgc/bdwgc#readme",
+  "github_repository": "https://github.com/bdwgc/bdwgc",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "C"
+  ],
+  "platforms": [
+    "Linux"
+  ],
+  "tags": [
+    "c",
+    "c-plus-plus",
+    "cplusplus",
+    "cpp",
+    "cross-platform",
+    "garbage-collection",
+    "garbage-collector",
+    "gc",
+    "binary",
+    "pre-built"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 7,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 3507,
+    "forks": 442,
+    "open_issues": 189,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "source": "binary-release"
+}

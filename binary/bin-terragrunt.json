@@ -1,0 +1,45 @@
+{
+  "id": "bin-terragrunt",
+  "name": "terragrunt",
+  "category": "binary",
+  "description": "Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.",
+  "official_website": "https://terragrunt.com",
+  "documentation": "https://github.com/gruntwork-io/terragrunt#readme",
+  "github_repository": "https://github.com/gruntwork-io/terragrunt",
+  "license": "MIT",
+  "latest_version": "main",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS",
+    "Android"
+  ],
+  "tags": [
+    "aws",
+    "cli",
+    "developer-tools",
+    "devops",
+    "opentofu",
+    "terraform",
+    "binary",
+    "pre-built"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 9729,
+    "forks": 1215,
+    "open_issues": 231,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "source": "binary-release"
+}

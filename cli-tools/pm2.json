@@ -1,0 +1,46 @@
+{
+  "id": "pm2",
+  "name": "pm2",
+  "category": "cli-tools",
+  "description": "Node.js/Bun Production Process Manager with a built-in Load Balancer.",
+  "official_website": "https://pm2.keymetrics.io/docs/usage/quick-start/",
+  "documentation": "https://github.com/Unitech/pm2#readme",
+  "github_repository": "https://github.com/Unitech/pm2",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "JavaScript"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "command-line",
+    "command-line-tool",
+    "deploy",
+    "load-balancer",
+    "monitoring",
+    "node",
+    "nodejs",
+    "pm2",
+    "cli",
+    "command-line"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 43242,
+    "forks": 2712,
+    "open_issues": 1093,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "source": "cli-github"
+}

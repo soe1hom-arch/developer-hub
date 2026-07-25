@@ -1,0 +1,45 @@
+{
+  "id": "bin-spotify-tui",
+  "name": "spotify-tui",
+  "category": "binary",
+  "description": "Spotify for the terminal written in Rust \ud83d\ude80",
+  "official_website": "https://github.com/Rigellute/spotify-tui",
+  "documentation": "https://github.com/Rigellute/spotify-tui#readme",
+  "github_repository": "https://github.com/Rigellute/spotify-tui",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "cli",
+    "rust",
+    "spotify",
+    "spotify-api",
+    "spotify-tui",
+    "terminal",
+    "terminal-based",
+    "binary",
+    "pre-built"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 19272,
+    "forks": 575,
+    "open_issues": 306,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "source": "binary-release"
+}

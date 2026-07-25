@@ -1,0 +1,44 @@
+{
+  "id": "bin-shellcheck",
+  "name": "shellcheck",
+  "category": "binary",
+  "description": "ShellCheck, a static analysis tool for shell scripts",
+  "official_website": "https://www.shellcheck.net",
+  "documentation": "https://github.com/koalaman/shellcheck#readme",
+  "github_repository": "https://github.com/koalaman/shellcheck",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "Haskell"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "bash",
+    "developer-tools",
+    "haskell",
+    "linter",
+    "shell",
+    "static-analysis",
+    "binary",
+    "pre-built"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 39762,
+    "forks": 1938,
+    "open_issues": 1147,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "source": "binary-release"
+}

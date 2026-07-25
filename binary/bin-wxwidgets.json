@@ -1,0 +1,45 @@
+{
+  "id": "bin-wxwidgets",
+  "name": "wxWidgets",
+  "category": "binary",
+  "description": "Cross-Platform C++ GUI Library",
+  "official_website": "https://www.wxwidgets.org/",
+  "documentation": "https://github.com/wxWidgets/wxWidgets#readme",
+  "github_repository": "https://github.com/wxWidgets/wxWidgets",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "C++"
+  ],
+  "platforms": [
+    "Linux",
+    "Windows"
+  ],
+  "tags": [
+    "c-plus-plus",
+    "cocoa",
+    "cross-platform",
+    "cross-platform-desktop",
+    "desktop",
+    "gtk",
+    "gui",
+    "gui-framework",
+    "binary",
+    "pre-built"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 7216,
+    "forks": 1943,
+    "open_issues": 2265,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "source": "binary-release"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "bin-agentty",
+  "name": "agentty",
+  "category": "binary",
+  "description": "AI pair programming in your terminal \u2014 one static binary, sub-ms startup, any model",
+  "official_website": "https://agentty.org",
+  "documentation": "https://github.com/1ay1/agentty#readme",
+  "github_repository": "https://github.com/1ay1/agentty",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "C++"
+  ],
+  "platforms": [
+    "Linux",
+    "Android",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "acp",
+    "agentic-coding",
+    "ai-agent",
+    "airgap",
+    "anthropic",
+    "claude",
+    "claude-code",
+    "claude-code-alternative",
+    "binary",
+    "pre-built"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 4,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 112,
+    "forks": 11,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "source": "binary-release"
+}

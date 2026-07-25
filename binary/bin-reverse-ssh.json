@@ -1,0 +1,45 @@
+{
+  "id": "bin-reverse-ssh",
+  "name": "reverse_ssh",
+  "category": "binary",
+  "description": "SSH based reverse shell ",
+  "official_website": "https://github.com/NHAS/reverse_ssh",
+  "documentation": "https://github.com/NHAS/reverse_ssh#readme",
+  "github_repository": "https://github.com/NHAS/reverse_ssh",
+  "license": "MIT",
+  "latest_version": "main",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux",
+    "Windows"
+  ],
+  "tags": [
+    "conpty",
+    "golang",
+    "hacking",
+    "penetration-testing-tools",
+    "pentest",
+    "pentesting",
+    "proxy",
+    "reverse-shell",
+    "binary",
+    "pre-built"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 1404,
+    "forks": 183,
+    "open_issues": 8,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "source": "binary-release"
+}

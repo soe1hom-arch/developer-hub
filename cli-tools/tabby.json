@@ -1,0 +1,43 @@
+{
+  "id": "tabby",
+  "name": "tabby",
+  "category": "cli-tools",
+  "description": "A terminal for a more modern age",
+  "official_website": "https://tabby.sh",
+  "documentation": "https://github.com/Eugeny/tabby#readme",
+  "github_repository": "https://github.com/Eugeny/tabby",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "serial",
+    "ssh-client",
+    "telnet-client",
+    "terminal",
+    "terminal-emulators",
+    "cli",
+    "command-line"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 73493,
+    "forks": 4175,
+    "open_issues": 2802,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "source": "cli-github"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "bin-aws-vault",
+  "name": "aws-vault",
+  "category": "binary",
+  "description": "A vault for securely storing and accessing AWS credentials in development environments",
+  "official_website": "https://github.com/99designs/aws-vault",
+  "documentation": "https://github.com/99designs/aws-vault#readme",
+  "github_repository": "https://github.com/99designs/aws-vault",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS",
+    "Android"
+  ],
+  "tags": [
+    "aws",
+    "aws-vault",
+    "cli",
+    "credentials",
+    "iam",
+    "keychain",
+    "mfa",
+    "temporary-credentials",
+    "binary",
+    "pre-built"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 8977,
+    "forks": 834,
+    "open_issues": 1,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "source": "binary-release"
+}

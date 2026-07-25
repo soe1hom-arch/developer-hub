@@ -1,0 +1,46 @@
+{
+  "id": "bin-picocrypt",
+  "name": "Picocrypt",
+  "category": "binary",
+  "description": "A very small, very simple, yet very secure encryption tool.",
+  "official_website": "https://github.com/HACKERALERT/Picocrypt",
+  "documentation": "https://github.com/HACKERALERT/Picocrypt#readme",
+  "github_repository": "https://github.com/HACKERALERT/Picocrypt",
+  "license": "MIT",
+  "latest_version": "main",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Android"
+  ],
+  "tags": [
+    "argon2",
+    "blake2b",
+    "cryptography",
+    "encryption",
+    "file-encryption",
+    "golang",
+    "password",
+    "portable",
+    "binary",
+    "pre-built"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 6,
+  "maintained": false,
+  "archived": true,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 2492,
+    "forks": 147,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "source": "binary-release"
+}

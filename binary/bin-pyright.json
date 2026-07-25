@@ -1,0 +1,38 @@
+{
+  "id": "bin-pyright",
+  "name": "pyright",
+  "category": "binary",
+  "description": "Static Type Checker for Python",
+  "official_website": "https://github.com/microsoft/pyright",
+  "documentation": "https://github.com/microsoft/pyright#readme",
+  "github_repository": "https://github.com/microsoft/pyright",
+  "license": "MIT",
+  "latest_version": "main",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "binary",
+    "pre-built"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 15551,
+    "forks": 1799,
+    "open_issues": 293,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "source": "binary-release"
+}

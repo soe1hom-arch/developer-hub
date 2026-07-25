@@ -1,0 +1,47 @@
+{
+  "id": "bat",
+  "name": "bat",
+  "category": "cli-tools",
+  "description": "A cat(1) clone with wings.",
+  "official_website": "https://github.com/sharkdp/bat",
+  "documentation": "https://github.com/sharkdp/bat#readme",
+  "github_repository": "https://github.com/sharkdp/bat",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "cli",
+    "command-line",
+    "git",
+    "hacktoberfest",
+    "rust",
+    "syntax-highlighting",
+    "terminal",
+    "tool",
+    "cli",
+    "command-line"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 59874,
+    "forks": 1603,
+    "open_issues": 417,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "source": "cli-github"
+}

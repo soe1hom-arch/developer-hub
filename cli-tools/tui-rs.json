@@ -1,0 +1,43 @@
+{
+  "id": "tui-rs",
+  "name": "tui-rs",
+  "category": "cli-tools",
+  "description": "Build terminal user interfaces and dashboards using Rust",
+  "official_website": "https://github.com/fdehau/tui-rs",
+  "documentation": "https://github.com/fdehau/tui-rs#readme",
+  "github_repository": "https://github.com/fdehau/tui-rs",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "dashboard",
+    "rust",
+    "terminal",
+    "tui",
+    "cli",
+    "command-line"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": false,
+  "archived": true,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 10873,
+    "forks": 481,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "source": "cli-github"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "bin-yq",
+  "name": "yq",
+  "category": "binary",
+  "description": "yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor",
+  "official_website": "https://mikefarah.gitbook.io/yq/",
+  "documentation": "https://github.com/mikefarah/yq#readme",
+  "github_repository": "https://github.com/mikefarah/yq",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS",
+    "Android"
+  ],
+  "tags": [
+    "bash",
+    "cli",
+    "csv",
+    "devops-tools",
+    "golang",
+    "hcl",
+    "json",
+    "portable",
+    "binary",
+    "pre-built"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 15742,
+    "forks": 800,
+    "open_issues": 288,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "source": "binary-release"
+}

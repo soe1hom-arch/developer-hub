@@ -1,0 +1,43 @@
+{
+  "id": "leaf",
+  "name": "leaf",
+  "category": "termux",
+  "description": "Terminal Markdown previewer \u2014 GUI-like experience.",
+  "official_website": "https://leaf.rivolink.mg",
+  "documentation": "https://github.com/RivoLink/leaf#readme",
+  "github_repository": "https://github.com/RivoLink/leaf",
+  "license": "MIT",
+  "latest_version": "main",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Termux",
+    "Android"
+  ],
+  "tags": [
+    "markdown-viewer",
+    "termux",
+    "tui",
+    "markdown",
+    "cli",
+    "preview",
+    "terminal",
+    "has-binary"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 1753,
+    "forks": 78,
+    "open_issues": 7,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "source": "termux-github",
+  "has_binaries": true
+}

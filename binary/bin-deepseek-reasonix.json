@@ -1,0 +1,47 @@
+{
+  "id": "bin-deepseek-reasonix",
+  "name": "DeepSeek-Reasonix",
+  "category": "binary",
+  "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+  "official_website": "http://reasonix.io/",
+  "documentation": "https://github.com/esengine/DeepSeek-Reasonix#readme",
+  "github_repository": "https://github.com/esengine/DeepSeek-Reasonix",
+  "license": "MIT",
+  "latest_version": "main-v2",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS",
+    "Android"
+  ],
+  "tags": [
+    "agent",
+    "agent-framework",
+    "ai-agent",
+    "ai-coding",
+    "cli",
+    "coding-agent",
+    "deepseek",
+    "developer-tools",
+    "binary",
+    "pre-built"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 27775,
+    "forks": 1784,
+    "open_issues": 1287,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "source": "binary-release"
+}

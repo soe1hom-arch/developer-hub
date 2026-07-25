@@ -1,0 +1,47 @@
+{
+  "id": "bin-navi",
+  "name": "navi",
+  "category": "binary",
+  "description": "An interactive cheatsheet tool for the command-line",
+  "official_website": "https://github.com/denisidoro/navi",
+  "documentation": "https://github.com/denisidoro/navi#readme",
+  "github_repository": "https://github.com/denisidoro/navi",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS",
+    "Android"
+  ],
+  "tags": [
+    "bash",
+    "cheatsheets",
+    "cli",
+    "command-line",
+    "rust",
+    "shell",
+    "snippet",
+    "snippets",
+    "binary",
+    "pre-built"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 17354,
+    "forks": 553,
+    "open_issues": 114,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "source": "binary-release"
+}

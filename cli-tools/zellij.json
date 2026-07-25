@@ -1,0 +1,42 @@
+{
+  "id": "zellij",
+  "name": "zellij",
+  "category": "cli-tools",
+  "description": "A terminal workspace with batteries included",
+  "official_website": "https://zellij.dev",
+  "documentation": "https://github.com/zellij-org/zellij#readme",
+  "github_repository": "https://github.com/zellij-org/zellij",
+  "license": "MIT",
+  "latest_version": "main",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "multiplexer",
+    "terminal",
+    "workspace",
+    "cli",
+    "command-line"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 34499,
+    "forks": 1345,
+    "open_issues": 1837,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "source": "cli-github"
+}

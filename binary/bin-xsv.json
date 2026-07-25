@@ -1,0 +1,42 @@
+{
+  "id": "bin-xsv",
+  "name": "xsv",
+  "category": "binary",
+  "description": "A fast CSV command line toolkit written in Rust.",
+  "official_website": "https://github.com/BurntSushi/xsv",
+  "documentation": "https://github.com/BurntSushi/xsv#readme",
+  "github_repository": "https://github.com/BurntSushi/xsv",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "tags": [
+    "cli",
+    "command-line",
+    "csv",
+    "rust",
+    "binary",
+    "pre-built"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": false,
+  "archived": true,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 10757,
+    "forks": 326,
+    "open_issues": 164,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "source": "binary-release"
+}

@@ -1,0 +1,46 @@
+{
+  "id": "bin-asciinema",
+  "name": "asciinema",
+  "category": "binary",
+  "description": "Terminal session recorder, streamer and player \ud83d\udcf9",
+  "official_website": "https://asciinema.org",
+  "documentation": "https://github.com/asciinema/asciinema#readme",
+  "github_repository": "https://github.com/asciinema/asciinema",
+  "license": "MIT",
+  "latest_version": "develop",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS",
+    "Android"
+  ],
+  "tags": [
+    "asciicast",
+    "asciinema",
+    "cli",
+    "recording",
+    "rustlang",
+    "streaming",
+    "terminal",
+    "binary",
+    "pre-built"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 17601,
+    "forks": 1038,
+    "open_issues": 7,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "source": "binary-release"
+}

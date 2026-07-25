@@ -1,0 +1,47 @@
+{
+  "id": "bin-ipatool",
+  "name": "ipatool",
+  "category": "binary",
+  "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store",
+  "official_website": "https://github.com/majd/ipatool",
+  "documentation": "https://github.com/majd/ipatool#readme",
+  "github_repository": "https://github.com/majd/ipatool",
+  "license": "MIT",
+  "latest_version": "main",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux",
+    "Android",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "apple",
+    "appstore",
+    "cli",
+    "command-line",
+    "command-line-tool",
+    "go",
+    "golang",
+    "golang-library",
+    "binary",
+    "pre-built"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 9697,
+    "forks": 836,
+    "open_issues": 26,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "source": "binary-release"
+}

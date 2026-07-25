@@ -1,0 +1,47 @@
+{
+  "id": "aarch64-bin-builder",
+  "name": "aarch64_bin_builder",
+  "category": "linux",
+  "description": "Statically linked arm64/aarch64 binaries for everyday needs",
+  "official_website": "https://github.com/tiiuae/aarch64_bin_builder",
+  "documentation": "https://github.com/tiiuae/aarch64_bin_builder#readme",
+  "github_repository": "https://github.com/tiiuae/aarch64_bin_builder",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Shell"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "aarch64",
+    "arm64",
+    "cross-compiler",
+    "linux",
+    "musl",
+    "pentest",
+    "pentesting-tools",
+    "static-binaries"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 33,
+    "forks": 4,
+    "open_issues": 5,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 45
+}

@@ -1,0 +1,47 @@
+{
+  "id": "warp",
+  "name": "warp",
+  "category": "cli-tools",
+  "description": "Warp is an agentic development environment, born out of the terminal.",
+  "official_website": "https://warp.dev",
+  "documentation": "https://github.com/warpdotdev/warp#readme",
+  "github_repository": "https://github.com/warpdotdev/warp",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "bash",
+    "linux",
+    "macos",
+    "rust",
+    "shell",
+    "terminal",
+    "wasm",
+    "zsh",
+    "cli",
+    "command-line"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 63671,
+    "forks": 5331,
+    "open_issues": 4730,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "source": "cli-github"
+}

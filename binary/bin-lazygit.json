@@ -1,0 +1,42 @@
+{
+  "id": "bin-lazygit",
+  "name": "lazygit",
+  "category": "binary",
+  "description": "simple terminal UI for git commands",
+  "official_website": "https://github.com/jesseduffield/lazygit",
+  "documentation": "https://github.com/jesseduffield/lazygit#readme",
+  "github_repository": "https://github.com/jesseduffield/lazygit",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS",
+    "Android"
+  ],
+  "tags": [
+    "cli",
+    "git",
+    "terminal",
+    "binary",
+    "pre-built"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 80724,
+    "forks": 2936,
+    "open_issues": 1017,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "source": "binary-release"
+}

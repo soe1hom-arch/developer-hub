@@ -1,0 +1,46 @@
+{
+  "id": "glances",
+  "name": "glances",
+  "category": "cli-tools",
+  "description": "Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.",
+  "official_website": "http://nicolargo.github.io/glances/",
+  "documentation": "https://github.com/nicolargo/glances#readme",
+  "github_repository": "https://github.com/nicolargo/glances",
+  "license": "MIT",
+  "latest_version": "develop",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "monitoring",
+    "multi-platform",
+    "python",
+    "restful",
+    "restful-api",
+    "system",
+    "terminal",
+    "web",
+    "cli",
+    "command-line"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 33170,
+    "forks": 1773,
+    "open_issues": 103,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "source": "cli-github"
+}

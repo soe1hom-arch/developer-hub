@@ -1,0 +1,43 @@
+{
+  "id": "bin-bandwhich",
+  "name": "bandwhich",
+  "category": "binary",
+  "description": "Terminal bandwidth utilization tool",
+  "official_website": "https://github.com/imsnif/bandwhich",
+  "documentation": "https://github.com/imsnif/bandwhich#readme",
+  "github_repository": "https://github.com/imsnif/bandwhich",
+  "license": "MIT",
+  "latest_version": "main",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS",
+    "Android"
+  ],
+  "tags": [
+    "bandwidth",
+    "cli",
+    "dashboard",
+    "networking",
+    "binary",
+    "pre-built"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 11870,
+    "forks": 343,
+    "open_issues": 54,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "source": "binary-release"
+}

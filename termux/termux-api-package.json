@@ -1,0 +1,37 @@
+{
+  "id": "termux-api-package",
+  "name": "termux-api-package",
+  "category": "termux",
+  "description": "Termux package containing scripts to call functionality in Termux:API.",
+  "official_website": "https://github.com/termux/termux-api-package",
+  "documentation": "https://github.com/termux/termux-api-package#readme",
+  "github_repository": "https://github.com/termux/termux-api-package",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "Shell"
+  ],
+  "platforms": [
+    "Termux",
+    "Android"
+  ],
+  "tags": [
+    "android",
+    "android-intent",
+    "termux"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 1628,
+    "forks": 511,
+    "open_issues": 64,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "source": "termux-github"
+}

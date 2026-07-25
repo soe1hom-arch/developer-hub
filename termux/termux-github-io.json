@@ -1,0 +1,35 @@
+{
+  "id": "termux-github-io",
+  "name": "termux.github.io",
+  "category": "termux",
+  "description": "The main termux site and help pages.",
+  "official_website": "https://termux.github.io",
+  "documentation": "https://github.com/termux/termux.github.io#readme",
+  "github_repository": "https://github.com/termux/termux.github.io",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "HTML"
+  ],
+  "platforms": [
+    "Termux",
+    "Android"
+  ],
+  "tags": [
+    "termux"
+  ],
+  "alternatives": [],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 1406,
+    "forks": 341,
+    "open_issues": 9,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "source": "termux-github"
+}

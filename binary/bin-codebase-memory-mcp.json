@@ -1,0 +1,44 @@
+{
+  "id": "bin-codebase-memory-mcp",
+  "name": "codebase-memory-mcp",
+  "category": "binary",
+  "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph \u2014 average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary",
+  "official_website": "https://deusdata.github.io/codebase-memory-mcp/",
+  "documentation": "https://github.com/DeusData/codebase-memory-mcp#readme",
+  "github_repository": "https://github.com/DeusData/codebase-memory-mcp",
+  "license": "MIT",
+  "latest_version": "main",
+  "programming_languages": [
+    "C"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "aider",
+    "ast",
+    "claude-code",
+    "code-analysis",
+    "code-intelligence",
+    "codex",
+    "binary",
+    "pre-built"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 35308,
+    "forks": 2745,
+    "open_issues": 346,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "source": "binary-release"
+}

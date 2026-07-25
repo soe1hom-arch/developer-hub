@@ -1,0 +1,43 @@
+{
+  "id": "termuxcyberarmy",
+  "name": "TermuxCyberArmy",
+  "category": "termux",
+  "description": "A Termux tool for mobile development",
+  "official_website": "https://github.com/Err0r-ICA/TermuxCyberArmy",
+  "documentation": "https://github.com/Err0r-ICA/TermuxCyberArmy#readme",
+  "github_repository": "https://github.com/Err0r-ICA/TermuxCyberArmy",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "Shell"
+  ],
+  "platforms": [
+    "Termux",
+    "Android"
+  ],
+  "tags": [
+    "hacking",
+    "hacking-tool",
+    "hacking-tools",
+    "hacks",
+    "kali",
+    "kali-linux",
+    "kali-scripts",
+    "linux",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 1665,
+    "forks": 113,
+    "open_issues": 15,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "source": "termux-github"
+}

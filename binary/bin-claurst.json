@@ -1,0 +1,47 @@
+{
+  "id": "bin-claurst",
+  "name": "claurst",
+  "category": "binary",
+  "description": "Agentic Coding for Builders who Ship",
+  "official_website": "https://claurst.kuber.studio/",
+  "documentation": "https://github.com/Kuberwastaken/claurst#readme",
+  "github_repository": "https://github.com/Kuberwastaken/claurst",
+  "license": "MIT",
+  "latest_version": "main",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Linux",
+    "Android",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "claude",
+    "claude-code",
+    "claurst",
+    "cli",
+    "codex",
+    "gemini",
+    "rust",
+    "tui",
+    "binary",
+    "pre-built"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 10139,
+    "forks": 7778,
+    "open_issues": 26,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "source": "binary-release"
+}

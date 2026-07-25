@@ -1,0 +1,46 @@
+{
+  "id": "superset",
+  "name": "superset",
+  "category": "cli-tools",
+  "description": "Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine",
+  "official_website": "https://superset.sh",
+  "documentation": "https://github.com/superset-sh/superset#readme",
+  "github_repository": "https://github.com/superset-sh/superset",
+  "license": "MIT",
+  "latest_version": "main",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "agentic-ai",
+    "ai-agents",
+    "claude-code",
+    "cli",
+    "codex",
+    "coding-agents",
+    "cursor-agent",
+    "desktop-app",
+    "cli",
+    "command-line"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 12607,
+    "forks": 1124,
+    "open_issues": 444,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "source": "cli-github"
+}

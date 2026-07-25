@@ -1,0 +1,45 @@
+{
+  "id": "linux-bash-commands",
+  "name": "Linux-Bash-Commands",
+  "category": "cli-tools",
+  "description": ":godmode: Ultimate list of Linux bash commands, cheatsheets and resources",
+  "official_website": "https://github.com/trinib/Linux-Bash-Commands",
+  "documentation": "https://github.com/trinib/Linux-Bash-Commands#readme",
+  "github_repository": "https://github.com/trinib/Linux-Bash-Commands",
+  "license": "MIT",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "awesome",
+    "awesome-list",
+    "bash",
+    "cheatsheet",
+    "cli",
+    "cmd",
+    "cmdline",
+    "command-line"
+  ],
+  "alternatives": [],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 4087,
+    "forks": 302,
+    "open_issues": 1,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 60
+}

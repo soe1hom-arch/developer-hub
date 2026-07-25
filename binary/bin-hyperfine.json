@@ -1,0 +1,45 @@
+{
+  "id": "bin-hyperfine",
+  "name": "hyperfine",
+  "category": "binary",
+  "description": "A command-line benchmarking tool",
+  "official_website": "https://github.com/sharkdp/hyperfine",
+  "documentation": "https://github.com/sharkdp/hyperfine#readme",
+  "github_repository": "https://github.com/sharkdp/hyperfine",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Linux",
+    "Android",
+    "Windows",
+    "macOS"
+  ],
+  "tags": [
+    "benchmark",
+    "cli",
+    "command-line",
+    "rust",
+    "terminal",
+    "tool",
+    "binary",
+    "pre-built"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 28535,
+    "forks": 503,
+    "open_issues": 93,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "source": "binary-release"
+}

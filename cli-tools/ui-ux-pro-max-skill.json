@@ -1,0 +1,46 @@
+{
+  "id": "ui-ux-pro-max-skill",
+  "name": "ui-ux-pro-max-skill",
+  "category": "cli-tools",
+  "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
+  "official_website": "https://www.uupm.cc/",
+  "documentation": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill#readme",
+  "github_repository": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+  "license": "MIT",
+  "latest_version": "main",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "ai-skills",
+    "antigravity",
+    "claude",
+    "claude-code",
+    "codex",
+    "command-line",
+    "copilot",
+    "cursor-ai",
+    "cli",
+    "command-line"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 110086,
+    "forks": 11742,
+    "open_issues": 123,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "source": "cli-github"
+}

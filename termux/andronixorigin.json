@@ -1,0 +1,42 @@
+{
+  "id": "andronixorigin",
+  "name": "AndronixOrigin",
+  "category": "termux",
+  "description": "This is the official repository for the back end of the Andronix app \ud83d\ude80. Here you can know all the scripts you're installing \ud83d\ude0e",
+  "official_website": "https://andronix.app",
+  "documentation": "https://github.com/AndronixApp/AndronixOrigin#readme",
+  "github_repository": "https://github.com/AndronixApp/AndronixOrigin",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "Shell"
+  ],
+  "platforms": [
+    "Termux",
+    "Android"
+  ],
+  "tags": [
+    "android-device",
+    "andronix",
+    "distros",
+    "kde",
+    "kubuntu",
+    "linux",
+    "lxde",
+    "lxqt"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 2805,
+    "forks": 519,
+    "open_issues": 213,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "source": "termux-github"
+}

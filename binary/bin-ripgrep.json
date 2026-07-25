@@ -1,0 +1,47 @@
+{
+  "id": "bin-ripgrep",
+  "name": "ripgrep",
+  "category": "binary",
+  "description": "ripgrep recursively searches directories for a regex pattern while respecting your gitignore",
+  "official_website": "https://github.com/BurntSushi/ripgrep",
+  "documentation": "https://github.com/BurntSushi/ripgrep#readme",
+  "github_repository": "https://github.com/BurntSushi/ripgrep",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS",
+    "Android"
+  ],
+  "tags": [
+    "cli",
+    "command-line",
+    "command-line-tool",
+    "gitignore",
+    "grep",
+    "recursively-search",
+    "regex",
+    "ripgrep",
+    "binary",
+    "pre-built"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 66525,
+    "forks": 2660,
+    "open_issues": 165,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "source": "binary-release"
+}

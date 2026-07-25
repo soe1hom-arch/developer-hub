@@ -1,0 +1,47 @@
+{
+  "id": "steampipe",
+  "name": "steampipe",
+  "category": "cloud",
+  "description": "Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.",
+  "official_website": "https://steampipe.io",
+  "documentation": "https://github.com/turbot/steampipe#readme",
+  "github_repository": "https://github.com/turbot/steampipe",
+  "license": "AGPL-3.0",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "aws",
+    "azure",
+    "cis",
+    "cloud",
+    "cnapp",
+    "cspm",
+    "devops",
+    "devsecops"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 7900,
+    "forks": 339,
+    "open_issues": 19,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

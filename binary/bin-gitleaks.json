@@ -1,0 +1,47 @@
+{
+  "id": "bin-gitleaks",
+  "name": "gitleaks",
+  "category": "binary",
+  "description": "Find secrets with Gitleaks \ud83d\udd11",
+  "official_website": "https://gitleaks.io",
+  "documentation": "https://github.com/gitleaks/gitleaks#readme",
+  "github_repository": "https://github.com/gitleaks/gitleaks",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS",
+    "Android"
+  ],
+  "tags": [
+    "ai-powered",
+    "ci-cd",
+    "cicd",
+    "cli",
+    "data-loss-prevention",
+    "devsecops",
+    "dlp",
+    "git",
+    "binary",
+    "pre-built"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 28306,
+    "forks": 2160,
+    "open_issues": 439,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "source": "binary-release"
+}

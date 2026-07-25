@@ -1,0 +1,44 @@
+{
+  "id": "bin-onefetch",
+  "name": "onefetch",
+  "category": "binary",
+  "description": "Command-line Git information tool",
+  "official_website": "https://onefetch.dev",
+  "documentation": "https://github.com/o2sh/onefetch#readme",
+  "github_repository": "https://github.com/o2sh/onefetch",
+  "license": "MIT",
+  "latest_version": "main",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "cli",
+    "command-line",
+    "command-line-interface",
+    "git",
+    "rust",
+    "tool",
+    "binary",
+    "pre-built"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 11984,
+    "forks": 321,
+    "open_issues": 58,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "source": "binary-release"
+}

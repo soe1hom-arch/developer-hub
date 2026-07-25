@@ -1,0 +1,44 @@
+{
+  "id": "bin-toolpacks",
+  "name": "Toolpacks",
+  "category": "binary",
+  "description": "Moved to:: https://github.com/pkgforge/soarpkgs",
+  "official_website": "https://github.com/pkgforge/soarpkgs",
+  "documentation": "https://github.com/Azathothas/Toolpacks#readme",
+  "github_repository": "https://github.com/Azathothas/Toolpacks",
+  "license": "MIT",
+  "latest_version": "main",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Linux"
+  ],
+  "tags": [
+    "aarch64",
+    "android",
+    "arm64",
+    "binary",
+    "bug-bounty",
+    "bugbounty",
+    "executable",
+    "golang",
+    "binary",
+    "pre-built"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 4,
+  "maintained": false,
+  "archived": true,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 165,
+    "forks": 18,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "source": "binary-release"
+}

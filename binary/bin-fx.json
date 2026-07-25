@@ -1,0 +1,43 @@
+{
+  "id": "bin-fx",
+  "name": "fx",
+  "category": "binary",
+  "description": "Terminal JSON viewer & processor",
+  "official_website": "https://fx.wtf",
+  "documentation": "https://github.com/antonmedv/fx#readme",
+  "github_repository": "https://github.com/antonmedv/fx",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS",
+    "Android"
+  ],
+  "tags": [
+    "cli",
+    "command-line",
+    "json",
+    "tui",
+    "binary",
+    "pre-built"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 20546,
+    "forks": 483,
+    "open_issues": 24,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "source": "binary-release"
+}

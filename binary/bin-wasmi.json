@@ -1,0 +1,47 @@
+{
+  "id": "bin-wasmi",
+  "name": "wasmi",
+  "category": "binary",
+  "description": "Efficient and versatile WebAssembly interpreter for embedded systems.",
+  "official_website": "https://wasmi-labs.github.io/wasmi/",
+  "documentation": "https://github.com/wasmi-labs/wasmi#readme",
+  "github_repository": "https://github.com/wasmi-labs/wasmi",
+  "license": "MIT",
+  "latest_version": "main",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Linux",
+    "Android",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "embedded",
+    "interpreter",
+    "lightweight",
+    "portable",
+    "runtime",
+    "rust",
+    "sandbox",
+    "secure",
+    "binary",
+    "pre-built"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 6,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 2161,
+    "forks": 357,
+    "open_issues": 24,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "source": "binary-release"
+}

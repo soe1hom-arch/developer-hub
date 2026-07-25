@@ -1,0 +1,47 @@
+{
+  "id": "bin-witr",
+  "name": "witr",
+  "category": "binary",
+  "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
+  "official_website": "https://pranshuparmar.github.io/witr/",
+  "documentation": "https://github.com/pranshuparmar/witr#readme",
+  "github_repository": "https://github.com/pranshuparmar/witr",
+  "license": "MIT",
+  "latest_version": "main",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux",
+    "Android",
+    "Windows",
+    "macOS"
+  ],
+  "tags": [
+    "cli",
+    "containers",
+    "devops",
+    "docker",
+    "freebsd",
+    "go",
+    "golang",
+    "incident-response",
+    "binary",
+    "pre-built"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 18307,
+    "forks": 574,
+    "open_issues": 3,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "source": "binary-release"
+}

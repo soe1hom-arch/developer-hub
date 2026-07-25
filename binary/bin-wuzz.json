@@ -1,0 +1,46 @@
+{
+  "id": "bin-wuzz",
+  "name": "wuzz",
+  "category": "binary",
+  "description": "Interactive cli tool for HTTP inspection",
+  "official_website": "https://github.com/asciimoo/wuzz",
+  "documentation": "https://github.com/asciimoo/wuzz#readme",
+  "github_repository": "https://github.com/asciimoo/wuzz",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS",
+    "Android"
+  ],
+  "tags": [
+    "cli",
+    "curl",
+    "go",
+    "golang",
+    "http",
+    "http-inspection",
+    "inspector",
+    "binary",
+    "pre-built"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 10711,
+    "forks": 412,
+    "open_issues": 45,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "source": "binary-release"
+}

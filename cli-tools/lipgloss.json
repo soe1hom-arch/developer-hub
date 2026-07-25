@@ -1,0 +1,46 @@
+{
+  "id": "lipgloss",
+  "name": "lipgloss",
+  "category": "cli-tools",
+  "description": "Style definitions for nice terminal layouts \ud83d\udc44",
+  "official_website": "https://github.com/charmbracelet/lipgloss",
+  "documentation": "https://github.com/charmbracelet/lipgloss#readme",
+  "github_repository": "https://github.com/charmbracelet/lipgloss",
+  "license": "MIT",
+  "latest_version": "main",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "cli",
+    "go",
+    "golang",
+    "hacktoberfest",
+    "layout",
+    "style",
+    "tui",
+    "cli",
+    "command-line"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 11618,
+    "forks": 383,
+    "open_issues": 130,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "source": "cli-github"
+}

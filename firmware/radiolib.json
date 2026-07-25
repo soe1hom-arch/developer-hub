@@ -1,0 +1,43 @@
+{
+  "id": "radiolib",
+  "name": "RadioLib",
+  "category": "firmware",
+  "description": "Universal wireless communication library for embedded devices",
+  "official_website": "https://jgromes.github.io/RadioLib/",
+  "documentation": "https://github.com/jgromes/RadioLib#readme",
+  "github_repository": "https://github.com/jgromes/RadioLib",
+  "license": "MIT",
+  "programming_languages": [
+    "C++"
+  ],
+  "platforms": [
+    "Linux",
+    "Embedded"
+  ],
+  "tags": [
+    "aprs",
+    "arduino",
+    "ax25",
+    "cc1101",
+    "esp32",
+    "esp8266",
+    "lorawan",
+    "lr1110"
+  ],
+  "alternatives": [],
+  "popularity": 7,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 2512,
+    "forks": 577,
+    "open_issues": 17,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 75
+}

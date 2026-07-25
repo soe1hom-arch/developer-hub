@@ -1,0 +1,47 @@
+{
+  "id": "bin-wasmtime",
+  "name": "wasmtime",
+  "category": "binary",
+  "description": "A lightweight WebAssembly runtime that is fast, secure, and standards-compliant",
+  "official_website": "https://wasmtime.dev/",
+  "documentation": "https://github.com/bytecodealliance/wasmtime#readme",
+  "github_repository": "https://github.com/bytecodealliance/wasmtime",
+  "license": "MIT",
+  "latest_version": "main",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Linux",
+    "Android",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "aot",
+    "cranelift",
+    "jit",
+    "lightweight",
+    "portable",
+    "runtime",
+    "rust",
+    "sandbox",
+    "binary",
+    "pre-built"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 18424,
+    "forks": 1772,
+    "open_issues": 861,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "source": "binary-release"
+}

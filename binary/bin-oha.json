@@ -1,0 +1,47 @@
+{
+  "id": "bin-oha",
+  "name": "oha",
+  "category": "binary",
+  "description": "Ohayou(\u304a\u306f\u3088\u3046), HTTP load generator, inspired by rakyll/hey with tui animation.",
+  "official_website": "https://github.com/hatoo/oha",
+  "documentation": "https://github.com/hatoo/oha#readme",
+  "github_repository": "https://github.com/hatoo/oha",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Linux",
+    "Android",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "benchmark",
+    "cli",
+    "command-line",
+    "http",
+    "http2",
+    "load-generator",
+    "load-testing",
+    "rust",
+    "binary",
+    "pre-built"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 10445,
+    "forks": 293,
+    "open_issues": 58,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "source": "binary-release"
+}

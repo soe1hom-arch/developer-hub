@@ -1,0 +1,42 @@
+{
+  "id": "metasploit-in-termux",
+  "name": "metasploit_in_termux",
+  "category": "termux",
+  "description": "Install Metasploit Framework 6 in Termux",
+  "official_website": "https://github.com/gushmazuko/metasploit_in_termux",
+  "documentation": "https://github.com/gushmazuko/metasploit_in_termux#readme",
+  "github_repository": "https://github.com/gushmazuko/metasploit_in_termux",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "Shell"
+  ],
+  "platforms": [
+    "Termux",
+    "Android"
+  ],
+  "tags": [
+    "android",
+    "metasploit",
+    "metasploit-framework",
+    "metasploit6",
+    "msf",
+    "msf6",
+    "termux",
+    "termux-metasploit"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 2041,
+    "forks": 345,
+    "open_issues": 12,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "source": "termux-github"
+}

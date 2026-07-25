@@ -1,0 +1,46 @@
+{
+  "id": "bin-katana",
+  "name": "katana",
+  "category": "binary",
+  "description": "A next-generation crawling and spidering framework.",
+  "official_website": "https://github.com/projectdiscovery/katana",
+  "documentation": "https://github.com/projectdiscovery/katana#readme",
+  "github_repository": "https://github.com/projectdiscovery/katana",
+  "license": "MIT",
+  "latest_version": "dev",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux",
+    "Android",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "cli",
+    "crawler",
+    "gocrawler",
+    "hacktoberfest",
+    "headless",
+    "spider-framework",
+    "web-spider",
+    "binary",
+    "pre-built"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 17223,
+    "forks": 1160,
+    "open_issues": 21,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "source": "binary-release"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "bin-glow",
+  "name": "glow",
+  "category": "binary",
+  "description": "Render markdown on the CLI, with pizzazz! \ud83d\udc85\ud83c\udffb",
+  "official_website": "https://github.com/charmbracelet/glow",
+  "documentation": "https://github.com/charmbracelet/glow#readme",
+  "github_repository": "https://github.com/charmbracelet/glow",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux",
+    "Android",
+    "Windows",
+    "macOS"
+  ],
+  "tags": [
+    "cli",
+    "excitement",
+    "hacktoberfest",
+    "markdown",
+    "binary",
+    "pre-built"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 26514,
+    "forks": 729,
+    "open_issues": 217,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "source": "binary-release"
+}

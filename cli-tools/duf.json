@@ -1,0 +1,47 @@
+{
+  "id": "duf",
+  "name": "duf",
+  "category": "cli-tools",
+  "description": "Disk Usage/Free Utility - a better 'df' alternative",
+  "official_website": "https://github.com/muesli/duf",
+  "documentation": "https://github.com/muesli/duf#readme",
+  "github_repository": "https://github.com/muesli/duf",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "cli",
+    "df",
+    "disk-space",
+    "disk-usage",
+    "filesystem",
+    "freebsd",
+    "hacktoberfest",
+    "linux",
+    "cli",
+    "command-line"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 15219,
+    "forks": 467,
+    "open_issues": 80,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "source": "cli-github"
+}

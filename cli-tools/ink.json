@@ -1,0 +1,44 @@
+{
+  "id": "ink",
+  "name": "ink",
+  "category": "cli-tools",
+  "description": "\ud83c\udf08 React for interactive command-line apps",
+  "official_website": "https://term.ink",
+  "documentation": "https://github.com/vadimdemedes/ink#readme",
+  "github_repository": "https://github.com/vadimdemedes/ink",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "cli",
+    "command-line",
+    "flexbox",
+    "interactive",
+    "javascript",
+    "react",
+    "cli",
+    "command-line"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 39465,
+    "forks": 1028,
+    "open_issues": 30,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "source": "cli-github"
+}

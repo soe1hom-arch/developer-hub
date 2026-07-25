@@ -1,0 +1,47 @@
+{
+  "id": "bin-zoxide",
+  "name": "zoxide",
+  "category": "binary",
+  "description": "A smarter cd command. Supports all major shells.",
+  "official_website": "https://crates.io/crates/zoxide",
+  "documentation": "https://github.com/ajeetdsouza/zoxide#readme",
+  "github_repository": "https://github.com/ajeetdsouza/zoxide",
+  "license": "MIT",
+  "latest_version": "main",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS",
+    "Android"
+  ],
+  "tags": [
+    "autojump",
+    "bash",
+    "cli",
+    "command-line",
+    "command-line-tool",
+    "elvish",
+    "fasd",
+    "fish",
+    "binary",
+    "pre-built"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 38240,
+    "forks": 853,
+    "open_issues": 132,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "source": "binary-release"
+}

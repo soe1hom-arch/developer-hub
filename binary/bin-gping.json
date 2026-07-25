@@ -1,0 +1,47 @@
+{
+  "id": "bin-gping",
+  "name": "gping",
+  "category": "binary",
+  "description": "Ping, but with a graph",
+  "official_website": "https://github.com/orf/gping",
+  "documentation": "https://github.com/orf/gping#readme",
+  "github_repository": "https://github.com/orf/gping",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Linux",
+    "Android",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "cli",
+    "command-line",
+    "graph",
+    "linux",
+    "network-monitoring",
+    "ping",
+    "rust",
+    "shell",
+    "binary",
+    "pre-built"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 12573,
+    "forks": 362,
+    "open_issues": 50,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "source": "binary-release"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "openclaw-android",
+  "name": "openclaw-android",
+  "category": "termux",
+  "description": "Run OpenClaw on Android with a single command \u2014 no proot, no Linux",
+  "official_website": "https://github.com/AidanPark/openclaw-android",
+  "documentation": "https://github.com/AidanPark/openclaw-android#readme",
+  "github_repository": "https://github.com/AidanPark/openclaw-android",
+  "license": "MIT",
+  "latest_version": "main",
+  "programming_languages": [
+    "Java"
+  ],
+  "platforms": [
+    "Termux",
+    "Android"
+  ],
+  "tags": [
+    "ai",
+    "ai-agent",
+    "android",
+    "homelab",
+    "low-power",
+    "nodejs",
+    "openclaw",
+    "repurpose-phone"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 1702,
+    "forks": 214,
+    "open_issues": 35,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "source": "termux-github"
+}

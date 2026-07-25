@@ -1,0 +1,44 @@
+{
+  "id": "bin-singularity",
+  "name": "singularity",
+  "category": "binary",
+  "description": "Singularity has been renamed to Apptainer as part of us moving the project to the Linux Foundation. This repo has been persisted as a snapshot right before the changes.",
+  "official_website": "https://github.com/apptainer/apptainer",
+  "documentation": "https://github.com/apptainer/singularity#readme",
+  "github_repository": "https://github.com/apptainer/singularity",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux"
+  ],
+  "tags": [
+    "cloud-native",
+    "container",
+    "containers",
+    "hpc",
+    "linux",
+    "parallel",
+    "portability",
+    "portable",
+    "binary",
+    "pre-built"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 6,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 2618,
+    "forks": 425,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "source": "binary-release"
+}

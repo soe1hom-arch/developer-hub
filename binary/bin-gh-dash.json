@@ -1,0 +1,47 @@
+{
+  "id": "bin-gh-dash",
+  "name": "gh-dash",
+  "category": "binary",
+  "description": "A rich terminal UI for GitHub that doesn't break your flow.",
+  "official_website": "https://gh-dash.dev",
+  "documentation": "https://github.com/dlvhdr/gh-dash#readme",
+  "github_repository": "https://github.com/dlvhdr/gh-dash",
+  "license": "MIT",
+  "latest_version": "main",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux",
+    "Android",
+    "Windows",
+    "macOS"
+  ],
+  "tags": [
+    "bubbles",
+    "bubbletea",
+    "cli",
+    "cobra",
+    "gh-extension",
+    "github",
+    "glamour",
+    "go",
+    "binary",
+    "pre-built"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 12141,
+    "forks": 422,
+    "open_issues": 89,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "source": "binary-release"
+}

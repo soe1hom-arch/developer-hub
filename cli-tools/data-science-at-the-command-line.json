@@ -1,0 +1,45 @@
+{
+  "id": "data-science-at-the-command-line",
+  "name": "data-science-at-the-command-line",
+  "category": "cli-tools",
+  "description": "Data Science at the Command Line",
+  "official_website": "https://datascienceatthecommandline.com",
+  "documentation": "https://github.com/jeroenjanssens/data-science-at-the-command-line#readme",
+  "github_repository": "https://github.com/jeroenjanssens/data-science-at-the-command-line",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "HTML"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "bash",
+    "book",
+    "bookdown",
+    "cli",
+    "cowsay",
+    "curl",
+    "data-science",
+    "ggplot2"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 3960,
+    "forks": 766,
+    "open_issues": 36,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 70
+}

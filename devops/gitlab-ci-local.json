@@ -26,7 +26,9 @@
     "gitlab-ci",
     "local",
     "pipeline",
-    "push"
+    "push",
+    "untracked",
+    "uncomitted"
   ],
   "alternatives": [],
   "popularity": 8,
@@ -34,14 +36,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 3998,
-    "forks": 211,
-    "open_issues": 65,
+    "stars": 4019,
+    "forks": 212,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-18",
-  "last_updated": "2026-07-18",
-  "latest_version": "latest",
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "latest_version": "4.73.0",
   "auto_discovered": true,
   "quality_score": 60
 }

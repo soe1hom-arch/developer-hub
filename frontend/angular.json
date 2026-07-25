@@ -7,7 +7,7 @@
   "documentation": "https://angular.dev/docs",
   "github_repository": "https://github.com/angular/angular",
   "license": "MIT",
-  "latest_version": "v22.0.7",
+  "latest_version": "v22.0.8",
   "programming_languages": [
     "TypeScript",
     "JavaScript",
@@ -48,11 +48,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-18",
-  "last_updated": "2026-07-18",
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
   "repository_statistics": {
-    "stars": 100576,
-    "forks": 27417,
+    "stars": 100612,
+    "forks": 27288,
     "open_issues": 0,
     "watchers": 0
   }

@@ -25,19 +25,19 @@
     "web3"
   ],
   "alternatives": [],
-  "popularity": 7,
+  "popularity": 8,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
     "stars": 2831,
-    "forks": 788,
-    "open_issues": 45,
+    "forks": 786,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-18",
-  "last_updated": "2026-07-18",
-  "latest_version": "latest",
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "latest_version": "@rainbow-me/rainbowkit-siwe-next-auth@0.6.0",
   "auto_discovered": true,
   "quality_score": 67
 }

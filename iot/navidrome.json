@@ -22,7 +22,13 @@
     "music-server",
     "navidrome",
     "opensubsonic",
-    "raspberry-pi"
+    "raspberry-pi",
+    "subsonic-server",
+    "subsonic",
+    "streaming-audio",
+    "streaming-api",
+    "streamer",
+    "self-hosted"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -30,14 +36,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 22362,
-    "forks": 1590,
-    "open_issues": 221,
+    "stars": 22484,
+    "forks": 1600,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-18",
-  "last_updated": "2026-07-18",
-  "latest_version": "latest",
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "latest_version": "v0.63.2",
   "auto_discovered": true,
   "quality_score": 80
 }

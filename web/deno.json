@@ -7,7 +7,7 @@
   "documentation": "https://docs.deno.com",
   "github_repository": "https://github.com/denoland/deno",
   "license": "MIT",
-  "latest_version": "v2.9.3",
+  "latest_version": "v2.9.4",
   "programming_languages": [
     "TypeScript",
     "JavaScript",
@@ -41,11 +41,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-18",
-  "last_updated": "2026-07-18",
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
   "repository_statistics": {
-    "stars": 107709,
-    "forks": 6181,
+    "stars": 107779,
+    "forks": 6198,
     "open_issues": 0,
     "watchers": 0
   }

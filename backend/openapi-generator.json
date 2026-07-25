@@ -26,7 +26,11 @@
     "hacktoberfest",
     "openapi",
     "openapi-generator",
-    "openapi3"
+    "openapi3",
+    "rest-api",
+    "rest-client",
+    "sdk",
+    "restful-api"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -34,14 +38,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 26560,
-    "forks": 7607,
-    "open_issues": 5723,
+    "stars": 26620,
+    "forks": 7620,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-18",
-  "last_updated": "2026-07-18",
-  "latest_version": "latest",
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "latest_version": "v7.24.0",
   "auto_discovered": true,
   "quality_score": 90
 }

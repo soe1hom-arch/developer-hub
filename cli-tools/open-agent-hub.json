@@ -24,22 +24,27 @@
     "claude-code",
     "cli-tool",
     "context-engineering",
-    "full-stack"
+    "full-stack",
+    "workflows",
+    "skills",
+    "planning",
+    "superpowers",
+    "ui-ux-design"
   ],
   "alternatives": [],
-  "popularity": 5,
+  "popularity": 7,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 928,
+    "stars": 936,
     "forks": 163,
-    "open_issues": 5,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-18",
-  "last_updated": "2026-07-18",
-  "latest_version": "latest",
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "latest_version": "v3.0.1",
   "auto_discovered": true,
   "quality_score": 65
 }

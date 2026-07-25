@@ -24,22 +24,27 @@
     "ipfs",
     "javascript",
     "matchmaking",
-    "mqtt"
+    "mqtt",
+    "webrtc",
+    "p2p",
+    "peer-to-peer",
+    "webtorrent",
+    "serverless"
   ],
   "alternatives": [],
-  "popularity": 7,
+  "popularity": 8,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 2645,
+    "stars": 2664,
     "forks": 155,
-    "open_issues": 7,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-18",
-  "last_updated": "2026-07-18",
-  "latest_version": "latest",
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "latest_version": "0.25.3",
   "auto_discovered": true,
   "quality_score": 80
 }

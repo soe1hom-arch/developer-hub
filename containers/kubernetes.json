@@ -7,7 +7,7 @@
   "documentation": "https://kubernetes.io/docs",
   "github_repository": "https://github.com/kubernetes/kubernetes",
   "license": "Apache-2.0",
-  "latest_version": "v1.36.2",
+  "latest_version": "v1.36.3",
   "programming_languages": [
     "Go"
   ],
@@ -41,11 +41,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-18",
-  "last_updated": "2026-07-18",
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
   "repository_statistics": {
-    "stars": 123792,
-    "forks": 43679,
+    "stars": 123923,
+    "forks": 43575,
     "open_issues": 0,
     "watchers": 0
   }

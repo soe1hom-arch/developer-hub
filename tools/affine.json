@@ -26,7 +26,12 @@
     "knowledge-base",
     "markdown",
     "miro",
-    "notes"
+    "notes",
+    "notion",
+    "rust",
+    "rust-lang",
+    "whiteboard",
+    "wiki"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -34,14 +39,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 70555,
-    "forks": 5061,
-    "open_issues": 672,
+    "stars": 70776,
+    "forks": 5092,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-18",
-  "last_updated": "2026-07-18",
-  "latest_version": "latest",
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "latest_version": "v0.27.3",
   "auto_discovered": true,
   "quality_score": 90
 }

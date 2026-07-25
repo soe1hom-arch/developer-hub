@@ -26,22 +26,28 @@
     "bridge",
     "cgo",
     "cocoa",
-    "coremidi"
+    "coremidi",
+    "golang",
+    "macos",
+    "objective-c",
+    "libobjc",
+    "go",
+    "mac"
   ],
   "alternatives": [],
-  "popularity": 10,
+  "popularity": 9,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 5434,
+    "stars": 5431,
     "forks": 175,
-    "open_issues": 41,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-18",
-  "last_updated": "2026-07-18",
-  "latest_version": "latest",
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "latest_version": "v0.5.0",
   "auto_discovered": true,
   "quality_score": 70
 }

@@ -22,19 +22,19 @@
     "protocol-buffers"
   ],
   "alternatives": [],
-  "popularity": 10,
+  "popularity": 9,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 5488,
-    "forks": 1033,
-    "open_issues": 78,
+    "stars": 5500,
+    "forks": 1035,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-18",
-  "last_updated": "2026-07-18",
-  "latest_version": "latest",
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "latest_version": "nanopb-0.4.9.1",
   "auto_discovered": true,
   "quality_score": 75
 }

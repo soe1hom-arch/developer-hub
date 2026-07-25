@@ -22,22 +22,25 @@
     "lora",
     "mesh",
     "mesh-networks",
-    "meshtastic"
+    "meshtastic",
+    "ttgo-tbeam",
+    "ttgo",
+    "nrf52"
   ],
   "alternatives": [],
-  "popularity": 10,
+  "popularity": 9,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 7938,
-    "forks": 2541,
-    "open_issues": 485,
+    "stars": 7976,
+    "forks": 2565,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-18",
-  "last_updated": "2026-07-18",
-  "latest_version": "latest",
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "latest_version": "v2.7.26.54e0d8d",
   "auto_discovered": true,
   "quality_score": 80
 }

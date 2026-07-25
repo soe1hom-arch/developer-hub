@@ -7,7 +7,7 @@
   "documentation": "https://react.dev/reference/react",
   "github_repository": "https://github.com/facebook/react",
   "license": "MIT",
-  "latest_version": "v19.2.7",
+  "latest_version": "v19.2.8",
   "programming_languages": [
     "JavaScript",
     "TypeScript"
@@ -45,11 +45,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-18",
-  "last_updated": "2026-07-18",
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
   "repository_statistics": {
-    "stars": 246556,
-    "forks": 51236,
+    "stars": 246709,
+    "forks": 51163,
     "open_issues": 0,
     "watchers": 0
   }

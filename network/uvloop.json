@@ -26,7 +26,9 @@
     "event-loop",
     "high-performance",
     "libuv",
-    "networking"
+    "networking",
+    "python",
+    "python-3"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -34,14 +36,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 11861,
-    "forks": 611,
-    "open_issues": 155,
+    "stars": 11865,
+    "forks": 612,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-18",
-  "last_updated": "2026-07-18",
-  "latest_version": "latest",
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "latest_version": "v0.22.1",
   "auto_discovered": true,
   "quality_score": 70
 }

@@ -26,21 +26,25 @@
     "http",
     "http-server",
     "http2",
-    "http2-server"
+    "http2-server",
+    "websocket",
+    "websockets",
+    "websocket-server",
+    "rest"
   ],
   "alternatives": [],
-  "popularity": 10,
+  "popularity": 9,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 7519,
-    "forks": 1165,
-    "open_issues": 62,
+    "stars": 7520,
+    "forks": 1166,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-18",
-  "last_updated": "2026-07-18",
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
   "latest_version": "latest",
   "auto_discovered": true,
   "quality_score": 75

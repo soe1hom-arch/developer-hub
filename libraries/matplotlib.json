@@ -7,7 +7,7 @@
   "documentation": "https://matplotlib.org/stable",
   "github_repository": "https://github.com/matplotlib/matplotlib",
   "license": "BSD-3-Clause",
-  "latest_version": "v3.11.0",
+  "latest_version": "v3.11.1",
   "programming_languages": [
     "Python",
     "C++"
@@ -45,11 +45,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-18",
-  "last_updated": "2026-07-18",
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
   "repository_statistics": {
-    "stars": 23012,
-    "forks": 8398,
+    "stars": 23033,
+    "forks": 8416,
     "open_issues": 0,
     "watchers": 0
   }

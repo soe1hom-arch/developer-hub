@@ -26,7 +26,10 @@
     "golang",
     "networking",
     "privacy",
-    "privacy-by-design"
+    "privacy-by-design",
+    "privacy-protection",
+    "privacy-enhancing-technologies",
+    "privacy-tools"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -34,14 +37,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 13226,
-    "forks": 541,
-    "open_issues": 79,
+    "stars": 13366,
+    "forks": 549,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-18",
-  "last_updated": "2026-07-18",
-  "latest_version": "latest",
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "latest_version": "v2.2.1",
   "auto_discovered": true,
   "quality_score": 80
 }

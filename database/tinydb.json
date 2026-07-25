@@ -26,19 +26,19 @@
     "python"
   ],
   "alternatives": [],
-  "popularity": 10,
+  "popularity": 9,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 7546,
-    "forks": 616,
-    "open_issues": 14,
+    "stars": 7550,
+    "forks": 617,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-18",
-  "last_updated": "2026-07-18",
-  "latest_version": "latest",
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "latest_version": "v4.8.2",
   "auto_discovered": true,
   "quality_score": 80
 }

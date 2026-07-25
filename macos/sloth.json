@@ -26,22 +26,28 @@
     "ip-sockets",
     "lsof",
     "macos",
-    "macos-app"
+    "macos-app",
+    "osx",
+    "open-files",
+    "sloth",
+    "objective-c",
+    "socket",
+    "pipes"
   ],
   "alternatives": [],
-  "popularity": 10,
+  "popularity": 9,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 8921,
+    "stars": 8925,
     "forks": 175,
-    "open_issues": 3,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-18",
-  "last_updated": "2026-07-18",
-  "latest_version": "latest",
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "latest_version": "3.6",
   "auto_discovered": true,
   "quality_score": 85
 }

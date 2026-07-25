@@ -1,0 +1,47 @@
+{
+  "id": "mirror",
+  "name": "Mirror",
+  "category": "network",
+  "description": "#1 Open Source Unity Networking Library",
+  "official_website": "https://mirror-networking.com",
+  "documentation": "https://github.com/MirrorNetworking/Mirror#readme",
+  "github_repository": "https://github.com/MirrorNetworking/Mirror",
+  "license": "MIT",
+  "programming_languages": [
+    "C#"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "games",
+    "hlapi",
+    "kcp",
+    "libuv",
+    "mirror",
+    "mmo",
+    "mmorpg",
+    "mmos"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 6260,
+    "forks": 860,
+    "open_issues": 67,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 75
+}

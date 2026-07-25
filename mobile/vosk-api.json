@@ -25,7 +25,12 @@
     "deepspeech",
     "google-speech-to-text",
     "ios",
-    "kaldi"
+    "kaldi",
+    "speech-recognition",
+    "voice-recognition",
+    "speech-to-text",
+    "raspberry-pi",
+    "speech-to-text-android"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -33,14 +38,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 14951,
-    "forks": 1733,
-    "open_issues": 597,
+    "stars": 14978,
+    "forks": 1737,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-18",
-  "last_updated": "2026-07-18",
-  "latest_version": "latest",
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "latest_version": "v0.3.50",
   "auto_discovered": true,
   "quality_score": 80
 }

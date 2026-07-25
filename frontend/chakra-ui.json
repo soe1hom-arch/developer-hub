@@ -7,7 +7,7 @@
   "documentation": "https://chakra-ui.com/docs",
   "github_repository": "https://github.com/chakra-ui/chakra-ui",
   "license": "MIT",
-  "latest_version": "@chakra-ui/codemod@3.36.0",
+  "latest_version": "@chakra-ui/panda-preset@3.36.1",
   "programming_languages": [
     "TypeScript",
     "JavaScript"
@@ -44,11 +44,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-18",
-  "last_updated": "2026-07-18",
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
   "repository_statistics": {
-    "stars": 40508,
-    "forks": 3627,
+    "stars": 40526,
+    "forks": 3631,
     "open_issues": 0,
     "watchers": 0
   }

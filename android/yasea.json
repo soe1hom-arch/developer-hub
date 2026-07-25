@@ -25,21 +25,25 @@
     "camera",
     "gles",
     "glsl",
-    "live-streaming"
+    "live-streaming",
+    "rtmp",
+    "rtmp-stream",
+    "media",
+    "shader"
   ],
   "alternatives": [],
-  "popularity": 9,
+  "popularity": 8,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 4942,
-    "forks": 1313,
-    "open_issues": 285,
+    "stars": 4941,
+    "forks": 1312,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-18",
-  "last_updated": "2026-07-18",
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
   "latest_version": "latest",
   "auto_discovered": true,
   "quality_score": 60

@@ -7,7 +7,7 @@
   "documentation": "https://docs.astro.build",
   "github_repository": "https://github.com/withastro/astro",
   "license": "NOASSERTION",
-  "latest_version": "astro@7.1.1",
+  "latest_version": "@astrojs/language-server@2.16.13",
   "programming_languages": [
     "TypeScript",
     "JavaScript",
@@ -48,11 +48,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-18",
-  "last_updated": "2026-07-18",
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
   "repository_statistics": {
-    "stars": 61106,
-    "forks": 3635,
+    "stars": 61284,
+    "forks": 3655,
     "open_issues": 0,
     "watchers": 0
   }

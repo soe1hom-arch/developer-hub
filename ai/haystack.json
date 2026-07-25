@@ -7,7 +7,7 @@
   "documentation": "https://docs.haystack.deepset.ai",
   "github_repository": "https://github.com/deepset-ai/haystack",
   "license": "Apache-2.0",
-  "latest_version": "v2.31.0",
+  "latest_version": "v3.0.0",
   "programming_languages": [
     "Python"
   ],
@@ -46,11 +46,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-18",
-  "last_updated": "2026-07-18",
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
   "repository_statistics": {
-    "stars": 25927,
-    "forks": 2930,
+    "stars": 26006,
+    "forks": 2948,
     "open_issues": 0,
     "watchers": 0
   }

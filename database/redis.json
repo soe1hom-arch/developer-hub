@@ -7,7 +7,7 @@
   "documentation": "https://redis.io/docs",
   "github_repository": "https://github.com/redis/redis",
   "license": "NOASSERTION",
-  "latest_version": "8.8.0",
+  "latest_version": "8.8.1",
   "programming_languages": [
     "C"
   ],
@@ -46,11 +46,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-18",
-  "last_updated": "2026-07-18",
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
   "repository_statistics": {
-    "stars": 75549,
-    "forks": 24708,
+    "stars": 75665,
+    "forks": 24731,
     "open_issues": 0,
     "watchers": 0
   }

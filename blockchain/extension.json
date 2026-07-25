@@ -34,12 +34,12 @@
   "repository_statistics": {
     "stars": 3201,
     "forks": 425,
-    "open_issues": 333,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-18",
-  "last_updated": "2026-07-18",
-  "latest_version": "latest",
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "latest_version": "v0.66.0",
   "auto_discovered": true,
   "quality_score": 75
 }

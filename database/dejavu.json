@@ -26,22 +26,25 @@
     "dejavu",
     "elasticsearch",
     "elasticsearch-gui",
-    "elasticsearch-plugin"
+    "elasticsearch-plugin",
+    "realtime-updates",
+    "react",
+    "reactjs"
   ],
   "alternatives": [],
-  "popularity": 10,
+  "popularity": 9,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 8468,
-    "forks": 514,
-    "open_issues": 69,
+    "stars": 8467,
+    "forks": 513,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-18",
-  "last_updated": "2026-07-18",
-  "latest_version": "latest",
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "latest_version": "3.10.0",
   "auto_discovered": true,
   "quality_score": 85
 }

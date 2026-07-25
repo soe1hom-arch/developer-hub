@@ -7,7 +7,7 @@
   "documentation": "https://nuxt.com/docs",
   "github_repository": "https://github.com/nuxt/nuxt",
   "license": "MIT",
-  "latest_version": "v4.4.8",
+  "latest_version": "v4.5.0",
   "programming_languages": [
     "TypeScript",
     "JavaScript",
@@ -45,11 +45,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-18",
-  "last_updated": "2026-07-18",
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
   "repository_statistics": {
-    "stars": 60641,
-    "forks": 5736,
+    "stars": 60680,
+    "forks": 5754,
     "open_issues": 0,
     "watchers": 0
   }

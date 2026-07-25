@@ -25,7 +25,11 @@
     "ios",
     "java",
     "lightweight",
-    "multilingual"
+    "multilingual",
+    "nodejs",
+    "on-device",
+    "python",
+    "rust"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -33,14 +37,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 13262,
-    "forks": 1362,
-    "open_issues": 123,
+    "stars": 13504,
+    "forks": 1399,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-18",
-  "last_updated": "2026-07-18",
-  "latest_version": "latest",
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "latest_version": "v2.0.0",
   "auto_discovered": true,
   "quality_score": 85
 }

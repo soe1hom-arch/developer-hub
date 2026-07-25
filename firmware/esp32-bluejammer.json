@@ -22,22 +22,24 @@
     "diy",
     "electronics",
     "esp32",
-    "flashing"
+    "flashing",
+    "hacker",
+    "hacking"
   ],
   "alternatives": [],
-  "popularity": 10,
+  "popularity": 9,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 6927,
-    "forks": 774,
-    "open_issues": 12,
+    "stars": 7007,
+    "forks": 778,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-18",
-  "last_updated": "2026-07-18",
-  "latest_version": "latest",
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "latest_version": "ESP32-BlueJammer-official",
   "auto_discovered": true,
   "quality_score": 80
 }

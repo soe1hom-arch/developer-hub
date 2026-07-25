@@ -7,7 +7,7 @@
   "documentation": "https://electronjs.org/docs",
   "github_repository": "https://github.com/electron/electron",
   "license": "MIT",
-  "latest_version": "v43.1.1",
+  "latest_version": "v43.2.0",
   "programming_languages": [
     "JavaScript",
     "TypeScript",
@@ -47,11 +47,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-18",
-  "last_updated": "2026-07-18",
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
   "repository_statistics": {
-    "stars": 122069,
-    "forks": 17310,
+    "stars": 122164,
+    "forks": 17337,
     "open_issues": 0,
     "watchers": 0
   }

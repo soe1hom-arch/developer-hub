@@ -7,7 +7,7 @@
   "documentation": "https://next-auth.js.org/getting-started/introduction",
   "github_repository": "https://github.com/nextauthjs/next-auth",
   "license": "ISC",
-  "latest_version": "next-auth@4.24.14",
+  "latest_version": "next-auth@4.24.15",
   "programming_languages": [
     "TypeScript",
     "JavaScript"
@@ -42,10 +42,10 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-18",
-  "last_updated": "2026-07-18",
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
   "repository_statistics": {
-    "stars": 28308,
+    "stars": 28310,
     "forks": 4042,
     "open_issues": 0,
     "watchers": 0

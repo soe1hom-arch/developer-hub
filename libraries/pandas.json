@@ -7,7 +7,7 @@
   "documentation": "https://pandas.pydata.org/docs",
   "github_repository": "https://github.com/pandas-dev/pandas",
   "license": "BSD-3-Clause",
-  "latest_version": "v3.0.4",
+  "latest_version": "v3.0.5",
   "programming_languages": [
     "Python",
     "Cython"
@@ -42,11 +42,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-18",
-  "last_updated": "2026-07-18",
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
   "repository_statistics": {
-    "stars": 49212,
-    "forks": 20133,
+    "stars": 49308,
+    "forks": 20170,
     "open_issues": 0,
     "watchers": 0
   }

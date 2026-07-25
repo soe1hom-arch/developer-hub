@@ -24,19 +24,19 @@
     "remotecontrol"
   ],
   "alternatives": [],
-  "popularity": 7,
+  "popularity": 8,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 2247,
+    "stars": 2248,
     "forks": 617,
-    "open_issues": 28,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-18",
-  "last_updated": "2026-07-18",
-  "latest_version": "latest",
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "latest_version": "1.0.1",
   "auto_discovered": true,
   "quality_score": 65
 }

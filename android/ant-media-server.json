@@ -25,22 +25,27 @@
     "cmaf",
     "hls",
     "ios-sdk",
-    "live-streaming"
+    "live-streaming",
+    "media-server",
+    "webrtc",
+    "rtmp",
+    "rtsp",
+    "streaming"
   ],
   "alternatives": [],
-  "popularity": 9,
+  "popularity": 8,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 4708,
-    "forks": 687,
-    "open_issues": 1428,
+    "stars": 4712,
+    "forks": 688,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-18",
-  "last_updated": "2026-07-18",
-  "latest_version": "latest",
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "latest_version": "ams-v3.0.3",
   "auto_discovered": true,
   "quality_score": 80
 }

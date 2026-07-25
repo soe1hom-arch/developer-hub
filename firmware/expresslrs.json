@@ -22,22 +22,25 @@
     "lora",
     "lr1121",
     "quadcopter",
-    "rc"
+    "rc",
+    "remote-control",
+    "sx1280",
+    "sx1276"
   ],
   "alternatives": [],
-  "popularity": 10,
+  "popularity": 9,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 5086,
-    "forks": 1459,
-    "open_issues": 44,
+    "stars": 5157,
+    "forks": 1471,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-18",
-  "last_updated": "2026-07-18",
-  "latest_version": "latest",
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "latest_version": "4.1.0",
   "auto_discovered": true,
   "quality_score": 65
 }

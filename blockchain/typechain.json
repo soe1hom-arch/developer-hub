@@ -29,19 +29,19 @@
     "web3"
   ],
   "alternatives": [],
-  "popularity": 7,
+  "popularity": 8,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
     "stars": 2795,
-    "forks": 376,
-    "open_issues": 127,
+    "forks": 375,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-18",
-  "last_updated": "2026-07-18",
-  "latest_version": "latest",
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "latest_version": "typechain@8.3.2",
   "auto_discovered": true,
   "quality_score": 65
 }

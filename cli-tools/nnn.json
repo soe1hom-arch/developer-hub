@@ -24,7 +24,11 @@
     "command-line",
     "developer-tools",
     "disk-usage",
-    "file-manager"
+    "file-manager",
+    "terminal",
+    "file-preview",
+    "vim",
+    "productivity"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -32,14 +36,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 21710,
-    "forks": 811,
-    "open_issues": 4,
+    "stars": 21727,
+    "forks": 812,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-18",
-  "last_updated": "2026-07-18",
-  "latest_version": "latest",
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "latest_version": "v5.2",
   "auto_discovered": true,
   "quality_score": 70
 }

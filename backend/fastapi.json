@@ -7,7 +7,7 @@
   "documentation": "https://fastapi.tiangolo.com",
   "github_repository": "https://github.com/tiangolo/fastapi",
   "license": "MIT",
-  "latest_version": "0.139.2",
+  "latest_version": "0.140.0",
   "programming_languages": [
     "Python"
   ],
@@ -44,11 +44,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-18",
-  "last_updated": "2026-07-18",
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
   "repository_statistics": {
-    "stars": 100628,
-    "forks": 9635,
+    "stars": 100846,
+    "forks": 9683,
     "open_issues": 0,
     "watchers": 0
   }

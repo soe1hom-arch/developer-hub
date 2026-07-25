@@ -24,7 +24,10 @@
     "grid",
     "grouping",
     "hooks",
-    "javascript"
+    "javascript",
+    "react",
+    "table",
+    "sorting"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -32,14 +35,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 28193,
-    "forks": 3543,
-    "open_issues": 358,
+    "stars": 28225,
+    "forks": 3552,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-18",
-  "last_updated": "2026-07-18",
-  "latest_version": "latest",
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "latest_version": "@tanstack/angular-table@8.21.4",
   "auto_discovered": true,
   "quality_score": 90
 }

@@ -1,0 +1,39 @@
+{
+  "id": "opentui",
+  "name": "opentui",
+  "category": "cli-tools",
+  "description": "OpenTUI is a library for building terminal user interfaces (TUIs)",
+  "official_website": "https://opentui.com",
+  "documentation": "https://github.com/anomalyco/opentui#readme",
+  "github_repository": "https://github.com/anomalyco/opentui",
+  "license": "MIT",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "opencode",
+    "tui"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 12705,
+    "forks": 661,
+    "open_issues": 195,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-25",
+  "last_updated": "2026-07-25",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 78
+}

@@ -2,7 +2,7 @@ name: Weekly Maintenance
 
 on:
   schedule:
-    - cron: "0 8 * * 0"  # Every Sunday at 08:00 UTC
+    - cron: "0 8 * * 0"  # Setiap hari Minggu pukul 08:00 UTC
   workflow_dispatch:
 
 jobs:
@@ -12,8 +12,14 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      # Menggunakan PAT_TOKEN Anda saat checkout agar proses git push diizinkan menembus proteksi branch
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT_TOKEN }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
@@ -49,12 +55,15 @@ jobs:
       - name: Commit & push ke main
         run: |
           git config user.name "Wandi"
-          git config user.email "soe1hom-arch@users.noreply.github.com"
+          git config user.email "soe1hom-arch@://github.com"
           git add -A
+          
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
           fi
-          git pull --rebase origin main 2>/dev/null || true
+          
           git commit -m "chore: weekly maintenance $(date +'%Y-%m-%d')"
+          git pull --rebase origin main
           git push origin main
+

@@ -25,17 +25,17 @@ jobs:
 
       - name: Comprehensive health check
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: python scripts/health_check.py --quick --report
 
       - name: Scan for new releases
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: python scripts/scrape_external.py --sources termux,releases,cli-tools,awesome-lists,github-trending --max-items 15
 
       - name: Refresh discover proposals
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
           python scripts/auto_discover.py --max-per-category 10
           python scripts/auto_discover.py --commit

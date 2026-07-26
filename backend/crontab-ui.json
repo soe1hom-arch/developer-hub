@@ -1,0 +1,42 @@
+{
+  "id": "crontab-ui",
+  "name": "crontab-ui",
+  "category": "backend",
+  "description": "Easy and safe way to manage your crontab file",
+  "official_website": "https://lifepluslinux.blogspot.com/2015/06/crontab-ui-easy-and-safe-way-to-manage.html",
+  "documentation": "https://github.com/alseambusher/crontab-ui#readme",
+  "github_repository": "https://github.com/alseambusher/crontab-ui",
+  "license": "MIT",
+  "programming_languages": [
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "crontab",
+    "nodejs",
+    "unix"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 3270,
+    "forks": 498,
+    "open_issues": 16,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-26",
+  "last_updated": "2026-07-26",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 67
+}

@@ -1,0 +1,43 @@
+{
+  "id": "esp8266audio",
+  "name": "ESP8266Audio",
+  "category": "firmware",
+  "description": "Arduino library to play MOD, WAV, FLAC, MIDI, RTTTL, OGG/Opus, MP3, and AAC files on I2S DACs or with a software emulated delta-sigma DAC on the ESP8266 and ESP32 and Pico",
+  "official_website": "https://github.com/earlephilhower/ESP8266Audio",
+  "documentation": "https://github.com/earlephilhower/ESP8266Audio#readme",
+  "github_repository": "https://github.com/earlephilhower/ESP8266Audio",
+  "license": "GPL-3.0",
+  "programming_languages": [
+    "C"
+  ],
+  "platforms": [
+    "Linux",
+    "Embedded"
+  ],
+  "tags": [
+    "aac",
+    "arduino",
+    "dac",
+    "esp32",
+    "esp8266",
+    "flac",
+    "hacktoberfest",
+    "i2s"
+  ],
+  "alternatives": [],
+  "popularity": 7,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 2372,
+    "forks": 470,
+    "open_issues": 1,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-26",
+  "last_updated": "2026-07-26",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 70
+}

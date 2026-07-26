@@ -1,0 +1,47 @@
+{
+  "id": "cloud-custodian",
+  "name": "cloud-custodian",
+  "category": "cloud",
+  "description": "Rules engine for cloud security, cost optimization, and governance, DSL in yaml for policies to query, filter, and take actions on resources",
+  "official_website": "https://cloudcustodian.io",
+  "documentation": "https://github.com/cloud-custodian/cloud-custodian#readme",
+  "github_repository": "https://github.com/cloud-custodian/cloud-custodian",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "aws",
+    "azure",
+    "cloud",
+    "cloud-computing",
+    "compliance",
+    "finops",
+    "gcp",
+    "kubernetes"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 6035,
+    "forks": 1626,
+    "open_issues": 1707,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-26",
+  "last_updated": "2026-07-26",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

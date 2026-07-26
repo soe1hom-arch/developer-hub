@@ -24,22 +24,24 @@
     "enterprise",
     "enterprise-solutions",
     "knowledge-graph",
-    "local-llm"
+    "local-llm",
+    "obsidian-md",
+    "obsidian-plugin"
   ],
   "alternatives": [],
-  "popularity": 5,
+  "popularity": 7,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 614,
-    "forks": 54,
-    "open_issues": 2,
+    "stars": 733,
+    "forks": 71,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-19",
-  "last_updated": "2026-07-19",
-  "latest_version": "latest",
+  "last_checked": "2026-07-26",
+  "last_updated": "2026-07-26",
+  "latest_version": "v1.1.0",
   "auto_discovered": true,
   "quality_score": 65
 }

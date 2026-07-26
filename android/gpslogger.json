@@ -25,22 +25,23 @@
     "gpslogger",
     "intellij",
     "java",
-    "logging"
+    "logging",
+    "satellite"
   ],
   "alternatives": [],
-  "popularity": 7,
+  "popularity": 8,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 2555,
+    "stars": 2565,
     "forks": 645,
-    "open_issues": 203,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-19",
-  "last_updated": "2026-07-19",
-  "latest_version": "latest",
+  "last_checked": "2026-07-26",
+  "last_updated": "2026-07-26",
+  "latest_version": "v136",
   "auto_discovered": true,
   "quality_score": 75
 }

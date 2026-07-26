@@ -26,22 +26,24 @@
     "java",
     "kotlin",
     "mobile",
-    "nosql"
+    "nosql",
+    "sustainable",
+    "sqlite"
   ],
   "alternatives": [],
-  "popularity": 9,
+  "popularity": 8,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 4618,
-    "forks": 307,
-    "open_issues": 147,
+    "stars": 4617,
+    "forks": 309,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-19",
-  "last_updated": "2026-07-19",
-  "latest_version": "latest",
+  "last_checked": "2026-07-26",
+  "last_updated": "2026-07-26",
+  "latest_version": "V5.4.2",
   "auto_discovered": true,
   "quality_score": 75
 }

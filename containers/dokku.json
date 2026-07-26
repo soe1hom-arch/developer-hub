@@ -7,7 +7,7 @@
   "documentation": "https://github.com/dokku/dokku#readme",
   "github_repository": "https://github.com/dokku/dokku",
   "license": "MIT",
-  "latest_version": "v0.38.24",
+  "latest_version": "v0.38.25",
   "programming_languages": [
     "Shell"
   ],
@@ -38,11 +38,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 32044,
-    "forks": 2058,
+    "stars": 32056,
+    "forks": 2062,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-19",
-  "last_updated": "2026-07-19"
+  "last_checked": "2026-07-26",
+  "last_updated": "2026-07-26"
 }

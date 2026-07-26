@@ -24,22 +24,27 @@
     "anthropic",
     "claude",
     "claude-code",
-    "claude-code-alternative"
+    "claude-code-alternative",
+    "cli",
+    "cpp26",
+    "llm",
+    "terminal",
+    "tui"
   ],
   "alternatives": [],
-  "popularity": 5,
+  "popularity": 6,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 80,
-    "forks": 6,
+    "stars": 112,
+    "forks": 11,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-19",
-  "last_updated": "2026-07-19",
-  "latest_version": "latest",
+  "last_checked": "2026-07-26",
+  "last_updated": "2026-07-26",
+  "latest_version": "v0.2.8",
   "auto_discovered": true,
   "quality_score": 60
 }

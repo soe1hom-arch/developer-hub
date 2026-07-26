@@ -26,22 +26,28 @@
     "ci-cd",
     "cloud",
     "devops",
-    "devops-basic"
+    "devops-basic",
+    "helm",
+    "jenkins",
+    "k8s",
+    "terraform",
+    "elk",
+    "python"
   ],
   "alternatives": [],
-  "popularity": 6,
+  "popularity": 8,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
     "stars": 1868,
-    "forks": 212,
-    "open_issues": 3,
+    "forks": 213,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-19",
-  "last_updated": "2026-07-19",
-  "latest_version": "latest",
+  "last_checked": "2026-07-26",
+  "last_updated": "2026-07-26",
+  "latest_version": "v2026.06.02",
   "auto_discovered": true,
   "quality_score": 75
 }

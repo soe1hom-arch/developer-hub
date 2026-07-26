@@ -7,7 +7,7 @@
   "documentation": "https://github.com/tokio-rs/tokio#readme",
   "github_repository": "https://github.com/tokio-rs/tokio",
   "license": "MIT",
-  "latest_version": "tokio-1.53.0",
+  "latest_version": "tokio-1.53.1",
   "programming_languages": [
     "Rust"
   ],
@@ -31,11 +31,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 32561,
-    "forks": 3151,
+    "stars": 32650,
+    "forks": 3169,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-19",
-  "last_updated": "2026-07-19"
+  "last_checked": "2026-07-26",
+  "last_updated": "2026-07-26"
 }

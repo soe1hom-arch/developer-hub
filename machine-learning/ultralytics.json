@@ -7,7 +7,7 @@
   "documentation": "https://github.com/ultralytics/ultralytics#readme",
   "github_repository": "https://github.com/ultralytics/ultralytics",
   "license": "AGPL-3.0",
-  "latest_version": "v8.4.101",
+  "latest_version": "v8.4.106",
   "programming_languages": [
     "Python"
   ],
@@ -41,11 +41,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 59627,
-    "forks": 11405,
+    "stars": 59877,
+    "forks": 11450,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-19",
-  "last_updated": "2026-07-19"
+  "last_checked": "2026-07-26",
+  "last_updated": "2026-07-26"
 }

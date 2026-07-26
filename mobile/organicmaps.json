@@ -7,7 +7,7 @@
   "documentation": "https://github.com/organicmaps/organicmaps#readme",
   "github_repository": "https://github.com/organicmaps/organicmaps",
   "license": "NOASSERTION",
-  "latest_version": "2026.07.15-11-android",
+  "latest_version": "2026.07.23-6-android",
   "programming_languages": [
     "C++"
   ],
@@ -39,11 +39,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 14771,
-    "forks": 1500,
+    "stars": 14865,
+    "forks": 1508,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-19",
-  "last_updated": "2026-07-19"
+  "last_checked": "2026-07-26",
+  "last_updated": "2026-07-26"
 }

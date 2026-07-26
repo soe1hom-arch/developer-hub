@@ -25,7 +25,12 @@
     "hero",
     "ios",
     "ios-animation",
-    "ios-framework"
+    "ios-framework",
+    "swift",
+    "ios-transition",
+    "material-design",
+    "transition-animation",
+    "ios-swift"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -33,14 +38,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 22479,
+    "stars": 22482,
     "forks": 1733,
-    "open_issues": 42,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-19",
-  "last_updated": "2026-07-19",
-  "latest_version": "latest",
+  "last_checked": "2026-07-26",
+  "last_updated": "2026-07-26",
+  "latest_version": "1.6.4",
   "auto_discovered": true,
   "quality_score": 80
 }

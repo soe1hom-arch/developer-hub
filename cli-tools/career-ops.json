@@ -7,7 +7,7 @@
   "documentation": "https://github.com/santifer/career-ops#readme",
   "github_repository": "https://github.com/santifer/career-ops",
   "license": "MIT",
-  "latest_version": "career-ops-v1.21.0",
+  "latest_version": "career-ops-v1.22.0",
   "programming_languages": [
     "JavaScript"
   ],
@@ -42,11 +42,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 60524,
-    "forks": 11912,
+    "stars": 61558,
+    "forks": 12123,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-19",
-  "last_updated": "2026-07-19"
+  "last_checked": "2026-07-26",
+  "last_updated": "2026-07-26"
 }

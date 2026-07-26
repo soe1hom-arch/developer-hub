@@ -7,7 +7,7 @@
   "documentation": "https://github.com/saltstack/salt#readme",
   "github_repository": "https://github.com/saltstack/salt",
   "license": "Apache-2.0",
-  "latest_version": "v3008.2",
+  "latest_version": "v3008.1-2",
   "programming_languages": [
     "Python"
   ],
@@ -38,11 +38,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 15561,
-    "forks": 5602,
+    "stars": 15578,
+    "forks": 5607,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-19",
-  "last_updated": "2026-07-19"
+  "last_checked": "2026-07-26",
+  "last_updated": "2026-07-26"
 }

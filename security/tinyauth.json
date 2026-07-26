@@ -26,22 +26,25 @@
     "middleware",
     "nginx",
     "oidc",
-    "selfhosted"
+    "selfhosted",
+    "sso",
+    "totp",
+    "typescipt"
   ],
   "alternatives": [],
-  "popularity": 10,
+  "popularity": 9,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 7908,
-    "forks": 252,
-    "open_issues": 35,
+    "stars": 7995,
+    "forks": 259,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-19",
-  "last_updated": "2026-07-19",
-  "latest_version": "latest",
+  "last_checked": "2026-07-26",
+  "last_updated": "2026-07-26",
+  "latest_version": "v5.1.2",
   "auto_discovered": true,
   "quality_score": 80
 }

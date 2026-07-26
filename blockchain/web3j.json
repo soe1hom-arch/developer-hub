@@ -26,22 +26,24 @@
     "java",
     "reactivex",
     "rxjava",
-    "smart-contract-tools"
+    "smart-contract-tools",
+    "solidity",
+    "smart-contracts"
   ],
   "alternatives": [],
-  "popularity": 10,
+  "popularity": 9,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 5389,
-    "forks": 1773,
-    "open_issues": 153,
+    "stars": 5391,
+    "forks": 1772,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-19",
-  "last_updated": "2026-07-19",
-  "latest_version": "latest",
+  "last_checked": "2026-07-26",
+  "last_updated": "2026-07-26",
+  "latest_version": "v6.0.0",
   "auto_discovered": true,
   "quality_score": 80
 }

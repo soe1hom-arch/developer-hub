@@ -24,7 +24,15 @@
     "bug-tracker",
     "gantt",
     "gantt-chart",
-    "ifc"
+    "ifc",
+    "project-management",
+    "openproject",
+    "ruby",
+    "issue-tracker",
+    "scrum",
+    "project-planning",
+    "timeline",
+    "roadmap"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -32,14 +40,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 15591,
-    "forks": 3363,
-    "open_issues": 206,
+    "stars": 15669,
+    "forks": 3383,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-19",
-  "last_updated": "2026-07-19",
-  "latest_version": "latest",
+  "last_checked": "2026-07-26",
+  "last_updated": "2026-07-26",
+  "latest_version": "v17.6.0",
   "auto_discovered": true,
   "quality_score": 90
 }

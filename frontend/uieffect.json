@@ -24,22 +24,28 @@
     "edge-detection",
     "effect",
     "grayscale",
-    "hsv-color"
+    "hsv-color",
+    "unity",
+    "ugui",
+    "ui",
+    "sepia",
+    "shader",
+    "unity3d"
   ],
   "alternatives": [],
-  "popularity": 10,
+  "popularity": 9,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 7459,
-    "forks": 935,
-    "open_issues": 9,
+    "stars": 7490,
+    "forks": 936,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-19",
-  "last_updated": "2026-07-19",
-  "latest_version": "latest",
+  "last_checked": "2026-07-26",
+  "last_updated": "2026-07-26",
+  "latest_version": "5.11.5",
   "auto_discovered": true,
   "quality_score": 85
 }

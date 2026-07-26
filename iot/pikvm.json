@@ -22,7 +22,12 @@
     "ipkvm",
     "ipmi",
     "kvm",
-    "mass-storage-device"
+    "mass-storage-device",
+    "raspberry-pi",
+    "vnc",
+    "pi-kvm",
+    "pikvm",
+    "video-capture-device"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -30,13 +35,13 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 10167,
+    "stars": 10190,
     "forks": 560,
-    "open_issues": 89,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-19",
-  "last_updated": "2026-07-19",
+  "last_checked": "2026-07-26",
+  "last_updated": "2026-07-26",
   "latest_version": "latest",
   "auto_discovered": true,
   "quality_score": 80

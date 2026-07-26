@@ -25,22 +25,27 @@
     "http-requests",
     "interceptor",
     "kotlin",
-    "kotlin-library"
+    "kotlin-library",
+    "okhttp",
+    "okhttpclient",
+    "proxy",
+    "library",
+    "okhttp3"
   ],
   "alternatives": [],
-  "popularity": 9,
+  "popularity": 8,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 4539,
-    "forks": 458,
-    "open_issues": 79,
+    "stars": 4544,
+    "forks": 459,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-19",
-  "last_updated": "2026-07-19",
-  "latest_version": "latest",
+  "last_checked": "2026-07-26",
+  "last_updated": "2026-07-26",
+  "latest_version": "4.3.1",
   "auto_discovered": true,
   "quality_score": 65
 }

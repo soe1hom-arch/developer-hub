@@ -7,7 +7,7 @@
   "documentation": "https://github.com/krayin/laravel-crm#readme",
   "github_repository": "https://github.com/krayin/laravel-crm",
   "license": "MIT",
-  "latest_version": "v2.2.3",
+  "latest_version": "v2.2.4",
   "programming_languages": [
     "Blade"
   ],
@@ -43,11 +43,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 23409,
-    "forks": 1531,
+    "stars": 23495,
+    "forks": 1537,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-19",
-  "last_updated": "2026-07-19"
+  "last_checked": "2026-07-26",
+  "last_updated": "2026-07-26"
 }

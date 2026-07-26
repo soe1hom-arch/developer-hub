@@ -24,7 +24,12 @@
     "confirmation-dialog",
     "dialog",
     "modal",
-    "notifications"
+    "notifications",
+    "sweetalert",
+    "popup",
+    "prompt",
+    "toast",
+    "wai-aria"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -32,14 +37,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 18100,
+    "stars": 18104,
     "forks": 1632,
-    "open_issues": 4,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-19",
-  "last_updated": "2026-07-19",
-  "latest_version": "latest",
+  "last_checked": "2026-07-26",
+  "last_updated": "2026-07-26",
+  "latest_version": "v11.26.25",
   "auto_discovered": true,
   "quality_score": 90
 }

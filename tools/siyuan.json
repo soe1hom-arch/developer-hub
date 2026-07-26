@@ -26,7 +26,13 @@
     "knowledge-base",
     "knowledge-graph",
     "local-first",
-    "markdown"
+    "markdown",
+    "note-taking",
+    "s3",
+    "pdf",
+    "webdav",
+    "self-hosted",
+    "notes-app"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -34,14 +40,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 45243,
-    "forks": 2897,
-    "open_issues": 288,
+    "stars": 45419,
+    "forks": 2919,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-19",
-  "last_updated": "2026-07-19",
-  "latest_version": "latest",
+  "last_checked": "2026-07-26",
+  "last_updated": "2026-07-26",
+  "latest_version": "v3.7.3",
   "auto_discovered": true,
   "quality_score": 90
 }

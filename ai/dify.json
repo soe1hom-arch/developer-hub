@@ -35,7 +35,8 @@
     "rag",
     "orchestration",
     "gpt-4",
-    "nextjs"
+    "nextjs",
+    "workflow"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -44,11 +45,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 149270,
-    "forks": 23516,
+    "stars": 150255,
+    "forks": 23676,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-19",
-  "last_updated": "2026-07-19"
+  "last_checked": "2026-07-26",
+  "last_updated": "2026-07-26"
 }

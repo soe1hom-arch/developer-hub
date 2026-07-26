@@ -25,21 +25,23 @@
     "instant-messaging",
     "messaging",
     "messenger",
-    "messenger-client"
+    "messenger-client",
+    "sdk",
+    "xmpp"
   ],
   "alternatives": [],
-  "popularity": 6,
+  "popularity": 8,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
     "stars": 1642,
     "forks": 602,
-    "open_issues": 8,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-19",
-  "last_updated": "2026-07-19",
+  "last_checked": "2026-07-26",
+  "last_updated": "2026-07-26",
   "latest_version": "latest",
   "auto_discovered": true,
   "quality_score": 70

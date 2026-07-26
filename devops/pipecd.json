@@ -26,22 +26,30 @@
     "cncf",
     "cncf-project",
     "continuous-delivery",
-    "devops"
+    "devops",
+    "kubernetes",
+    "terraform",
+    "serverless",
+    "gitops",
+    "infrastructure",
+    "istio",
+    "ecs",
+    "lambda"
   ],
   "alternatives": [],
-  "popularity": 6,
+  "popularity": 8,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 1328,
-    "forks": 318,
-    "open_issues": 261,
+    "stars": 1330,
+    "forks": 321,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-19",
-  "last_updated": "2026-07-19",
-  "latest_version": "latest",
+  "last_checked": "2026-07-26",
+  "last_updated": "2026-07-26",
+  "latest_version": "v0.57.0",
   "auto_discovered": true,
   "quality_score": 75
 }

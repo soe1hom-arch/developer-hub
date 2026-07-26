@@ -24,7 +24,8 @@
     "react-native",
     "reactjs",
     "typescript",
-    "ux"
+    "ux",
+    "validation"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -33,13 +34,13 @@
   "open_source": true,
   "repository_statistics": {
     "stars": 44801,
-    "forks": 2448,
-    "open_issues": 10,
+    "forks": 2454,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-19",
-  "last_updated": "2026-07-19",
-  "latest_version": "latest",
+  "last_checked": "2026-07-26",
+  "last_updated": "2026-07-26",
+  "latest_version": "v7.83.0",
   "auto_discovered": true,
   "quality_score": 85
 }

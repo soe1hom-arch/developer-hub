@@ -1,0 +1,45 @@
+{
+  "id": "fzy",
+  "name": "fzy",
+  "category": "cli-tools",
+  "description": ":mag: A simple, fast fuzzy finder for the terminal",
+  "official_website": "https://github.com/jhawthorn/fzy",
+  "documentation": "https://github.com/jhawthorn/fzy#readme",
+  "github_repository": "https://github.com/jhawthorn/fzy",
+  "license": "MIT",
+  "programming_languages": [
+    "C"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "c",
+    "cli",
+    "fuzzy",
+    "fuzzy-finders",
+    "fuzzy-search",
+    "fuzzyfinder",
+    "fzy",
+    "unix"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 3284,
+    "forks": 144,
+    "open_issues": 57,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-26",
+  "last_updated": "2026-07-26",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 65
+}

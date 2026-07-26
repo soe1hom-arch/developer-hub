@@ -7,7 +7,7 @@
   "documentation": "https://github.com/dapr/dapr#readme",
   "github_repository": "https://github.com/dapr/dapr",
   "license": "Apache-2.0",
-  "latest_version": "v1.18.1",
+  "latest_version": "v1.18.2",
   "programming_languages": [
     "Go"
   ],
@@ -37,11 +37,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 25969,
-    "forks": 2113,
+    "stars": 25985,
+    "forks": 2117,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-19",
-  "last_updated": "2026-07-19"
+  "last_checked": "2026-07-26",
+  "last_updated": "2026-07-26"
 }

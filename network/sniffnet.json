@@ -7,7 +7,7 @@
   "documentation": "https://github.com/GyulyVGC/sniffnet#readme",
   "github_repository": "https://github.com/GyulyVGC/sniffnet",
   "license": "Apache-2.0",
-  "latest_version": "v1.5.0",
+  "latest_version": "v1.5.1",
   "programming_languages": [
     "Rust"
   ],
@@ -43,11 +43,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 40059,
-    "forks": 1777,
+    "stars": 40156,
+    "forks": 1799,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-19",
-  "last_updated": "2026-07-19"
+  "last_checked": "2026-07-26",
+  "last_updated": "2026-07-26"
 }

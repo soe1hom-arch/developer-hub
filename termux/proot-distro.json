@@ -7,7 +7,7 @@
   "documentation": "https://github.com/termux/proot-distro#readme",
   "github_repository": "https://github.com/termux/proot-distro",
   "license": "GPL-3.0",
-  "latest_version": "v5.4.1",
+  "latest_version": "v5.5.0",
   "programming_languages": [
     "Python"
   ],
@@ -28,11 +28,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 3281,
-    "forks": 412,
+    "stars": 3308,
+    "forks": 414,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-19",
-  "last_updated": "2026-07-19"
+  "last_checked": "2026-07-26",
+  "last_updated": "2026-07-26"
 }

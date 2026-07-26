@@ -26,22 +26,24 @@
     "security",
     "self-hosted",
     "self-hosting",
-    "selfhosted"
+    "selfhosted",
+    "selfhosting",
+    "server"
   ],
   "alternatives": [],
-  "popularity": 10,
+  "popularity": 9,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 6029,
-    "forks": 232,
-    "open_issues": 175,
+    "stars": 6050,
+    "forks": 235,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-19",
-  "last_updated": "2026-07-19",
-  "latest_version": "latest",
+  "last_checked": "2026-07-26",
+  "last_updated": "2026-07-26",
+  "latest_version": "v0.22.30",
   "auto_discovered": true,
   "quality_score": 85
 }

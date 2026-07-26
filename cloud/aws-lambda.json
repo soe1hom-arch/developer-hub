@@ -7,7 +7,7 @@
   "documentation": "https://docs.aws.amazon.com/lambda",
   "github_repository": "https://github.com/serverless/serverless",
   "license": "NOASSERTION",
-  "latest_version": "sf-core@4.39.0",
+  "latest_version": "sf-core@4.40.0",
   "programming_languages": [
     "JavaScript",
     "Python",
@@ -41,11 +41,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-19",
-  "last_updated": "2026-07-19",
+  "last_checked": "2026-07-26",
+  "last_updated": "2026-07-26",
   "repository_statistics": {
-    "stars": 46923,
-    "forks": 5730,
+    "stars": 46924,
+    "forks": 5729,
     "open_issues": 0,
     "watchers": 0
   }

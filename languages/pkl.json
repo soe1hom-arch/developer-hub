@@ -7,7 +7,7 @@
   "documentation": "https://github.com/apple/pkl#readme",
   "github_repository": "https://github.com/apple/pkl",
   "license": "Apache-2.0",
-  "latest_version": "0.32.0",
+  "latest_version": "0.32.1",
   "programming_languages": [
     "Java"
   ],
@@ -35,11 +35,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 11467,
-    "forks": 392,
+    "stars": 11472,
+    "forks": 394,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-19",
-  "last_updated": "2026-07-19"
+  "last_checked": "2026-07-26",
+  "last_updated": "2026-07-26"
 }

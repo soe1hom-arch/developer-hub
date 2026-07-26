@@ -24,7 +24,13 @@
     "datagrid",
     "datatable",
     "excel",
-    "filtering"
+    "filtering",
+    "react",
+    "pagination",
+    "sorting",
+    "grid",
+    "table",
+    "grouping"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -32,14 +38,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 15478,
-    "forks": 2077,
-    "open_issues": 147,
+    "stars": 15494,
+    "forks": 2083,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-19",
-  "last_updated": "2026-07-19",
-  "latest_version": "latest",
+  "last_checked": "2026-07-26",
+  "last_updated": "2026-07-26",
+  "latest_version": "release-36.0.2",
   "auto_discovered": true,
   "quality_score": 90
 }

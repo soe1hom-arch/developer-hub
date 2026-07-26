@@ -7,7 +7,7 @@
   "documentation": "https://hono.dev/docs",
   "github_repository": "https://github.com/honojs/hono",
   "license": "MIT",
-  "latest_version": "v4.12.31",
+  "latest_version": "v4.12.32",
   "programming_languages": [
     "TypeScript",
     "JavaScript",
@@ -39,11 +39,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-19",
-  "last_updated": "2026-07-19",
+  "last_checked": "2026-07-26",
+  "last_updated": "2026-07-26",
   "repository_statistics": {
-    "stars": 31397,
-    "forks": 1175,
+    "stars": 31472,
+    "forks": 1187,
     "open_issues": 0,
     "watchers": 0
   }

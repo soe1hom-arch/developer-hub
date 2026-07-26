@@ -25,7 +25,9 @@
     "dsl",
     "layout",
     "snapkit",
-    "swift"
+    "swift",
+    "xcode",
+    "ui"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -33,14 +35,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 20344,
+    "stars": 20345,
     "forks": 2044,
-    "open_issues": 10,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-19",
-  "last_updated": "2026-07-19",
-  "latest_version": "latest",
+  "last_checked": "2026-07-26",
+  "last_updated": "2026-07-26",
+  "latest_version": "6.0.0",
   "auto_discovered": true,
   "quality_score": 80
 }

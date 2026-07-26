@@ -26,22 +26,25 @@
     "graph-database",
     "graph-store",
     "multi-master",
-    "multi-model-dbms"
+    "multi-model-dbms",
+    "orientdb",
+    "nosql",
+    "performance"
   ],
   "alternatives": [],
-  "popularity": 9,
+  "popularity": 8,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 4972,
-    "forks": 871,
-    "open_issues": 353,
+    "stars": 4974,
+    "forks": 872,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-19",
-  "last_updated": "2026-07-19",
-  "latest_version": "latest",
+  "last_checked": "2026-07-26",
+  "last_updated": "2026-07-26",
+  "latest_version": "3.2.55",
   "auto_discovered": true,
   "quality_score": 80
 }

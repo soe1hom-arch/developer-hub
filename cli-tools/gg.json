@@ -1,0 +1,45 @@
+{
+  "id": "gg",
+  "name": "gg",
+  "category": "cli-tools",
+  "description": "gg - git (G)UI:  A tool for interactively manipulating the history of git repos and for making easy (enforcing) the usage of good (opinionated) practices.",
+  "official_website": "https://github.com/u-quark/gg",
+  "documentation": "https://github.com/u-quark/gg#readme",
+  "github_repository": "https://github.com/u-quark/gg",
+  "license": "GPL-3.0",
+  "programming_languages": [
+    "Haskell"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "brick",
+    "cli",
+    "git",
+    "haskell",
+    "libgit",
+    "libgit2",
+    "ncurses",
+    "nix"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 11,
+    "forks": 0,
+    "open_issues": 1,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-27",
+  "last_updated": "2026-07-27",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 50
+}

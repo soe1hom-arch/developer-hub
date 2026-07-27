@@ -21,19 +21,19 @@
     "raspberry-pi"
   ],
   "alternatives": [],
-  "popularity": 10,
+  "popularity": 9,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 9042,
+    "stars": 9051,
     "forks": 1697,
-    "open_issues": 248,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-20",
-  "last_updated": "2026-07-20",
-  "latest_version": "latest",
+  "last_checked": "2026-07-27",
+  "last_updated": "2026-07-27",
+  "latest_version": "1.11.8",
   "auto_discovered": true,
   "quality_score": 77
 }

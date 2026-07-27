@@ -25,22 +25,26 @@
     "android-ui",
     "androidkotlin",
     "androidstudio",
-    "kotlin"
+    "kotlin",
+    "kotlin-android",
+    "kotlin-library",
+    "toastlibrary",
+    "material-design"
   ],
   "alternatives": [],
-  "popularity": 6,
+  "popularity": 8,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 1535,
+    "stars": 1533,
     "forks": 136,
-    "open_issues": 32,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-20",
-  "last_updated": "2026-07-20",
-  "latest_version": "latest",
+  "last_checked": "2026-07-27",
+  "last_updated": "2026-07-27",
+  "latest_version": "v1.5",
   "auto_discovered": true,
   "quality_score": 65
 }

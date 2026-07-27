@@ -28,19 +28,19 @@
     "kubernetes"
   ],
   "alternatives": [],
-  "popularity": 10,
+  "popularity": 9,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 8479,
+    "stars": 8483,
     "forks": 445,
-    "open_issues": 52,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-20",
-  "last_updated": "2026-07-20",
-  "latest_version": "latest",
+  "last_checked": "2026-07-27",
+  "last_updated": "2026-07-27",
+  "latest_version": "v0.19.1",
   "auto_discovered": true,
   "quality_score": 75
 }

@@ -26,22 +26,29 @@
     "continuous-deployment",
     "continuous-integration",
     "devops",
-    "pipeline"
+    "pipeline",
+    "pipeline-runner",
+    "pipeline-processor",
+    "pipelines-yaml",
+    "task-runner",
+    "script",
+    "script-loader",
+    "taskrunner"
   ],
   "alternatives": [],
-  "popularity": 5,
+  "popularity": 7,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
     "stars": 644,
     "forks": 30,
-    "open_issues": 16,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-20",
-  "last_updated": "2026-07-20",
-  "latest_version": "latest",
+  "last_checked": "2026-07-27",
+  "last_updated": "2026-07-27",
+  "latest_version": "v5.9.1",
   "auto_discovered": true,
   "quality_score": 75
 }

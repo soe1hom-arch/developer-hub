@@ -22,22 +22,28 @@
     "grafana",
     "hacktoberfest",
     "home-automation",
-    "mqtt"
+    "mqtt",
+    "tesla",
+    "tesla-api",
+    "self-hosted",
+    "phoenix-liveview",
+    "openstreetmap",
+    "srtm"
   ],
   "alternatives": [],
-  "popularity": 10,
+  "popularity": 9,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 8746,
-    "forks": 990,
-    "open_issues": 80,
+    "stars": 8776,
+    "forks": 992,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-20",
-  "last_updated": "2026-07-20",
-  "latest_version": "latest",
+  "last_checked": "2026-07-27",
+  "last_updated": "2026-07-27",
+  "latest_version": "v4.0.1",
   "auto_discovered": true,
   "quality_score": 80
 }

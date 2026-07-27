@@ -25,22 +25,25 @@
     "krishnassh",
     "magisk",
     "material-design",
-    "md3"
+    "md3",
+    "otg",
+    "shell",
+    "shizuku"
   ],
   "alternatives": [],
-  "popularity": 7,
+  "popularity": 8,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 2079,
-    "forks": 110,
-    "open_issues": 28,
+    "stars": 2101,
+    "forks": 112,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-20",
-  "last_updated": "2026-07-20",
-  "latest_version": "latest",
+  "last_checked": "2026-07-27",
+  "last_updated": "2026-07-27",
+  "latest_version": "v7.4.0",
   "auto_discovered": true,
   "quality_score": 70
 }

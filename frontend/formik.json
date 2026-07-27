@@ -24,7 +24,8 @@
     "hooks",
     "react",
     "react-hooks",
-    "react-native"
+    "react-native",
+    "render-props"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -32,14 +33,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 34327,
-    "forks": 2785,
-    "open_issues": 838,
+    "stars": 34331,
+    "forks": 2784,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-20",
-  "last_updated": "2026-07-20",
-  "latest_version": "latest",
+  "last_checked": "2026-07-27",
+  "last_updated": "2026-07-27",
+  "latest_version": "formik@2.4.9",
   "auto_discovered": true,
   "quality_score": 80
 }

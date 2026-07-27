@@ -24,7 +24,10 @@
     "react",
     "react-flow",
     "svelte",
-    "svelte-flow"
+    "svelte-flow",
+    "typescript-library",
+    "typescript",
+    "workflow"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -32,14 +35,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 37706,
-    "forks": 2473,
-    "open_issues": 130,
+    "stars": 37802,
+    "forks": 2481,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-20",
-  "last_updated": "2026-07-20",
-  "latest_version": "latest",
+  "last_checked": "2026-07-27",
+  "last_updated": "2026-07-27",
+  "latest_version": "@xyflow/system@0.0.79",
   "auto_discovered": true,
   "quality_score": 90
 }

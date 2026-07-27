@@ -1,0 +1,39 @@
+{
+  "id": "fastbee",
+  "name": "FastBee",
+  "category": "firmware",
+  "description": "FastBee\u5f00\u6e90\u7269\u8054\u7f51\u5e73\u53f0\uff0c\u7b80\u5355\u6613\u7528\uff0c\u53ef\u7528\u4e8e\u642d\u5efa\u7269\u8054\u7f51\u5e73\u53f0\u4ee5\u53ca\u4e8c\u6b21\u5f00\u53d1\u548c\u5b66\u4e60\u3002\u9002\u7528\u4e8e\u667a\u80fd\u5bb6\u5c45\u3001\u667a\u6167\u529e\u516c\u3001\u667a\u6167\u793e\u533a\u3001\u519c\u4e1a\u76d1\u6d4b\u3001\u6c34\u5229\u76d1\u6d4b\u3001\u5de5\u4e1a\u63a7\u5236\u7b49\u3002",
+  "official_website": "http://fastbee.cn",
+  "documentation": "https://github.com/kerwincui/FastBee#readme",
+  "github_repository": "https://github.com/kerwincui/FastBee",
+  "license": "AGPL-3.0",
+  "programming_languages": [
+    "Java"
+  ],
+  "platforms": [
+    "Linux",
+    "Embedded"
+  ],
+  "tags": [
+    "esp8266",
+    "iot",
+    "java",
+    "smarthome"
+  ],
+  "alternatives": [],
+  "popularity": 7,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 2243,
+    "forks": 607,
+    "open_issues": 5,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-27",
+  "last_updated": "2026-07-27",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 72
+}

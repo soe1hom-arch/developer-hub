@@ -26,19 +26,19 @@
     "material-design"
   ],
   "alternatives": [],
-  "popularity": 5,
+  "popularity": 7,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
     "stars": 899,
     "forks": 64,
-    "open_issues": 6,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-20",
-  "last_updated": "2026-07-20",
-  "latest_version": "latest",
+  "last_checked": "2026-07-27",
+  "last_updated": "2026-07-27",
+  "latest_version": "0.0.4",
   "auto_discovered": true,
   "quality_score": 75
 }

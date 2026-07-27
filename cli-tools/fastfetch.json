@@ -24,7 +24,9 @@
     "flashfetch",
     "hacktoberfest",
     "macfetch",
-    "neofetch"
+    "neofetch",
+    "terminal",
+    "winfetch"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -32,14 +34,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 23810,
-    "forks": 841,
-    "open_issues": 66,
+    "stars": 23913,
+    "forks": 844,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-20",
-  "last_updated": "2026-07-20",
-  "latest_version": "latest",
+  "last_checked": "2026-07-27",
+  "last_updated": "2026-07-27",
+  "latest_version": "2.66.0",
   "auto_discovered": true,
   "quality_score": 75
 }

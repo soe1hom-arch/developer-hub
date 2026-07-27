@@ -22,21 +22,23 @@
     "nat",
     "range-extender",
     "repeater",
-    "router"
+    "router",
+    "sniffer",
+    "wireshark"
   ],
   "alternatives": [],
-  "popularity": 10,
+  "popularity": 9,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 5211,
-    "forks": 979,
-    "open_issues": 261,
+    "stars": 5222,
+    "forks": 981,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-20",
-  "last_updated": "2026-07-20",
+  "last_checked": "2026-07-27",
+  "last_updated": "2026-07-27",
   "latest_version": "latest",
   "auto_discovered": true,
   "quality_score": 70

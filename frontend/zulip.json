@@ -24,7 +24,10 @@
     "foss",
     "free",
     "javascript",
-    "python"
+    "python",
+    "zulip",
+    "python3",
+    "slack"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -32,14 +35,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 25521,
-    "forks": 9971,
-    "open_issues": 2041,
+    "stars": 25560,
+    "forks": 9991,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-20",
-  "last_updated": "2026-07-20",
-  "latest_version": "latest",
+  "last_checked": "2026-07-27",
+  "last_updated": "2026-07-27",
+  "latest_version": "12.1",
   "auto_discovered": true,
   "quality_score": 90
 }

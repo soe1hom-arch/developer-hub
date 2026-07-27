@@ -26,7 +26,13 @@
     "dart",
     "golang",
     "grammar",
-    "java"
+    "java",
+    "parsing",
+    "parser-generator",
+    "python",
+    "parse",
+    "language-recognition",
+    "javascript"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -34,14 +40,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 18957,
-    "forks": 3459,
-    "open_issues": 1073,
+    "stars": 18961,
+    "forks": 3460,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-20",
-  "last_updated": "2026-07-20",
-  "latest_version": "latest",
+  "last_checked": "2026-07-27",
+  "last_updated": "2026-07-27",
+  "latest_version": "4.13.2",
   "auto_discovered": true,
   "quality_score": 90
 }

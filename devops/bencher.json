@@ -29,19 +29,19 @@
     "performance"
   ],
   "alternatives": [],
-  "popularity": 5,
+  "popularity": 7,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 870,
-    "forks": 41,
-    "open_issues": 154,
+    "stars": 874,
+    "forks": 40,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-20",
-  "last_updated": "2026-07-20",
-  "latest_version": "latest",
+  "last_checked": "2026-07-27",
+  "last_updated": "2026-07-27",
+  "latest_version": "v0.6.11",
   "auto_discovered": true,
   "quality_score": 65
 }

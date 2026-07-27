@@ -25,19 +25,19 @@
     "web3py"
   ],
   "alternatives": [],
-  "popularity": 7,
+  "popularity": 8,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 2724,
-    "forks": 592,
-    "open_issues": 394,
+    "stars": 2723,
+    "forks": 593,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-20",
-  "last_updated": "2026-07-20",
-  "latest_version": "latest",
+  "last_checked": "2026-07-27",
+  "last_updated": "2026-07-27",
+  "latest_version": "v1.22.2",
   "auto_discovered": true,
   "quality_score": 77
 }

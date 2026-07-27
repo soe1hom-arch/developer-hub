@@ -26,22 +26,23 @@
     "devops",
     "devops-tools",
     "go",
-    "golang"
+    "golang",
+    "release-automation"
   ],
   "alternatives": [],
-  "popularity": 5,
+  "popularity": 7,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 892,
-    "forks": 45,
-    "open_issues": 10,
+    "stars": 894,
+    "forks": 44,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-20",
-  "last_updated": "2026-07-20",
-  "latest_version": "latest",
+  "last_checked": "2026-07-27",
+  "last_updated": "2026-07-27",
+  "latest_version": "v1.25.1",
   "auto_discovered": true,
   "quality_score": 70
 }

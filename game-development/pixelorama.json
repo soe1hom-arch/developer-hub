@@ -1,0 +1,45 @@
+{
+  "id": "pixelorama",
+  "name": "Pixelorama",
+  "category": "game-development",
+  "description": "Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of p",
+  "official_website": "https://www.pixelorama.org/",
+  "documentation": "https://github.com/Orama-Interactive/Pixelorama#readme",
+  "github_repository": "https://github.com/Orama-Interactive/Pixelorama",
+  "license": "MIT",
+  "programming_languages": [
+    "GDScript"
+  ],
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux",
+    "Web"
+  ],
+  "tags": [
+    "animation",
+    "art",
+    "draw",
+    "game-development",
+    "gamedev",
+    "gdscript",
+    "godot",
+    "godot-engine"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 9996,
+    "forks": 530,
+    "open_issues": 82,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-27",
+  "last_updated": "2026-07-27",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

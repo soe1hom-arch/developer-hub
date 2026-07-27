@@ -24,7 +24,14 @@
     "music",
     "reddit",
     "social-media",
-    "soundcloud"
+    "soundcloud",
+    "twitter",
+    "vk",
+    "webapp",
+    "youtube",
+    "tiktok",
+    "vimeo",
+    "video"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -32,13 +39,13 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 41659,
-    "forks": 3589,
-    "open_issues": 259,
+    "stars": 41796,
+    "forks": 3597,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-20",
-  "last_updated": "2026-07-20",
+  "last_checked": "2026-07-27",
+  "last_updated": "2026-07-27",
   "latest_version": "latest",
   "auto_discovered": true,
   "quality_score": 80

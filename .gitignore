@@ -32,4 +32,3 @@ secrets/
 *.pyo
 reports/
 .cache/
-.proposals/

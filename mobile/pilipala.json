@@ -25,17 +25,17 @@
   ],
   "alternatives": [],
   "popularity": 10,
-  "maintained": true,
-  "archived": false,
+  "maintained": false,
+  "archived": true,
   "open_source": true,
   "repository_statistics": {
-    "stars": 13857,
-    "forks": 1051,
+    "stars": 13861,
+    "forks": 1053,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-21",
-  "last_updated": "2026-07-21",
+  "last_checked": "2026-07-28",
+  "last_updated": "2026-07-28",
   "latest_version": "v1.0.27.0402",
   "auto_discovered": true,
   "quality_score": 77

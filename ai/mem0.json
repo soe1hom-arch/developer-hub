@@ -39,14 +39,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 61338,
-    "forks": 7132,
+    "stars": 61867,
+    "forks": 7211,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-21",
-  "last_updated": "2026-07-21",
-  "latest_version": "cli-node-v0.2.11",
+  "last_checked": "2026-07-28",
+  "last_updated": "2026-07-28",
+  "latest_version": "ts-v3.1.2",
   "auto_discovered": true,
   "quality_score": 80
 }

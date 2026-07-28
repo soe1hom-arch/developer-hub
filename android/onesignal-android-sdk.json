@@ -25,22 +25,28 @@
     "android-sdk",
     "email",
     "fcm",
-    "gcm"
+    "gcm",
+    "notification-service",
+    "push-notifications",
+    "sdk",
+    "java",
+    "onesignal",
+    "onesignal-notifications"
   ],
   "alternatives": [],
-  "popularity": 5,
+  "popularity": 7,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 630,
+    "stars": 631,
     "forks": 378,
-    "open_issues": 31,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-21",
-  "last_updated": "2026-07-21",
-  "latest_version": "latest",
+  "last_checked": "2026-07-28",
+  "last_updated": "2026-07-28",
+  "latest_version": "5.9.7",
   "auto_discovered": true,
   "quality_score": 65
 }

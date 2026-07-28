@@ -26,7 +26,13 @@
     "linux",
     "linux-distribution",
     "liveos",
-    "netboot"
+    "netboot",
+    "reinstall",
+    "vps",
+    "netinstall",
+    "operating-systems",
+    "os",
+    "windows"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -34,13 +40,13 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 12574,
-    "forks": 2026,
-    "open_issues": 41,
+    "stars": 12620,
+    "forks": 2035,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-21",
-  "last_updated": "2026-07-21",
+  "last_checked": "2026-07-28",
+  "last_updated": "2026-07-28",
   "latest_version": "latest",
   "auto_discovered": true,
   "quality_score": 70

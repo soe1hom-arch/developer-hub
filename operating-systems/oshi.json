@@ -28,7 +28,8 @@
     "memory-usage",
     "operating-system",
     "process-list",
-    "system-monitoring"
+    "system-monitoring",
+    "foreign-function-and-memory-api"
   ],
   "alternatives": [],
   "popularity": 9,
@@ -36,14 +37,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 5248,
-    "forks": 921,
+    "stars": 5252,
+    "forks": 920,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-21",
-  "last_updated": "2026-07-21",
-  "latest_version": "oshi-parent-7.4.1",
+  "last_checked": "2026-07-28",
+  "last_updated": "2026-07-28",
+  "latest_version": "oshi-parent-7.4.2",
   "auto_discovered": true,
   "quality_score": 75
 }

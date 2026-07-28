@@ -25,22 +25,25 @@
     "java",
     "messaging",
     "notifications",
-    "open-source"
+    "open-source",
+    "push-api",
+    "push-notifications",
+    "sdk"
   ],
   "alternatives": [],
-  "popularity": 5,
+  "popularity": 7,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
     "stars": 697,
     "forks": 291,
-    "open_issues": 10,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-21",
-  "last_updated": "2026-07-21",
-  "latest_version": "latest",
+  "last_checked": "2026-07-28",
+  "last_updated": "2026-07-28",
+  "latest_version": "26.1.4",
   "auto_discovered": true,
   "quality_score": 65
 }

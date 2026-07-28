@@ -37,14 +37,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 13031,
-    "forks": 2126,
+    "stars": 13073,
+    "forks": 2142,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-21",
-  "last_updated": "2026-07-21",
-  "latest_version": "v0.12.90+12090-macos",
+  "last_checked": "2026-07-28",
+  "last_updated": "2026-07-28",
+  "latest_version": "v0.12.141+12141-macos",
   "auto_discovered": true,
   "quality_score": 85
 }

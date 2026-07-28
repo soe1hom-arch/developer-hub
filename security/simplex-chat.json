@@ -26,7 +26,8 @@
     "haskell",
     "messaging",
     "privacy",
-    "protocol"
+    "protocol",
+    "security"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -34,14 +35,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 18814,
-    "forks": 1183,
-    "open_issues": 1194,
+    "stars": 19098,
+    "forks": 1236,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-21",
-  "last_updated": "2026-07-21",
-  "latest_version": "latest",
+  "last_checked": "2026-07-28",
+  "last_updated": "2026-07-28",
+  "latest_version": "v6.5.6",
   "auto_discovered": true,
   "quality_score": 90
 }

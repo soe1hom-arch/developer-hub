@@ -26,7 +26,12 @@
     "go",
     "homelab",
     "homepage",
-    "monitoring"
+    "monitoring",
+    "rss",
+    "self-hosted",
+    "startpage",
+    "reddit",
+    "youtube"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -34,14 +39,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 35846,
-    "forks": 1380,
-    "open_issues": 332,
+    "stars": 36025,
+    "forks": 1386,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-21",
-  "last_updated": "2026-07-21",
-  "latest_version": "latest",
+  "last_checked": "2026-07-28",
+  "last_updated": "2026-07-28",
+  "latest_version": "v0.8.5",
   "auto_discovered": true,
   "quality_score": 75
 }

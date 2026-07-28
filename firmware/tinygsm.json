@@ -1,0 +1,43 @@
+{
+  "id": "tinygsm",
+  "name": "TinyGSM",
+  "category": "firmware",
+  "description": "A small Arduino library for GSM modules, that just works",
+  "official_website": "https://github.com/vshymanskyy/TinyGSM",
+  "documentation": "https://github.com/vshymanskyy/TinyGSM#readme",
+  "github_repository": "https://github.com/vshymanskyy/TinyGSM",
+  "license": "LGPL-3.0",
+  "programming_languages": [
+    "C++"
+  ],
+  "platforms": [
+    "Linux",
+    "Embedded"
+  ],
+  "tags": [
+    "a6",
+    "a7",
+    "arduino",
+    "blynk",
+    "esp32",
+    "esp8266",
+    "gprs",
+    "lte"
+  ],
+  "alternatives": [],
+  "popularity": 7,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 2209,
+    "forks": 789,
+    "open_issues": 354,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-28",
+  "last_updated": "2026-07-28",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 65
+}

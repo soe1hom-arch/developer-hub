@@ -25,7 +25,8 @@
     "nativebase",
     "nextjs",
     "react",
-    "react-native"
+    "react-native",
+    "ui-components"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -33,14 +34,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 20389,
-    "forks": 2396,
-    "open_issues": 379,
+    "stars": 20386,
+    "forks": 2394,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-21",
-  "last_updated": "2026-07-21",
-  "latest_version": "latest",
+  "last_checked": "2026-07-28",
+  "last_updated": "2026-07-28",
+  "latest_version": "v3.4.28",
   "auto_discovered": true,
   "quality_score": 90
 }

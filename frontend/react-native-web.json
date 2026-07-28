@@ -24,7 +24,8 @@
     "react-components",
     "react-dom",
     "react-native",
-    "react-native-web"
+    "react-native-web",
+    "react-ui"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -33,13 +34,13 @@
   "open_source": true,
   "repository_statistics": {
     "stars": 22140,
-    "forks": 1822,
-    "open_issues": 158,
+    "forks": 1821,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-21",
-  "last_updated": "2026-07-21",
-  "latest_version": "latest",
+  "last_checked": "2026-07-28",
+  "last_updated": "2026-07-28",
+  "latest_version": "0.21.2",
   "auto_discovered": true,
   "quality_score": 80
 }

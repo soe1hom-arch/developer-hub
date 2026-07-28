@@ -29,13 +29,13 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 17313,
+    "stars": 17317,
     "forks": 1199,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-21",
-  "last_updated": "2026-07-21",
+  "last_checked": "2026-07-28",
+  "last_updated": "2026-07-28",
   "latest_version": "react-native-windows_v0.84.0",
   "auto_discovered": true,
   "quality_score": 85

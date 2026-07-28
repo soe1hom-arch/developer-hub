@@ -33,13 +33,13 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 6019,
-    "forks": 827,
+    "stars": 6027,
+    "forks": 830,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-21",
-  "last_updated": "2026-07-21",
+  "last_checked": "2026-07-28",
+  "last_updated": "2026-07-28",
   "latest_version": "WAMR-2.4.5",
   "auto_discovered": true,
   "quality_score": 65

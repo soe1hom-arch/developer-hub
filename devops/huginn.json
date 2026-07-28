@@ -26,7 +26,10 @@
     "huginn",
     "monitoring",
     "notifications",
-    "rss"
+    "rss",
+    "scraper",
+    "webscraping",
+    "twitter-streaming"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -34,14 +37,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 49652,
-    "forks": 4276,
-    "open_issues": 694,
+    "stars": 49699,
+    "forks": 4281,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-21",
-  "last_updated": "2026-07-21",
-  "latest_version": "latest",
+  "last_checked": "2026-07-28",
+  "last_updated": "2026-07-28",
+  "latest_version": "v2022.08.18",
   "auto_discovered": true,
   "quality_score": 75
 }

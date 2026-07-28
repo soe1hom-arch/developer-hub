@@ -26,7 +26,12 @@
     "chatgpt",
     "discord",
     "docker",
-    "gemini"
+    "gemini",
+    "openai",
+    "qqbot",
+    "gpt",
+    "qq",
+    "llm"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -34,14 +39,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 37161,
-    "forks": 2585,
-    "open_issues": 1332,
+    "stars": 38207,
+    "forks": 2713,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-21",
-  "last_updated": "2026-07-21",
-  "latest_version": "latest",
+  "last_checked": "2026-07-28",
+  "last_updated": "2026-07-28",
+  "latest_version": "v4.26.7",
   "auto_discovered": true,
   "quality_score": 90
 }

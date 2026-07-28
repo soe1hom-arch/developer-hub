@@ -1,0 +1,42 @@
+{
+  "id": "duckstation",
+  "name": "duckstation",
+  "category": "binary",
+  "description": "Fast PlayStation 1 emulator for x86-64/AArch32/AArch64/RV64",
+  "official_website": "https://github.com/stenzek/duckstation",
+  "documentation": "https://github.com/stenzek/duckstation#readme",
+  "github_repository": "https://github.com/stenzek/duckstation",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "C++"
+  ],
+  "platforms": [
+    "Linux"
+  ],
+  "tags": [
+    "appimage",
+    "emulator",
+    "enhancements",
+    "fast",
+    "hardware-renderers",
+    "jit-compiler",
+    "opengl",
+    "playstation"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 10474,
+    "forks": 946,
+    "open_issues": 76,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-28",
+  "last_updated": "2026-07-28",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 75
+}

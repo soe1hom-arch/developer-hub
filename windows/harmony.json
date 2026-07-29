@@ -26,22 +26,25 @@
     "dotnet",
     "monkey-patching",
     "mono",
-    "non-destructive"
+    "non-destructive",
+    "patcher",
+    "runtime",
+    "unity"
   ],
   "alternatives": [],
-  "popularity": 10,
+  "popularity": 9,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 6574,
-    "forks": 566,
-    "open_issues": 4,
+    "stars": 6587,
+    "forks": 568,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-22",
-  "last_updated": "2026-07-22",
-  "latest_version": "latest",
+  "last_checked": "2026-07-29",
+  "last_updated": "2026-07-29",
+  "latest_version": "v2.4.2.0",
   "auto_discovered": true,
   "quality_score": 80
 }

@@ -26,22 +26,25 @@
     "internetofthings",
     "iot",
     "microcontrollers",
-    "os"
+    "os",
+    "rtos",
+    "riot-os",
+    "riotos"
   ],
   "alternatives": [],
-  "popularity": 10,
+  "popularity": 9,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
     "stars": 5764,
-    "forks": 2106,
-    "open_issues": 877,
+    "forks": 2108,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-22",
-  "last_updated": "2026-07-22",
-  "latest_version": "latest",
+  "last_checked": "2026-07-29",
+  "last_updated": "2026-07-29",
+  "latest_version": "2026.04.01",
   "auto_discovered": true,
   "quality_score": 75
 }

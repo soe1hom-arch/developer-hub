@@ -6,7 +6,7 @@
   "official_website": "https://herdr.dev",
   "documentation": "https://github.com/ogulcancelik/herdr#readme",
   "github_repository": "https://github.com/ogulcancelik/herdr",
-  "license": "NOASSERTION",
+  "license": "Apache-2.0",
   "programming_languages": [
     "Rust"
   ],
@@ -24,7 +24,9 @@
     "claude-code",
     "cli",
     "codex",
-    "coding-agents"
+    "coding-agents",
+    "developer-tools",
+    "devtools"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -32,14 +34,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 19202,
-    "forks": 1259,
-    "open_issues": 82,
+    "stars": 22018,
+    "forks": 1479,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-22",
-  "last_updated": "2026-07-22",
-  "latest_version": "latest",
+  "last_checked": "2026-07-29",
+  "last_updated": "2026-07-29",
+  "latest_version": "v0.7.5",
   "auto_discovered": true,
   "quality_score": 80
 }

@@ -24,22 +24,27 @@
     "fade-slider",
     "javascript",
     "mobile",
-    "mobile-web"
+    "mobile-web",
+    "slider",
+    "typescript",
+    "touch",
+    "slider-plugin",
+    "slideshow"
   ],
   "alternatives": [],
-  "popularity": 10,
+  "popularity": 9,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 8356,
+    "stars": 8368,
     "forks": 257,
-    "open_issues": 11,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-22",
-  "last_updated": "2026-07-22",
-  "latest_version": "latest",
+  "last_checked": "2026-07-29",
+  "last_updated": "2026-07-29",
+  "latest_version": "v8.6.0",
   "auto_discovered": true,
   "quality_score": 80
 }

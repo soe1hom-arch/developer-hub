@@ -26,7 +26,13 @@
     "grafana",
     "jaeger",
     "kibana",
-    "log-analytics"
+    "log-analytics",
+    "logs",
+    "metrics",
+    "traces",
+    "log-management",
+    "prometheus",
+    "log-search"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -34,14 +40,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 20332,
-    "forks": 952,
-    "open_issues": 589,
+    "stars": 20432,
+    "forks": 964,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-22",
-  "last_updated": "2026-07-22",
-  "latest_version": "latest",
+  "last_checked": "2026-07-29",
+  "last_updated": "2026-07-29",
+  "latest_version": "v0.91.4",
   "auto_discovered": true,
   "quality_score": 90
 }

@@ -27,18 +27,18 @@
     "web"
   ],
   "alternatives": [],
-  "popularity": 5,
+  "popularity": 6,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
     "stars": 470,
     "forks": 66,
-    "open_issues": 7,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-22",
-  "last_updated": "2026-07-22",
+  "last_checked": "2026-07-29",
+  "last_updated": "2026-07-29",
   "latest_version": "latest",
   "auto_discovered": true,
   "quality_score": 55

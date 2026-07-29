@@ -1,0 +1,45 @@
+{
+  "id": "virtual",
+  "name": "virtual",
+  "category": "frontend",
+  "description": "\ud83e\udd16 Headless UI for Virtualizing Large Element Lists in JS/TS, React, Solid, Vue and Svelte",
+  "official_website": "https://tanstack.com/virtual",
+  "documentation": "https://github.com/TanStack/virtual#readme",
+  "github_repository": "https://github.com/TanStack/virtual",
+  "license": "MIT",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "javascript",
+    "performance",
+    "react",
+    "reactjs",
+    "scrolling",
+    "solid",
+    "solidjs",
+    "svelte"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 7027,
+    "forks": 452,
+    "open_issues": 105,
+    "watchers": 0
+  },
+  "last_checked": "2026-07-29",
+  "last_updated": "2026-07-29",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

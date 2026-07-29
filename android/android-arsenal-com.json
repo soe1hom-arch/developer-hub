@@ -25,21 +25,22 @@
     "android-development",
     "android-library",
     "android-sdk",
-    "android-ui"
+    "android-ui",
+    "android-wear"
   ],
   "alternatives": [],
-  "popularity": 5,
+  "popularity": 7,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
     "stars": 551,
     "forks": 218,
-    "open_issues": 3,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-22",
-  "last_updated": "2026-07-22",
+  "last_checked": "2026-07-29",
+  "last_updated": "2026-07-29",
   "latest_version": "latest",
   "auto_discovered": true,
   "quality_score": 65

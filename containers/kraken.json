@@ -28,19 +28,19 @@
     "p2p"
   ],
   "alternatives": [],
-  "popularity": 10,
+  "popularity": 9,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
     "stars": 6728,
-    "forks": 478,
-    "open_issues": 122,
+    "forks": 480,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-22",
-  "last_updated": "2026-07-22",
-  "latest_version": "latest",
+  "last_checked": "2026-07-29",
+  "last_updated": "2026-07-29",
+  "latest_version": "v0.1.27",
   "auto_discovered": true,
   "quality_score": 70
 }

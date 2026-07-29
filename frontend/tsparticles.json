@@ -24,22 +24,29 @@
     "canvas",
     "confetti",
     "fireworks",
-    "hacktoberfest"
+    "hacktoberfest",
+    "particles",
+    "typescript",
+    "npm",
+    "javascript",
+    "web",
+    "tsparticles",
+    "svelte"
   ],
   "alternatives": [],
-  "popularity": 10,
+  "popularity": 9,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 8930,
-    "forks": 948,
-    "open_issues": 23,
+    "stars": 8934,
+    "forks": 947,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-22",
-  "last_updated": "2026-07-22",
-  "latest_version": "latest",
+  "last_checked": "2026-07-29",
+  "last_updated": "2026-07-29",
+  "latest_version": "v4.3.1",
   "auto_discovered": true,
   "quality_score": 85
 }

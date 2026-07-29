@@ -26,22 +26,25 @@
     "edge",
     "go",
     "k3s",
-    "k8s"
+    "k8s",
+    "kubernetes",
+    "raspberry-pi",
+    "vm"
   ],
   "alternatives": [],
-  "popularity": 10,
+  "popularity": 9,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
     "stars": 7405,
-    "forks": 431,
-    "open_issues": 29,
+    "forks": 432,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-22",
-  "last_updated": "2026-07-22",
-  "latest_version": "latest",
+  "last_checked": "2026-07-29",
+  "last_updated": "2026-07-29",
+  "latest_version": "0.13.12",
   "auto_discovered": true,
   "quality_score": 65
 }

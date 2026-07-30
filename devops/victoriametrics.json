@@ -26,7 +26,12 @@
     "kubernetes",
     "monitoring",
     "observability",
-    "opentelemetry"
+    "opentelemetry",
+    "tsdb",
+    "prometheus",
+    "promql",
+    "opentsdb",
+    "thanos"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -34,14 +39,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 17380,
-    "forks": 1699,
-    "open_issues": 736,
+    "stars": 17415,
+    "forks": 1705,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-23",
-  "last_updated": "2026-07-23",
-  "latest_version": "latest",
+  "last_checked": "2026-07-30",
+  "last_updated": "2026-07-30",
+  "latest_version": "v1.148.0",
   "auto_discovered": true,
   "quality_score": 85
 }

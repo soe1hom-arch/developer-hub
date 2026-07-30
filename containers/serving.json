@@ -26,22 +26,24 @@
     "function",
     "knative",
     "kubernetes",
-    "networking"
+    "networking",
+    "serverless",
+    "scale"
   ],
   "alternatives": [],
-  "popularity": 10,
+  "popularity": 9,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 6073,
-    "forks": 1232,
-    "open_issues": 164,
+    "stars": 6074,
+    "forks": 1233,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-23",
-  "last_updated": "2026-07-23",
-  "latest_version": "latest",
+  "last_checked": "2026-07-30",
+  "last_updated": "2026-07-30",
+  "latest_version": "knative-v1.23.0",
   "auto_discovered": true,
   "quality_score": 80
 }

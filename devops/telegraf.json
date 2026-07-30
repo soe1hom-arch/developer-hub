@@ -26,7 +26,10 @@
     "kafka",
     "logs",
     "metrics",
-    "modbus"
+    "modbus",
+    "telegraf",
+    "monitoring",
+    "time-series"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -34,14 +37,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 17721,
-    "forks": 5830,
-    "open_issues": 411,
+    "stars": 17727,
+    "forks": 5831,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-23",
-  "last_updated": "2026-07-23",
-  "latest_version": "latest",
+  "last_checked": "2026-07-30",
+  "last_updated": "2026-07-30",
+  "latest_version": "v1.39.2",
   "auto_discovered": true,
   "quality_score": 85
 }

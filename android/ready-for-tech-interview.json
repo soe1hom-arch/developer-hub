@@ -25,21 +25,26 @@
     "computer-science",
     "data-structures",
     "datbase",
-    "developer"
+    "developer",
+    "interview",
+    "tech-interview",
+    "network",
+    "java",
+    "kotlin"
   ],
   "alternatives": [],
-  "popularity": 9,
+  "popularity": 8,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
     "stars": 4961,
     "forks": 532,
-    "open_issues": 5,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-23",
-  "last_updated": "2026-07-23",
+  "last_checked": "2026-07-30",
+  "last_updated": "2026-07-30",
   "latest_version": "latest",
   "auto_discovered": true,
   "quality_score": 55

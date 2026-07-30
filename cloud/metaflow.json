@@ -26,7 +26,15 @@
     "cost-optimization",
     "datascience",
     "distributed-training",
-    "gcp"
+    "gcp",
+    "machine-learning",
+    "model-management",
+    "ml",
+    "ml-platform",
+    "ml-infrastructure",
+    "python",
+    "mlops",
+    "high-performance-computing"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -34,14 +42,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 10193,
-    "forks": 1313,
-    "open_issues": 474,
+    "stars": 10202,
+    "forks": 1317,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-23",
-  "last_updated": "2026-07-23",
-  "latest_version": "latest",
+  "last_checked": "2026-07-30",
+  "last_updated": "2026-07-30",
+  "latest_version": "2.19.35",
   "auto_discovered": true,
   "quality_score": 80
 }

@@ -24,18 +24,18 @@
     "docker"
   ],
   "alternatives": [],
-  "popularity": 10,
+  "popularity": 9,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 6603,
-    "forks": 466,
-    "open_issues": 359,
+    "stars": 6629,
+    "forks": 467,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-23",
-  "last_updated": "2026-07-23",
+  "last_checked": "2026-07-30",
+  "last_updated": "2026-07-30",
   "latest_version": "latest",
   "auto_discovered": true,
   "quality_score": 72

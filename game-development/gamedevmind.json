@@ -24,21 +24,26 @@
     "game",
     "game-development",
     "game-framework",
-    "game-server"
+    "game-server",
+    "unity3d",
+    "programming",
+    "unreal-engine",
+    "unrealengine",
+    "shader"
   ],
   "alternatives": [],
-  "popularity": 10,
+  "popularity": 9,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 6416,
-    "forks": 651,
-    "open_issues": 2,
+    "stars": 6429,
+    "forks": 654,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-23",
-  "last_updated": "2026-07-23",
+  "last_checked": "2026-07-30",
+  "last_updated": "2026-07-30",
   "latest_version": "latest",
   "auto_discovered": true,
   "quality_score": 70

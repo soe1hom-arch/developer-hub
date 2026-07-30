@@ -25,22 +25,24 @@
     "matomo",
     "matomo-sdk",
     "metrics",
-    "piwik"
+    "piwik",
+    "piwik-sdk",
+    "tracker"
   ],
   "alternatives": [],
-  "popularity": 5,
+  "popularity": 6,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
     "stars": 425,
     "forks": 167,
-    "open_issues": 47,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-23",
-  "last_updated": "2026-07-23",
-  "latest_version": "latest",
+  "last_checked": "2026-07-30",
+  "last_updated": "2026-07-30",
+  "latest_version": "4.4",
   "auto_discovered": true,
   "quality_score": 60
 }

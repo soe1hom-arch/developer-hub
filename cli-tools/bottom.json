@@ -24,7 +24,8 @@
     "monitoring",
     "rust",
     "terminal",
-    "top"
+    "top",
+    "tui"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -32,14 +33,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 13778,
-    "forks": 363,
-    "open_issues": 107,
+    "stars": 13822,
+    "forks": 366,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-24",
-  "last_updated": "2026-07-24",
-  "latest_version": "latest",
+  "last_checked": "2026-07-31",
+  "last_updated": "2026-07-31",
+  "latest_version": "0.14.7",
   "auto_discovered": true,
   "quality_score": 85
 }

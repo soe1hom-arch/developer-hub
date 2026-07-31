@@ -26,22 +26,24 @@
     "go",
     "golang",
     "hybrid-cloud",
-    "multi-cloud"
+    "multi-cloud",
+    "portable",
+    "server"
   ],
   "alternatives": [],
-  "popularity": 10,
+  "popularity": 9,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 9902,
-    "forks": 855,
-    "open_issues": 2,
+    "stars": 9901,
+    "forks": 857,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-24",
-  "last_updated": "2026-07-24",
-  "latest_version": "latest",
+  "last_checked": "2026-07-31",
+  "last_updated": "2026-07-31",
+  "latest_version": "v0.46.0",
   "auto_discovered": true,
   "quality_score": 80
 }

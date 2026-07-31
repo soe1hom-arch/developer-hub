@@ -26,22 +26,24 @@
     "k8s",
     "kruise",
     "kubernetes",
-    "openkruise"
+    "openkruise",
+    "workloads",
+    "workload"
   ],
   "alternatives": [],
-  "popularity": 10,
+  "popularity": 9,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 5296,
-    "forks": 903,
-    "open_issues": 94,
+    "stars": 5302,
+    "forks": 906,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-24",
-  "last_updated": "2026-07-24",
-  "latest_version": "latest",
+  "last_checked": "2026-07-31",
+  "last_updated": "2026-07-31",
+  "latest_version": "v1.9.1",
   "auto_discovered": true,
   "quality_score": 80
 }

@@ -26,7 +26,9 @@
     "istio",
     "kubernetes",
     "kustomize",
-    "sample-application"
+    "sample-application",
+    "skaffold",
+    "samples"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -34,14 +36,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 20618,
-    "forks": 10221,
-    "open_issues": 67,
+    "stars": 20777,
+    "forks": 10261,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-24",
-  "last_updated": "2026-07-24",
-  "latest_version": "latest",
+  "last_checked": "2026-07-31",
+  "last_updated": "2026-07-31",
+  "latest_version": "v0.10.6",
   "auto_discovered": true,
   "quality_score": 85
 }

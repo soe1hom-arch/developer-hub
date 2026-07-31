@@ -24,7 +24,13 @@
     "freebsd",
     "go",
     "golang",
-    "incident-response"
+    "incident-response",
+    "linux",
+    "macos",
+    "observability",
+    "sysadmin",
+    "troubleshooting",
+    "tui"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -32,14 +38,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 18293,
-    "forks": 573,
-    "open_issues": 2,
+    "stars": 18360,
+    "forks": 578,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-24",
-  "last_updated": "2026-07-24",
-  "latest_version": "latest",
+  "last_checked": "2026-07-31",
+  "last_updated": "2026-07-31",
+  "latest_version": "v0.3.3",
   "auto_discovered": true,
   "quality_score": 90
 }

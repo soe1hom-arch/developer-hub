@@ -32,13 +32,13 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 7007,
-    "forks": 778,
+    "stars": 7070,
+    "forks": 784,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "latest_version": "ESP32-BlueJammer-official",
   "auto_discovered": true,
   "quality_score": 80

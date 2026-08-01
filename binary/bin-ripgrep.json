@@ -6,8 +6,8 @@
   "official_website": "https://github.com/BurntSushi/ripgrep",
   "documentation": "https://github.com/BurntSushi/ripgrep#readme",
   "github_repository": "https://github.com/BurntSushi/ripgrep",
-  "license": "MIT",
-  "latest_version": "master",
+  "license": "Unlicense",
+  "latest_version": "15.2.0",
   "programming_languages": [
     "Rust"
   ],
@@ -27,7 +27,9 @@
     "regex",
     "ripgrep",
     "binary",
-    "pre-built"
+    "pre-built",
+    "search",
+    "rust"
   ],
   "has_binaries": true,
   "alternatives": [],
@@ -36,12 +38,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 66525,
-    "forks": 2660,
-    "open_issues": 165,
+    "stars": 66775,
+    "forks": 2684,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "binary-release"
 }

@@ -7,7 +7,7 @@
   "documentation": "https://github.com/tarampampam/microcheck#readme",
   "github_repository": "https://github.com/tarampampam/microcheck",
   "license": "MIT",
-  "latest_version": "master",
+  "latest_version": "v1.4.0",
   "programming_languages": [
     "C"
   ],
@@ -26,11 +26,13 @@
     "healthcheck",
     "precompiled-binaries",
     "binary",
-    "pre-built"
+    "pre-built",
+    "static-binary",
+    "tools"
   ],
   "has_binaries": true,
   "alternatives": [],
-  "popularity": 4,
+  "popularity": 6,
   "maintained": true,
   "archived": false,
   "open_source": true,
@@ -40,7 +42,7 @@
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "binary-release"
 }

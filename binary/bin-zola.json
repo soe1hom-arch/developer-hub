@@ -6,8 +6,8 @@
   "official_website": "https://www.getzola.org",
   "documentation": "https://github.com/getzola/zola#readme",
   "github_repository": "https://github.com/getzola/zola",
-  "license": "MIT",
-  "latest_version": "master",
+  "license": "EUPL-1.2",
+  "latest_version": "v0.22.1",
   "programming_languages": [
     "Rust"
   ],
@@ -24,7 +24,12 @@
     "markdown",
     "markdown-to-html",
     "binary",
-    "pre-built"
+    "pre-built",
+    "static",
+    "site-generator",
+    "rust",
+    "tera",
+    "static-site-generator"
   ],
   "has_binaries": true,
   "alternatives": [],
@@ -33,12 +38,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 17277,
-    "forks": 1163,
-    "open_issues": 342,
+    "stars": 17281,
+    "forks": 1166,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "binary-release"
 }

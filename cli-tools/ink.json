@@ -7,7 +7,7 @@
   "documentation": "https://github.com/vadimdemedes/ink#readme",
   "github_repository": "https://github.com/vadimdemedes/ink",
   "license": "MIT",
-  "latest_version": "master",
+  "latest_version": "v7.1.1",
   "programming_languages": [
     "TypeScript"
   ],
@@ -33,12 +33,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 39465,
-    "forks": 1028,
-    "open_issues": 30,
+    "stars": 39530,
+    "forks": 1033,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "cli-github"
 }

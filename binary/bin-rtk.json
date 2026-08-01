@@ -6,8 +6,8 @@
   "official_website": "https://www.rtk-ai.app",
   "documentation": "https://github.com/rtk-ai/rtk#readme",
   "github_repository": "https://github.com/rtk-ai/rtk",
-  "license": "MIT",
-  "latest_version": "develop",
+  "license": "Apache-2.0",
+  "latest_version": "v0.44.1",
   "programming_languages": [
     "Rust"
   ],
@@ -27,7 +27,9 @@
     "cost-reduction",
     "developer-tools",
     "binary",
-    "pre-built"
+    "pre-built",
+    "llm",
+    "open-source"
   ],
   "has_binaries": true,
   "alternatives": [],
@@ -36,12 +38,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 73239,
-    "forks": 4566,
-    "open_issues": 1714,
+    "stars": 74197,
+    "forks": 4644,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "binary-release"
 }

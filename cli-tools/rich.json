@@ -7,7 +7,7 @@
   "documentation": "https://github.com/Textualize/rich#readme",
   "github_repository": "https://github.com/Textualize/rich",
   "license": "MIT",
-  "latest_version": "main",
+  "latest_version": "v15.0.0",
   "programming_languages": [
     "Python"
   ],
@@ -26,7 +26,11 @@
     "python-library",
     "python3",
     "cli",
-    "command-line"
+    "command-line",
+    "terminal",
+    "terminal-color",
+    "tables",
+    "syntax-highlighting"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -35,12 +39,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 56949,
-    "forks": 2269,
-    "open_issues": 363,
+    "stars": 56982,
+    "forks": 2276,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "cli-github"
 }

@@ -7,7 +7,7 @@
   "documentation": "https://github.com/dylanaraps/neofetch#readme",
   "github_repository": "https://github.com/dylanaraps/neofetch",
   "license": "MIT",
-  "latest_version": "master",
+  "latest_version": "7.1.0",
   "programming_languages": [
     "Shell"
   ],
@@ -34,12 +34,12 @@
   "archived": true,
   "open_source": true,
   "repository_statistics": {
-    "stars": 23712,
-    "forks": 1783,
-    "open_issues": 467,
+    "stars": 23713,
+    "forks": 1781,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "cli-github"
 }

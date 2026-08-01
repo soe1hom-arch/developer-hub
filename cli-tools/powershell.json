@@ -7,7 +7,7 @@
   "documentation": "https://github.com/PowerShell/PowerShell#readme",
   "github_repository": "https://github.com/PowerShell/PowerShell",
   "license": "MIT",
-  "latest_version": "master",
+  "latest_version": "v7.6.4",
   "programming_languages": [
     "C#"
   ],
@@ -35,12 +35,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 54538,
-    "forks": 8398,
-    "open_issues": 1552,
+    "stars": 54623,
+    "forks": 8408,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "cli-github"
 }

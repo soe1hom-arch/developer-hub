@@ -7,7 +7,7 @@
   "documentation": "https://github.com/1ay1/agentty#readme",
   "github_repository": "https://github.com/1ay1/agentty",
   "license": "MIT",
-  "latest_version": "master",
+  "latest_version": "v0.2.10",
   "programming_languages": [
     "C++"
   ],
@@ -27,21 +27,26 @@
     "claude-code",
     "claude-code-alternative",
     "binary",
-    "pre-built"
+    "pre-built",
+    "cli",
+    "cpp26",
+    "llm",
+    "terminal",
+    "tui"
   ],
   "has_binaries": true,
   "alternatives": [],
-  "popularity": 4,
+  "popularity": 6,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 112,
-    "forks": 11,
+    "stars": 395,
+    "forks": 12,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "binary-release"
 }

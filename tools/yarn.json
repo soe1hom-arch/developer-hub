@@ -7,7 +7,7 @@
   "documentation": "https://yarnpkg.com/docs",
   "github_repository": "https://github.com/yarnpkg/berry",
   "license": "BSD-2-Clause",
-  "latest_version": "@yarnpkg/cli/4.17.1",
+  "latest_version": "@yarnpkg/cli/4.18.0",
   "programming_languages": [
     "TypeScript",
     "JavaScript"
@@ -37,11 +37,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "repository_statistics": {
-    "stars": 8092,
-    "forks": 1308,
+    "stars": 8089,
+    "forks": 1311,
     "open_issues": 0,
     "watchers": 0
   }

@@ -7,7 +7,7 @@
   "documentation": "https://github.com/facebook/infer#readme",
   "github_repository": "https://github.com/facebook/infer",
   "license": "MIT",
-  "latest_version": "main",
+  "latest_version": "v1.3.0",
   "programming_languages": [
     "OCaml"
   ],
@@ -24,7 +24,8 @@
     "objective-c",
     "static-analysis",
     "binary",
-    "pre-built"
+    "pre-built",
+    "static-code-analysis"
   ],
   "has_binaries": true,
   "alternatives": [],
@@ -33,12 +34,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 15663,
-    "forks": 2098,
-    "open_issues": 384,
+    "stars": 15668,
+    "forks": 2097,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "binary-release"
 }

@@ -7,7 +7,7 @@
   "documentation": "https://github.com/dlvhdr/gh-dash#readme",
   "github_repository": "https://github.com/dlvhdr/gh-dash",
   "license": "MIT",
-  "latest_version": "main",
+  "latest_version": "v4.25.2",
   "programming_languages": [
     "Go"
   ],
@@ -27,7 +27,10 @@
     "glamour",
     "go",
     "binary",
-    "pre-built"
+    "pre-built",
+    "lipgloss",
+    "golang",
+    "terminal"
   ],
   "has_binaries": true,
   "alternatives": [],
@@ -36,12 +39,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 12141,
-    "forks": 422,
-    "open_issues": 89,
+    "stars": 12202,
+    "forks": 425,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "binary-release"
 }

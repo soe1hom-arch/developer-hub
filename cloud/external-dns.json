@@ -26,22 +26,27 @@
     "dns-providers",
     "dns-record",
     "dns-servers",
-    "external-dns"
+    "external-dns",
+    "kubernetes",
+    "route53",
+    "gcp",
+    "ingress",
+    "k8s-sig-network"
   ],
   "alternatives": [],
-  "popularity": 10,
+  "popularity": 9,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 9039,
-    "forks": 2901,
-    "open_issues": 167,
+    "stars": 9050,
+    "forks": 2907,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
-  "latest_version": "latest",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
+  "latest_version": "v0.21.0",
   "auto_discovered": true,
   "quality_score": 80
 }

@@ -7,7 +7,7 @@
   "documentation": "https://github.com/ekzhang/bore#readme",
   "github_repository": "https://github.com/ekzhang/bore",
   "license": "MIT",
-  "latest_version": "main",
+  "latest_version": "v0.6.0",
   "programming_languages": [
     "Rust"
   ],
@@ -36,12 +36,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 11343,
-    "forks": 516,
-    "open_issues": 14,
+    "stars": 11352,
+    "forks": 515,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "binary-release"
 }

@@ -6,8 +6,8 @@
   "official_website": "https://github.com/microsoft/pyright",
   "documentation": "https://github.com/microsoft/pyright#readme",
   "github_repository": "https://github.com/microsoft/pyright",
-  "license": "MIT",
-  "latest_version": "main",
+  "license": "NOASSERTION",
+  "latest_version": "1.1.411",
   "programming_languages": [
     "Python"
   ],
@@ -27,12 +27,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 15551,
-    "forks": 1799,
-    "open_issues": 293,
+    "stars": 15560,
+    "forks": 1802,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "binary-release"
 }

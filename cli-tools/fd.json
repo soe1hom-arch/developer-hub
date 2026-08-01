@@ -6,8 +6,8 @@
   "official_website": "https://github.com/sharkdp/fd",
   "documentation": "https://github.com/sharkdp/fd#readme",
   "github_repository": "https://github.com/sharkdp/fd",
-  "license": "MIT",
-  "latest_version": "master",
+  "license": "Apache-2.0",
+  "latest_version": "v10.4.2",
   "programming_languages": [
     "Rust"
   ],
@@ -27,7 +27,8 @@
     "search",
     "terminal",
     "cli",
-    "command-line"
+    "command-line",
+    "tool"
   ],
   "has_binaries": true,
   "alternatives": [],
@@ -36,12 +37,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 43867,
-    "forks": 1101,
-    "open_issues": 181,
+    "stars": 43932,
+    "forks": 1103,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "cli-github"
 }

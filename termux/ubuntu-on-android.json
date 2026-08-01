@@ -7,7 +7,7 @@
   "documentation": "https://github.com/RandomCoderOrg/ubuntu-on-android#readme",
   "github_repository": "https://github.com/RandomCoderOrg/ubuntu-on-android",
   "license": "MIT",
-  "latest_version": "modified",
+  "latest_version": "v3",
   "programming_languages": [
     "Shell"
   ],
@@ -23,20 +23,25 @@
     "linux-on-android",
     "proot",
     "proot-android",
-    "proot-distro"
+    "proot-distro",
+    "ubuntu",
+    "xfce4",
+    "termux",
+    "visual-studio-code",
+    "ubuntu-on-android"
   ],
   "alternatives": [],
-  "popularity": 9,
+  "popularity": 8,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 1526,
+    "stars": 1530,
     "forks": 118,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "termux-github"
 }

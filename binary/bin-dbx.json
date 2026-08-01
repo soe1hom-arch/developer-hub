@@ -6,8 +6,8 @@
   "official_website": "https://dbxio.com",
   "documentation": "https://github.com/t8y2/dbx#readme",
   "github_repository": "https://github.com/t8y2/dbx",
-  "license": "MIT",
-  "latest_version": "main",
+  "license": "Apache-2.0",
+  "latest_version": "v0.5.72",
   "programming_languages": [
     "Rust"
   ],
@@ -27,7 +27,12 @@
     "docker",
     "gui",
     "binary",
-    "pre-built"
+    "pre-built",
+    "mongodb",
+    "mysql",
+    "postgresql",
+    "redis",
+    "rust"
   ],
   "has_binaries": true,
   "alternatives": [],
@@ -36,12 +41,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 11683,
-    "forks": 1109,
-    "open_issues": 981,
+    "stars": 12855,
+    "forks": 1235,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "binary-release"
 }

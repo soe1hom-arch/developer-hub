@@ -26,7 +26,9 @@
     "musl",
     "pentest",
     "pentesting-tools",
-    "static-binaries"
+    "static-binaries",
+    "toolchain",
+    "static-binary"
   ],
   "alternatives": [],
   "popularity": 5,
@@ -36,12 +38,12 @@
   "repository_statistics": {
     "stars": 33,
     "forks": 4,
-    "open_issues": 5,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
-  "latest_version": "latest",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
+  "latest_version": "release-d6fb56ee",
   "auto_discovered": true,
   "quality_score": 45
 }

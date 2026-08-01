@@ -6,8 +6,8 @@
   "official_website": "https://github.com/NHAS/reverse_ssh",
   "documentation": "https://github.com/NHAS/reverse_ssh#readme",
   "github_repository": "https://github.com/NHAS/reverse_ssh",
-  "license": "MIT",
-  "latest_version": "main",
+  "license": "BSD-3-Clause",
+  "latest_version": "v2.7.0",
   "programming_languages": [
     "Go"
   ],
@@ -25,21 +25,26 @@
     "proxy",
     "reverse-shell",
     "binary",
-    "pre-built"
+    "pre-built",
+    "ssh",
+    "scp",
+    "shell",
+    "sftp",
+    "tunnel"
   ],
   "has_binaries": true,
   "alternatives": [],
-  "popularity": 5,
+  "popularity": 8,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 1404,
+    "stars": 1405,
     "forks": 183,
-    "open_issues": 8,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "binary-release"
 }

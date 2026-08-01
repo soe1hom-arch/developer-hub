@@ -7,7 +7,7 @@
   "documentation": "https://github.com/cmderdev/cmder#readme",
   "github_repository": "https://github.com/cmderdev/cmder",
   "license": "MIT",
-  "latest_version": "master",
+  "latest_version": "v1.3.25",
   "programming_languages": [
     "PowerShell"
   ],
@@ -24,7 +24,9 @@
     "portable",
     "powershell",
     "binary",
-    "pre-built"
+    "pre-built",
+    "ssh-agent",
+    "shell"
   ],
   "has_binaries": true,
   "alternatives": [],
@@ -33,12 +35,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 26971,
-    "forks": 2072,
-    "open_issues": 65,
+    "stars": 26976,
+    "forks": 2073,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "binary-release"
 }

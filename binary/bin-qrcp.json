@@ -7,7 +7,7 @@
   "documentation": "https://github.com/claudiodangelis/qrcp#readme",
   "github_repository": "https://github.com/claudiodangelis/qrcp",
   "license": "MIT",
-  "latest_version": "main",
+  "latest_version": "v0.11.6",
   "programming_languages": [
     "Go"
   ],
@@ -33,12 +33,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 10486,
+    "stars": 10488,
     "forks": 545,
-    "open_issues": 12,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "binary-release"
 }

@@ -7,7 +7,7 @@
   "documentation": "https://github.com/jaywcjlove/linux-command#readme",
   "github_repository": "https://github.com/jaywcjlove/linux-command",
   "license": "MIT",
-  "latest_version": "master",
+  "latest_version": "v1.22.0",
   "programming_languages": [
     "Markdown"
   ],
@@ -26,7 +26,11 @@
     "linux-command",
     "ls",
     "cli",
-    "command-line"
+    "command-line",
+    "search",
+    "screen",
+    "screenshot",
+    "ssh"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -35,12 +39,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 36461,
+    "stars": 36490,
     "forks": 6597,
-    "open_issues": 81,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "cli-github"
 }

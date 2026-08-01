@@ -7,7 +7,7 @@
   "documentation": "https://github.com/Rigellute/spotify-tui#readme",
   "github_repository": "https://github.com/Rigellute/spotify-tui",
   "license": "MIT",
-  "latest_version": "master",
+  "latest_version": "v0.25.0",
   "programming_languages": [
     "Rust"
   ],
@@ -34,12 +34,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 19272,
-    "forks": 575,
-    "open_issues": 306,
+    "stars": 19283,
+    "forks": 577,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "binary-release"
 }

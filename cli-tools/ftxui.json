@@ -7,7 +7,7 @@
   "documentation": "https://github.com/ArthurSonzogni/FTXUI#readme",
   "github_repository": "https://github.com/ArthurSonzogni/FTXUI",
   "license": "MIT",
-  "latest_version": "main",
+  "latest_version": "v7.0.1",
   "programming_languages": [
     "C++"
   ],
@@ -27,7 +27,10 @@
     "terminal",
     "terminal-based",
     "cli",
-    "command-line"
+    "command-line",
+    "ui",
+    "xterm",
+    "user-interface"
   ],
   "has_binaries": true,
   "alternatives": [],
@@ -36,12 +39,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 10475,
-    "forks": 606,
-    "open_issues": 104,
+    "stars": 10508,
+    "forks": 610,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "cli-github"
 }

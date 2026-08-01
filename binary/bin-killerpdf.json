@@ -6,8 +6,8 @@
   "official_website": "https://KillerPDF.net",
   "documentation": "https://github.com/SteveTheKiller/KillerPDF#readme",
   "github_repository": "https://github.com/SteveTheKiller/KillerPDF",
-  "license": "MIT",
-  "latest_version": "main",
+  "license": "GPL-3.0",
+  "latest_version": "v1.6.6",
   "programming_languages": [
     "C#"
   ],
@@ -25,21 +25,23 @@
     "portable",
     "small",
     "binary",
-    "pre-built"
+    "pre-built",
+    "windows",
+    "wpf"
   ],
   "has_binaries": true,
   "alternatives": [],
-  "popularity": 7,
+  "popularity": 8,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 3148,
-    "forks": 234,
-    "open_issues": 14,
+    "stars": 3231,
+    "forks": 240,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "binary-release"
 }

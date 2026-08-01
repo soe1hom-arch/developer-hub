@@ -1,0 +1,44 @@
+{
+  "id": "filebrowser",
+  "name": "filebrowser",
+  "category": "frontend",
+  "description": "File Browser provides a file managing interface within a specified directory and it can be used to upload, delete, preview and edit your files.",
+  "official_website": "https://github.com/filebrowser/filebrowser",
+  "documentation": "https://github.com/filebrowser/filebrowser#readme",
+  "github_repository": "https://github.com/filebrowser/filebrowser",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "file-browser",
+    "file-manager",
+    "file-sharing",
+    "go",
+    "material-design",
+    "self-hosted",
+    "vue"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 35728,
+    "forks": 3986,
+    "open_issues": 1,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

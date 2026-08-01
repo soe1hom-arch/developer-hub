@@ -26,22 +26,26 @@
     "cnapp",
     "cspm",
     "devops",
-    "devsecops"
+    "devsecops",
+    "steampipe",
+    "postgresql",
+    "postgresql-fdw",
+    "security"
   ],
   "alternatives": [],
-  "popularity": 10,
+  "popularity": 9,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 7900,
-    "forks": 339,
-    "open_issues": 19,
+    "stars": 7905,
+    "forks": 340,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
-  "latest_version": "latest",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
+  "latest_version": "v2.4.4",
   "auto_discovered": true,
   "quality_score": 80
 }

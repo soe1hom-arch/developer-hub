@@ -6,8 +6,8 @@
   "official_website": "https://developers.google.com/workspace",
   "documentation": "https://github.com/googleworkspace/cli#readme",
   "github_repository": "https://github.com/googleworkspace/cli",
-  "license": "MIT",
-  "latest_version": "main",
+  "license": "Apache-2.0",
+  "latest_version": "v0.22.5",
   "programming_languages": [
     "Rust"
   ],
@@ -27,7 +27,10 @@
     "google-admin",
     "google-api",
     "binary",
-    "pre-built"
+    "pre-built",
+    "google-workspace",
+    "google-calendar",
+    "google-chat"
   ],
   "has_binaries": true,
   "alternatives": [],
@@ -36,12 +39,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 30003,
-    "forks": 1751,
-    "open_issues": 129,
+    "stars": 30119,
+    "forks": 1761,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "binary-release"
 }

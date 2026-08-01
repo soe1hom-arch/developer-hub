@@ -35,13 +35,13 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 28225,
-    "forks": 3552,
+    "stars": 28249,
+    "forks": 3555,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "latest_version": "@tanstack/angular-table@8.21.4",
   "auto_discovered": true,
   "quality_score": 90

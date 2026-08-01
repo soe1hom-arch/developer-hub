@@ -7,7 +7,7 @@
   "documentation": "https://github.com/reviewdog/reviewdog#readme",
   "github_repository": "https://github.com/reviewdog/reviewdog",
   "license": "MIT",
-  "latest_version": "master",
+  "latest_version": "v0.21.0",
   "programming_languages": [
     "Go"
   ],
@@ -27,21 +27,24 @@
     "github",
     "gitlab",
     "binary",
-    "pre-built"
+    "pre-built",
+    "linter",
+    "go",
+    "lint"
   ],
   "has_binaries": true,
   "alternatives": [],
-  "popularity": 10,
+  "popularity": 9,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 9478,
-    "forks": 491,
-    "open_issues": 138,
+    "stars": 9491,
+    "forks": 492,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "binary-release"
 }

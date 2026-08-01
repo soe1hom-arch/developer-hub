@@ -6,8 +6,8 @@
   "official_website": "https://github.com/sigoden/aichat",
   "documentation": "https://github.com/sigoden/aichat#readme",
   "github_repository": "https://github.com/sigoden/aichat",
-  "license": "MIT",
-  "latest_version": "main",
+  "license": "Apache-2.0",
+  "latest_version": "v0.30.0",
   "programming_languages": [
     "Rust"
   ],
@@ -27,7 +27,11 @@
     "gemini",
     "llm",
     "binary",
-    "pre-built"
+    "pre-built",
+    "ollama",
+    "openai",
+    "rag",
+    "rust"
   ],
   "has_binaries": true,
   "alternatives": [],
@@ -36,12 +40,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 10275,
-    "forks": 714,
-    "open_issues": 93,
+    "stars": 10306,
+    "forks": 715,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "binary-release"
 }

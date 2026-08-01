@@ -7,7 +7,7 @@
   "documentation": "https://webpack.js.org/concepts",
   "github_repository": "https://github.com/webpack/webpack",
   "license": "MIT",
-  "latest_version": "v5.109.0",
+  "latest_version": "v5.109.2",
   "programming_languages": [
     "JavaScript",
     "TypeScript"
@@ -47,11 +47,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "repository_statistics": {
-    "stars": 65847,
-    "forks": 9415,
+    "stars": 65863,
+    "forks": 9462,
     "open_issues": 0,
     "watchers": 0
   }

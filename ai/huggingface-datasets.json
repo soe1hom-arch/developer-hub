@@ -7,7 +7,7 @@
   "documentation": "https://huggingface.co/docs/datasets",
   "github_repository": "https://github.com/huggingface/datasets",
   "license": "Apache-2.0",
-  "latest_version": "5.0.0",
+  "latest_version": "5.0.1",
   "programming_languages": [
     "Python",
     "Rust"
@@ -45,11 +45,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "repository_statistics": {
-    "stars": 21761,
-    "forks": 3311,
+    "stars": 21792,
+    "forks": 3325,
     "open_issues": 0,
     "watchers": 0
   }

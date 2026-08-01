@@ -7,7 +7,7 @@
   "documentation": "https://github.com/projectdiscovery/katana#readme",
   "github_repository": "https://github.com/projectdiscovery/katana",
   "license": "MIT",
-  "latest_version": "dev",
+  "latest_version": "v1.6.1",
   "programming_languages": [
     "Go"
   ],
@@ -35,12 +35,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 17223,
-    "forks": 1160,
-    "open_issues": 21,
+    "stars": 17251,
+    "forks": 1159,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "binary-release"
 }

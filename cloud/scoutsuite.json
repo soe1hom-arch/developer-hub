@@ -27,19 +27,19 @@
     "security"
   ],
   "alternatives": [],
-  "popularity": 10,
+  "popularity": 9,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 7768,
-    "forks": 1218,
-    "open_issues": 295,
+    "stars": 7782,
+    "forks": 1222,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
-  "latest_version": "latest",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
+  "latest_version": "5.14.0",
   "auto_discovered": true,
   "quality_score": 65
 }

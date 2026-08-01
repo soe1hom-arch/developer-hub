@@ -6,8 +6,8 @@
   "official_website": "https://omo.dev",
   "documentation": "https://github.com/code-yeongyu/oh-my-openagent#readme",
   "github_repository": "https://github.com/code-yeongyu/oh-my-openagent",
-  "license": "MIT",
-  "latest_version": "dev",
+  "license": "NOASSERTION",
+  "latest_version": "v4.19.3",
   "programming_languages": [
     "TypeScript"
   ],
@@ -26,7 +26,12 @@
     "codex",
     "cursor",
     "cli",
-    "command-line"
+    "command-line",
+    "opencode",
+    "gemini",
+    "ide",
+    "openai",
+    "orchestration"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -35,12 +40,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 66586,
-    "forks": 5429,
-    "open_issues": 915,
+    "stars": 66953,
+    "forks": 5463,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "cli-github"
 }

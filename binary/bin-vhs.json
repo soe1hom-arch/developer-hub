@@ -7,7 +7,7 @@
   "documentation": "https://github.com/charmbracelet/vhs#readme",
   "github_repository": "https://github.com/charmbracelet/vhs",
   "license": "MIT",
-  "latest_version": "main",
+  "latest_version": "v0.11.0",
   "programming_languages": [
     "Go"
   ],
@@ -36,12 +36,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 20455,
-    "forks": 450,
-    "open_issues": 167,
+    "stars": 20510,
+    "forks": 455,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "binary-release"
 }

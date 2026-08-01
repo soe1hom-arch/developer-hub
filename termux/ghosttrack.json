@@ -23,7 +23,10 @@
     "indonesia",
     "information",
     "information-gathering",
-    "ip-geolocation"
+    "ip-geolocation",
+    "linux",
+    "osint",
+    "osint-python"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -31,12 +34,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 14562,
-    "forks": 1942,
-    "open_issues": 104,
+    "stars": 14682,
+    "forks": 1964,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "termux-github"
 }

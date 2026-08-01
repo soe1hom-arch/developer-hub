@@ -6,8 +6,8 @@
   "official_website": "https://www.hboehm.info/gc/",
   "documentation": "https://github.com/bdwgc/bdwgc#readme",
   "github_repository": "https://github.com/bdwgc/bdwgc",
-  "license": "MIT",
-  "latest_version": "master",
+  "license": "NOASSERTION",
+  "latest_version": "v8.2.12",
   "programming_languages": [
     "C"
   ],
@@ -24,21 +24,24 @@
     "garbage-collector",
     "gc",
     "binary",
-    "pre-built"
+    "pre-built",
+    "memory-management",
+    "memory-leak-detection",
+    "memory-allocation"
   ],
   "has_binaries": true,
   "alternatives": [],
-  "popularity": 7,
+  "popularity": 8,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 3507,
+    "stars": 3512,
     "forks": 442,
-    "open_issues": 189,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "binary-release"
 }

@@ -7,7 +7,7 @@
   "documentation": "https://docs.langchain.com",
   "github_repository": "https://github.com/langchain-ai/langchain",
   "license": "MIT",
-  "latest_version": "langchain-core==1.5.1",
+  "latest_version": "langchain-core==1.5.3",
   "programming_languages": [
     "Python",
     "TypeScript",
@@ -47,11 +47,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "repository_statistics": {
-    "stars": 142543,
-    "forks": 23726,
+    "stars": 143131,
+    "forks": 23838,
     "open_issues": 0,
     "watchers": 0
   }

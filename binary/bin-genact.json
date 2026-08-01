@@ -7,7 +7,7 @@
   "documentation": "https://github.com/svenstaro/genact#readme",
   "github_repository": "https://github.com/svenstaro/genact",
   "license": "MIT",
-  "latest_version": "master",
+  "latest_version": "v1.5.1",
   "programming_languages": [
     "Rust"
   ],
@@ -35,12 +35,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 12136,
-    "forks": 492,
-    "open_issues": 13,
+    "stars": 12152,
+    "forks": 493,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "binary-release"
 }

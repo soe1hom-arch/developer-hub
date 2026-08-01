@@ -6,8 +6,8 @@
   "official_website": "https://github.com/wader/fq",
   "documentation": "https://github.com/wader/fq#readme",
   "github_repository": "https://github.com/wader/fq",
-  "license": "MIT",
-  "latest_version": "master",
+  "license": "NOASSERTION",
+  "latest_version": "v0.17.0",
   "programming_languages": [
     "Go"
   ],
@@ -27,7 +27,10 @@
     "jq",
     "json",
     "binary",
-    "pre-built"
+    "pre-built",
+    "query",
+    "repl",
+    "pcap"
   ],
   "has_binaries": true,
   "alternatives": [],
@@ -36,12 +39,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 10535,
-    "forks": 247,
-    "open_issues": 55,
+    "stars": 10544,
+    "forks": 248,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "binary-release"
 }

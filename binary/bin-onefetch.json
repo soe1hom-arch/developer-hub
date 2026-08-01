@@ -7,7 +7,7 @@
   "documentation": "https://github.com/o2sh/onefetch#readme",
   "github_repository": "https://github.com/o2sh/onefetch",
   "license": "MIT",
-  "latest_version": "main",
+  "latest_version": "2.27.1",
   "programming_languages": [
     "Rust"
   ],
@@ -33,12 +33,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 11984,
-    "forks": 321,
-    "open_issues": 58,
+    "stars": 11999,
+    "forks": 322,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "binary-release"
 }

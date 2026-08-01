@@ -6,8 +6,8 @@
   "official_website": "https://wasmi-labs.github.io/wasmi/",
   "documentation": "https://github.com/wasmi-labs/wasmi#readme",
   "github_repository": "https://github.com/wasmi-labs/wasmi",
-  "license": "MIT",
-  "latest_version": "main",
+  "license": "Apache-2.0",
+  "latest_version": "v1.1.0",
   "programming_languages": [
     "Rust"
   ],
@@ -27,21 +27,23 @@
     "sandbox",
     "secure",
     "binary",
-    "pre-built"
+    "pre-built",
+    "wasm",
+    "webassembly"
   ],
   "has_binaries": true,
   "alternatives": [],
-  "popularity": 6,
+  "popularity": 8,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 2161,
-    "forks": 357,
-    "open_issues": 24,
+    "stars": 2164,
+    "forks": 360,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "binary-release"
 }

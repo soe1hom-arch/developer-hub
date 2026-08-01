@@ -24,7 +24,9 @@
     "python",
     "rest",
     "rest-api",
-    "rest-client"
+    "rest-client",
+    "terminal",
+    "textual"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -32,14 +34,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 12180,
-    "forks": 260,
-    "open_issues": 75,
+    "stars": 12207,
+    "forks": 262,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
-  "latest_version": "latest",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
+  "latest_version": "2.10.0",
   "auto_discovered": true,
   "quality_score": 75
 }

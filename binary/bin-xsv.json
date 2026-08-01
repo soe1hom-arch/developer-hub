@@ -6,8 +6,8 @@
   "official_website": "https://github.com/BurntSushi/xsv",
   "documentation": "https://github.com/BurntSushi/xsv#readme",
   "github_repository": "https://github.com/BurntSushi/xsv",
-  "license": "MIT",
-  "latest_version": "master",
+  "license": "Unlicense",
+  "latest_version": "0.13.0",
   "programming_languages": [
     "Rust"
   ],
@@ -31,12 +31,12 @@
   "archived": true,
   "open_source": true,
   "repository_statistics": {
-    "stars": 10757,
-    "forks": 326,
-    "open_issues": 164,
+    "stars": 10756,
+    "forks": 325,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "binary-release"
 }

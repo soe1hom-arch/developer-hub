@@ -24,7 +24,12 @@
     "cowsay",
     "curl",
     "data-science",
-    "ggplot2"
+    "ggplot2",
+    "linux",
+    "unix",
+    "gnuplot",
+    "r",
+    "python"
   ],
   "alternatives": [],
   "popularity": 8,
@@ -33,13 +38,13 @@
   "open_source": true,
   "repository_statistics": {
     "stars": 3960,
-    "forks": 766,
-    "open_issues": 36,
+    "forks": 768,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
-  "latest_version": "latest",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
+  "latest_version": "1e",
   "auto_discovered": true,
   "quality_score": 70
 }

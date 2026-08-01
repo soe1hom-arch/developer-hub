@@ -24,20 +24,24 @@
     "android-pentesting",
     "android-rat",
     "android-spyware",
-    "bot"
+    "bot",
+    "hacking",
+    "hacking-tool",
+    "java",
+    "rat"
   ],
   "alternatives": [],
-  "popularity": 10,
+  "popularity": 8,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 1968,
+    "stars": 1975,
     "forks": 1680,
-    "open_issues": 103,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "termux-github"
 }

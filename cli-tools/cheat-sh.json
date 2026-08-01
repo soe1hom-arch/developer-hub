@@ -26,7 +26,9 @@
     "hacktoberfest2021",
     "help",
     "cli",
-    "command-line"
+    "command-line",
+    "terminal",
+    "tldr"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -35,12 +37,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 41567,
-    "forks": 1918,
-    "open_issues": 148,
+    "stars": 41582,
+    "forks": 1916,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "cli-github"
 }

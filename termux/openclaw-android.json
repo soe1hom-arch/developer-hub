@@ -7,7 +7,7 @@
   "documentation": "https://github.com/AidanPark/openclaw-android#readme",
   "github_repository": "https://github.com/AidanPark/openclaw-android",
   "license": "MIT",
-  "latest_version": "main",
+  "latest_version": "v0.4.0",
   "programming_languages": [
     "Java"
   ],
@@ -23,20 +23,22 @@
     "low-power",
     "nodejs",
     "openclaw",
-    "repurpose-phone"
+    "repurpose-phone",
+    "self-hosted",
+    "termux"
   ],
   "alternatives": [],
-  "popularity": 10,
+  "popularity": 8,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 1702,
-    "forks": 214,
-    "open_issues": 35,
+    "stars": 1720,
+    "forks": 216,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "termux-github"
 }

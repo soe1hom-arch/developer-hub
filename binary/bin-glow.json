@@ -7,7 +7,7 @@
   "documentation": "https://github.com/charmbracelet/glow#readme",
   "github_repository": "https://github.com/charmbracelet/glow",
   "license": "MIT",
-  "latest_version": "master",
+  "latest_version": "v2.1.2",
   "programming_languages": [
     "Go"
   ],
@@ -32,12 +32,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 26514,
-    "forks": 729,
-    "open_issues": 217,
+    "stars": 26620,
+    "forks": 733,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "binary-release"
 }

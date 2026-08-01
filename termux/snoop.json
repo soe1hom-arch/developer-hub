@@ -6,8 +6,8 @@
   "official_website": "https://github.com/snooppr/snoop/releases",
   "documentation": "https://github.com/snooppr/snoop#readme",
   "github_repository": "https://github.com/snooppr/snoop",
-  "license": "MIT",
-  "latest_version": "master",
+  "license": "NOASSERTION",
+  "latest_version": "v1.4.3__2026-1-1",
   "programming_languages": [
     "Python"
   ],
@@ -23,20 +23,27 @@
     "infosec",
     "ip",
     "nickname",
-    "osint"
+    "osint",
+    "termux",
+    "username-search",
+    "username-checker",
+    "pentest",
+    "web-scraping",
+    "scanner",
+    "redteam"
   ],
   "alternatives": [],
-  "popularity": 10,
+  "popularity": 8,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 3983,
-    "forks": 455,
-    "open_issues": 1,
+    "stars": 3986,
+    "forks": 454,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "termux-github"
 }

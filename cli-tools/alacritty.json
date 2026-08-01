@@ -6,8 +6,8 @@
   "official_website": "https://alacritty.org",
   "documentation": "https://github.com/alacritty/alacritty#readme",
   "github_repository": "https://github.com/alacritty/alacritty",
-  "license": "MIT",
-  "latest_version": "master",
+  "license": "Apache-2.0",
+  "latest_version": "v0.17.0",
   "programming_languages": [
     "Rust"
   ],
@@ -27,7 +27,9 @@
     "terminal",
     "terminal-emulators",
     "cli",
-    "command-line"
+    "command-line",
+    "vte",
+    "windows"
   ],
   "has_binaries": true,
   "alternatives": [],
@@ -36,12 +38,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 65065,
-    "forks": 3525,
-    "open_issues": 335,
+    "stars": 65186,
+    "forks": 3536,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "cli-github"
 }

@@ -6,8 +6,8 @@
   "official_website": "https://tqdm.github.io",
   "documentation": "https://github.com/tqdm/tqdm#readme",
   "github_repository": "https://github.com/tqdm/tqdm",
-  "license": "MIT",
-  "latest_version": "master",
+  "license": "NOASSERTION",
+  "latest_version": "v4.70.0",
   "programming_languages": [
     "Python"
   ],
@@ -26,7 +26,14 @@
     "keras",
     "meter",
     "cli",
-    "command-line"
+    "command-line",
+    "progressbar",
+    "progressmeter",
+    "progress-bar",
+    "rate",
+    "terminal",
+    "time",
+    "progress"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -35,12 +42,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 31249,
-    "forks": 1478,
-    "open_issues": 587,
+    "stars": 31260,
+    "forks": 1481,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "cli-github"
 }

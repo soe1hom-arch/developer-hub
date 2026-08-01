@@ -6,8 +6,8 @@
   "official_website": "https://fishshell.com",
   "documentation": "https://github.com/fish-shell/fish-shell#readme",
   "github_repository": "https://github.com/fish-shell/fish-shell",
-  "license": "MIT",
-  "latest_version": "master",
+  "license": "NOASSERTION",
+  "latest_version": "4.8.1",
   "programming_languages": [
     "Rust"
   ],
@@ -32,12 +32,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 33916,
-    "forks": 2332,
-    "open_issues": 561,
+    "stars": 33958,
+    "forks": 2336,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "cli-github"
 }

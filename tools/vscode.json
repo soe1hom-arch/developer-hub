@@ -7,7 +7,7 @@
   "documentation": "https://code.visualstudio.com/docs",
   "github_repository": "https://github.com/microsoft/vscode",
   "license": "MIT",
-  "latest_version": "1.130.0",
+  "latest_version": "1.131.0",
   "programming_languages": [
     "TypeScript",
     "JavaScript",
@@ -46,11 +46,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "repository_statistics": {
-    "stars": 187869,
-    "forks": 41238,
+    "stars": 188075,
+    "forks": 41349,
     "open_issues": 0,
     "watchers": 0
   }

@@ -7,7 +7,7 @@
   "documentation": "https://github.com/junegunn/fzf#readme",
   "github_repository": "https://github.com/junegunn/fzf",
   "license": "MIT",
-  "latest_version": "master",
+  "latest_version": "v0.74.2",
   "programming_languages": [
     "Go"
   ],
@@ -27,7 +27,9 @@
     "tmux",
     "unix",
     "binary",
-    "pre-built"
+    "pre-built",
+    "zsh",
+    "vim"
   ],
   "has_binaries": true,
   "alternatives": [],
@@ -36,12 +38,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 81967,
-    "forks": 2823,
-    "open_issues": 326,
+    "stars": 82095,
+    "forks": 2827,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "binary-release"
 }

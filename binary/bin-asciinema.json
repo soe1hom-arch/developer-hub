@@ -6,8 +6,8 @@
   "official_website": "https://asciinema.org",
   "documentation": "https://github.com/asciinema/asciinema#readme",
   "github_repository": "https://github.com/asciinema/asciinema",
-  "license": "MIT",
-  "latest_version": "develop",
+  "license": "GPL-3.0",
+  "latest_version": "v3.2.1",
   "programming_languages": [
     "Rust"
   ],
@@ -35,12 +35,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 17601,
-    "forks": 1038,
-    "open_issues": 7,
+    "stars": 17619,
+    "forks": 1037,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "binary-release"
 }

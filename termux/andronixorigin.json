@@ -7,7 +7,7 @@
   "documentation": "https://github.com/AndronixApp/AndronixOrigin#readme",
   "github_repository": "https://github.com/AndronixApp/AndronixOrigin",
   "license": "MIT",
-  "latest_version": "master",
+  "latest_version": "v7.0",
   "programming_languages": [
     "Shell"
   ],
@@ -23,20 +23,22 @@
     "kubuntu",
     "linux",
     "lxde",
-    "lxqt"
+    "lxqt",
+    "termux",
+    "manjaro"
   ],
   "alternatives": [],
-  "popularity": 10,
+  "popularity": 8,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 2805,
-    "forks": 519,
-    "open_issues": 213,
+    "stars": 2867,
+    "forks": 526,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "termux-github"
 }

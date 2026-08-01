@@ -26,22 +26,28 @@
     "mirror",
     "mmo",
     "mmorpg",
-    "mmos"
+    "mmos",
+    "unity",
+    "unet",
+    "networking",
+    "udp",
+    "tcp",
+    "telepathy"
   ],
   "alternatives": [],
-  "popularity": 10,
+  "popularity": 9,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 6260,
-    "forks": 860,
-    "open_issues": 67,
+    "stars": 6271,
+    "forks": 859,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
-  "latest_version": "latest",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
+  "latest_version": "v96.11.1",
   "auto_discovered": true,
   "quality_score": 75
 }

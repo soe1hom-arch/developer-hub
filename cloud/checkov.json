@@ -26,22 +26,26 @@
     "compliance",
     "devops",
     "gcp",
-    "hacktoberfest"
+    "hacktoberfest",
+    "terraform",
+    "static-analysis",
+    "scans",
+    "kubernetes"
   ],
   "alternatives": [],
-  "popularity": 10,
+  "popularity": 9,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 8887,
-    "forks": 1372,
-    "open_issues": 148,
+    "stars": 8901,
+    "forks": 1376,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
-  "latest_version": "latest",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
+  "latest_version": "3.3.8",
   "auto_discovered": true,
   "quality_score": 85
 }

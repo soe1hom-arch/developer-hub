@@ -24,20 +24,24 @@
     "kali-linux",
     "kali-scripts",
     "linux",
-    "tool"
+    "tool",
+    "termux",
+    "termux-tool",
+    "termux-hacking",
+    "termux-tools"
   ],
   "alternatives": [],
-  "popularity": 10,
+  "popularity": 8,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 1665,
-    "forks": 113,
-    "open_issues": 15,
+    "stars": 1677,
+    "forks": 114,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "termux-github"
 }

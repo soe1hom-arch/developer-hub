@@ -23,21 +23,22 @@
     "python-script",
     "termux",
     "termux-api",
-    "termux-hacking"
+    "termux-hacking",
+    "termux-tool"
   ],
   "alternatives": [],
-  "popularity": 7,
+  "popularity": 8,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 2104,
-    "forks": 173,
-    "open_issues": 13,
+    "stars": 2114,
+    "forks": 176,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "latest_version": "latest",
   "auto_discovered": true,
   "quality_score": 75

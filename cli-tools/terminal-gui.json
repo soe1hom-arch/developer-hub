@@ -7,7 +7,7 @@
   "documentation": "https://github.com/tui-cs/Terminal.Gui#readme",
   "github_repository": "https://github.com/tui-cs/Terminal.Gui",
   "license": "MIT",
-  "latest_version": "develop",
+  "latest_version": "v2.4.17",
   "programming_languages": [
     "C#"
   ],
@@ -26,7 +26,9 @@
     "terminal",
     "terminal-based",
     "cli",
-    "command-line"
+    "command-line",
+    "terminal-ui",
+    "tui"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -35,12 +37,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 11133,
+    "stars": 11151,
     "forks": 782,
-    "open_issues": 57,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "cli-github"
 }

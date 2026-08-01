@@ -6,8 +6,8 @@
   "official_website": "https://jeecg.com",
   "documentation": "https://github.com/jeecgboot/JeecgBoot#readme",
   "github_repository": "https://github.com/jeecgboot/JeecgBoot",
-  "license": "MIT",
-  "latest_version": "main",
+  "license": "Apache-2.0",
+  "latest_version": "v3.9.2",
   "programming_languages": [
     "Java"
   ],
@@ -26,7 +26,14 @@
     "codegenerator",
     "codex",
     "cli",
-    "command-line"
+    "command-line",
+    "springcloud",
+    "springboot",
+    "low-code",
+    "vue3",
+    "flowable",
+    "langchain4j",
+    "spring-ai"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -35,12 +42,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 47185,
-    "forks": 16116,
-    "open_issues": 34,
+    "stars": 47223,
+    "forks": 16129,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "cli-github"
 }

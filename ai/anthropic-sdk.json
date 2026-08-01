@@ -7,7 +7,7 @@
   "documentation": "https://docs.anthropic.com",
   "github_repository": "https://github.com/anthropics/anthropic-sdk-python",
   "license": "MIT",
-  "latest_version": "v0.120.0",
+  "latest_version": "v0.120.2",
   "programming_languages": [
     "Python",
     "TypeScript"
@@ -37,11 +37,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "repository_statistics": {
-    "stars": 3771,
-    "forks": 788,
+    "stars": 3784,
+    "forks": 791,
     "open_issues": 0,
     "watchers": 0
   }

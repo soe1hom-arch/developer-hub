@@ -6,8 +6,8 @@
   "official_website": "https://dhewm3.org/",
   "documentation": "https://github.com/dhewm/dhewm3#readme",
   "github_repository": "https://github.com/dhewm/dhewm3",
-  "license": "MIT",
-  "latest_version": "master",
+  "license": "GPL-3.0",
+  "latest_version": "1.5.5",
   "programming_languages": [
     "C++"
   ],
@@ -30,17 +30,17 @@
   ],
   "has_binaries": true,
   "alternatives": [],
-  "popularity": 6,
+  "popularity": 8,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 2127,
-    "forks": 407,
-    "open_issues": 114,
+    "stars": 2134,
+    "forks": 410,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "binary-release"
 }

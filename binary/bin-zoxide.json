@@ -7,7 +7,7 @@
   "documentation": "https://github.com/ajeetdsouza/zoxide#readme",
   "github_repository": "https://github.com/ajeetdsouza/zoxide",
   "license": "MIT",
-  "latest_version": "main",
+  "latest_version": "v0.10.0",
   "programming_languages": [
     "Rust"
   ],
@@ -27,7 +27,13 @@
     "fasd",
     "fish",
     "binary",
-    "pre-built"
+    "pre-built",
+    "z",
+    "rust",
+    "zsh",
+    "powershell",
+    "shell",
+    "xonsh"
   ],
   "has_binaries": true,
   "alternatives": [],
@@ -36,12 +42,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 38240,
+    "stars": 38387,
     "forks": 853,
-    "open_issues": 132,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "binary-release"
 }

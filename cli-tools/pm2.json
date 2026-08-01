@@ -6,8 +6,8 @@
   "official_website": "https://pm2.keymetrics.io/docs/usage/quick-start/",
   "documentation": "https://github.com/Unitech/pm2#readme",
   "github_repository": "https://github.com/Unitech/pm2",
-  "license": "MIT",
-  "latest_version": "master",
+  "license": "NOASSERTION",
+  "latest_version": "v7.0.3",
   "programming_languages": [
     "JavaScript"
   ],
@@ -26,7 +26,9 @@
     "nodejs",
     "pm2",
     "cli",
-    "command-line"
+    "command-line",
+    "process-manager",
+    "production"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -35,12 +37,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 43242,
-    "forks": 2712,
-    "open_issues": 1093,
+    "stars": 43252,
+    "forks": 2714,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "cli-github"
 }

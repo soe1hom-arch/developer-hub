@@ -6,8 +6,8 @@
   "official_website": "https://thetumultuousunicornofdarkness.github.io/CPU-X",
   "documentation": "https://github.com/TheTumultuousUnicornOfDarkness/CPU-X#readme",
   "github_repository": "https://github.com/TheTumultuousUnicornOfDarkness/CPU-X",
-  "license": "MIT",
-  "latest_version": "master",
+  "license": "GPL-3.0",
+  "latest_version": "v5.4.0",
   "programming_languages": [
     "C"
   ],
@@ -25,21 +25,23 @@
     "motherboard",
     "ncurses",
     "binary",
-    "pre-built"
+    "pre-built",
+    "portable",
+    "ram"
   ],
   "has_binaries": true,
   "alternatives": [],
-  "popularity": 6,
+  "popularity": 8,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 2630,
+    "stars": 2634,
     "forks": 155,
-    "open_issues": 4,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "binary-release"
 }

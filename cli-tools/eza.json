@@ -6,8 +6,8 @@
   "official_website": "https://eza.rocks",
   "documentation": "https://github.com/eza-community/eza#readme",
   "github_repository": "https://github.com/eza-community/eza",
-  "license": "MIT",
-  "latest_version": "main",
+  "license": "EUPL-1.2",
+  "latest_version": "v0.23.5",
   "programming_languages": [
     "Rust"
   ],
@@ -27,7 +27,9 @@
     "nerd-fonts",
     "rust",
     "cli",
-    "command-line"
+    "command-line",
+    "terminal",
+    "tools"
   ],
   "has_binaries": true,
   "alternatives": [],
@@ -36,12 +38,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 22721,
-    "forks": 485,
-    "open_issues": 405,
+    "stars": 22793,
+    "forks": 487,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "cli-github"
 }

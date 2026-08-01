@@ -7,7 +7,7 @@
   "documentation": "https://pulumi.com/docs",
   "github_repository": "https://github.com/pulumi/pulumi",
   "license": "Apache-2.0",
-  "latest_version": "v3.254.0",
+  "latest_version": "v3.255.0",
   "programming_languages": [
     "TypeScript",
     "Python",
@@ -51,11 +51,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "repository_statistics": {
-    "stars": 25480,
-    "forks": 1405,
+    "stars": 25505,
+    "forks": 1407,
     "open_issues": 0,
     "watchers": 0
   }

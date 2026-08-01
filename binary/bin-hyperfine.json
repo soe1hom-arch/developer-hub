@@ -6,8 +6,8 @@
   "official_website": "https://github.com/sharkdp/hyperfine",
   "documentation": "https://github.com/sharkdp/hyperfine#readme",
   "github_repository": "https://github.com/sharkdp/hyperfine",
-  "license": "MIT",
-  "latest_version": "master",
+  "license": "Apache-2.0",
+  "latest_version": "v1.20.0",
   "programming_languages": [
     "Rust"
   ],
@@ -34,12 +34,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 28535,
-    "forks": 503,
-    "open_issues": 93,
+    "stars": 28570,
+    "forks": 504,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "binary-release"
 }

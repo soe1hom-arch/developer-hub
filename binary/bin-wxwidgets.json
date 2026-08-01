@@ -7,7 +7,7 @@
   "documentation": "https://github.com/wxWidgets/wxWidgets#readme",
   "github_repository": "https://github.com/wxWidgets/wxWidgets",
   "license": "MIT",
-  "latest_version": "master",
+  "latest_version": "v3.3.3",
   "programming_languages": [
     "C++"
   ],
@@ -25,21 +25,24 @@
     "gui",
     "gui-framework",
     "binary",
-    "pre-built"
+    "pre-built",
+    "win32",
+    "x11",
+    "portable"
   ],
   "has_binaries": true,
   "alternatives": [],
-  "popularity": 10,
+  "popularity": 9,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 7216,
-    "forks": 1943,
-    "open_issues": 2265,
+    "stars": 7224,
+    "forks": 1946,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "binary-release"
 }

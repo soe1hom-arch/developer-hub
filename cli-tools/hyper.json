@@ -7,7 +7,7 @@
   "documentation": "https://github.com/vercel/hyper#readme",
   "github_repository": "https://github.com/vercel/hyper",
   "license": "MIT",
-  "latest_version": "canary",
+  "latest_version": "v3.4.1",
   "programming_languages": [
     "TypeScript"
   ],
@@ -26,7 +26,8 @@
     "react",
     "terminal",
     "cli",
-    "command-line"
+    "command-line",
+    "terminal-emulators"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -35,12 +36,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 44674,
-    "forks": 3570,
-    "open_issues": 1045,
+    "stars": 44677,
+    "forks": 3573,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "cli-github"
 }

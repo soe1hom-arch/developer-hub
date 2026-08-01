@@ -7,7 +7,7 @@
   "documentation": "https://github.com/1jehuang/jcode#readme",
   "github_repository": "https://github.com/1jehuang/jcode",
   "license": "MIT",
-  "latest_version": "master",
+  "latest_version": "v0.64.2",
   "programming_languages": [
     "Rust"
   ],
@@ -27,7 +27,11 @@
     "llm",
     "mcp",
     "cli",
-    "command-line"
+    "command-line",
+    "openai",
+    "rust",
+    "terminal",
+    "tui"
   ],
   "has_binaries": true,
   "alternatives": [],
@@ -36,12 +40,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 11430,
-    "forks": 1256,
-    "open_issues": 136,
+    "stars": 14658,
+    "forks": 1615,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "cli-github"
 }

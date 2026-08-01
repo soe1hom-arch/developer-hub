@@ -7,7 +7,7 @@
   "documentation": "https://github.com/Eugeny/tabby#readme",
   "github_repository": "https://github.com/Eugeny/tabby",
   "license": "MIT",
-  "latest_version": "master",
+  "latest_version": "v1.0.235",
   "programming_languages": [
     "TypeScript"
   ],
@@ -32,12 +32,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 73493,
-    "forks": 4175,
-    "open_issues": 2802,
+    "stars": 73645,
+    "forks": 4189,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "cli-github"
 }

@@ -6,8 +6,8 @@
   "official_website": "https://wasmtime.dev/",
   "documentation": "https://github.com/bytecodealliance/wasmtime#readme",
   "github_repository": "https://github.com/bytecodealliance/wasmtime",
-  "license": "MIT",
-  "latest_version": "main",
+  "license": "Apache-2.0",
+  "latest_version": "v47.0.3",
   "programming_languages": [
     "Rust"
   ],
@@ -27,7 +27,11 @@
     "rust",
     "sandbox",
     "binary",
-    "pre-built"
+    "pre-built",
+    "wasm",
+    "wasi",
+    "wasmtime",
+    "webassembly"
   ],
   "has_binaries": true,
   "alternatives": [],
@@ -36,12 +40,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 18424,
-    "forks": 1772,
-    "open_issues": 861,
+    "stars": 18455,
+    "forks": 1780,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "binary-release"
 }

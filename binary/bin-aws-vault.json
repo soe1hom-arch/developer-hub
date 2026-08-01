@@ -7,7 +7,7 @@
   "documentation": "https://github.com/99designs/aws-vault#readme",
   "github_repository": "https://github.com/99designs/aws-vault",
   "license": "MIT",
-  "latest_version": "master",
+  "latest_version": "v7.2.0",
   "programming_languages": [
     "Go"
   ],
@@ -31,17 +31,17 @@
   ],
   "has_binaries": true,
   "alternatives": [],
-  "popularity": 10,
+  "popularity": 9,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
     "stars": 8977,
     "forks": 834,
-    "open_issues": 1,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "binary-release"
 }

@@ -7,7 +7,7 @@
   "documentation": "https://github.com/Azathothas/Toolpacks#readme",
   "github_repository": "https://github.com/Azathothas/Toolpacks",
   "license": "MIT",
-  "latest_version": "main",
+  "latest_version": "toolpack_aarch64_arm64_2024_01_29_05_58_54_AM",
   "programming_languages": [
     "Generic"
   ],
@@ -24,11 +24,17 @@
     "executable",
     "golang",
     "binary",
-    "pre-built"
+    "pre-built",
+    "linux",
+    "pre-compiled",
+    "static",
+    "x86-64",
+    "pentest-tool",
+    "rust"
   ],
   "has_binaries": true,
   "alternatives": [],
-  "popularity": 4,
+  "popularity": 6,
   "maintained": false,
   "archived": true,
   "open_source": true,
@@ -38,7 +44,7 @@
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "binary-release"
 }

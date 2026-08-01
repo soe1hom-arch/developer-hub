@@ -7,7 +7,7 @@
   "documentation": "https://github.com/yorukot/superfile#readme",
   "github_repository": "https://github.com/yorukot/superfile",
   "license": "MIT",
-  "latest_version": "main",
+  "latest_version": "v1.6.0",
   "programming_languages": [
     "Go"
   ],
@@ -27,7 +27,10 @@
     "hacktoberfest",
     "linux-app",
     "binary",
-    "pre-built"
+    "pre-built",
+    "terminal-app",
+    "tui",
+    "terminal-based"
   ],
   "has_binaries": true,
   "alternatives": [],
@@ -36,12 +39,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 19878,
-    "forks": 622,
-    "open_issues": 217,
+    "stars": 22032,
+    "forks": 736,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "binary-release"
 }

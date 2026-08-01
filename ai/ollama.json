@@ -7,7 +7,7 @@
   "documentation": "https://github.com/ollama/ollama/tree/main/docs",
   "github_repository": "https://github.com/ollama/ollama",
   "license": "MIT",
-  "latest_version": "v0.32.3",
+  "latest_version": "v0.32.5",
   "programming_languages": [
     "Go",
     "C++"
@@ -49,11 +49,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "repository_statistics": {
-    "stars": 176815,
-    "forks": 17096,
+    "stars": 177461,
+    "forks": 17219,
     "open_issues": 0,
     "watchers": 0
   }

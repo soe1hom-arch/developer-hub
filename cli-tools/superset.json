@@ -6,8 +6,8 @@
   "official_website": "https://superset.sh",
   "documentation": "https://github.com/superset-sh/superset#readme",
   "github_repository": "https://github.com/superset-sh/superset",
-  "license": "MIT",
-  "latest_version": "main",
+  "license": "NOASSERTION",
+  "latest_version": "desktop-v1.18.1",
   "programming_languages": [
     "TypeScript"
   ],
@@ -26,7 +26,12 @@
     "cursor-agent",
     "desktop-app",
     "cli",
-    "command-line"
+    "command-line",
+    "terminal",
+    "opencode",
+    "parallel-agents",
+    "worktrees",
+    "orchestration"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -35,12 +40,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 12607,
-    "forks": 1124,
-    "open_issues": 444,
+    "stars": 12721,
+    "forks": 1147,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "cli-github"
 }

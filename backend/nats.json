@@ -7,7 +7,7 @@
   "documentation": "https://docs.nats.io",
   "github_repository": "https://github.com/nats-io/nats-server",
   "license": "Apache-2.0",
-  "latest_version": "v2.14.3",
+  "latest_version": "v2.14.4",
   "programming_languages": [
     "Go"
   ],
@@ -46,11 +46,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "repository_statistics": {
-    "stars": 20313,
-    "forks": 1881,
+    "stars": 20371,
+    "forks": 1888,
     "open_issues": 0,
     "watchers": 0
   }

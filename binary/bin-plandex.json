@@ -7,7 +7,7 @@
   "documentation": "https://github.com/plandex-ai/plandex#readme",
   "github_repository": "https://github.com/plandex-ai/plandex",
   "license": "MIT",
-  "latest_version": "main",
+  "latest_version": "cli/v2.2.1",
   "programming_languages": [
     "Go"
   ],
@@ -24,7 +24,11 @@
     "developer-tools",
     "git",
     "binary",
-    "pre-built"
+    "pre-built",
+    "gpt-4",
+    "llm",
+    "openai",
+    "polyglot-programming"
   ],
   "has_binaries": true,
   "alternatives": [],
@@ -33,12 +37,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 15542,
-    "forks": 1166,
-    "open_issues": 60,
+    "stars": 15557,
+    "forks": 1167,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-25",
-  "last_updated": "2026-07-25",
+  "last_checked": "2026-08-01",
+  "last_updated": "2026-08-01",
   "source": "binary-release"
 }

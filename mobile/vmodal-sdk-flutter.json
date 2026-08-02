@@ -1,0 +1,46 @@
+{
+  "id": "vmodal-sdk-flutter",
+  "name": "vmodal_sdk_flutter",
+  "category": "mobile",
+  "description": "V- Modal AI: MultiModal Video Search - SDK Flutter",
+  "official_website": "https://v-modal.com",
+  "documentation": "https://github.com/v-modal/vmodal_sdk_flutter#readme",
+  "github_repository": "https://github.com/v-modal/vmodal_sdk_flutter",
+  "license": "MIT",
+  "programming_languages": [
+    "Dart"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "android-app",
+    "android-library",
+    "android-package",
+    "android-sdk",
+    "android-ui",
+    "androidstudio",
+    "flutter",
+    "flutter-app"
+  ],
+  "alternatives": [],
+  "popularity": 6,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 1301,
+    "forks": 5,
+    "open_issues": 2,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-02",
+  "last_updated": "2026-08-02",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 75
+}

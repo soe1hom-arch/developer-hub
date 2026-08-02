@@ -7,7 +7,7 @@
   "documentation": "https://ant.design/docs",
   "github_repository": "https://github.com/ant-design/ant-design",
   "license": "MIT",
-  "latest_version": "6.5.2",
+  "latest_version": "6.5.3",
   "programming_languages": [
     "TypeScript",
     "JavaScript",
@@ -39,11 +39,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-26",
-  "last_updated": "2026-07-26",
+  "last_checked": "2026-08-02",
+  "last_updated": "2026-08-02",
   "repository_statistics": {
-    "stars": 98820,
-    "forks": 54673,
+    "stars": 98896,
+    "forks": 54675,
     "open_issues": 0,
     "watchers": 0
   }

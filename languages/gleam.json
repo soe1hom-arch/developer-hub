@@ -7,7 +7,7 @@
   "documentation": "https://github.com/gleam-lang/gleam#readme",
   "github_repository": "https://github.com/gleam-lang/gleam",
   "license": "Apache-2.0",
-  "latest_version": "v1.17.0",
+  "latest_version": "v1.18.1",
   "programming_languages": [
     "Rust"
   ],
@@ -32,11 +32,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 21683,
+    "stars": 21704,
     "forks": 996,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-26",
-  "last_updated": "2026-07-26"
+  "last_checked": "2026-08-02",
+  "last_updated": "2026-08-02"
 }

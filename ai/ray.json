@@ -7,7 +7,7 @@
   "documentation": "https://docs.ray.io",
   "github_repository": "https://github.com/2dust/v2rayN",
   "license": "GPL-3.0",
-  "latest_version": "7.23.4",
+  "latest_version": "7.24.4",
   "programming_languages": [
     "C#",
     "Shell"
@@ -39,11 +39,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-26",
-  "last_updated": "2026-07-26",
+  "last_checked": "2026-08-02",
+  "last_updated": "2026-08-02",
   "repository_statistics": {
-    "stars": 112214,
-    "forks": 15581,
+    "stars": 112793,
+    "forks": 15629,
     "open_issues": 0,
     "watchers": 0
   }

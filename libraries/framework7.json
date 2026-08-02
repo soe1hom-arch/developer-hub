@@ -7,7 +7,7 @@
   "documentation": "https://github.com/framework7io/framework7#readme",
   "github_repository": "https://github.com/framework7io/framework7",
   "license": "MIT",
-  "latest_version": "v9.1.1",
+  "latest_version": "v9.1.2",
   "programming_languages": [
     "JavaScript"
   ],
@@ -37,11 +37,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 18717,
-    "forks": 3192,
+    "stars": 18723,
+    "forks": 3190,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-26",
-  "last_updated": "2026-07-26"
+  "last_checked": "2026-08-02",
+  "last_updated": "2026-08-02"
 }

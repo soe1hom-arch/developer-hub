@@ -7,7 +7,7 @@
   "documentation": "https://github.com/nolimits4web/swiper#readme",
   "github_repository": "https://github.com/nolimits4web/swiper",
   "license": "MIT",
-  "latest_version": "v14.0.5",
+  "latest_version": "v14.0.7",
   "programming_languages": [
     "TypeScript"
   ],
@@ -37,10 +37,10 @@
   "open_source": true,
   "repository_statistics": {
     "stars": 41883,
-    "forks": 9638,
+    "forks": 9632,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-26",
-  "last_updated": "2026-07-26"
+  "last_checked": "2026-08-02",
+  "last_updated": "2026-08-02"
 }

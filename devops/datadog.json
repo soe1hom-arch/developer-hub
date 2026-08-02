@@ -7,7 +7,7 @@
   "documentation": "https://docs.datadoghq.com",
   "github_repository": "https://github.com/SigNoz/signoz",
   "license": "NOASSERTION",
-  "latest_version": "v0.134.0",
+  "latest_version": "v0.135.1",
   "programming_languages": [
     "TypeScript",
     "Go",
@@ -52,11 +52,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-26",
-  "last_updated": "2026-07-26",
+  "last_checked": "2026-08-02",
+  "last_updated": "2026-08-02",
   "repository_statistics": {
-    "stars": 31674,
-    "forks": 2388,
+    "stars": 31753,
+    "forks": 2408,
     "open_issues": 0,
     "watchers": 0
   }

@@ -7,7 +7,7 @@
   "documentation": "https://github.com/open-webui/open-webui#readme",
   "github_repository": "https://github.com/open-webui/open-webui",
   "license": "NOASSERTION",
-  "latest_version": "v0.10.2",
+  "latest_version": "v0.11.0",
   "programming_languages": [
     "Python"
   ],
@@ -39,11 +39,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 146739,
-    "forks": 21319,
+    "stars": 147556,
+    "forks": 21436,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-26",
-  "last_updated": "2026-07-26"
+  "last_checked": "2026-08-02",
+  "last_updated": "2026-08-02"
 }

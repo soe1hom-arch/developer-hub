@@ -7,7 +7,7 @@
   "documentation": "https://docs.cvat.ai",
   "github_repository": "https://github.com/cvat-ai/cvat",
   "license": "MIT",
-  "latest_version": "v2.71.0",
+  "latest_version": "v2.72.0",
   "programming_languages": [
     "Python",
     "TypeScript",
@@ -52,11 +52,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-26",
-  "last_updated": "2026-07-26",
+  "last_checked": "2026-08-02",
+  "last_updated": "2026-08-02",
   "repository_statistics": {
-    "stars": 16381,
-    "forks": 3773,
+    "stars": 16440,
+    "forks": 3785,
     "open_issues": 0,
     "watchers": 0
   }

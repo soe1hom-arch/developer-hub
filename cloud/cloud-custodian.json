@@ -26,22 +26,25 @@
     "compliance",
     "finops",
     "gcp",
-    "kubernetes"
+    "kubernetes",
+    "rules-engine",
+    "management",
+    "serverless"
   ],
   "alternatives": [],
-  "popularity": 10,
+  "popularity": 9,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 6035,
-    "forks": 1626,
-    "open_issues": 1707,
+    "stars": 6040,
+    "forks": 1625,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-26",
-  "last_updated": "2026-07-26",
-  "latest_version": "latest",
+  "last_checked": "2026-08-02",
+  "last_updated": "2026-08-02",
+  "latest_version": "0.9.51.0",
   "auto_discovered": true,
   "quality_score": 85
 }

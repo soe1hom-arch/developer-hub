@@ -7,7 +7,7 @@
   "documentation": "https://github.com/coturn/coturn#readme",
   "github_repository": "https://github.com/coturn/coturn",
   "license": "NOASSERTION",
-  "latest_version": "docker/4.15.0-r0",
+  "latest_version": "4.16.0",
   "programming_languages": [
     "C"
   ],
@@ -28,11 +28,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 14241,
-    "forks": 2268,
+    "stars": 14262,
+    "forks": 2270,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-26",
-  "last_updated": "2026-07-26"
+  "last_checked": "2026-08-02",
+  "last_updated": "2026-08-02"
 }

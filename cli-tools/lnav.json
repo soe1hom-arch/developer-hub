@@ -6,8 +6,8 @@
   "official_website": "http://lnav.org",
   "documentation": "https://github.com/tstack/lnav#readme",
   "github_repository": "https://github.com/tstack/lnav",
-  "license": "MIT",
-  "latest_version": "master",
+  "license": "BSD-2-Clause",
+  "latest_version": "v0.14.0",
   "programming_languages": [
     "C++"
   ],
@@ -27,7 +27,11 @@
     "logging",
     "more",
     "cli",
-    "command-line"
+    "command-line",
+    "pager",
+    "tail",
+    "terminal",
+    "terminal-pager"
   ],
   "has_binaries": true,
   "alternatives": [],
@@ -36,12 +40,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 10476,
+    "stars": 10500,
     "forks": 392,
-    "open_issues": 296,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-26",
-  "last_updated": "2026-07-26",
+  "last_checked": "2026-08-02",
+  "last_updated": "2026-08-02",
   "source": "cli-github"
 }

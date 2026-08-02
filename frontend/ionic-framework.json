@@ -7,7 +7,7 @@
   "documentation": "https://github.com/ionic-team/ionic-framework#readme",
   "github_repository": "https://github.com/ionic-team/ionic-framework",
   "license": "MIT",
-  "latest_version": "v8.8.15",
+  "latest_version": "v8.8.16",
   "programming_languages": [
     "TypeScript"
   ],
@@ -41,11 +41,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 52601,
-    "forks": 13331,
+    "stars": 52596,
+    "forks": 13325,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-26",
-  "last_updated": "2026-07-26"
+  "last_checked": "2026-08-02",
+  "last_updated": "2026-08-02"
 }

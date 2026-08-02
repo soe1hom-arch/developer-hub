@@ -26,22 +26,29 @@
     "bigquery",
     "cspm",
     "data",
-    "data-analysis"
+    "data-analysis",
+    "gcp",
+    "sql",
+    "data-integration",
+    "elt",
+    "etl",
+    "etl-framework",
+    "data-collection"
   ],
   "alternatives": [],
-  "popularity": 10,
+  "popularity": 9,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
     "stars": 6471,
-    "forks": 548,
-    "open_issues": 158,
+    "forks": 550,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-26",
-  "last_updated": "2026-07-26",
-  "latest_version": "latest",
+  "last_checked": "2026-08-02",
+  "last_updated": "2026-08-02",
+  "latest_version": "plugins-source-square-v1.3.33",
   "auto_discovered": true,
   "quality_score": 85
 }

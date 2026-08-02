@@ -7,7 +7,7 @@
   "documentation": "https://github.com/react/react-native#readme",
   "github_repository": "https://github.com/react/react-native",
   "license": "MIT",
-  "latest_version": "v0.86.0",
+  "latest_version": "v0.86.2",
   "programming_languages": [
     "C++"
   ],
@@ -36,11 +36,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 126264,
-    "forks": 25192,
+    "stars": 126270,
+    "forks": 25196,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-26",
-  "last_updated": "2026-07-26"
+  "last_checked": "2026-08-02",
+  "last_updated": "2026-08-02"
 }

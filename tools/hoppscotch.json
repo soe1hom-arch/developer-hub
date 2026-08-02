@@ -7,7 +7,7 @@
   "documentation": "https://github.com/hoppscotch/hoppscotch#readme",
   "github_repository": "https://github.com/hoppscotch/hoppscotch",
   "license": "MIT",
-  "latest_version": "2026.6.1",
+  "latest_version": "2026.7.0",
   "programming_languages": [
     "TypeScript"
   ],
@@ -42,11 +42,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 79895,
-    "forks": 5987,
+    "stars": 79941,
+    "forks": 6000,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-26",
-  "last_updated": "2026-07-26"
+  "last_checked": "2026-08-02",
+  "last_updated": "2026-08-02"
 }

@@ -7,7 +7,7 @@
   "documentation": "https://docs.sentry.io",
   "github_repository": "https://github.com/getsentry/sentry",
   "license": "NOASSERTION",
-  "latest_version": "26.7.1",
+  "latest_version": "26.7.2",
   "programming_languages": [
     "Python",
     "TypeScript",
@@ -46,11 +46,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-07-26",
-  "last_updated": "2026-07-26",
+  "last_checked": "2026-08-02",
+  "last_updated": "2026-08-02",
   "repository_statistics": {
-    "stars": 44383,
-    "forks": 4771,
+    "stars": 44424,
+    "forks": 4784,
     "open_issues": 0,
     "watchers": 0
   }

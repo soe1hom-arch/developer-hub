@@ -26,22 +26,25 @@
     "digitalocean",
     "gcp",
     "hacktoberfest",
-    "inventory-management"
+    "inventory-management",
+    "kubernetes",
+    "oci",
+    "open-source"
   ],
   "alternatives": [],
-  "popularity": 9,
+  "popularity": 8,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 4137,
-    "forks": 454,
-    "open_issues": 265,
+    "stars": 4135,
+    "forks": 453,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-26",
-  "last_updated": "2026-07-26",
-  "latest_version": "latest",
+  "last_checked": "2026-08-02",
+  "last_updated": "2026-08-02",
+  "latest_version": "v3.1.22",
   "auto_discovered": true,
   "quality_score": 80
 }

@@ -7,7 +7,7 @@
   "documentation": "https://github.com/rancher/rancher#readme",
   "github_repository": "https://github.com/rancher/rancher",
   "license": "Apache-2.0",
-  "latest_version": "v2.14.3",
+  "latest_version": "v2.15.0",
   "programming_languages": [
     "Go"
   ],
@@ -34,11 +34,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 25779,
-    "forks": 3216,
+    "stars": 25810,
+    "forks": 3220,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-26",
-  "last_updated": "2026-07-26"
+  "last_checked": "2026-08-02",
+  "last_updated": "2026-08-02"
 }

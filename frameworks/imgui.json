@@ -7,7 +7,7 @@
   "documentation": "https://github.com/ocornut/imgui#readme",
   "github_repository": "https://github.com/ocornut/imgui",
   "license": "MIT",
-  "latest_version": "v1.92.9",
+  "latest_version": "v1.92.9b",
   "programming_languages": [
     "C++"
   ],
@@ -40,11 +40,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 75063,
-    "forks": 11953,
+    "stars": 75449,
+    "forks": 11980,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-26",
-  "last_updated": "2026-07-26"
+  "last_checked": "2026-08-02",
+  "last_updated": "2026-08-02"
 }

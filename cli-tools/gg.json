@@ -24,7 +24,10 @@
     "libgit",
     "libgit2",
     "ncurses",
-    "nix"
+    "nix",
+    "ui",
+    "tui",
+    "static-binary"
   ],
   "alternatives": [],
   "popularity": 5,
@@ -34,11 +37,11 @@
   "repository_statistics": {
     "stars": 11,
     "forks": 0,
-    "open_issues": 1,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-27",
-  "last_updated": "2026-07-27",
+  "last_checked": "2026-08-03",
+  "last_updated": "2026-08-03",
   "latest_version": "latest",
   "auto_discovered": true,
   "quality_score": 50

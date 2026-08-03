@@ -35,13 +35,13 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 37802,
-    "forks": 2481,
+    "stars": 37886,
+    "forks": 2484,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-27",
-  "last_updated": "2026-07-27",
+  "last_checked": "2026-08-03",
+  "last_updated": "2026-08-03",
   "latest_version": "@xyflow/system@0.0.79",
   "auto_discovered": true,
   "quality_score": 90

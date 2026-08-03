@@ -21,19 +21,19 @@
     "smarthome"
   ],
   "alternatives": [],
-  "popularity": 7,
+  "popularity": 8,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 2243,
-    "forks": 607,
-    "open_issues": 5,
+    "stars": 2251,
+    "forks": 608,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-27",
-  "last_updated": "2026-07-27",
-  "latest_version": "latest",
+  "last_checked": "2026-08-03",
+  "last_updated": "2026-08-03",
+  "latest_version": "v1.2.1",
   "auto_discovered": true,
   "quality_score": 72
 }

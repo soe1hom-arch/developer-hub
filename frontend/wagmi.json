@@ -33,14 +33,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 6733,
-    "forks": 1417,
+    "stars": 6735,
+    "forks": 1421,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-28",
-  "last_updated": "2026-07-28",
-  "latest_version": "@wagmi/vue@0.5.27",
+  "last_checked": "2026-08-04",
+  "last_updated": "2026-08-04",
+  "latest_version": "wagmi@3.7.6",
   "auto_discovered": true,
   "quality_score": 75
 }

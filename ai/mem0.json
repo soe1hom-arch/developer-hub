@@ -39,14 +39,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 61867,
-    "forks": 7211,
+    "stars": 62429,
+    "forks": 7280,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-28",
-  "last_updated": "2026-07-28",
-  "latest_version": "ts-v3.1.2",
+  "last_checked": "2026-08-04",
+  "last_updated": "2026-08-04",
+  "latest_version": "vercel-ai-v3.0.1",
   "auto_discovered": true,
   "quality_score": 80
 }

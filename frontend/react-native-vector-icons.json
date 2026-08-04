@@ -28,13 +28,13 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 17909,
-    "forks": 2100,
+    "stars": 17908,
+    "forks": 2101,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-28",
-  "last_updated": "2026-07-28",
+  "last_checked": "2026-08-04",
+  "last_updated": "2026-08-04",
   "latest_version": "@react-native-vector-icons/zocial@13.1.2",
   "auto_discovered": true,
   "quality_score": 82

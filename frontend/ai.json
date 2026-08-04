@@ -38,14 +38,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 25844,
-    "forks": 4865,
+    "stars": 25997,
+    "forks": 4906,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-28",
-  "last_updated": "2026-07-28",
-  "latest_version": "@ai-sdk/xai@4.0.19",
+  "last_checked": "2026-08-04",
+  "last_updated": "2026-08-04",
+  "latest_version": "@ai-sdk/xai@4.0.26",
   "auto_discovered": true,
   "quality_score": 90
 }

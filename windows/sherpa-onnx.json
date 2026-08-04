@@ -39,14 +39,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 13823,
-    "forks": 1590,
+    "stars": 13951,
+    "forks": 1605,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-28",
-  "last_updated": "2026-07-28",
-  "latest_version": "asr-models-qnn-binary-3",
+  "last_checked": "2026-08-04",
+  "last_updated": "2026-08-04",
+  "latest_version": "xcframework",
   "auto_discovered": true,
   "quality_score": 90
 }

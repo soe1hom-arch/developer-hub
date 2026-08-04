@@ -40,14 +40,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 20711,
-    "forks": 1386,
+    "stars": 20906,
+    "forks": 1420,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-28",
-  "last_updated": "2026-07-28",
-  "latest_version": "fleet-v0.0.5",
+  "last_checked": "2026-08-04",
+  "last_updated": "2026-08-04",
+  "latest_version": "sandbox-v0.1.24",
   "auto_discovered": true,
   "quality_score": 90
 }

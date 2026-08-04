@@ -34,13 +34,13 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 3224,
-    "forks": 442,
+    "stars": 3250,
+    "forks": 446,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-07-28",
-  "last_updated": "2026-07-28",
+  "last_checked": "2026-08-04",
+  "last_updated": "2026-08-04",
   "latest_version": "bwc-cli@1.2.4",
   "auto_discovered": true,
   "quality_score": 80

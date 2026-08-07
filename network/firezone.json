@@ -1,0 +1,47 @@
+{
+  "id": "firezone",
+  "name": "firezone",
+  "category": "network",
+  "description": "Enterprise-ready zero-trust access platform built on WireGuard\u00ae.",
+  "official_website": "https://www.firezone.dev",
+  "documentation": "https://github.com/firezone/firezone#readme",
+  "github_repository": "https://github.com/firezone/firezone",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Elixir"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "cloud",
+    "devsecops",
+    "elixir",
+    "elixir-lang",
+    "liveview",
+    "network",
+    "network-security",
+    "networking"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 8991,
+    "forks": 440,
+    "open_issues": 411,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-07",
+  "last_updated": "2026-08-07",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

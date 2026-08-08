@@ -7,7 +7,7 @@
   "documentation": "https://dspy-docs.vercel.app/docs",
   "github_repository": "https://github.com/stanfordnlp/dspy",
   "license": "MIT",
-  "latest_version": "3.2.1",
+  "latest_version": "3.3.0",
   "programming_languages": [
     "Python"
   ],
@@ -37,11 +37,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-08-01",
-  "last_updated": "2026-08-01",
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
   "repository_statistics": {
-    "stars": 36502,
-    "forks": 3152,
+    "stars": 36689,
+    "forks": 3175,
     "open_issues": 0,
     "watchers": 0
   }

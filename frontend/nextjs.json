@@ -7,7 +7,7 @@
   "documentation": "https://nextjs.org/docs",
   "github_repository": "https://github.com/vercel/next.js",
   "license": "MIT",
-  "latest_version": "v16.2.12",
+  "latest_version": "v16.3.0",
   "programming_languages": [
     "JavaScript",
     "TypeScript"
@@ -48,11 +48,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-08-01",
-  "last_updated": "2026-08-01",
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
   "repository_statistics": {
-    "stars": 141206,
-    "forks": 31588,
+    "stars": 141680,
+    "forks": 31706,
     "open_issues": 0,
     "watchers": 0
   }

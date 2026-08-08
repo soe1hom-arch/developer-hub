@@ -7,7 +7,7 @@
   "documentation": "https://github.com/t8y2/dbx#readme",
   "github_repository": "https://github.com/t8y2/dbx",
   "license": "Apache-2.0",
-  "latest_version": "v0.5.72",
+  "latest_version": "v0.5.77",
   "programming_languages": [
     "Rust"
   ],
@@ -41,12 +41,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 12855,
-    "forks": 1235,
+    "stars": 13646,
+    "forks": 1396,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-01",
-  "last_updated": "2026-08-01",
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
   "source": "binary-release"
 }

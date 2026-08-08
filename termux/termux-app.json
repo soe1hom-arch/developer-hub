@@ -29,12 +29,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 58466,
-    "forks": 7101,
+    "stars": 58834,
+    "forks": 7153,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-01",
-  "last_updated": "2026-08-01",
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
   "source": "termux-github"
 }

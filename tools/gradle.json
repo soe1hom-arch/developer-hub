@@ -7,7 +7,7 @@
   "documentation": "https://docs.gradle.org",
   "github_repository": "https://github.com/gradle/gradle",
   "license": "Apache-2.0",
-  "latest_version": "v9.6.1",
+  "latest_version": "v9.7.0",
   "programming_languages": [
     "Java",
     "Groovy",
@@ -45,11 +45,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-08-01",
-  "last_updated": "2026-08-01",
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
   "repository_statistics": {
-    "stars": 18741,
-    "forks": 5283,
+    "stars": 18765,
+    "forks": 5340,
     "open_issues": 0,
     "watchers": 0
   }

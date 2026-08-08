@@ -7,7 +7,7 @@
   "documentation": "https://nodejs.org/docs",
   "github_repository": "https://github.com/nodejs/node",
   "license": "NOASSERTION",
-  "latest_version": "v26.5.1",
+  "latest_version": "v26.7.0",
   "programming_languages": [
     "JavaScript",
     "C++",
@@ -48,11 +48,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-08-01",
-  "last_updated": "2026-08-01",
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
   "repository_statistics": {
-    "stars": 118590,
-    "forks": 36264,
+    "stars": 118827,
+    "forks": 36385,
     "open_issues": 0,
     "watchers": 0
   }

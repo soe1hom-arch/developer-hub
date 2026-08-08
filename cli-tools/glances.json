@@ -7,7 +7,7 @@
   "documentation": "https://github.com/nicolargo/glances#readme",
   "github_repository": "https://github.com/nicolargo/glances",
   "license": "NOASSERTION",
-  "latest_version": "v4.5.5",
+  "latest_version": "v4.5.6",
   "programming_languages": [
     "Python"
   ],
@@ -35,12 +35,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 33219,
-    "forks": 1773,
+    "stars": 33269,
+    "forks": 1780,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-01",
-  "last_updated": "2026-08-01",
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
   "source": "cli-github"
 }

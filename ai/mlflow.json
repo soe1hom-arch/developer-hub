@@ -7,7 +7,7 @@
   "documentation": "https://mlflow.org/docs",
   "github_repository": "https://github.com/mlflow/mlflow",
   "license": "Apache-2.0",
-  "latest_version": "v3.15.0",
+  "latest_version": "v3.15.1",
   "programming_languages": [
     "Python",
     "R",
@@ -47,11 +47,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-08-01",
-  "last_updated": "2026-08-01",
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
   "repository_statistics": {
-    "stars": 27309,
-    "forks": 6097,
+    "stars": 27414,
+    "forks": 6122,
     "open_issues": 0,
     "watchers": 0
   }

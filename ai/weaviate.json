@@ -7,7 +7,7 @@
   "documentation": "https://weaviate.io/developers/weaviate",
   "github_repository": "https://github.com/weaviate/weaviate",
   "license": "BSD-3-Clause",
-  "latest_version": "v1.38.8",
+  "latest_version": "v1.39.0",
   "programming_languages": [
     "Go",
     "Python"
@@ -47,11 +47,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-08-01",
-  "last_updated": "2026-08-01",
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
   "repository_statistics": {
-    "stars": 16678,
-    "forks": 1357,
+    "stars": 16703,
+    "forks": 1358,
     "open_issues": 0,
     "watchers": 0
   }

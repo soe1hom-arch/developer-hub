@@ -7,7 +7,7 @@
   "documentation": "https://vitejs.dev/guide",
   "github_repository": "https://github.com/vitejs/vite",
   "license": "MIT",
-  "latest_version": "create-vite@9.1.2",
+  "latest_version": "plugin-legacy@8.2.3",
   "programming_languages": [
     "TypeScript",
     "JavaScript"
@@ -40,11 +40,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-08-01",
-  "last_updated": "2026-08-01",
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
   "repository_statistics": {
-    "stars": 82159,
-    "forks": 8591,
+    "stars": 82255,
+    "forks": 8612,
     "open_issues": 0,
     "watchers": 0
   }

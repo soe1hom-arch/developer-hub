@@ -7,7 +7,7 @@
   "documentation": "https://developer.android.com/media/media3",
   "github_repository": "https://github.com/androidx/media",
   "license": "Apache-2.0",
-  "latest_version": "1.11.0-rc01",
+  "latest_version": "1.11.0",
   "programming_languages": [
     "Java",
     "Kotlin"
@@ -42,11 +42,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-08-01",
-  "last_updated": "2026-08-01",
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
   "repository_statistics": {
-    "stars": 2925,
-    "forks": 892,
+    "stars": 2935,
+    "forks": 891,
     "open_issues": 0,
     "watchers": 0
   }

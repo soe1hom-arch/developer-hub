@@ -22,7 +22,8 @@
     "robotics",
     "step",
     "stl",
-    "stp"
+    "stp",
+    "text-to-cad"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -30,14 +31,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 12264,
-    "forks": 1307,
-    "open_issues": 15,
+    "stars": 13049,
+    "forks": 1378,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-01",
-  "last_updated": "2026-08-01",
-  "latest_version": "latest",
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "latest_version": "0.3.13",
   "auto_discovered": true,
   "quality_score": 80
 }

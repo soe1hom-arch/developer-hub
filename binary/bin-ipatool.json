@@ -7,7 +7,7 @@
   "documentation": "https://github.com/majd/ipatool#readme",
   "github_repository": "https://github.com/majd/ipatool",
   "license": "MIT",
-  "latest_version": "v2.3.1",
+  "latest_version": "v2.3.2",
   "programming_languages": [
     "Go"
   ],
@@ -43,12 +43,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 9737,
-    "forks": 841,
+    "stars": 9786,
+    "forks": 843,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-01",
-  "last_updated": "2026-08-01",
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
   "source": "binary-release"
 }

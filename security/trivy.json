@@ -7,7 +7,7 @@
   "documentation": "https://trivy.dev/docs",
   "github_repository": "https://github.com/aquasecurity/trivy",
   "license": "Apache-2.0",
-  "latest_version": "v0.72.0",
+  "latest_version": "v0.73.0",
   "programming_languages": [
     "Go"
   ],
@@ -46,11 +46,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-08-01",
-  "last_updated": "2026-08-01",
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
   "repository_statistics": {
-    "stars": 37177,
-    "forks": 561,
+    "stars": 37297,
+    "forks": 577,
     "open_issues": 0,
     "watchers": 0
   }

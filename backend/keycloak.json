@@ -7,7 +7,7 @@
   "documentation": "https://keycloak.org/documentation",
   "github_repository": "https://github.com/keycloak/keycloak",
   "license": "Apache-2.0",
-  "latest_version": "26.7.0",
+  "latest_version": "26.7.1",
   "programming_languages": [
     "Java",
     "TypeScript"
@@ -43,11 +43,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-08-01",
-  "last_updated": "2026-08-01",
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
   "repository_statistics": {
-    "stars": 35935,
-    "forks": 8715,
+    "stars": 36057,
+    "forks": 8740,
     "open_issues": 0,
     "watchers": 0
   }

@@ -7,7 +7,7 @@
   "documentation": "https://github.com/getzola/zola#readme",
   "github_repository": "https://github.com/getzola/zola",
   "license": "EUPL-1.2",
-  "latest_version": "v0.22.1",
+  "latest_version": "v0.23.2",
   "programming_languages": [
     "Rust"
   ],
@@ -38,12 +38,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 17281,
-    "forks": 1166,
+    "stars": 17307,
+    "forks": 1170,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-01",
-  "last_updated": "2026-08-01",
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
   "source": "binary-release"
 }

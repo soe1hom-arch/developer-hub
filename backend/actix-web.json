@@ -7,7 +7,7 @@
   "documentation": "https://actix.rs/docs",
   "github_repository": "https://github.com/actix/actix-web",
   "license": "Apache-2.0",
-  "latest_version": "http-v3.13.1",
+  "latest_version": "http-v3.13.2",
   "programming_languages": [
     "Rust"
   ],
@@ -43,11 +43,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-08-01",
-  "last_updated": "2026-08-01",
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
   "repository_statistics": {
-    "stars": 24761,
-    "forks": 1879,
+    "stars": 24766,
+    "forks": 1877,
     "open_issues": 0,
     "watchers": 0
   }

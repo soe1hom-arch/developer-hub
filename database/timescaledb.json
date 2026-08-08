@@ -7,7 +7,7 @@
   "documentation": "https://docs.timescale.com",
   "github_repository": "https://github.com/timescale/timescaledb",
   "license": "NOASSERTION",
-  "latest_version": "2.29.0",
+  "latest_version": "2.29.1",
   "programming_languages": [
     "C",
     "SQL"
@@ -45,11 +45,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-08-01",
-  "last_updated": "2026-08-01",
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
   "repository_statistics": {
-    "stars": 23209,
-    "forks": 1125,
+    "stars": 23260,
+    "forks": 1131,
     "open_issues": 0,
     "watchers": 0
   }

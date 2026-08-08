@@ -27,12 +27,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 15560,
-    "forks": 1802,
+    "stars": 15573,
+    "forks": 1801,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-01",
-  "last_updated": "2026-08-01",
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
   "source": "binary-release"
 }

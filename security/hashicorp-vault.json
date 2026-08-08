@@ -7,7 +7,7 @@
   "documentation": "https://developer.hashicorp.com/vault/docs",
   "github_repository": "https://github.com/hashicorp/vault",
   "license": "NOASSERTION",
-  "latest_version": "v2.0.3",
+  "latest_version": "v2.0.4",
   "programming_languages": [
     "Go"
   ],
@@ -39,11 +39,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-08-01",
-  "last_updated": "2026-08-01",
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
   "repository_statistics": {
-    "stars": 36040,
-    "forks": 4726,
+    "stars": 36086,
+    "forks": 4728,
     "open_issues": 0,
     "watchers": 0
   }

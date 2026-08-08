@@ -34,7 +34,11 @@
     "summarization",
     "transformers",
     "machine-learning",
-    "python"
+    "python",
+    "large-language-models",
+    "generative-ai",
+    "retrieval-augmented-generation",
+    "agents"
   ],
   "alternatives": [
     "LangChain",
@@ -46,11 +50,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-08-01",
-  "last_updated": "2026-08-01",
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
   "repository_statistics": {
-    "stars": 26072,
-    "forks": 2971,
+    "stars": 26142,
+    "forks": 2980,
     "open_issues": 0,
     "watchers": 0
   }

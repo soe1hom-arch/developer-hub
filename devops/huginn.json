@@ -1,0 +1,50 @@
+{
+  "id": "huginn",
+  "name": "huginn",
+  "category": "devops",
+  "description": "Create agents that monitor and act on your behalf.  Your agents are standing by!",
+  "official_website": "https://github.com/huginn/huginn",
+  "documentation": "https://github.com/huginn/huginn#readme",
+  "github_repository": "https://github.com/huginn/huginn",
+  "license": "MIT",
+  "programming_languages": [
+    "Ruby"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "agent",
+    "automation",
+    "feed",
+    "feedgenerator",
+    "huginn",
+    "monitoring",
+    "notifications",
+    "rss",
+    "scraper",
+    "webscraping",
+    "twitter-streaming"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 49769,
+    "forks": 4289,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "v2022.08.18",
+  "auto_discovered": true,
+  "quality_score": 75
+}

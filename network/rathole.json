@@ -1,0 +1,50 @@
+{
+  "id": "rathole",
+  "name": "rathole",
+  "category": "network",
+  "description": "A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.",
+  "official_website": "https://github.com/rathole-org/rathole",
+  "documentation": "https://github.com/rathole-org/rathole#readme",
+  "github_repository": "https://github.com/rathole-org/rathole",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "firewall",
+    "frp",
+    "http",
+    "nat",
+    "network",
+    "ngrok",
+    "noise",
+    "noise-protocol",
+    "tunnel",
+    "rust",
+    "proxy"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 14006,
+    "forks": 804,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "v0.5.0",
+  "auto_discovered": true,
+  "quality_score": 80
+}

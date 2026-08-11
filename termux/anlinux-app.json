@@ -1,0 +1,49 @@
+{
+  "id": "anlinux-app",
+  "name": "AnLinux-App",
+  "category": "termux",
+  "description": "AnLinux allow you to run Linux on Android without root access.",
+  "official_website": "https://github.com/EXALAB/AnLinux-App",
+  "documentation": "https://github.com/EXALAB/AnLinux-App#readme",
+  "github_repository": "https://github.com/EXALAB/AnLinux-App",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Java"
+  ],
+  "platforms": [
+    "Termux",
+    "Android",
+    "Linux"
+  ],
+  "tags": [
+    "android",
+    "arch-linux",
+    "archlinux",
+    "centos",
+    "debian",
+    "desktop-environment",
+    "fedora",
+    "java",
+    "linux",
+    "termux",
+    "proot",
+    "ubuntu",
+    "kali"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 2283,
+    "forks": 341,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "v6.75",
+  "auto_discovered": true,
+  "quality_score": 65
+}

@@ -1,0 +1,45 @@
+{
+  "id": "inquirer-js",
+  "name": "Inquirer.js",
+  "category": "cli-tools",
+  "description": "A collection of common interactive command line user interfaces.",
+  "official_website": "https://github.com/SBoudrias/Inquirer.js",
+  "documentation": "https://github.com/SBoudrias/Inquirer.js#readme",
+  "github_repository": "https://github.com/SBoudrias/Inquirer.js",
+  "license": "MIT",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "cli",
+    "command-line",
+    "javascript",
+    "javascript-library",
+    "node-js",
+    "nodejs",
+    "prompt",
+    "typescript"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 21615,
+    "forks": 1365,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "@inquirer/prompts@8.5.2",
+  "auto_discovered": true,
+  "quality_score": 75
+}

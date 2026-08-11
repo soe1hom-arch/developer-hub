@@ -1,0 +1,46 @@
+{
+  "id": "firmware",
+  "name": "firmware",
+  "category": "firmware",
+  "description": "The official firmware for Meshtastic, an open-source, off-grid mesh communication system.",
+  "official_website": "https://meshtastic.org",
+  "documentation": "https://github.com/meshtastic/firmware#readme",
+  "github_repository": "https://github.com/meshtastic/firmware",
+  "license": "GPL-3.0",
+  "programming_languages": [
+    "C++"
+  ],
+  "platforms": [
+    "Linux",
+    "Embedded"
+  ],
+  "tags": [
+    "esp32",
+    "gps",
+    "heltec",
+    "hiking",
+    "lora",
+    "mesh",
+    "mesh-networks",
+    "meshtastic",
+    "ttgo-tbeam",
+    "ttgo",
+    "nrf52"
+  ],
+  "alternatives": [],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 8079,
+    "forks": 2621,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "latest_version": "v2.7.26.54e0d8d",
+  "auto_discovered": true,
+  "quality_score": 80
+}

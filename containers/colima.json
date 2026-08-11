@@ -1,0 +1,50 @@
+{
+  "id": "colima",
+  "name": "colima",
+  "category": "containers",
+  "description": "Container runtimes on macOS (and Linux) with minimal setup",
+  "official_website": "https://colima.run",
+  "documentation": "https://github.com/abiosoft/colima#readme",
+  "github_repository": "https://github.com/abiosoft/colima",
+  "license": "MIT",
+  "latest_version": "v0.10.3",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "containerd",
+    "containerd-compose",
+    "containers",
+    "docker",
+    "docker-compose",
+    "incus",
+    "k3s",
+    "k8s",
+    "kubernetes",
+    "macos",
+    "nerdctl",
+    "lima"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 30283,
+    "forks": 600,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-09",
+  "last_updated": "2026-08-09"
+}

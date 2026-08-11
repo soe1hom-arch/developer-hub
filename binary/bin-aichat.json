@@ -1,0 +1,51 @@
+{
+  "id": "bin-aichat",
+  "name": "aichat",
+  "category": "binary",
+  "description": "All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.",
+  "official_website": "https://github.com/sigoden/aichat",
+  "documentation": "https://github.com/sigoden/aichat#readme",
+  "github_repository": "https://github.com/sigoden/aichat",
+  "license": "Apache-2.0",
+  "latest_version": "v0.30.0",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS",
+    "Android"
+  ],
+  "tags": [
+    "ai",
+    "ai-agents",
+    "chatbot",
+    "claude",
+    "cli",
+    "function-calling",
+    "gemini",
+    "llm",
+    "binary",
+    "pre-built",
+    "ollama",
+    "openai",
+    "rag",
+    "rust"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 10338,
+    "forks": 723,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "source": "binary-release"
+}

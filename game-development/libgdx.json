@@ -1,0 +1,52 @@
+{
+  "id": "libgdx",
+  "name": "libgdx",
+  "category": "game-development",
+  "description": "Desktop/Android/HTML5/iOS Java game development framework",
+  "official_website": "http://www.libgdx.com/",
+  "documentation": "https://github.com/libgdx/libgdx#readme",
+  "github_repository": "https://github.com/libgdx/libgdx",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Java"
+  ],
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux",
+    "Web"
+  ],
+  "tags": [
+    "2d",
+    "3d",
+    "android",
+    "cross-platform",
+    "framework",
+    "game",
+    "game-development",
+    "game-engine",
+    "libgdx",
+    "java",
+    "ios",
+    "html5",
+    "windows",
+    "linux",
+    "macosx"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 25284,
+    "forks": 6534,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "1.14.2",
+  "auto_discovered": true,
+  "quality_score": 85
+}

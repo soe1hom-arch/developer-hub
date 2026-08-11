@@ -1,0 +1,38 @@
+{
+  "id": "static-glibc-nginx",
+  "name": "static-glibc-nginx",
+  "category": "binary",
+  "description": "Makefile and patch to build an NGINX binary statically linked against GNU libc.",
+  "official_website": "https://github.com/ericpruitt/static-glibc-nginx",
+  "documentation": "https://github.com/ericpruitt/static-glibc-nginx#readme",
+  "github_repository": "https://github.com/ericpruitt/static-glibc-nginx",
+  "license": "MIT",
+  "programming_languages": [
+    "Makefile"
+  ],
+  "platforms": [
+    "Linux"
+  ],
+  "tags": [
+    "nginx",
+    "static-binary",
+    "static-build",
+    "static-linking"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 15,
+    "forks": 6,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-09",
+  "last_updated": "2026-08-09",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 42
+}

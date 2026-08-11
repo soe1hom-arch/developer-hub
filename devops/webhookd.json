@@ -1,0 +1,49 @@
+{
+  "id": "webhookd",
+  "name": "webhookd",
+  "category": "devops",
+  "description": "A minimalist, powerful webhook server designed to easily trigger shell scripts and run external processes via HTTP requests.",
+  "official_website": "https://github.com/ncarlier/webhookd",
+  "documentation": "https://github.com/ncarlier/webhookd#readme",
+  "github_repository": "https://github.com/ncarlier/webhookd",
+  "license": "MIT",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "api-rest",
+    "bash",
+    "cd",
+    "ci",
+    "continuous-deployment",
+    "continuous-integration",
+    "go",
+    "shell-script",
+    "webhook",
+    "webhook-server"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 1094,
+    "forks": 97,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-09",
+  "last_updated": "2026-08-09",
+  "latest_version": "v1.22.0",
+  "auto_discovered": true,
+  "quality_score": 70
+}

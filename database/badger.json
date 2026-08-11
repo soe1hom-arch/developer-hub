@@ -1,0 +1,32 @@
+{
+  "id": "badger",
+  "name": "BadgerDB",
+  "category": "database",
+  "description": "Embedded key-value store in Go for efficient persistent storage",
+  "official_website": "https://github.com/dgraph-io/badger",
+  "documentation": "https://dgraph.io/docs/badger",
+  "github_repository": "https://github.com/github",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install badger"
+  },
+  "tags": [
+    "database",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

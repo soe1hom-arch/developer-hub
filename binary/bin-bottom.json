@@ -1,0 +1,48 @@
+{
+  "id": "bin-bottom",
+  "name": "bottom",
+  "category": "binary",
+  "description": "Yet another cross-platform graphical process/system monitor.",
+  "official_website": "https://bottom.pages.dev",
+  "documentation": "https://github.com/ClementTsang/bottom#readme",
+  "github_repository": "https://github.com/ClementTsang/bottom",
+  "license": "MIT",
+  "latest_version": "0.14.7",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Linux",
+    "Android",
+    "Windows",
+    "macOS"
+  ],
+  "tags": [
+    "bottom",
+    "btm",
+    "cli",
+    "cross-platform",
+    "monitoring",
+    "rust",
+    "terminal",
+    "top",
+    "binary",
+    "pre-built",
+    "tui"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 13853,
+    "forks": 370,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "source": "binary-release"
+}

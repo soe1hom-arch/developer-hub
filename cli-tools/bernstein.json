@@ -1,0 +1,57 @@
+{
+  "id": "bernstein",
+  "name": "bernstein",
+  "category": "cli-tools",
+  "description": "Deterministic, verifiable orchestration for CLI coding agents (Claude Code, Codex, Gemini CLI, +40 more). Reproducible parallel runs in git worktrees, signed lineage, byte-identical replay, opt-in HMA",
+  "official_website": "https://bernstein.run",
+  "documentation": "https://github.com/sipyourdrink-ltd/bernstein#readme",
+  "github_repository": "https://github.com/sipyourdrink-ltd/bernstein",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "agent-orchestrator",
+    "agentic-ai",
+    "ai-agents",
+    "aider",
+    "air-gap",
+    "audit-trail",
+    "claude-code",
+    "cli-tool",
+    "mcp-server",
+    "model-context-protocol",
+    "coding-agent",
+    "python",
+    "codex-cli",
+    "multi-agent",
+    "deterministic-replay",
+    "provenance",
+    "reproducibility",
+    "git-worktree",
+    "agent-fleet",
+    "agent-swarm"
+  ],
+  "alternatives": [],
+  "popularity": 7,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 811,
+    "forks": 94,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-09",
+  "last_updated": "2026-08-09",
+  "latest_version": "v3.13.0",
+  "auto_discovered": true,
+  "quality_score": 75
+}

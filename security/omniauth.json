@@ -1,0 +1,43 @@
+{
+  "id": "omniauth",
+  "name": "omniauth",
+  "category": "security",
+  "description": "OmniAuth is a flexible authentication system utilizing Rack middleware.",
+  "official_website": "https://github.com/omniauth/omniauth",
+  "documentation": "https://github.com/omniauth/omniauth#readme",
+  "github_repository": "https://github.com/omniauth/omniauth",
+  "license": "MIT",
+  "programming_languages": [
+    "Ruby"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "authentication",
+    "hacktoberfest",
+    "omniauth",
+    "ruby"
+  ],
+  "alternatives": [],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 8098,
+    "forks": 975,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "latest_version": "v2.1.4",
+  "auto_discovered": true,
+  "quality_score": 67
+}

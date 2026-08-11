@@ -1,0 +1,48 @@
+{
+  "id": "bin-herdr",
+  "name": "herdr",
+  "category": "binary",
+  "description": "agent multiplexer that lives in your terminal.",
+  "official_website": "https://herdr.dev",
+  "documentation": "https://github.com/ogulcancelik/herdr#readme",
+  "github_repository": "https://github.com/ogulcancelik/herdr",
+  "license": "Apache-2.0",
+  "latest_version": "v0.8.0",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Linux",
+    "Android",
+    "macOS"
+  ],
+  "tags": [
+    "agent",
+    "agent-orchestration",
+    "ai",
+    "ai-agents",
+    "claude-code",
+    "cli",
+    "codex",
+    "coding-agents",
+    "binary",
+    "pre-built",
+    "developer-tools",
+    "devtools"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 25621,
+    "forks": 1801,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "source": "binary-release"
+}

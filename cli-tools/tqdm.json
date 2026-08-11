@@ -1,0 +1,53 @@
+{
+  "id": "tqdm",
+  "name": "tqdm",
+  "category": "cli-tools",
+  "description": ":zap: A Fast, Extensible Progress Bar for Python and CLI",
+  "official_website": "https://tqdm.github.io",
+  "documentation": "https://github.com/tqdm/tqdm#readme",
+  "github_repository": "https://github.com/tqdm/tqdm",
+  "license": "NOASSERTION",
+  "latest_version": "v4.70.0",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "cli",
+    "closember",
+    "console",
+    "discord",
+    "gui",
+    "jupyter",
+    "keras",
+    "meter",
+    "cli",
+    "command-line",
+    "progressbar",
+    "progressmeter",
+    "progress-bar",
+    "rate",
+    "terminal",
+    "time",
+    "progress"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 31268,
+    "forks": 1481,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "source": "cli-github"
+}

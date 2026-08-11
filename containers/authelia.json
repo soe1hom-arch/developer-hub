@@ -1,0 +1,53 @@
+{
+  "id": "authelia",
+  "name": "authelia",
+  "category": "containers",
+  "description": "The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified\u2122",
+  "official_website": "https://www.authelia.com",
+  "documentation": "https://github.com/authelia/authelia#readme",
+  "github_repository": "https://github.com/authelia/authelia",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "2fa",
+    "authentication",
+    "docker",
+    "golang",
+    "kubernetes",
+    "ldap",
+    "mfa",
+    "multifactor",
+    "totp",
+    "sso-authentication",
+    "yubikey",
+    "two-factor-authentication",
+    "sso",
+    "push-notifications"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 28532,
+    "forks": 1454,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "v4.39.20",
+  "auto_discovered": true,
+  "quality_score": 85
+}

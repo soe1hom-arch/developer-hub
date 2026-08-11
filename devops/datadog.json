@@ -1,0 +1,63 @@
+{
+  "id": "datadog",
+  "name": "Datadog",
+  "category": "devops",
+  "description": "Cloud monitoring and analytics platform for infrastructure and applications",
+  "official_website": "https://datadoghq.com",
+  "documentation": "https://docs.datadoghq.com",
+  "github_repository": "https://github.com/SigNoz/signoz",
+  "license": "NOASSERTION",
+  "latest_version": "v0.136.1",
+  "programming_languages": [
+    "TypeScript",
+    "Go",
+    "Python",
+    "SCSS",
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install datadog"
+  },
+  "tags": [
+    "devops",
+    "tool",
+    "library",
+    "apm",
+    "application-monitoring",
+    "distributed-tracing",
+    "go",
+    "good-first-issue",
+    "jaeger",
+    "log",
+    "logs",
+    "metrics",
+    "monitoring",
+    "nextjs",
+    "observability",
+    "open-source",
+    "opentelemetry",
+    "prometheus",
+    "react",
+    "reactjs",
+    "self-hosted",
+    "tracing",
+    "typescript"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-08-09",
+  "last_updated": "2026-08-09",
+  "repository_statistics": {
+    "stars": 31801,
+    "forks": 2411,
+    "open_issues": 0,
+    "watchers": 0
+  }
+}

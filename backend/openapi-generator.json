@@ -1,0 +1,51 @@
+{
+  "id": "openapi-generator",
+  "name": "openapi-generator",
+  "category": "backend",
+  "description": "OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)",
+  "official_website": "https://openapi-generator.tech",
+  "documentation": "https://github.com/OpenAPITools/openapi-generator#readme",
+  "github_repository": "https://github.com/OpenAPITools/openapi-generator",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Java"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "api",
+    "api-client",
+    "api-server",
+    "generator",
+    "hacktoberfest",
+    "openapi",
+    "openapi-generator",
+    "openapi3",
+    "rest-api",
+    "rest-client",
+    "sdk",
+    "restful-api"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 26653,
+    "forks": 7635,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "latest_version": "v7.24.0",
+  "auto_discovered": true,
+  "quality_score": 90
+}

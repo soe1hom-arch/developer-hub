@@ -1,0 +1,49 @@
+{
+  "id": "camphish",
+  "name": "CamPhish",
+  "category": "termux",
+  "description": "Educational security tool demonstrating camera access vulnerabilities for awareness and learning purposes. For authorized testing only.",
+  "official_website": "https://github.com/techchipnet/CamPhish",
+  "documentation": "https://github.com/techchipnet/CamPhish#readme",
+  "github_repository": "https://github.com/techchipnet/CamPhish",
+  "license": "GPL-3.0",
+  "programming_languages": [
+    "Python",
+    "HTML"
+  ],
+  "platforms": [
+    "Termux",
+    "Android",
+    "Linux"
+  ],
+  "tags": [
+    "security",
+    "educational",
+    "awareness",
+    "termux",
+    "ethical-hacking",
+    "hacking",
+    "kali-linux",
+    "hack",
+    "penetration-testing",
+    "camera-hacking",
+    "android-hacking",
+    "techchip",
+    "gps",
+    "gps-location"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": false,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 4957,
+    "forks": 1350,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-10",
+  "last_updated": "2026-08-10",
+  "latest_version": "main"
+}

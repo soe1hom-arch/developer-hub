@@ -1,0 +1,50 @@
+{
+  "id": "komiser",
+  "name": "komiser",
+  "category": "cloud",
+  "description": "Open-source cloud-environment inspector. Supporting AWS, GCP, Azure, and more! Your cloud resources will have nowhere to hide!",
+  "official_website": "https://komiser.io",
+  "documentation": "https://github.com/mlabouardy/komiser#readme",
+  "github_repository": "https://github.com/mlabouardy/komiser",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "aws",
+    "azure",
+    "civo",
+    "cost-optimization",
+    "digitalocean",
+    "gcp",
+    "hacktoberfest",
+    "inventory-management",
+    "kubernetes",
+    "oci",
+    "open-source"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 4137,
+    "forks": 453,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-09",
+  "last_updated": "2026-08-09",
+  "latest_version": "v3.1.22",
+  "auto_discovered": true,
+  "quality_score": 80
+}

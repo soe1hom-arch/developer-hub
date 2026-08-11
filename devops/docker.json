@@ -1,0 +1,27 @@
+{
+  "id": "docker",
+  "name": "Docker",
+  "category": "devops",
+  "description": "Platform for developing, shipping, and running applications in containers for consistency across environments",
+  "official_website": "https://docker.com",
+  "documentation": "https://docs.docker.com",
+  "github_repository": "https://github.com/docker",
+  "license": "Apache-2.0",
+  "latest_version": "26.1.4",
+  "programming_languages": ["Go"],
+  "platforms": ["Linux", "macOS", "Windows"],
+  "package_manager": "apt",
+  "installation_examples": {
+    "apt": "sudo apt install docker.io",
+    "brew": "brew install docker",
+    "choco": "choco install docker-desktop"
+  },
+  "tags": ["containers", "virtualization", "devops", "deployment", "images"],
+  "alternatives": ["Podman", "containerd", "LXC", "Vagrant"],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

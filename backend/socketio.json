@@ -1,0 +1,54 @@
+{
+  "id": "socketio",
+  "name": "Socket.IO",
+  "category": "backend",
+  "description": "Library for real-time bidirectional event-based communication",
+  "official_website": "https://socket.io",
+  "documentation": "https://socket.io/docs",
+  "github_repository": "https://github.com/locustio/locust",
+  "license": "MIT",
+  "latest_version": "2.46.3",
+  "programming_languages": [
+    "Python",
+    "TypeScript",
+    "HTML",
+    "JavaScript",
+    "Dockerfile"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install socketio"
+  },
+  "tags": [
+    "backend",
+    "tool",
+    "library",
+    "benchmarking",
+    "http",
+    "load-generator",
+    "load-test",
+    "load-testing",
+    "load-tests",
+    "locust",
+    "performance",
+    "performance-testing",
+    "python",
+    "socketio"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-08-09",
+  "last_updated": "2026-08-09",
+  "repository_statistics": {
+    "stars": 28056,
+    "forks": 3232,
+    "open_issues": 0,
+    "watchers": 0
+  }
+}

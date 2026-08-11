@@ -1,0 +1,46 @@
+{
+  "id": "powershell",
+  "name": "PowerShell",
+  "category": "cli-tools",
+  "description": "PowerShell for every system!",
+  "official_website": "https://microsoft.com/PowerShell",
+  "documentation": "https://github.com/PowerShell/PowerShell#readme",
+  "github_repository": "https://github.com/PowerShell/PowerShell",
+  "license": "MIT",
+  "latest_version": "v7.6.4",
+  "programming_languages": [
+    "C#"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "command-line",
+    "hacktoberfest",
+    "linux",
+    "macos",
+    "netcore",
+    "powershell",
+    "shell",
+    "windows",
+    "cli",
+    "command-line"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 54756,
+    "forks": 8417,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "source": "cli-github"
+}

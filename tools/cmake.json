@@ -1,0 +1,52 @@
+{
+  "id": "cmake",
+  "name": "CMake",
+  "category": "tools",
+  "description": "Cross-platform build system generator for C/C++ projects",
+  "official_website": "https://cmake.org",
+  "documentation": "https://cmake.org/documentation",
+  "github_repository": "https://github.com/microsoft/vcpkg",
+  "license": "MIT",
+  "latest_version": "2026.07.29",
+  "programming_languages": [
+    "CMake",
+    "PowerShell",
+    "C++",
+    "Shell",
+    "Python"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install cmake"
+  },
+  "tags": [
+    "tools",
+    "tool",
+    "c",
+    "cmake",
+    "cplusplus",
+    "cpp",
+    "libraries",
+    "package-manager",
+    "packages",
+    "vcpkg",
+    "visual-studio",
+    "windows"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-08-09",
+  "last_updated": "2026-08-09",
+  "repository_statistics": {
+    "stars": 27338,
+    "forks": 7664,
+    "open_issues": 0,
+    "watchers": 0
+  }
+}

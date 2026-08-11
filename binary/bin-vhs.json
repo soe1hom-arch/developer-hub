@@ -1,0 +1,47 @@
+{
+  "id": "bin-vhs",
+  "name": "vhs",
+  "category": "binary",
+  "description": "Your CLI home video recorder \ud83d\udcfc",
+  "official_website": "https://github.com/charmbracelet/vhs",
+  "documentation": "https://github.com/charmbracelet/vhs#readme",
+  "github_repository": "https://github.com/charmbracelet/vhs",
+  "license": "MIT",
+  "latest_version": "v0.11.0",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux",
+    "Android",
+    "Windows",
+    "macOS"
+  ],
+  "tags": [
+    "ascii",
+    "cli",
+    "command-line",
+    "gif",
+    "recording",
+    "terminal",
+    "vhs",
+    "video",
+    "binary",
+    "pre-built"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 20578,
+    "forks": 462,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "source": "binary-release"
+}

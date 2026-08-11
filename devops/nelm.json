@@ -1,0 +1,50 @@
+{
+  "id": "nelm",
+  "name": "nelm",
+  "category": "devops",
+  "description": "Nelm is a Helm 4 alternative. It is a Kubernetes deployment tool that manages Helm Charts and deploys them to Kubernetes. The Nelm goal is to provide a modern alternative to Helm, with long-standing i",
+  "official_website": "https://github.com/werf/nelm",
+  "documentation": "https://github.com/werf/nelm#readme",
+  "github_repository": "https://github.com/werf/nelm",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "cd",
+    "ci-cd",
+    "cicd",
+    "continuous-delivery",
+    "continuous-deployment",
+    "delivery",
+    "deploy",
+    "deployment",
+    "helm",
+    "kubernetes",
+    "werf"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 1103,
+    "forks": 28,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-09",
+  "last_updated": "2026-08-09",
+  "latest_version": "v1.25.3",
+  "auto_discovered": true,
+  "quality_score": 70
+}

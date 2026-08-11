@@ -1,0 +1,50 @@
+{
+  "id": "agentty",
+  "name": "agentty",
+  "category": "cli-tools",
+  "description": "AI pair programming in your terminal \u2014 one static binary, sub-ms startup, any model",
+  "official_website": "https://agentty.org",
+  "documentation": "https://github.com/1ay1/agentty#readme",
+  "github_repository": "https://github.com/1ay1/agentty",
+  "license": "MIT",
+  "programming_languages": [
+    "C++"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "acp",
+    "agentic-coding",
+    "ai-agent",
+    "airgap",
+    "anthropic",
+    "claude",
+    "claude-code",
+    "claude-code-alternative",
+    "cli",
+    "cpp26",
+    "llm",
+    "terminal",
+    "tui"
+  ],
+  "alternatives": [],
+  "popularity": 6,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 371,
+    "forks": 13,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-09",
+  "last_updated": "2026-08-09",
+  "latest_version": "v0.2.12",
+  "auto_discovered": true,
+  "quality_score": 60
+}

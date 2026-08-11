@@ -1,0 +1,50 @@
+{
+  "id": "f-license",
+  "name": "f-license",
+  "category": "cli-tools",
+  "description": "Open Source License Key Generation and Verification Tool written in Go",
+  "official_website": "https://github.com/furkansenharputlu/f-license",
+  "documentation": "https://github.com/furkansenharputlu/f-license#readme",
+  "github_repository": "https://github.com/furkansenharputlu/f-license",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "cli",
+    "cli-app",
+    "cli-application",
+    "cli-tool",
+    "customer-management",
+    "go",
+    "golang",
+    "hmac",
+    "license-management",
+    "verification",
+    "license-tracker",
+    "license-generator",
+    "license-server"
+  ],
+  "alternatives": [],
+  "popularity": 7,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 823,
+    "forks": 77,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 60
+}

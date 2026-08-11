@@ -1,0 +1,45 @@
+{
+  "id": "micro",
+  "name": "micro",
+  "category": "cli-tools",
+  "description": "A modern and intuitive terminal-based text editor",
+  "official_website": "https://micro-editor.github.io",
+  "documentation": "https://github.com/micro-editor/micro#readme",
+  "github_repository": "https://github.com/micro-editor/micro",
+  "license": "MIT",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "command-line",
+    "cross-platform",
+    "editor",
+    "go",
+    "golang",
+    "micro",
+    "terminal",
+    "text-editor"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 29301,
+    "forks": 1349,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-09",
+  "last_updated": "2026-08-09",
+  "latest_version": "v2.0.15",
+  "auto_discovered": true,
+  "quality_score": 80
+}

@@ -1,0 +1,32 @@
+{
+  "id": "laravel-livewire",
+  "name": "Livewire",
+  "category": "frameworks",
+  "description": "Laravel framework for building dynamic interfaces without JavaScript",
+  "official_website": "https://livewire.laravel.com",
+  "documentation": "https://livewire.laravel.com/docs",
+  "github_repository": "https://github.com/laravel",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install laravel-livewire"
+  },
+  "tags": [
+    "frameworks",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

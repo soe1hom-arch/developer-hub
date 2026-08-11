@@ -1,0 +1,48 @@
+{
+  "id": "gitops-promoter",
+  "name": "gitops-promoter",
+  "category": "devops",
+  "description": "GitOps Environment Promotion tool that lets you focus on the \"what,\" not the \"how\"",
+  "official_website": "https://gitops-promoter.readthedocs.io",
+  "documentation": "https://github.com/argoproj-labs/gitops-promoter#readme",
+  "github_repository": "https://github.com/argoproj-labs/gitops-promoter",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "cd",
+    "continuous-delivery",
+    "deployment",
+    "environment",
+    "gitops",
+    "hacktoberfest",
+    "kubernetes",
+    "progressive-delivery",
+    "promotions"
+  ],
+  "alternatives": [],
+  "popularity": 7,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 735,
+    "forks": 60,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-10",
+  "last_updated": "2026-08-10",
+  "latest_version": "v0.35.0",
+  "auto_discovered": true,
+  "quality_score": 70
+}

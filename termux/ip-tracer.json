@@ -1,0 +1,47 @@
+{
+  "id": "ip-tracer",
+  "name": "IP-Tracer",
+  "category": "termux",
+  "description": "Track any ip address with IP-Tracer. IP-Tracer is developed for Linux and Termux. you can retrieve any ip address information using IP-Tracer. ",
+  "official_website": "https://github.com/rajkumardusad/IP-Tracer",
+  "documentation": "https://github.com/rajkumardusad/IP-Tracer#readme",
+  "github_repository": "https://github.com/rajkumardusad/IP-Tracer",
+  "license": "MIT",
+  "latest_version": "v1.0",
+  "programming_languages": [
+    "PHP"
+  ],
+  "platforms": [
+    "Termux",
+    "Android"
+  ],
+  "tags": [
+    "gnuroot-debian",
+    "hacking-tool",
+    "hacking-tools",
+    "information-gathering",
+    "information-retrieval",
+    "ip-geolocation",
+    "ip-location",
+    "ip-tracer",
+    "termux-tool",
+    "termux-hacking",
+    "linux",
+    "termux",
+    "linux-tools"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 2968,
+    "forks": 532,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "source": "termux-github"
+}

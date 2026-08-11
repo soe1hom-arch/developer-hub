@@ -1,0 +1,50 @@
+{
+  "id": "embla-carousel",
+  "name": "embla-carousel",
+  "category": "frontend",
+  "description": "A lightweight carousel library with fluid motion and great swipe precision.",
+  "official_website": "https://www.embla-carousel.com",
+  "documentation": "https://github.com/davidjerleke/embla-carousel#readme",
+  "github_repository": "https://github.com/davidjerleke/embla-carousel",
+  "license": "MIT",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "carousel",
+    "carousel-component",
+    "carousel-plugin",
+    "dependency-free",
+    "fade-slider",
+    "javascript",
+    "mobile",
+    "mobile-web",
+    "slider",
+    "typescript",
+    "touch",
+    "slider-plugin",
+    "slideshow"
+  ],
+  "alternatives": [],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 8376,
+    "forks": 255,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-05",
+  "last_updated": "2026-08-05",
+  "latest_version": "v8.6.0",
+  "auto_discovered": true,
+  "quality_score": 80
+}

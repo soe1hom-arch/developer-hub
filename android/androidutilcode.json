@@ -1,0 +1,50 @@
+{
+  "id": "androidutilcode",
+  "name": "AndroidUtilCode",
+  "category": "android",
+  "description": ":fire: Android developers should collect the following utils(updating).",
+  "official_website": "https://blankj.com/2016/07/31/android-utils-code/",
+  "documentation": "https://github.com/Blankj/AndroidUtilCode#readme",
+  "github_repository": "https://github.com/Blankj/AndroidUtilCode",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Java"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "android",
+    "androidx",
+    "app",
+    "bar",
+    "cache",
+    "encode",
+    "encrypt",
+    "eventbus",
+    "file",
+    "fragment",
+    "log",
+    "network"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 33645,
+    "forks": 10629,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "1.31.1",
+  "auto_discovered": true,
+  "quality_score": 85
+}

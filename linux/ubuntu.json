@@ -1,0 +1,25 @@
+{
+  "id": "ubuntu",
+  "name": "Ubuntu",
+  "category": "linux",
+  "description": "Popular Linux distribution based on Debian, known for ease of use and extensive package repository",
+  "official_website": "https://ubuntu.com",
+  "documentation": "https://help.ubuntu.com",
+  "github_repository": "https://github.com/canonical",
+  "license": "GPL-3.0",
+  "latest_version": "24.04 LTS",
+  "programming_languages": ["C", "Python", "Shell"],
+  "platforms": ["Linux"],
+  "package_manager": "apt",
+  "installation_examples": {
+    "download": "https://ubuntu.com/download"
+  },
+  "tags": ["linux", "distribution", "open-source", "debian", "server", "desktop"],
+  "alternatives": ["Fedora", "Debian", "Arch Linux", "openSUSE"],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

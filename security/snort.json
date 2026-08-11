@@ -1,0 +1,42 @@
+{
+  "id": "snort",
+  "name": "Snort",
+  "category": "security",
+  "description": "Open-source network intrusion prevention and detection system (IDS/IPS)",
+  "official_website": "https://snort.org",
+  "documentation": "https://snort.org/documents",
+  "github_repository": "https://github.com/snort3/snort3",
+  "license": "NOASSERTION",
+  "latest_version": "3.12.2.0",
+  "programming_languages": [
+    "C++",
+    "C",
+    "CMake",
+    "Lex",
+    "Lua"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install snort"
+  },
+  "tags": [
+    "security",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-08-09",
+  "last_updated": "2026-08-09",
+  "repository_statistics": {
+    "stars": 3399,
+    "forks": 685,
+    "open_issues": 0,
+    "watchers": 0
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "hyper",
+  "name": "hyper",
+  "category": "frontend",
+  "description": "A terminal built on web technologies",
+  "official_website": "https://hyper.is",
+  "documentation": "https://github.com/vercel/hyper#readme",
+  "github_repository": "https://github.com/vercel/hyper",
+  "license": "MIT",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "css",
+    "html",
+    "hyper",
+    "javascript",
+    "linux",
+    "macos",
+    "react",
+    "terminal",
+    "terminal-emulators"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 44691,
+    "forks": 3576,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "v3.4.1",
+  "auto_discovered": true,
+  "quality_score": 80
+}

@@ -1,0 +1,14 @@
+# Owner default untuk semua file
+* @soe1hom-arch
+
+# Workflow files — hanya owner yang boleh ubah
+.github/workflows/* @soe1hom-arch
+
+# Scripts — hanya owner yang boleh ubah
+scripts/* @soe1hom-arch
+
+# API server
+api_server/* @soe1hom-arch
+
+# Website
+website/* @soe1hom-arch

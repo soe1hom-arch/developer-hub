@@ -1,0 +1,50 @@
+{
+  "id": "rich",
+  "name": "rich",
+  "category": "cli-tools",
+  "description": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
+  "official_website": "https://rich.readthedocs.io/en/latest/",
+  "documentation": "https://github.com/Textualize/rich#readme",
+  "github_repository": "https://github.com/Textualize/rich",
+  "license": "MIT",
+  "latest_version": "v15.0.0",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "ansi-colors",
+    "emoji",
+    "markdown",
+    "progress-bar",
+    "progress-bar-python",
+    "python",
+    "python-library",
+    "python3",
+    "cli",
+    "command-line",
+    "terminal",
+    "terminal-color",
+    "tables",
+    "syntax-highlighting"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 57033,
+    "forks": 2285,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "source": "cli-github"
+}

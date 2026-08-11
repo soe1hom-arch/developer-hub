@@ -1,0 +1,45 @@
+{
+  "id": "knex",
+  "name": "knex",
+  "category": "database",
+  "description": "A query builder for PostgreSQL, MySQL, CockroachDB, SQL Server, SQLite3 and Oracle, designed to be flexible, portable, and fun to use.",
+  "official_website": "https://knexjs.org/",
+  "documentation": "https://github.com/knex/knex#readme",
+  "github_repository": "https://github.com/knex/knex",
+  "license": "MIT",
+  "programming_languages": [
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "javascript",
+    "knex",
+    "mysql",
+    "postgresql",
+    "sql",
+    "sqlite3"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 20338,
+    "forks": 2216,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "3.3.0",
+  "auto_discovered": true,
+  "quality_score": 90
+}

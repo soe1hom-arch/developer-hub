@@ -1,0 +1,49 @@
+{
+  "id": "chartdb",
+  "name": "chartdb",
+  "category": "database",
+  "description": "Database diagrams editor that allows you to visualize and design your DB with a single query.",
+  "official_website": "https://chartdb.io",
+  "documentation": "https://github.com/chartdb/chartdb#readme",
+  "github_repository": "https://github.com/chartdb/chartdb",
+  "license": "AGPL-3.0",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "database",
+    "db",
+    "db-migration",
+    "editor",
+    "erd",
+    "mariadb",
+    "mssql",
+    "mysql",
+    "postgresql",
+    "react"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 22707,
+    "forks": 1459,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "v1.20.1",
+  "auto_discovered": true,
+  "quality_score": 85
+}

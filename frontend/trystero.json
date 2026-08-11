@@ -1,0 +1,50 @@
+{
+  "id": "trystero",
+  "name": "trystero",
+  "category": "frontend",
+  "description": "\u2728\ud83e\udd1d\u2728 Build instant multiplayer webapps, no server required \u2014 Magic WebRTC matchmaking over BitTorrent, Nostr, MQTT, IPFS, Supabase, and Firebase",
+  "official_website": "https://trystero.dev",
+  "documentation": "https://github.com/dmotz/trystero#readme",
+  "github_repository": "https://github.com/dmotz/trystero",
+  "license": "MIT",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "bittorrent",
+    "chat",
+    "decentralized",
+    "firebase",
+    "ipfs",
+    "javascript",
+    "matchmaking",
+    "mqtt",
+    "webrtc",
+    "p2p",
+    "peer-to-peer",
+    "webtorrent",
+    "serverless"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 2683,
+    "forks": 156,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "latest_version": "0.25.3",
+  "auto_discovered": true,
+  "quality_score": 80
+}

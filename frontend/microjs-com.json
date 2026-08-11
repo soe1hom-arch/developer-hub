@@ -1,0 +1,45 @@
+{
+  "id": "microjs-com",
+  "name": "microjs.com",
+  "category": "frontend",
+  "description": "Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit!",
+  "official_website": "http://microjs.com/",
+  "documentation": "https://github.com/microjs/microjs.com#readme",
+  "github_repository": "https://github.com/microjs/microjs.com",
+  "license": "MIT",
+  "programming_languages": [
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "fun",
+    "hacktoberfest",
+    "javascript",
+    "libraries",
+    "micro",
+    "micro-library",
+    "microjs",
+    "search"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 2035,
+    "forks": 609,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 75
+}

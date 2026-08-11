@@ -1,0 +1,45 @@
+{
+  "id": "imessage-exporter",
+  "name": "imessage-exporter",
+  "category": "tools",
+  "description": "Export iMessage data + run iMessage Diagnostics",
+  "official_website": "https://github.com/ReagentX/imessage-exporter",
+  "documentation": "https://github.com/ReagentX/imessage-exporter#readme",
+  "github_repository": "https://github.com/ReagentX/imessage-exporter",
+  "license": "GPL-3.0",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "apple",
+    "backup",
+    "cli-app",
+    "export",
+    "imessage",
+    "reverse-engineering"
+  ],
+  "alternatives": [],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 5486,
+    "forks": 299,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "latest_version": "4.2.0",
+  "auto_discovered": true,
+  "quality_score": 65
+}

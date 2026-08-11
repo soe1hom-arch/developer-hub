@@ -1,0 +1,43 @@
+{
+  "id": "textual",
+  "name": "textual",
+  "category": "cli-tools",
+  "description": "The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.",
+  "official_website": "https://textual.textualize.io/",
+  "documentation": "https://github.com/Textualize/textual#readme",
+  "github_repository": "https://github.com/Textualize/textual",
+  "license": "MIT",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "cli",
+    "framework",
+    "python",
+    "rich",
+    "terminal",
+    "tui"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 36905,
+    "forks": 1303,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "v8.2.8",
+  "auto_discovered": true,
+  "quality_score": 90
+}

@@ -1,0 +1,33 @@
+{
+  "id": "sails",
+  "name": "Sails.js",
+  "category": "backend",
+  "description": "Node.js MVC framework for building real-time enterprise applications",
+  "official_website": "https://sailsjs.com",
+  "documentation": "https://sailsjs.com/documentation",
+  "github_repository": "https://github.com/sailsjs",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install sails"
+  },
+  "tags": [
+    "backend",
+    "tool",
+    "library"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

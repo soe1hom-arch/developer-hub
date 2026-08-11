@@ -1,0 +1,48 @@
+{
+  "id": "oh-my-pi",
+  "name": "oh-my-pi",
+  "category": "cli-tools",
+  "description": "\u2325  AI Coding agent for the terminal \u2014 hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+  "official_website": "https://omp.sh",
+  "documentation": "https://github.com/can1357/oh-my-pi#readme",
+  "github_repository": "https://github.com/can1357/oh-my-pi",
+  "license": "MIT",
+  "latest_version": "v17.2.11",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "ai-agent",
+    "ai-coding-agent",
+    "anthropic",
+    "bun",
+    "claude",
+    "cli",
+    "coding-assistant",
+    "llm",
+    "cli",
+    "command-line",
+    "typescript",
+    "mcp"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 22785,
+    "forks": 2166,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "source": "cli-github"
+}

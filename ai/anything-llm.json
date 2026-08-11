@@ -1,0 +1,52 @@
+{
+  "id": "anything-llm",
+  "name": "anything-llm",
+  "category": "ai",
+  "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience",
+  "official_website": "https://anythingllm.com",
+  "documentation": "https://github.com/Mintplex-Labs/anything-llm#readme",
+  "github_repository": "https://github.com/Mintplex-Labs/anything-llm",
+  "license": "MIT",
+  "programming_languages": [
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "agent-computer",
+    "agent-harness",
+    "agent-orchestration",
+    "agentic-ai",
+    "ai-agents",
+    "computer-use",
+    "hermes-agent",
+    "llm",
+    "rag",
+    "localai",
+    "vector-database",
+    "multimodal",
+    "no-code"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 64569,
+    "forks": 7116,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "v1.15.0",
+  "auto_discovered": true,
+  "quality_score": 90
+}

@@ -1,0 +1,46 @@
+{
+  "id": "flipperzero-firmware",
+  "name": "flipperzero-firmware",
+  "category": "firmware",
+  "description": "Flipper Zero firmware source code",
+  "official_website": "https://flipper.net",
+  "documentation": "https://github.com/flipperdevices/flipperzero-firmware#readme",
+  "github_repository": "https://github.com/flipperdevices/flipperzero-firmware",
+  "license": "GPL-3.0",
+  "programming_languages": [
+    "C"
+  ],
+  "platforms": [
+    "Linux",
+    "Embedded"
+  ],
+  "tags": [
+    "armv7m",
+    "ble",
+    "firmware",
+    "flipper",
+    "flipperzero",
+    "infrared",
+    "nfc",
+    "onewire",
+    "rfid",
+    "subghz",
+    "stm32"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 16452,
+    "forks": 3438,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "1.4.3",
+  "auto_discovered": true,
+  "quality_score": 80
+}

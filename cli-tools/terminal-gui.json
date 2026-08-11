@@ -1,0 +1,48 @@
+{
+  "id": "terminal-gui",
+  "name": "Terminal.Gui",
+  "category": "cli-tools",
+  "description": "Cross Platform Terminal UI toolkit for .NET",
+  "official_website": "https://tui-cs.github.io/Terminal.Gui/",
+  "documentation": "https://github.com/tui-cs/Terminal.Gui#readme",
+  "github_repository": "https://github.com/tui-cs/Terminal.Gui",
+  "license": "MIT",
+  "latest_version": "v2.4.17",
+  "programming_languages": [
+    "C#"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "console",
+    "console-application",
+    "cross-platform",
+    "csharp",
+    "curses",
+    "dotnet",
+    "terminal",
+    "terminal-based",
+    "cli",
+    "command-line",
+    "terminal-ui",
+    "tui"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 11163,
+    "forks": 782,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "source": "cli-github"
+}

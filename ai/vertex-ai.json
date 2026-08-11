@@ -1,0 +1,32 @@
+{
+  "id": "vertex-ai",
+  "name": "Google Vertex AI",
+  "category": "ai",
+  "description": "Google Cloud ML platform for model training and deployment",
+  "official_website": "https://cloud.google.com/vertex-ai",
+  "documentation": "https://cloud.google.com/vertex-ai/docs",
+  "github_repository": "https://github.com/google",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install vertex-ai"
+  },
+  "tags": [
+    "ai",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

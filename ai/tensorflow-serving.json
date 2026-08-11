@@ -1,0 +1,32 @@
+{
+  "id": "tensorflow-serving",
+  "name": "TensorFlow Serving",
+  "category": "ai",
+  "description": "Flexible serving system for ML models in production",
+  "official_website": "https://tensorflow.org/tfx/guide/serving",
+  "documentation": "https://tensorflow.org/tfx/serving/api_docs",
+  "github_repository": "https://github.com/tensorflow",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install tensorflow-serving"
+  },
+  "tags": [
+    "ai",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

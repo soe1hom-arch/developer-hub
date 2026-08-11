@@ -1,0 +1,32 @@
+{
+  "id": "debian",
+  "name": "Debian",
+  "category": "operating-systems",
+  "description": "Stable Linux distribution serving as foundation for Ubuntu and others",
+  "official_website": "https://debian.org",
+  "documentation": "https://debian.org/doc",
+  "github_repository": "https://github.com/Debian",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install debian"
+  },
+  "tags": [
+    "operating-systems",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "windterm",
+  "name": "WindTerm",
+  "category": "cli-tools",
+  "description": "A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.",
+  "official_website": "https://kingtoolbox.github.io",
+  "documentation": "https://github.com/kingToolbox/WindTerm#readme",
+  "github_repository": "https://github.com/kingToolbox/WindTerm",
+  "license": "MIT",
+  "latest_version": "2.7.0",
+  "programming_languages": [
+    "C"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "bash",
+    "client",
+    "cmd",
+    "linux",
+    "mac",
+    "powershell",
+    "serial",
+    "sftp",
+    "cli",
+    "command-line",
+    "terminal",
+    "telnet",
+    "ssh",
+    "shell",
+    "windows"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 31891,
+    "forks": 2433,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "source": "cli-github"
+}

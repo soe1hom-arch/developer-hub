@@ -1,0 +1,47 @@
+{
+  "id": "posting",
+  "name": "posting",
+  "category": "cli-tools",
+  "description": "The modern API client that lives in your terminal.",
+  "official_website": "https://github.com/darrenburns/posting",
+  "documentation": "https://github.com/darrenburns/posting#readme",
+  "github_repository": "https://github.com/darrenburns/posting",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "automation",
+    "cli",
+    "developer-tools",
+    "http",
+    "python",
+    "rest",
+    "rest-api",
+    "rest-client",
+    "terminal",
+    "textual"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 12239,
+    "forks": 263,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "latest_version": "2.10.0",
+  "auto_discovered": true,
+  "quality_score": 75
+}

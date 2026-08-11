@@ -1,0 +1,49 @@
+{
+  "id": "bin-httpx",
+  "name": "httpx",
+  "category": "binary",
+  "description": "httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.",
+  "official_website": "https://docs.projectdiscovery.io/tools/httpx",
+  "documentation": "https://github.com/projectdiscovery/httpx#readme",
+  "github_repository": "https://github.com/projectdiscovery/httpx",
+  "license": "MIT",
+  "latest_version": "v1.10.0",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux",
+    "Android",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "bugbounty",
+    "cli",
+    "cybersecurity",
+    "hacktoberfest",
+    "http",
+    "lib",
+    "osint",
+    "pentest-tool",
+    "binary",
+    "pre-built",
+    "ssl-certificate",
+    "pipeline"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 10251,
+    "forks": 1092,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "source": "binary-release"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "terminal",
+  "name": "terminal",
+  "category": "cli-tools",
+  "description": "The new Windows Terminal and the original Windows console host, all in the same place!",
+  "official_website": "https://github.com/microsoft/terminal",
+  "documentation": "https://github.com/microsoft/terminal#readme",
+  "github_repository": "https://github.com/microsoft/terminal",
+  "license": "MIT",
+  "programming_languages": [
+    "C++"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "cmd",
+    "command-line",
+    "console",
+    "contributions-welcome",
+    "good-first-issue",
+    "hacktoberfest",
+    "terminal",
+    "windows",
+    "wsl",
+    "windows-console",
+    "windows-terminal"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 104543,
+    "forks": 9501,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "v1.24.11911.0",
+  "auto_discovered": true,
+  "quality_score": 75
+}

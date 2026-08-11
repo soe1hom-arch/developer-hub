@@ -1,0 +1,51 @@
+{
+  "id": "fastapi-mcp",
+  "name": "fastapi_mcp",
+  "category": "ai",
+  "description": "Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!",
+  "official_website": "https://fastapi-mcp.tadata.com/",
+  "documentation": "https://github.com/tadata-org/fastapi_mcp#readme",
+  "github_repository": "https://github.com/tadata-org/fastapi_mcp",
+  "license": "MIT",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "ai",
+    "authentication",
+    "authorization",
+    "claude",
+    "cursor",
+    "fastapi",
+    "llm",
+    "mcp",
+    "mcp-server",
+    "mcp-servers",
+    "modelcontextprotocol",
+    "openapi"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 11977,
+    "forks": 964,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "v0.4.0",
+  "auto_discovered": true,
+  "quality_score": 85
+}

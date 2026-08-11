@@ -1,0 +1,32 @@
+{
+  "id": "ninja",
+  "name": "Ninja",
+  "category": "tools",
+  "description": "Small build system focused on speed for incremental builds",
+  "official_website": "https://ninja-build.org",
+  "documentation": "https://ninja-build.org/manual",
+  "github_repository": "https://github.com/ninja-build",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install ninja"
+  },
+  "tags": [
+    "tools",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

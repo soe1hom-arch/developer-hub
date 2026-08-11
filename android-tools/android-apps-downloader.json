@@ -1,0 +1,52 @@
+{
+  "id": "android-apps-downloader",
+  "name": "Android-Apps-Downloader",
+  "category": "android-tools",
+  "description": "\ud83d\udcf1 A utility for downloading Android apps from the Google Play Store and Xiaomi App Store (the Chinese App Store).",
+  "official_website": "https://github.com/harismuneer",
+  "documentation": "https://github.com/harismuneer/Android-Apps-Downloader#readme",
+  "github_repository": "https://github.com/harismuneer/Android-Apps-Downloader",
+  "license": "MIT",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Android",
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "tags": [
+    "android-application-downloader",
+    "android-apps-crawler",
+    "android-market-scraper",
+    "android-research",
+    "android-scraper",
+    "android-tool",
+    "app-downloader",
+    "crawler",
+    "scraper",
+    "python-scraper",
+    "xiaomi-apps",
+    "scraping-tool",
+    "crawling-tool",
+    "open-source-project",
+    "google-play-store-scraper"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 42,
+    "forks": 21,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "v1.0.0",
+  "auto_discovered": true,
+  "quality_score": 50
+}

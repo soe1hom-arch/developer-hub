@@ -1,0 +1,47 @@
+{
+  "id": "nativebase",
+  "name": "NativeBase",
+  "category": "mobile",
+  "description": "Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.",
+  "official_website": "https://nativebase.io/",
+  "documentation": "https://github.com/GeekyAnts/NativeBase#readme",
+  "github_repository": "https://github.com/GeekyAnts/NativeBase",
+  "license": "MIT",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "android",
+    "hacktoberfest",
+    "ios",
+    "native-platforms",
+    "nativebase",
+    "nextjs",
+    "react",
+    "react-native",
+    "ui-components"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 20385,
+    "forks": 2391,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "v3.4.28",
+  "auto_discovered": true,
+  "quality_score": 90
+}

@@ -1,0 +1,32 @@
+{
+  "id": "hilt-navigation",
+  "name": "Hilt Navigation Compose",
+  "category": "android",
+  "description": "Hilt integration for type-safe navigation in Compose",
+  "official_website": "https://developer.android.com/training/dependency-injection/hilt-android",
+  "documentation": "https://developer.android.com/training/dependency-injection/hilt-android",
+  "github_repository": "https://github.com/android",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install hilt-navigation"
+  },
+  "tags": [
+    "android",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

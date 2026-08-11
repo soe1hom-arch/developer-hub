@@ -1,0 +1,40 @@
+{
+  "id": "linkandroid",
+  "name": "linkandroid",
+  "category": "android-tools",
+  "description": "Link Android and PC easily! \u5168\u80fd\u624b\u673a\u8fde\u63a5\u52a9\u624b\uff01",
+  "official_website": "https://linkandroid.com",
+  "documentation": "https://github.com/modstart-lib/linkandroid#readme",
+  "github_repository": "https://github.com/modstart-lib/linkandroid",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Android",
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "tags": [
+    "adb",
+    "android",
+    "scrcpy"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 2397,
+    "forks": 207,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "v2.1.0",
+  "auto_discovered": true,
+  "quality_score": 67
+}

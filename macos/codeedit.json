@@ -1,0 +1,52 @@
+{
+  "id": "codeedit",
+  "name": "CodeEdit",
+  "category": "macos",
+  "description": "\ud83d\udcdd CodeEdit App for macOS \u2013 Elevate your code editing experience. Open source, free forever.",
+  "official_website": "https://codeedit.app",
+  "documentation": "https://github.com/CodeEditApp/CodeEdit#readme",
+  "github_repository": "https://github.com/CodeEditApp/CodeEdit",
+  "license": "MIT",
+  "programming_languages": [
+    "Swift"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "app",
+    "appkit",
+    "apple",
+    "code",
+    "code-edit",
+    "code-editor",
+    "editor",
+    "ide",
+    "macos",
+    "swift",
+    "swiftui",
+    "ios",
+    "open-source"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 22977,
+    "forks": 1181,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "v0.3.6",
+  "auto_discovered": true,
+  "quality_score": 85
+}

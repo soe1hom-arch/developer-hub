@@ -1,0 +1,26 @@
+{
+  "id": "google-gemini",
+  "name": "Google Gemini",
+  "category": "ai",
+  "description": "Google's multimodal AI model capable of understanding text, images, audio, video, and code",
+  "official_website": "https://deepmind.google/gemini",
+  "documentation": "https://ai.google.dev/gemini-api/docs",
+  "github_repository": "https://github.com/google-gemini",
+  "license": "Proprietary",
+  "latest_version": "Gemini 1.5 Pro",
+  "programming_languages": ["Python", "TypeScript", "Go", "Java", "Swift"],
+  "platforms": ["Cloud", "API", "Web", "Mobile"],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install google-generativeai",
+    "npm": "npm install @google/generative-ai"
+  },
+  "tags": ["ai", "llm", "gemini", "machine-learning", "multimodal", "nlp"],
+  "alternatives": ["OpenAI GPT", "Anthropic Claude", "Mistral", "Meta LLaMA"],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": false,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

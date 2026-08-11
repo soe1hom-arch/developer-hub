@@ -1,0 +1,41 @@
+{
+  "id": "appauth-android",
+  "name": "AppAuth-Android",
+  "category": "android",
+  "description": "Android client SDK for communicating with OAuth 2.0 and OpenID Connect providers.",
+  "official_website": "https://openid.github.io/AppAuth-Android",
+  "documentation": "https://github.com/openid/AppAuth-Android#readme",
+  "github_repository": "https://github.com/openid/AppAuth-Android",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Java"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "android-sdk",
+    "oauth2",
+    "openid-connect"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 3236,
+    "forks": 1009,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-09",
+  "last_updated": "2026-08-09",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 72
+}

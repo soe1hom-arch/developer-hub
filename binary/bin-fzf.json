@@ -1,0 +1,49 @@
+{
+  "id": "bin-fzf",
+  "name": "fzf",
+  "category": "binary",
+  "description": ":cherry_blossom: A command-line fuzzy finder",
+  "official_website": "https://junegunn.github.io/fzf/",
+  "documentation": "https://github.com/junegunn/fzf#readme",
+  "github_repository": "https://github.com/junegunn/fzf",
+  "license": "MIT",
+  "latest_version": "v0.74.2",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux",
+    "Android",
+    "Windows",
+    "macOS"
+  ],
+  "tags": [
+    "bash",
+    "cli",
+    "fish",
+    "fzf",
+    "go",
+    "neovim",
+    "tmux",
+    "unix",
+    "binary",
+    "pre-built",
+    "zsh",
+    "vim"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 82436,
+    "forks": 2852,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "source": "binary-release"
+}

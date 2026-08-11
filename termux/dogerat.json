@@ -1,0 +1,47 @@
+{
+  "id": "dogerat",
+  "name": "DogeRat",
+  "category": "termux",
+  "description": "A multifunctional Telegram based Android RAT without port forwarding.",
+  "official_website": "https://github.com/shivaya-dav/DogeRat",
+  "documentation": "https://github.com/shivaya-dav/DogeRat#readme",
+  "github_repository": "https://github.com/shivaya-dav/DogeRat",
+  "license": "MIT",
+  "latest_version": "main",
+  "programming_languages": [
+    "Shell",
+    "Python"
+  ],
+  "platforms": [
+    "Termux",
+    "Android"
+  ],
+  "tags": [
+    "android",
+    "android-botnet",
+    "android-exploitation",
+    "android-malware",
+    "android-pentesting",
+    "android-rat",
+    "android-spyware",
+    "bot",
+    "hacking",
+    "hacking-tool",
+    "java",
+    "rat"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 1985,
+    "forks": 1688,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "source": "termux-github"
+}

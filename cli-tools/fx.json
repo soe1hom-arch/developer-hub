@@ -1,0 +1,41 @@
+{
+  "id": "fx",
+  "name": "fx",
+  "category": "cli-tools",
+  "description": "Terminal JSON viewer & processor",
+  "official_website": "https://fx.wtf",
+  "documentation": "https://github.com/antonmedv/fx#readme",
+  "github_repository": "https://github.com/antonmedv/fx",
+  "license": "MIT",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "cli",
+    "command-line",
+    "json",
+    "tui"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 20564,
+    "forks": 484,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-05",
+  "last_updated": "2026-08-05",
+  "latest_version": "39.2.0",
+  "auto_discovered": true,
+  "quality_score": 77
+}

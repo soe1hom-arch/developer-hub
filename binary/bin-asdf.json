@@ -1,0 +1,52 @@
+{
+  "id": "bin-asdf",
+  "name": "asdf",
+  "category": "binary",
+  "description": "Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more",
+  "official_website": "https://asdf-vm.com/",
+  "documentation": "https://github.com/asdf-vm/asdf#readme",
+  "github_repository": "https://github.com/asdf-vm/asdf",
+  "license": "MIT",
+  "latest_version": "v0.20.0",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS",
+    "Android"
+  ],
+  "tags": [
+    "asdf-vm",
+    "bash",
+    "cli",
+    "elixir",
+    "elvish",
+    "erlang",
+    "fish",
+    "golang",
+    "binary",
+    "pre-built",
+    "version-manager",
+    "ruby",
+    "multiple-languages",
+    "shell",
+    "node"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 25523,
+    "forks": 931,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "source": "binary-release"
+}

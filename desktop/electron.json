@@ -1,0 +1,58 @@
+{
+  "id": "electron",
+  "name": "Electron",
+  "category": "desktop",
+  "description": "Framework for building cross-platform desktop applications using JavaScript, HTML, and CSS",
+  "official_website": "https://electronjs.org",
+  "documentation": "https://electronjs.org/docs",
+  "github_repository": "https://github.com/electron/electron",
+  "license": "MIT",
+  "latest_version": "v43.3.0",
+  "programming_languages": [
+    "JavaScript",
+    "TypeScript",
+    "C++"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "package_manager": "npm",
+  "installation_examples": {
+    "npm": "npm install electron --save-dev"
+  },
+  "tags": [
+    "desktop",
+    "cross-platform",
+    "chromium",
+    "nodejs",
+    "gui",
+    "electron",
+    "javascript",
+    "c-plus-plus",
+    "html",
+    "css",
+    "chrome",
+    "v8",
+    "works-with-codespaces"
+  ],
+  "alternatives": [
+    "Tauri",
+    "Qt",
+    "Flutter Desktop",
+    "JavaFX"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "repository_statistics": {
+    "stars": 122383,
+    "forks": 17388,
+    "open_issues": 0,
+    "watchers": 0
+  }
+}

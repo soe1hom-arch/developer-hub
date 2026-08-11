@@ -1,0 +1,32 @@
+{
+  "id": "capacitor",
+  "name": "Capacitor",
+  "category": "mobile",
+  "description": "Cross-platform app runtime for building web-based native apps",
+  "official_website": "https://capacitorjs.com",
+  "documentation": "https://capacitorjs.com/docs",
+  "github_repository": "https://github.com/capacitorjs",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install capacitor"
+  },
+  "tags": [
+    "mobile",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "cobalt",
+  "name": "cobalt",
+  "category": "frontend",
+  "description": "best way to save what you love",
+  "official_website": "https://cobalt.tools",
+  "documentation": "https://github.com/imputnet/cobalt#readme",
+  "github_repository": "https://github.com/imputnet/cobalt",
+  "license": "AGPL-3.0",
+  "programming_languages": [
+    "Svelte"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "collaboration",
+    "downloader",
+    "instagram",
+    "javascript",
+    "music",
+    "reddit",
+    "social-media",
+    "soundcloud",
+    "twitter",
+    "vk",
+    "webapp",
+    "youtube",
+    "tiktok",
+    "vimeo",
+    "video"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 42032,
+    "forks": 3616,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-10",
+  "last_updated": "2026-08-10",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

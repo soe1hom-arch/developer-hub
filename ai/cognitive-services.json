@@ -1,0 +1,32 @@
+{
+  "id": "cognitive-services",
+  "name": "Azure Cognitive Services",
+  "category": "ai",
+  "description": "Microsoft's cloud-based AI services for vision, speech, and language",
+  "official_website": "https://azure.microsoft.com/products/cognitive-services",
+  "documentation": "https://learn.microsoft.com/azure/cognitive-services",
+  "github_repository": "https://github.com/microsoft",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install cognitive-services"
+  },
+  "tags": [
+    "ai",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

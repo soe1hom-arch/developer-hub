@@ -1,0 +1,48 @@
+{
+  "id": "cocos-engine",
+  "name": "cocos-engine",
+  "category": "game-development",
+  "description": "Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games ",
+  "official_website": "https://www.cocos.com/en/creator",
+  "documentation": "https://github.com/cocos/cocos-engine#readme",
+  "github_repository": "https://github.com/cocos/cocos-engine",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "C++"
+  ],
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux",
+    "Web"
+  ],
+  "tags": [
+    "3d",
+    "cocos",
+    "cocoscreator",
+    "engine",
+    "game-development",
+    "game-engine",
+    "gamedev",
+    "metal",
+    "open-source",
+    "vulkan",
+    "mit-license"
+  ],
+  "alternatives": [],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 9739,
+    "forks": 2137,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "3.8.8",
+  "auto_discovered": true,
+  "quality_score": 85
+}

@@ -1,0 +1,33 @@
+{
+  "id": "fzf",
+  "name": "fzf",
+  "category": "tools",
+  "description": "General-purpose command-line fuzzy finder for interactive filtering",
+  "official_website": "https://github.com/junegunn/fzf",
+  "documentation": "https://github.com/junegunn/fzf",
+  "github_repository": "https://github.com/github",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install fzf"
+  },
+  "tags": [
+    "tools",
+    "tool",
+    "library"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

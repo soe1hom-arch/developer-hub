@@ -1,0 +1,47 @@
+{
+  "id": "fyrox",
+  "name": "Fyrox",
+  "category": "game-development",
+  "description": "3D and 2D game engine written in Rust",
+  "official_website": "https://fyrox.rs",
+  "documentation": "https://github.com/FyroxEngine/Fyrox#readme",
+  "github_repository": "https://github.com/FyroxEngine/Fyrox",
+  "license": "MIT",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux",
+    "Web"
+  ],
+  "tags": [
+    "3d",
+    "3d-engine",
+    "engine",
+    "game-development",
+    "game-engine",
+    "gamedev",
+    "gui",
+    "rendering",
+    "rust",
+    "rust-lang"
+  ],
+  "alternatives": [],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 9498,
+    "forks": 447,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "v1.0.0",
+  "auto_discovered": true,
+  "quality_score": 75
+}

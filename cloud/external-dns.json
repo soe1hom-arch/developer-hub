@@ -1,0 +1,52 @@
+{
+  "id": "external-dns",
+  "name": "external-dns",
+  "category": "cloud",
+  "description": "Configure external DNS servers dynamically from Kubernetes resources",
+  "official_website": "https://kubernetes-sigs.github.io/external-dns/",
+  "documentation": "https://github.com/kubernetes-sigs/external-dns#readme",
+  "github_repository": "https://github.com/kubernetes-sigs/external-dns",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "aws",
+    "clouddns",
+    "dns",
+    "dns-controller",
+    "dns-providers",
+    "dns-record",
+    "dns-servers",
+    "external-dns",
+    "kubernetes",
+    "route53",
+    "gcp",
+    "ingress",
+    "k8s-sig-network"
+  ],
+  "alternatives": [],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 9058,
+    "forks": 2911,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "latest_version": "v0.21.0",
+  "auto_discovered": true,
+  "quality_score": 80
+}

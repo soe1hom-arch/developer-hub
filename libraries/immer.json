@@ -1,0 +1,32 @@
+{
+  "id": "immer",
+  "name": "Immer",
+  "category": "libraries",
+  "description": "JavaScript library for working with immutable state conveniently",
+  "official_website": "https://immerjs.github.io/immer",
+  "documentation": "https://immerjs.github.io/immer",
+  "github_repository": "https://github.com/github",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install immer"
+  },
+  "tags": [
+    "libraries",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

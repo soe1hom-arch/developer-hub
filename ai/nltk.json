@@ -1,0 +1,33 @@
+{
+  "id": "nltk",
+  "name": "NLTK",
+  "category": "ai",
+  "description": "Natural Language Toolkit for building Python programs for text analysis",
+  "official_website": "https://nltk.org",
+  "documentation": "https://nltk.org/book",
+  "github_repository": "https://github.com/nltk",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install nltk"
+  },
+  "tags": [
+    "ai",
+    "tool",
+    "library"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

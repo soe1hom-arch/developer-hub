@@ -1,0 +1,43 @@
+{
+  "id": "brownie",
+  "name": "brownie",
+  "category": "blockchain",
+  "description": "A Python-based development and testing framework for smart contracts targeting the Ethereum Virtual Machine.",
+  "official_website": "https://eth-brownie.readthedocs.io",
+  "documentation": "https://github.com/eth-brownie/brownie#readme",
+  "github_repository": "https://github.com/eth-brownie/brownie",
+  "license": "MIT",
+  "programming_languages": [
+    "C"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "ethereum",
+    "solidity",
+    "vyper",
+    "web3py"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 2723,
+    "forks": 594,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-10",
+  "last_updated": "2026-08-10",
+  "latest_version": "v1.22.2",
+  "auto_discovered": true,
+  "quality_score": 77
+}

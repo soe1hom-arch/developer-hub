@@ -1,0 +1,45 @@
+{
+  "id": "termux-desktop",
+  "name": "termux-desktop",
+  "category": "termux",
+  "description": "Install a full Linux desktop environment on your Android device with Termux X11 ( VNC optional) and also enable hardware acceleration",
+  "official_website": "https://github.com/sabamdarif/termux-desktop",
+  "documentation": "https://github.com/sabamdarif/termux-desktop#readme",
+  "github_repository": "https://github.com/sabamdarif/termux-desktop",
+  "license": "GPL-3.0",
+  "programming_languages": [
+    "Shell"
+  ],
+  "platforms": [
+    "Termux",
+    "Android",
+    "Linux"
+  ],
+  "tags": [
+    "termux",
+    "termux-desktop",
+    "termux-desktop-lxqt",
+    "termux-desktop-xfce",
+    "termux-graphical-environment",
+    "termux-gui",
+    "termux-hardware-acceleration",
+    "termux-x11",
+    "termux-x11-desktop"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 2145,
+    "forks": 906,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-05",
+  "last_updated": "2026-08-05",
+  "latest_version": "turnip-26.1.6",
+  "auto_discovered": true,
+  "quality_score": 70
+}

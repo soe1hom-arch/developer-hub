@@ -1,0 +1,47 @@
+{
+  "id": "tbomb",
+  "name": "TBomb",
+  "category": "termux",
+  "description": "SMS and call stress-test tool for authorized security research and educational purposes. Use responsibly and only on your own numbers.",
+  "official_website": "https://github.com/TheSpeedX/TBomb",
+  "documentation": "https://github.com/TheSpeedX/TBomb#readme",
+  "github_repository": "https://github.com/TheSpeedX/TBomb",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Termux",
+    "Android",
+    "Linux"
+  ],
+  "tags": [
+    "security",
+    "testing",
+    "educational",
+    "termux",
+    "sms",
+    "bomber",
+    "sms-bomber",
+    "android",
+    "bombing",
+    "spamming",
+    "spam",
+    "linux",
+    "python"
+  ],
+  "alternatives": [],
+  "popularity": 9,
+  "maintained": false,
+  "archived": true,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 5569,
+    "forks": 1854,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-10",
+  "last_updated": "2026-08-10",
+  "latest_version": "main"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "casdoor",
+  "name": "casdoor",
+  "category": "ai",
+  "description": "An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, ",
+  "official_website": "https://casdoor.ai",
+  "documentation": "https://github.com/casdoor/casdoor#readme",
+  "github_repository": "https://github.com/casdoor/casdoor",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "agent",
+    "agentic-ai",
+    "agi",
+    "ai-gateway",
+    "auth",
+    "authentication",
+    "iam",
+    "llm",
+    "oidc",
+    "sso",
+    "oauth",
+    "saml",
+    "webauthn",
+    "mfa",
+    "single-sign-on",
+    "radius",
+    "scim"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 14156,
+    "forks": 1770,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "v3.150.0",
+  "auto_discovered": true,
+  "quality_score": 90
+}

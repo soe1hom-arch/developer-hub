@@ -1,0 +1,49 @@
+{
+  "id": "objectbox-java",
+  "name": "objectbox-java",
+  "category": "database",
+  "description": "Database for Android and JVM - first and fast, lightweight on-device vector database",
+  "official_website": "https://objectbox.io",
+  "documentation": "https://github.com/objectbox/objectbox-java#readme",
+  "github_repository": "https://github.com/objectbox/objectbox-java",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Java"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "android",
+    "database",
+    "edge",
+    "embedded",
+    "java",
+    "kotlin",
+    "mobile",
+    "nosql",
+    "sustainable",
+    "sqlite"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 4621,
+    "forks": 310,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-09",
+  "last_updated": "2026-08-09",
+  "latest_version": "V5.4.2",
+  "auto_discovered": true,
+  "quality_score": 75
+}

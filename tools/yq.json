@@ -1,0 +1,33 @@
+{
+  "id": "yq",
+  "name": "yq",
+  "category": "tools",
+  "description": "Portable command-line YAML/JSON/XML processor with jq-like syntax",
+  "official_website": "https://mikefarah.gitbook.io/yq",
+  "documentation": "https://mikefarah.gitbook.io/yq",
+  "github_repository": "https://github.com/gitbook",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install yq"
+  },
+  "tags": [
+    "tools",
+    "tool",
+    "library"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "sqlalchemy",
+  "name": "SQLAlchemy",
+  "category": "libraries",
+  "description": "Python SQL toolkit and Object Relational Mapper for database access",
+  "official_website": "https://sqlalchemy.org",
+  "documentation": "https://docs.sqlalchemy.org",
+  "github_repository": "https://github.com/sqlalchemy",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install sqlalchemy"
+  },
+  "tags": [
+    "libraries",
+    "tool",
+    "library"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "pytorch-robotics",
+  "name": "PyTorch for Robotics",
+  "category": "robotics",
+  "description": "PyTorch-based libraries for robot learning and control",
+  "official_website": "https://pytorch.org",
+  "documentation": "https://pytorch.org/docs/stable",
+  "github_repository": "https://github.com/pytorch",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install pytorch-robotics"
+  },
+  "tags": [
+    "robotics",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

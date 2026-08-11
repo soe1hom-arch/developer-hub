@@ -1,0 +1,50 @@
+{
+  "id": "oshi",
+  "name": "oshi",
+  "category": "operating-systems",
+  "description": "Native Operating System and Hardware Information",
+  "official_website": "https://oshi.ooo",
+  "documentation": "https://github.com/oshi/oshi#readme",
+  "github_repository": "https://github.com/oshi/oshi",
+  "license": "MIT",
+  "programming_languages": [
+    "Java"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "cpu-usage",
+    "disk-utilization",
+    "hacktoberfest",
+    "hardware-information",
+    "java",
+    "jna",
+    "memory-usage",
+    "operating-system",
+    "process-list",
+    "system-monitoring",
+    "foreign-function-and-memory-api"
+  ],
+  "alternatives": [],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 5253,
+    "forks": 921,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "oshi-parent-7.4.4",
+  "auto_discovered": true,
+  "quality_score": 75
+}

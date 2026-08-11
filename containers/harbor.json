@@ -1,0 +1,49 @@
+{
+  "id": "harbor",
+  "name": "harbor",
+  "category": "containers",
+  "description": "An open source trusted cloud native registry project that stores, signs, and scans content.",
+  "official_website": "https://goharbor.io",
+  "documentation": "https://github.com/goharbor/harbor#readme",
+  "github_repository": "https://github.com/goharbor/harbor",
+  "license": "Apache-2.0",
+  "latest_version": "v2.15.2",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "cloud-native",
+    "cncf",
+    "cncf-project",
+    "container",
+    "container-management",
+    "container-registry",
+    "containers",
+    "docker",
+    "registry",
+    "helm",
+    "kubernetes"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 29118,
+    "forks": 5314,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-09",
+  "last_updated": "2026-08-09"
+}

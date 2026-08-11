@@ -1,0 +1,47 @@
+{
+  "id": "gpslogger",
+  "name": "gpslogger",
+  "category": "android",
+  "description": ":satellite: Lightweight GPS Logging Application For Android.",
+  "official_website": "https://gpslogger.app",
+  "documentation": "https://github.com/mendhak/gpslogger#readme",
+  "github_repository": "https://github.com/mendhak/gpslogger",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "Java"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "android",
+    "android-sdk",
+    "dropbox",
+    "gps",
+    "gpslogger",
+    "intellij",
+    "java",
+    "logging",
+    "satellite"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 2581,
+    "forks": 648,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-09",
+  "last_updated": "2026-08-09",
+  "latest_version": "v136",
+  "auto_discovered": true,
+  "quality_score": 75
+}

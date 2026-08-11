@@ -1,0 +1,44 @@
+{
+  "id": "aws-cdk",
+  "name": "aws-cdk",
+  "category": "cloud",
+  "description": "The AWS Cloud Development Kit is a framework for defining cloud infrastructure in code",
+  "official_website": "https://aws.amazon.com/cdk",
+  "documentation": "https://github.com/aws/aws-cdk#readme",
+  "github_repository": "https://github.com/aws/aws-cdk",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "aws",
+    "cloud-infrastructure",
+    "hacktoberfest",
+    "infrastructure-as-code",
+    "typescript"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 12857,
+    "forks": 4587,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-05",
+  "last_updated": "2026-08-05",
+  "latest_version": "v2.263.0",
+  "auto_discovered": true,
+  "quality_score": 85
+}

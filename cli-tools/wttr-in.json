@@ -1,0 +1,46 @@
+{
+  "id": "wttr-in",
+  "name": "wttr.in",
+  "category": "cli-tools",
+  "description": ":partly_sunny: The right way to check the weather",
+  "official_website": "https://wttr.in",
+  "documentation": "https://github.com/chubin/wttr.in#readme",
+  "github_repository": "https://github.com/chubin/wttr.in",
+  "license": "Apache-2.0",
+  "latest_version": "master",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "ascii-art",
+    "curl",
+    "terminal",
+    "weather",
+    "weather-api",
+    "weather-app",
+    "weather-information",
+    "cli",
+    "command-line"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 30260,
+    "forks": 1261,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "source": "cli-github"
+}

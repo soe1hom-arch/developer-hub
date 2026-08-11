@@ -1,0 +1,51 @@
+{
+  "id": "witr",
+  "name": "witr",
+  "category": "cli-tools",
+  "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
+  "official_website": "https://pranshuparmar.github.io/witr/",
+  "documentation": "https://github.com/pranshuparmar/witr#readme",
+  "github_repository": "https://github.com/pranshuparmar/witr",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "cli",
+    "containers",
+    "devops",
+    "docker",
+    "freebsd",
+    "go",
+    "golang",
+    "incident-response",
+    "linux",
+    "macos",
+    "observability",
+    "sysadmin",
+    "troubleshooting",
+    "tui"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 19263,
+    "forks": 625,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-07",
+  "last_updated": "2026-08-07",
+  "latest_version": "v0.3.3",
+  "auto_discovered": true,
+  "quality_score": 90
+}

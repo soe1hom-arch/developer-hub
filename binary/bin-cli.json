@@ -1,0 +1,50 @@
+{
+  "id": "bin-cli",
+  "name": "cli",
+  "category": "binary",
+  "description": "Google Workspace CLI \u2014 one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.",
+  "official_website": "https://developers.google.com/workspace",
+  "documentation": "https://github.com/googleworkspace/cli#readme",
+  "github_repository": "https://github.com/googleworkspace/cli",
+  "license": "Apache-2.0",
+  "latest_version": "v0.22.5",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS",
+    "Android"
+  ],
+  "tags": [
+    "agent-skills",
+    "ai-agent",
+    "automation",
+    "cli",
+    "discovery-api",
+    "gemini-cli-extension",
+    "google-admin",
+    "google-api",
+    "binary",
+    "pre-built",
+    "google-workspace",
+    "google-calendar",
+    "google-chat"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 30257,
+    "forks": 1771,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "source": "binary-release"
+}

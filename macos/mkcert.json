@@ -1,0 +1,50 @@
+{
+  "id": "mkcert",
+  "name": "mkcert",
+  "category": "macos",
+  "description": "A simple zero-config tool to make locally trusted development certificates with any names you'd like.",
+  "official_website": "https://mkcert.dev",
+  "documentation": "https://github.com/FiloSottile/mkcert#readme",
+  "github_repository": "https://github.com/FiloSottile/mkcert",
+  "license": "BSD-3-Clause",
+  "latest_version": "v1.4.4",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "certificates",
+    "chrome",
+    "firefox",
+    "https",
+    "ios",
+    "linux",
+    "local-development",
+    "localhost",
+    "tls",
+    "root-ca",
+    "macos",
+    "windows"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 59431,
+    "forks": 3129,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-09",
+  "last_updated": "2026-08-09"
+}

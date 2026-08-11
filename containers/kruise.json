@@ -1,0 +1,49 @@
+{
+  "id": "kruise",
+  "name": "kruise",
+  "category": "containers",
+  "description": "Automated management of large-scale applications on Kubernetes (incubating project under CNCF)",
+  "official_website": "https://openkruise.io",
+  "documentation": "https://github.com/openkruise/kruise#readme",
+  "github_repository": "https://github.com/openkruise/kruise",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "cloud-native",
+    "cloudnative",
+    "cncf",
+    "container",
+    "k8s",
+    "kruise",
+    "kubernetes",
+    "openkruise",
+    "workloads",
+    "workload"
+  ],
+  "alternatives": [],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 5306,
+    "forks": 907,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-07",
+  "last_updated": "2026-08-07",
+  "latest_version": "v1.9.1",
+  "auto_discovered": true,
+  "quality_score": 80
+}

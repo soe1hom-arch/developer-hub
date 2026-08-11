@@ -1,0 +1,41 @@
+{
+  "id": "cloudflare-ssl",
+  "name": "Cloudflare SSL/TLS",
+  "category": "security",
+  "description": "Edge SSL/TLS encryption and certificate management service for securing web traffic",
+  "official_website": "https://cloudflare.com/ssl",
+  "documentation": "https://developers.cloudflare.com/ssl",
+  "github_repository": "https://github.com/cloudflare",
+  "license": "Proprietary",
+  "latest_version": "N/A",
+  "programming_languages": [
+    "N/A"
+  ],
+  "platforms": [
+    "Cloud",
+    "Web"
+  ],
+  "package_manager": null,
+  "installation_examples": {
+    "web": "Configure via Cloudflare Dashboard"
+  },
+  "tags": [
+    "security",
+    "ssl",
+    "tls",
+    "cdn",
+    "cloudflare",
+    "certificates"
+  ],
+  "alternatives": [
+    "Let's Encrypt",
+    "AWS Certificate Manager",
+    "ZeroSSL"
+  ],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": false,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

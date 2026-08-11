@@ -1,0 +1,48 @@
+{
+  "id": "superfile",
+  "name": "superfile",
+  "category": "cli-tools",
+  "description": "Pretty fancy and modern terminal file manager",
+  "official_website": "https://superfile.dev",
+  "documentation": "https://github.com/yorukot/superfile#readme",
+  "github_repository": "https://github.com/yorukot/superfile",
+  "license": "MIT",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "bubbletea",
+    "cli",
+    "file-manager",
+    "filemanager",
+    "filesystem",
+    "golang",
+    "hacktoberfest",
+    "linux-app",
+    "terminal-app",
+    "tui",
+    "terminal-based"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 22288,
+    "forks": 806,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-06",
+  "last_updated": "2026-08-06",
+  "latest_version": "v1.6.0",
+  "auto_discovered": true,
+  "quality_score": 80
+}

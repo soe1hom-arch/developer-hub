@@ -1,0 +1,42 @@
+{
+  "id": "vuex",
+  "name": "vuex",
+  "category": "frontend",
+  "description": "\ud83d\uddc3\ufe0f Centralized State Management for Vue.js.",
+  "official_website": "https://vuex.vuejs.org",
+  "documentation": "https://github.com/vuejs/vuex#readme",
+  "github_repository": "https://github.com/vuejs/vuex",
+  "license": "MIT",
+  "programming_languages": [
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "javascript",
+    "state-management",
+    "time-travel",
+    "vue",
+    "vuex"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 28328,
+    "forks": 9431,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "latest_version": "v4.0.2",
+  "auto_discovered": true,
+  "quality_score": 80
+}

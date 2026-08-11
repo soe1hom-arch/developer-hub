@@ -1,0 +1,43 @@
+{
+  "id": "tig",
+  "name": "tig",
+  "category": "cli-tools",
+  "description": "Text-mode interface for git",
+  "official_website": "https://jonas.github.io/tig/",
+  "documentation": "https://github.com/jonas/tig#readme",
+  "github_repository": "https://github.com/jonas/tig",
+  "license": "GPL-2.0",
+  "latest_version": "tig-2.6.1",
+  "programming_languages": [
+    "C"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "c",
+    "git",
+    "ncurses",
+    "tui",
+    "cli",
+    "command-line"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 13301,
+    "forks": 657,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "source": "cli-github"
+}

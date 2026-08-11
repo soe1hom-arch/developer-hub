@@ -1,0 +1,50 @@
+{
+  "id": "netbox",
+  "name": "netbox",
+  "category": "network",
+  "description": "The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/",
+  "official_website": "https://netboxlabs.com/products/netbox/",
+  "documentation": "https://github.com/netbox-community/netbox#readme",
+  "github_repository": "https://github.com/netbox-community/netbox",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "cabling",
+    "dcim",
+    "django",
+    "infrastructure-management",
+    "ipam",
+    "netbox",
+    "network",
+    "network-automation",
+    "sysadmin",
+    "python",
+    "sot"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 21289,
+    "forks": 3092,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "v4.6.7",
+  "auto_discovered": true,
+  "quality_score": 90
+}

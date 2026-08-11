@@ -1,0 +1,43 @@
+{
+  "id": "fish-shell",
+  "name": "fish-shell",
+  "category": "cli-tools",
+  "description": "The user-friendly command line shell.",
+  "official_website": "https://fishshell.com",
+  "documentation": "https://github.com/fish-shell/fish-shell#readme",
+  "github_repository": "https://github.com/fish-shell/fish-shell",
+  "license": "NOASSERTION",
+  "latest_version": "4.8.1",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "fish",
+    "rust",
+    "shell",
+    "terminal",
+    "cli",
+    "command-line"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 33992,
+    "forks": 2343,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "source": "cli-github"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "bitchat",
+  "name": "bitchat",
+  "category": "mobile",
+  "description": "bluetooth mesh chat, IRC vibes",
+  "official_website": "https://github.com/permissionlesstech/bitchat",
+  "documentation": "https://github.com/permissionlesstech/bitchat#readme",
+  "github_repository": "https://github.com/permissionlesstech/bitchat",
+  "license": "Unlicense",
+  "programming_languages": [
+    "Swift"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "bluetooth",
+    "bluetooth-le",
+    "decentralized",
+    "e2e-encryption",
+    "ios",
+    "macos",
+    "mesh-network",
+    "messaging",
+    "nostr",
+    "swift"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 34888,
+    "forks": 5577,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-10",
+  "last_updated": "2026-08-10",
+  "latest_version": "v1.7.1",
+  "auto_discovered": true,
+  "quality_score": 70
+}

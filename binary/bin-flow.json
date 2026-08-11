@@ -1,0 +1,38 @@
+{
+  "id": "bin-flow",
+  "name": "flow",
+  "category": "binary",
+  "description": "Adds static typing to JavaScript to improve developer productivity and code quality.",
+  "official_website": "https://flow.org/",
+  "documentation": "https://github.com/facebook/flow#readme",
+  "github_repository": "https://github.com/facebook/flow",
+  "license": "MIT",
+  "latest_version": "v0.326.0",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "binary",
+    "pre-built"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 22270,
+    "forks": 1892,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "source": "binary-release"
+}

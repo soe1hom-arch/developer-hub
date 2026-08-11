@@ -1,0 +1,50 @@
+{
+  "id": "imgui",
+  "name": "imgui",
+  "category": "frameworks",
+  "description": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+  "official_website": "https://github.com/ocornut/imgui",
+  "documentation": "https://github.com/ocornut/imgui#readme",
+  "github_repository": "https://github.com/ocornut/imgui",
+  "license": "MIT",
+  "latest_version": "v1.92.9b",
+  "programming_languages": [
+    "C++"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "api",
+    "cplusplus",
+    "framework",
+    "game-development",
+    "game-engine",
+    "gamedev",
+    "gui",
+    "imgui",
+    "tools",
+    "ui",
+    "toolkit",
+    "native"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 75579,
+    "forks": 11998,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-09",
+  "last_updated": "2026-08-09"
+}

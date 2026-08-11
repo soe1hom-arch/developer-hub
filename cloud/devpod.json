@@ -1,0 +1,49 @@
+{
+  "id": "devpod",
+  "name": "devpod",
+  "category": "cloud",
+  "description": "Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.",
+  "official_website": "https://devpod.sh",
+  "documentation": "https://github.com/loft-sh/devpod#readme",
+  "github_repository": "https://github.com/loft-sh/devpod",
+  "license": "MPL-2.0",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "cloud",
+    "devcontainer",
+    "devcontainers",
+    "developer-tools",
+    "development",
+    "docker",
+    "ide",
+    "kubernetes",
+    "remote-development",
+    "remote-development-environment"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 15058,
+    "forks": 573,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "v0.6.15",
+  "auto_discovered": true,
+  "quality_score": 90
+}

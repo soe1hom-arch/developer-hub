@@ -1,0 +1,32 @@
+{
+  "id": "lightgbm",
+  "name": "LightGBM",
+  "category": "machine-learning",
+  "description": "Fast gradient boosting framework using tree-based learning algorithms",
+  "official_website": "https://lightgbm.readthedocs.io",
+  "documentation": "https://lightgbm.readthedocs.io",
+  "github_repository": "https://github.com/readthedocs",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install lightgbm"
+  },
+  "tags": [
+    "machine-learning",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

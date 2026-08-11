@@ -1,0 +1,49 @@
+{
+  "id": "bombers",
+  "name": "Bombers",
+  "category": "termux",
+  "description": "A collection of messaging stress-test tools for educational security research. For authorized testing and learning purposes only.",
+  "official_website": "https://github.com/bhattsameer/Bombers",
+  "documentation": "https://github.com/bhattsameer/Bombers#readme",
+  "github_repository": "https://github.com/bhattsameer/Bombers",
+  "license": "MIT",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Termux",
+    "Android",
+    "Linux"
+  ],
+  "tags": [
+    "security",
+    "testing",
+    "educational",
+    "termux",
+    "stress-test",
+    "sms",
+    "email-bomber",
+    "bomber",
+    "python",
+    "whatsappbomber",
+    "sms-bomber",
+    "sms-bombing",
+    "bombing",
+    "email-bomb",
+    "spam"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": false,
+  "archived": true,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 3708,
+    "forks": 1227,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-10",
+  "last_updated": "2026-08-10",
+  "latest_version": "main"
+}

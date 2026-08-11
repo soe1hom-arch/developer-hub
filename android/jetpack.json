@@ -1,0 +1,25 @@
+{
+  "id": "android-jetpack",
+  "name": "Android Jetpack",
+  "category": "android",
+  "description": "Suite of libraries, tools, and guidance for Android app development",
+  "official_website": "https://developer.android.com/jetpack",
+  "documentation": "https://developer.android.com/jetpack/docs",
+  "github_repository": "https://github.com/androidx",
+  "license": "Apache-2.0",
+  "latest_version": "1.12.0",
+  "programming_languages": ["Kotlin", "Java"],
+  "platforms": ["Android"],
+  "package_manager": "gradle",
+  "installation_examples": {
+    "gradle": "implementation 'androidx.core:core-ktx:1.12.0'"
+  },
+  "tags": ["android", "jetpack", "ui", "navigation", "lifecycle", "room", "compose"],
+  "alternatives": ["Anko", "AndroidAnnotations", "Butter Knife"],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

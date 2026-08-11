@@ -1,0 +1,50 @@
+{
+  "id": "melonjs",
+  "name": "melonJS",
+  "category": "game-development",
+  "description": "a modern & lightweight HTML5 game engine",
+  "official_website": "https://melonjs.org",
+  "documentation": "https://github.com/melonjs/melonJS#readme",
+  "github_repository": "https://github.com/melonjs/melonJS",
+  "license": "MIT",
+  "programming_languages": [
+    "JavaScript"
+  ],
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux",
+    "Web"
+  ],
+  "tags": [
+    "2d-game-engine",
+    "canvas2d",
+    "contributions-welcome",
+    "es6",
+    "game-development",
+    "game-engine",
+    "gamedev",
+    "hacktoberfest",
+    "melonjs",
+    "javascript",
+    "webgl",
+    "webaudio",
+    "html5"
+  ],
+  "alternatives": [],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 6355,
+    "forks": 662,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "19.9.1",
+  "auto_discovered": true,
+  "quality_score": 75
+}

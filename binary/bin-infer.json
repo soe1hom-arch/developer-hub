@@ -1,0 +1,45 @@
+{
+  "id": "bin-infer",
+  "name": "infer",
+  "category": "binary",
+  "description": "A static analyzer for Java, C, C++, and Objective-C",
+  "official_website": "http://fbinfer.com/",
+  "documentation": "https://github.com/facebook/infer#readme",
+  "github_repository": "https://github.com/facebook/infer",
+  "license": "MIT",
+  "latest_version": "v1.3.0",
+  "programming_languages": [
+    "OCaml"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "c",
+    "code-quality",
+    "cpp",
+    "java",
+    "objective-c",
+    "static-analysis",
+    "binary",
+    "pre-built",
+    "static-code-analysis"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 15669,
+    "forks": 2097,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "source": "binary-release"
+}

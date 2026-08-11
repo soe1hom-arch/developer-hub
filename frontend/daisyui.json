@@ -1,0 +1,33 @@
+{
+  "id": "daisyui",
+  "name": "DaisyUI",
+  "category": "frontend",
+  "description": "Tailwind CSS component library for building accessible UI with less code",
+  "official_website": "https://daisyui.com",
+  "documentation": "https://daisyui.com/docs",
+  "github_repository": "https://github.com/daisyui",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install daisyui"
+  },
+  "tags": [
+    "frontend",
+    "tool",
+    "library"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

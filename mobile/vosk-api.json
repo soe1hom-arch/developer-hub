@@ -1,0 +1,51 @@
+{
+  "id": "vosk-api",
+  "name": "vosk-api",
+  "category": "mobile",
+  "description": "Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node",
+  "official_website": "https://github.com/alphacep/vosk-api",
+  "documentation": "https://github.com/alphacep/vosk-api#readme",
+  "github_repository": "https://github.com/alphacep/vosk-api",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Jupyter Notebook"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "android",
+    "asr",
+    "deep-learning",
+    "deep-neural-networks",
+    "deepspeech",
+    "google-speech-to-text",
+    "ios",
+    "kaldi",
+    "speech-recognition",
+    "voice-recognition",
+    "speech-to-text",
+    "raspberry-pi",
+    "speech-to-text-android"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 15030,
+    "forks": 1744,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "latest_version": "v0.3.50",
+  "auto_discovered": true,
+  "quality_score": 80
+}

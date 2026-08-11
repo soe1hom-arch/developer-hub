@@ -1,0 +1,52 @@
+{
+  "id": "affine",
+  "name": "AFFiNE",
+  "category": "tools",
+  "description": "There can be more than Notion and Miro. AFFiNE(pronounced [\u0259\u2018fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r",
+  "official_website": "https://affine.pro",
+  "documentation": "https://github.com/toeverything/AFFiNE#readme",
+  "github_repository": "https://github.com/toeverything/AFFiNE",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "app",
+    "crdt",
+    "editor",
+    "electron",
+    "knowledge-base",
+    "markdown",
+    "miro",
+    "notes",
+    "notion",
+    "rust",
+    "rust-lang",
+    "whiteboard",
+    "wiki"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 71308,
+    "forks": 5123,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "latest_version": "v0.27.3",
+  "auto_discovered": true,
+  "quality_score": 90
+}

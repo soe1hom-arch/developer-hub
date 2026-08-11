@@ -1,0 +1,48 @@
+{
+  "id": "cheat-sh",
+  "name": "cheat.sh",
+  "category": "cli-tools",
+  "description": "the only cheat sheet you need",
+  "official_website": "https://cheat.sh/",
+  "documentation": "https://github.com/chubin/cheat.sh#readme",
+  "github_repository": "https://github.com/chubin/cheat.sh",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "cheatsheet",
+    "cli",
+    "command-line",
+    "curl",
+    "documentation",
+    "examples",
+    "hacktoberfest2021",
+    "help",
+    "cli",
+    "command-line",
+    "terminal",
+    "tldr"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 41614,
+    "forks": 1916,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "source": "cli-github"
+}

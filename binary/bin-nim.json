@@ -1,0 +1,46 @@
+{
+  "id": "bin-nim",
+  "name": "Nim",
+  "category": "binary",
+  "description": "Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, an",
+  "official_website": "https://nim-lang.org",
+  "documentation": "https://github.com/nim-lang/Nim#readme",
+  "github_repository": "https://github.com/nim-lang/Nim",
+  "license": "NOASSERTION",
+  "latest_version": "devel",
+  "programming_languages": [
+    "Nim"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "compiler",
+    "efficient",
+    "hacktoberfest",
+    "language",
+    "macros",
+    "metaprogramming",
+    "binary",
+    "pre-built",
+    "procedural",
+    "nim"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 18159,
+    "forks": 1547,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "source": "binary-release"
+}

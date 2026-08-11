@@ -1,0 +1,48 @@
+{
+  "id": "firecracker",
+  "name": "firecracker",
+  "category": "cloud",
+  "description": "Secure and fast microVMs for serverless computing.",
+  "official_website": "http://firecracker-microvm.io",
+  "documentation": "https://github.com/firecracker-microvm/firecracker#readme",
+  "github_repository": "https://github.com/firecracker-microvm/firecracker",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "containers",
+    "minimalist",
+    "open-source",
+    "oversubscription",
+    "rust",
+    "sandbox",
+    "serverless",
+    "virtual-machine",
+    "virtualization"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 35986,
+    "forks": 2552,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "v1.16.1",
+  "auto_discovered": true,
+  "quality_score": 85
+}

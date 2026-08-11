@@ -1,0 +1,25 @@
+{
+  "id": "unity",
+  "name": "Unity",
+  "category": "game-development",
+  "description": "Cross-platform game engine for creating 2D, 3D, VR, and AR games and interactive experiences",
+  "official_website": "https://unity.com",
+  "documentation": "https://docs.unity3d.com",
+  "github_repository": "https://github.com/Unity-Technologies",
+  "license": "Proprietary",
+  "latest_version": "2023.3.30f1",
+  "programming_languages": ["C#", "ShaderLab"],
+  "platforms": ["Windows", "macOS", "Linux", "Android", "iOS", "WebGL", "Console"],
+  "package_manager": "unitypackage",
+  "installation_examples": {
+    "download": "https://unity.com/download"
+  },
+  "tags": ["game-engine", "2d", "3d", "vr", "ar", "cross-platform"],
+  "alternatives": ["Unreal Engine", "Godot", "CryEngine", "GameMaker"],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": false,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

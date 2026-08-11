@@ -1,0 +1,47 @@
+{
+  "id": "bin-presenterm",
+  "name": "presenterm",
+  "category": "binary",
+  "description": "A markdown terminal slideshow tool",
+  "official_website": "https://mfontanini.github.io/presenterm/",
+  "documentation": "https://github.com/mfontanini/presenterm#readme",
+  "github_repository": "https://github.com/mfontanini/presenterm",
+  "license": "BSD-2-Clause",
+  "latest_version": "v0.16.1",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS",
+    "Android"
+  ],
+  "tags": [
+    "cli",
+    "markdown",
+    "markdown-slides",
+    "presentation",
+    "rust",
+    "slides",
+    "slideshow",
+    "terminal",
+    "binary",
+    "pre-built"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 8716,
+    "forks": 198,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "source": "binary-release"
+}

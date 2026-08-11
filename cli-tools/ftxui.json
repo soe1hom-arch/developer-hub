@@ -1,0 +1,50 @@
+{
+  "id": "ftxui",
+  "name": "FTXUI",
+  "category": "cli-tools",
+  "description": ":computer: C++ Functional Terminal User Interface. :heart:",
+  "official_website": "https://arthursonzogni.github.io/FTXUI/",
+  "documentation": "https://github.com/ArthurSonzogni/FTXUI#readme",
+  "github_repository": "https://github.com/ArthurSonzogni/FTXUI",
+  "license": "MIT",
+  "latest_version": "v7.0.3",
+  "programming_languages": [
+    "C++"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "arthursonzogni",
+    "ascii",
+    "ascii-art",
+    "cpp",
+    "curse",
+    "simple",
+    "terminal",
+    "terminal-based",
+    "cli",
+    "command-line",
+    "ui",
+    "xterm",
+    "user-interface"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 10520,
+    "forks": 606,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "source": "cli-github"
+}

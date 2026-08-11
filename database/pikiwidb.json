@@ -1,0 +1,46 @@
+{
+  "id": "pikiwidb",
+  "name": "pikiwidb",
+  "category": "database",
+  "description": "Pikiwidb is a Redis-Compatible database developed by Qihoo's infrastructure team.",
+  "official_website": "https://github.com/OpenAtomFoundation/pikiwidb",
+  "documentation": "https://github.com/OpenAtomFoundation/pikiwidb#readme",
+  "github_repository": "https://github.com/OpenAtomFoundation/pikiwidb",
+  "license": "BSD-3-Clause",
+  "programming_languages": [
+    "C++"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "nosql",
+    "nosql-data-storage",
+    "nosql-databases",
+    "pikiwidb",
+    "redis",
+    "redis-interfaces",
+    "rocksdb"
+  ],
+  "alternatives": [],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 6122,
+    "forks": 1169,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "latest_version": "v3.5.7",
+  "auto_discovered": true,
+  "quality_score": 70
+}

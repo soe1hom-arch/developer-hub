@@ -1,0 +1,49 @@
+{
+  "id": "newpipe",
+  "name": "NewPipe",
+  "category": "android",
+  "description": "A libre lightweight streaming front-end for Android.",
+  "official_website": "https://newpipe.net",
+  "documentation": "https://github.com/TeamNewPipe/NewPipe#readme",
+  "github_repository": "https://github.com/TeamNewPipe/NewPipe",
+  "license": "GPL-3.0",
+  "programming_languages": [
+    "Java"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "4k",
+    "android",
+    "bandcamp",
+    "download-videos",
+    "newpipe",
+    "peertube",
+    "soundcloud",
+    "translation",
+    "youtube-video",
+    "video",
+    "watch"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 39302,
+    "forks": 3717,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "v0.29.0",
+  "auto_discovered": true,
+  "quality_score": 85
+}

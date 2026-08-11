@@ -1,0 +1,52 @@
+{
+  "id": "graphql",
+  "name": "GraphQL",
+  "category": "api",
+  "description": "Query language for APIs that enables declarative data fetching with a type system",
+  "official_website": "https://graphql.org",
+  "documentation": "https://graphql.org/learn",
+  "github_repository": "https://github.com/graphql/graphql-spec",
+  "license": "NOASSERTION",
+  "latest_version": "September2025",
+  "programming_languages": [
+    "JavaScript",
+    "TypeScript",
+    "Python",
+    "Java",
+    "Ruby"
+  ],
+  "platforms": [
+    "Web",
+    "Mobile",
+    "Desktop"
+  ],
+  "package_manager": "npm",
+  "installation_examples": {
+    "npm": "npm install graphql @graphql-yoga/node"
+  },
+  "tags": [
+    "api",
+    "query-language",
+    "rest-alternative",
+    "type-system",
+    "real-time"
+  ],
+  "alternatives": [
+    "REST",
+    "gRPC",
+    "tRPC",
+    "SOAP"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "repository_statistics": {
+    "stars": 14583,
+    "forks": 1155,
+    "open_issues": 0,
+    "watchers": 0
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "drificrack",
+  "name": "DriFiCrack",
+  "category": "android-tools",
+  "description": "Brute Force Tool to Crack Wi-Fi Passwords for educational security testing on Android (rooted). Use only on networks you own or have permission to test.",
+  "official_website": "https://github.com/ZeltNamizake/DriFiCrack",
+  "documentation": "https://github.com/ZeltNamizake/DriFiCrack#readme",
+  "github_repository": "https://github.com/ZeltNamizake/DriFiCrack",
+  "license": "MIT",
+  "programming_languages": [
+    "Shell"
+  ],
+  "platforms": [
+    "Android"
+  ],
+  "tags": [
+    "security",
+    "wifi",
+    "penetration-testing",
+    "android",
+    "educational",
+    "android-root",
+    "android-tools",
+    "bash-script",
+    "javascript",
+    "nodejs",
+    "termux-tools",
+    "pentest-tool",
+    "pentesting",
+    "pentesting-tools",
+    "wifi-attack"
+  ],
+  "alternatives": [],
+  "popularity": 6,
+  "maintained": false,
+  "archived": true,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 195,
+    "forks": 14,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-10",
+  "last_updated": "2026-08-10",
+  "latest_version": "v1.0.1"
+}

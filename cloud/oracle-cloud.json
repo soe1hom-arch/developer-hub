@@ -1,0 +1,32 @@
+{
+  "id": "oracle-cloud",
+  "name": "Oracle Cloud",
+  "category": "cloud",
+  "description": "Enterprise cloud platform with autonomous databases and infrastructure",
+  "official_website": "https://oracle.com/cloud",
+  "documentation": "https://docs.oracle.com/cloud",
+  "github_repository": "https://github.com/oracle",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install oracle-cloud"
+  },
+  "tags": [
+    "cloud",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

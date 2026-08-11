@@ -1,0 +1,48 @@
+{
+  "id": "jekyll",
+  "name": "Jekyll",
+  "category": "frontend",
+  "description": "Simple static site generator for blogs with GitHub Pages integration",
+  "official_website": "https://jekyllrb.com",
+  "documentation": "https://jekyllrb.com/docs",
+  "github_repository": "https://github.com/jekyll/jekyll",
+  "license": "MIT",
+  "latest_version": "v4.4.1",
+  "programming_languages": [
+    "Ruby",
+    "Gherkin",
+    "JavaScript",
+    "HTML",
+    "Shell"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install jekyll"
+  },
+  "tags": [
+    "frontend",
+    "tool",
+    "blog-engine",
+    "jekyll",
+    "liquid",
+    "markdown",
+    "ruby",
+    "static-site-generator"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-08-09",
+  "last_updated": "2026-08-09",
+  "repository_statistics": {
+    "stars": 51622,
+    "forks": 10300,
+    "open_issues": 0,
+    "watchers": 0
+  }
+}

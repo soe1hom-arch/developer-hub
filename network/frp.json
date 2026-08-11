@@ -1,0 +1,47 @@
+{
+  "id": "frp",
+  "name": "frp",
+  "category": "network",
+  "description": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+  "official_website": "https://github.com/fatedier/frp",
+  "documentation": "https://github.com/fatedier/frp#readme",
+  "github_repository": "https://github.com/fatedier/frp",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "expose",
+    "firewall",
+    "frp",
+    "go",
+    "http-proxy",
+    "nat",
+    "p2p",
+    "proxy"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 108619,
+    "forks": 15167,
+    "open_issues": 45,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 75
+}

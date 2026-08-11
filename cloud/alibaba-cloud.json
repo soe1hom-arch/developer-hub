@@ -1,0 +1,32 @@
+{
+  "id": "alibaba-cloud",
+  "name": "Alibaba Cloud",
+  "category": "cloud",
+  "description": "Cloud computing services by Alibaba Group with global infrastructure",
+  "official_website": "https://alibabacloud.com",
+  "documentation": "https://www.alibabacloud.com/docs",
+  "github_repository": "https://github.com/AlibabaCloud",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install alibaba-cloud"
+  },
+  "tags": [
+    "cloud",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

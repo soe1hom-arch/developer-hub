@@ -1,0 +1,47 @@
+{
+  "id": "dapr",
+  "name": "dapr",
+  "category": "containers",
+  "description": "Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.",
+  "official_website": "https://dapr.io",
+  "documentation": "https://github.com/dapr/dapr#readme",
+  "github_repository": "https://github.com/dapr/dapr",
+  "license": "Apache-2.0",
+  "latest_version": "v1.18.2",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "containers",
+    "event-driven",
+    "kubernetes",
+    "microservice",
+    "microservices",
+    "pubsub",
+    "serverless",
+    "sidecar",
+    "state-management"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 26020,
+    "forks": 2124,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-09",
+  "last_updated": "2026-08-09"
+}

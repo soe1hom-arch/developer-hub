@@ -1,0 +1,47 @@
+{
+  "id": "vapor",
+  "name": "vapor",
+  "category": "frameworks",
+  "description": "\ud83d\udca7 A server-side Swift HTTP web framework.",
+  "official_website": "https://vapor.codes",
+  "documentation": "https://github.com/vapor/vapor#readme",
+  "github_repository": "https://github.com/vapor/vapor",
+  "license": "MIT",
+  "programming_languages": [
+    "Swift"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "framework",
+    "http",
+    "http2",
+    "server",
+    "server-side-swift",
+    "swift",
+    "vapor",
+    "web-framework"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 26189,
+    "forks": 1521,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "4.122.0",
+  "auto_discovered": true,
+  "quality_score": 80
+}

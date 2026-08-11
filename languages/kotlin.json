@@ -1,0 +1,59 @@
+{
+  "id": "kotlin",
+  "name": "Kotlin",
+  "category": "languages",
+  "description": "Modern, cross-platform programming language that runs on JVM, Android, JavaScript, and Native targets",
+  "official_website": "https://kotlinlang.org",
+  "documentation": "https://kotlinlang.org/docs",
+  "github_repository": "https://github.com/JetBrains/kotlin",
+  "license": "Apache-2.0",
+  "latest_version": "v2.4.10",
+  "programming_languages": [
+    "Kotlin"
+  ],
+  "platforms": [
+    "Android",
+    "JVM",
+    "JavaScript",
+    "Native",
+    "macOS",
+    "Linux"
+  ],
+  "package_manager": "gradle",
+  "installation_examples": {
+    "sdkman": "sdk install kotlin"
+  },
+  "tags": [
+    "programming-language",
+    "android",
+    "jvm",
+    "jetbrains",
+    "modern",
+    "kotlin",
+    "compiler",
+    "gradle-plugin",
+    "maven-plugin",
+    "kotlin-library",
+    "intellij-plugin",
+    "wasm",
+    "webassembly"
+  ],
+  "alternatives": [
+    "Java",
+    "C#",
+    "Swift",
+    "Go"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "repository_statistics": {
+    "stars": 53321,
+    "forks": 6390,
+    "open_issues": 0,
+    "watchers": 0
+  }
+}

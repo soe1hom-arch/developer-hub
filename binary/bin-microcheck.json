@@ -1,0 +1,48 @@
+{
+  "id": "bin-microcheck",
+  "name": "microcheck",
+  "category": "binary",
+  "description": "\ud83e\uddea Lightweight health check utilities for Docker containers",
+  "official_website": "https://github.com/tarampampam/microcheck",
+  "documentation": "https://github.com/tarampampam/microcheck#readme",
+  "github_repository": "https://github.com/tarampampam/microcheck",
+  "license": "MIT",
+  "latest_version": "v1.4.0",
+  "programming_languages": [
+    "C"
+  ],
+  "platforms": [
+    "Linux",
+    "Android",
+    "macOS"
+  ],
+  "tags": [
+    "checkhttp",
+    "checkhttps",
+    "checkport",
+    "cli",
+    "docker",
+    "docker-image",
+    "healthcheck",
+    "precompiled-binaries",
+    "binary",
+    "pre-built",
+    "static-binary",
+    "tools"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 6,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 150,
+    "forks": 3,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "source": "binary-release"
+}

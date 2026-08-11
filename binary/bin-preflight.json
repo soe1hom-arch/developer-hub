@@ -1,0 +1,50 @@
+{
+  "id": "bin-preflight",
+  "name": "preflight",
+  "category": "binary",
+  "description": "Validation toolkit for containers and CI. Single binary, zero dependencies.",
+  "official_website": "https://github.com/vertti/preflight",
+  "documentation": "https://github.com/vertti/preflight#readme",
+  "github_repository": "https://github.com/vertti/preflight",
+  "license": "Apache-2.0",
+  "latest_version": "v0.17.1",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS",
+    "Android"
+  ],
+  "tags": [
+    "ci-cd",
+    "cli",
+    "containers",
+    "devops",
+    "distroless",
+    "docker",
+    "dockerfile",
+    "golang",
+    "binary",
+    "pre-built",
+    "validation",
+    "preflight-checks",
+    "health-check"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 4,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 55,
+    "forks": 2,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "source": "binary-release"
+}

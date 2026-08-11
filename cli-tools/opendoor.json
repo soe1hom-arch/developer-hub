@@ -1,0 +1,47 @@
+{
+  "id": "opendoor",
+  "name": "OpenDoor",
+  "category": "cli-tools",
+  "description": "OWASP Web Recon & Directory Discovery Platform",
+  "official_website": "http://opendoor.readthedocs.io",
+  "documentation": "https://github.com/stanislav-web/OpenDoor#readme",
+  "github_repository": "https://github.com/stanislav-web/OpenDoor",
+  "license": "GPL-3.0",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "attack-surface",
+    "bruteforcing",
+    "cli-tool",
+    "content-discovery",
+    "directory-bruteforce",
+    "directory-scanner",
+    "dirsearch",
+    "fingerprinting",
+    "http-scanner",
+    "path-discovery"
+  ],
+  "alternatives": [],
+  "popularity": 7,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 996,
+    "forks": 188,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "v5.18.0",
+  "auto_discovered": true,
+  "quality_score": 65
+}

@@ -1,0 +1,40 @@
+{
+  "id": "fuel-core",
+  "name": "fuel-core",
+  "category": "blockchain",
+  "description": "Rust full node implementation of the Fuel v2 protocol.",
+  "official_website": "https://github.com/FuelLabs/fuel-core",
+  "documentation": "https://github.com/FuelLabs/fuel-core#readme",
+  "github_repository": "https://github.com/FuelLabs/fuel-core",
+  "license": "NOASSERTION",
+  "latest_version": "v0.48.2",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "blockchain",
+    "fuel"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 56925,
+    "forks": 2860,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-09",
+  "last_updated": "2026-08-09"
+}

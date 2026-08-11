@@ -1,0 +1,41 @@
+{
+  "id": "elvish",
+  "name": "elvish",
+  "category": "cli-tools",
+  "description": "Powerful scripting language & versatile interactive shell",
+  "official_website": "https://elv.sh/",
+  "documentation": "https://github.com/elves/elvish#readme",
+  "github_repository": "https://github.com/elves/elvish",
+  "license": "BSD-2-Clause",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "go",
+    "programming-language",
+    "shell",
+    "unix"
+  ],
+  "alternatives": [],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 6348,
+    "forks": 329,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-10",
+  "last_updated": "2026-08-10",
+  "latest_version": "v0.21.0",
+  "auto_discovered": true,
+  "quality_score": 77
+}

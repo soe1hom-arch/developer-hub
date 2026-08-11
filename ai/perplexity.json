@@ -1,0 +1,19 @@
+{
+  "id": "perplexity",
+  "name": "Perplexity AI",
+  "category": "ai",
+  "description": "AI-powered answer engine that provides real-time, sourced answers using LLMs and web search",
+  "official_website": "https://perplexity.ai",
+  "documentation": "https://docs.perplexity.ai",
+  "github_repository": "https://github.com/perplexity-ai",
+  "license": "Proprietary",
+  "latest_version": "N/A",
+  "programming_languages": ["Python", "TypeScript"],
+  "platforms": ["Web", "API", "Mobile"],
+  "package_manager": null,
+  "installation_examples": {},
+  "tags": ["ai", "search", "llm", "answer-engine", "research"],
+  "alternatives": ["Google Gemini", "ChatGPT", "Claude", "You.com"],
+  "popularity": 8, "maintained": true, "archived": false, "open_source": false,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

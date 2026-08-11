@@ -1,0 +1,53 @@
+{
+  "id": "siyuan",
+  "name": "siyuan",
+  "category": "tools",
+  "description": "A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.",
+  "official_website": "https://b3log.org/siyuan",
+  "documentation": "https://github.com/siyuan-note/siyuan#readme",
+  "github_repository": "https://github.com/siyuan-note/siyuan",
+  "license": "AGPL-3.0",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "agentic-ai",
+    "ai-agent",
+    "digital-garden",
+    "electron",
+    "knowledge-base",
+    "knowledge-graph",
+    "local-first",
+    "markdown",
+    "note-taking",
+    "s3",
+    "pdf",
+    "webdav",
+    "self-hosted",
+    "notes-app"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 45678,
+    "forks": 2939,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-09",
+  "last_updated": "2026-08-09",
+  "latest_version": "v3.7.3",
+  "auto_discovered": true,
+  "quality_score": 90
+}

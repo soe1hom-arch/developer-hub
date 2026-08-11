@@ -1,0 +1,52 @@
+{
+  "id": "meilisearch",
+  "name": "meilisearch",
+  "category": "database",
+  "description": "A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.",
+  "official_website": "https://www.meilisearch.com",
+  "documentation": "https://github.com/meilisearch/meilisearch#readme",
+  "github_repository": "https://github.com/meilisearch/meilisearch",
+  "license": "NOASSERTION",
+  "latest_version": "v1.52.0",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "ai",
+    "api",
+    "app-search",
+    "database",
+    "enterprise-search",
+    "faceting",
+    "full-text-search",
+    "fuzzy-search",
+    "search-engine",
+    "typo-tolerance",
+    "site-search",
+    "search",
+    "geosearch",
+    "instantsearch"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 58913,
+    "forks": 2661,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-09",
+  "last_updated": "2026-08-09"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "encore",
+  "name": "encore",
+  "category": "cloud",
+  "description": "The infrastructure platform for the intelligence era",
+  "official_website": "https://encore.dev",
+  "documentation": "https://github.com/encoredev/encore#readme",
+  "github_repository": "https://github.com/encoredev/encore",
+  "license": "MPL-2.0",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "aws",
+    "backend",
+    "cloud",
+    "cloud-native",
+    "database",
+    "devops",
+    "devops-automation",
+    "distributed-systems",
+    "go",
+    "microservices",
+    "encore",
+    "golang",
+    "serverless"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 12223,
+    "forks": 602,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "v1.57.13",
+  "auto_discovered": true,
+  "quality_score": 85
+}

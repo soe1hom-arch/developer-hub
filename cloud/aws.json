@@ -1,0 +1,26 @@
+{
+  "id": "aws",
+  "name": "Amazon Web Services",
+  "category": "cloud",
+  "description": "Comprehensive cloud computing platform offering over 200 services across compute, storage, databases, and more",
+  "official_website": "https://aws.amazon.com",
+  "documentation": "https://docs.aws.amazon.com",
+  "github_repository": "https://github.com/aws",
+  "license": "Proprietary",
+  "latest_version": "N/A",
+  "programming_languages": ["Python", "Java", "Go", "TypeScript", "C#"],
+  "platforms": ["Cloud"],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install boto3",
+    "brew": "brew install awscli"
+  },
+  "tags": ["cloud", "compute", "storage", "serverless", "infrastructure"],
+  "alternatives": ["Azure", "GCP", "DigitalOcean", "Linode"],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": false,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

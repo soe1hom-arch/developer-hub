@@ -1,0 +1,53 @@
+{
+  "id": "changedetection-io",
+  "name": "changedetection.io",
+  "category": "devops",
+  "description": "Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitorin",
+  "official_website": "https://changedetection.io",
+  "documentation": "https://github.com/dgtlmoon/changedetection.io#readme",
+  "github_repository": "https://github.com/dgtlmoon/changedetection.io",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "back-in-stock",
+    "change-alert",
+    "change-detection",
+    "change-monitoring",
+    "monitoring",
+    "notifications",
+    "restock-monitor",
+    "rss",
+    "website-monitor",
+    "website-monitoring",
+    "self-hosted",
+    "website-change-monitor",
+    "url-monitor",
+    "website-change-detector"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 33057,
+    "forks": 1958,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "0.55.8",
+  "auto_discovered": true,
+  "quality_score": 90
+}

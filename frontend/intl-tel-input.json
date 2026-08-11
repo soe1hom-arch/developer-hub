@@ -1,0 +1,49 @@
+{
+  "id": "intl-tel-input",
+  "name": "intl-tel-input",
+  "category": "frontend",
+  "description": "For entering, formatting, and validating international telephone numbers. Available in vanilla JavaScript, or as React, Vue, Angular, and Svelte components.",
+  "official_website": "https://intl-tel-input.com",
+  "documentation": "https://github.com/jackocnr/intl-tel-input#readme",
+  "github_repository": "https://github.com/jackocnr/intl-tel-input",
+  "license": "MIT",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "angular",
+    "formatting",
+    "input",
+    "international-telephone",
+    "javascript-plugin",
+    "libphonenumber",
+    "phone-number",
+    "react",
+    "validation",
+    "reactjs",
+    "vuejs",
+    "typescript"
+  ],
+  "alternatives": [],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 8241,
+    "forks": 1993,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-05",
+  "last_updated": "2026-08-05",
+  "latest_version": "v29.1.3",
+  "auto_discovered": true,
+  "quality_score": 85
+}

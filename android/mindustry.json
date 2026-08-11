@@ -1,0 +1,48 @@
+{
+  "id": "mindustry",
+  "name": "Mindustry",
+  "category": "android",
+  "description": "The automation tower defense RTS",
+  "official_website": "https://mindustrygame.github.io",
+  "documentation": "https://github.com/Anuken/Mindustry#readme",
+  "github_repository": "https://github.com/Anuken/Mindustry",
+  "license": "GPL-3.0",
+  "programming_languages": [
+    "Java"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "android",
+    "desktop",
+    "game",
+    "java",
+    "mindustry",
+    "mobile-game",
+    "multiplatform",
+    "rts",
+    "tower-defense",
+    "sandbox-game"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 28566,
+    "forks": 3727,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "v159.7",
+  "auto_discovered": true,
+  "quality_score": 80
+}

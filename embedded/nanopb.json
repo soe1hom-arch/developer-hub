@@ -1,0 +1,40 @@
+{
+  "id": "nanopb",
+  "name": "nanopb",
+  "category": "embedded",
+  "description": "Protocol Buffers with small code size",
+  "official_website": "https://jpa.kapsi.fi/nanopb/",
+  "documentation": "https://github.com/nanopb/nanopb#readme",
+  "github_repository": "https://github.com/nanopb/nanopb",
+  "license": "Zlib",
+  "programming_languages": [
+    "C"
+  ],
+  "platforms": [
+    "Linux",
+    "Embedded"
+  ],
+  "tags": [
+    "c",
+    "embedded",
+    "embedded-c",
+    "nanopb",
+    "protocol-buffers"
+  ],
+  "alternatives": [],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 5511,
+    "forks": 1036,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "latest_version": "nanopb-0.4.9.1",
+  "auto_discovered": true,
+  "quality_score": 75
+}

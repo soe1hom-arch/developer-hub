@@ -1,0 +1,46 @@
+{
+  "id": "chat-ui",
+  "name": "chat-ui",
+  "category": "frontend",
+  "description": "The open source codebase powering HuggingChat",
+  "official_website": "https://huggingface.co/chat",
+  "documentation": "https://github.com/huggingface/chat-ui#readme",
+  "github_repository": "https://github.com/huggingface/chat-ui",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "chatgpt",
+    "hacktoberfest",
+    "huggingface",
+    "llm",
+    "svelte",
+    "svelte-kit",
+    "sveltekit",
+    "tailwindcss",
+    "typescript"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 10876,
+    "forks": 1658,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "v0.10.0",
+  "auto_discovered": true,
+  "quality_score": 80
+}

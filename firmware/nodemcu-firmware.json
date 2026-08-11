@@ -1,0 +1,43 @@
+{
+  "id": "nodemcu-firmware",
+  "name": "nodemcu-firmware",
+  "category": "firmware",
+  "description": "Lua based interactive firmware for ESP8266, ESP8285 and ESP32",
+  "official_website": "https://nodemcu.readthedocs.io",
+  "documentation": "https://github.com/nodemcu/nodemcu-firmware#readme",
+  "github_repository": "https://github.com/nodemcu/nodemcu-firmware",
+  "license": "MIT",
+  "programming_languages": [
+    "C"
+  ],
+  "platforms": [
+    "Linux",
+    "Embedded"
+  ],
+  "tags": [
+    "esp32",
+    "esp8266",
+    "esp8285",
+    "espressif",
+    "firmware",
+    "lua",
+    "nodemcu",
+    "spiffs"
+  ],
+  "alternatives": [],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 7940,
+    "forks": 3103,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "3.0.0-release_20240225",
+  "auto_discovered": true,
+  "quality_score": 80
+}

@@ -1,0 +1,50 @@
+{
+  "id": "gh-dash",
+  "name": "gh-dash",
+  "category": "cli-tools",
+  "description": "A rich terminal UI for GitHub that doesn't break your flow.",
+  "official_website": "https://gh-dash.dev",
+  "documentation": "https://github.com/dlvhdr/gh-dash#readme",
+  "github_repository": "https://github.com/dlvhdr/gh-dash",
+  "license": "MIT",
+  "latest_version": "v4.25.2",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "bubbles",
+    "bubbletea",
+    "cli",
+    "cobra",
+    "gh-extension",
+    "github",
+    "glamour",
+    "go",
+    "cli",
+    "command-line",
+    "lipgloss",
+    "golang",
+    "terminal"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 12259,
+    "forks": 429,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "source": "cli-github"
+}

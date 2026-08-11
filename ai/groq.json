@@ -1,0 +1,19 @@
+{
+  "id": "groq",
+  "name": "Groq",
+  "category": "ai",
+  "description": "AI inference platform with ultra-fast LPU hardware for real-time LLM inference",
+  "official_website": "https://groq.com",
+  "documentation": "https://console.groq.com/docs",
+  "github_repository": "https://github.com/groq",
+  "license": "Proprietary",
+  "latest_version": "N/A",
+  "programming_languages": ["Python", "TypeScript"],
+  "platforms": ["Cloud", "API"],
+  "package_manager": "pip",
+  "installation_examples": {"pip": "pip install groq"},
+  "tags": ["ai", "llm", "inference", "api", "fast-inference"],
+  "alternatives": ["OpenAI", "Anthropic", "Replicate", "Together AI"],
+  "popularity": 8, "maintained": true, "archived": false, "open_source": false,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

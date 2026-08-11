@@ -1,0 +1,50 @@
+{
+  "id": "opencost",
+  "name": "opencost",
+  "category": "cloud",
+  "description": "Cost monitoring for Kubernetes workloads and cloud costs",
+  "official_website": "http://opencost.io",
+  "documentation": "https://github.com/opencost/opencost#readme",
+  "github_repository": "https://github.com/opencost/opencost",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "aws",
+    "azure",
+    "cncf",
+    "cost",
+    "cost-optimization",
+    "finops",
+    "gcp",
+    "k8s",
+    "kubernetes",
+    "opencost",
+    "monitoring"
+  ],
+  "alternatives": [],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 6670,
+    "forks": 854,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-09",
+  "last_updated": "2026-08-09",
+  "latest_version": "v1.121.1",
+  "auto_discovered": true,
+  "quality_score": 80
+}

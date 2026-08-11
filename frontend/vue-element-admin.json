@@ -1,0 +1,50 @@
+{
+  "id": "vue-element-admin",
+  "name": "vue-element-admin",
+  "category": "frontend",
+  "description": ":tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin",
+  "official_website": "https://github.com/PanJiaChen/vue-element-admin",
+  "documentation": "https://github.com/PanJiaChen/vue-element-admin#readme",
+  "github_repository": "https://github.com/PanJiaChen/vue-element-admin",
+  "license": "MIT",
+  "programming_languages": [
+    "Vue"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "admin",
+    "admin-dashboard",
+    "admin-template",
+    "axios",
+    "dashboard",
+    "desktop",
+    "element",
+    "element-ui",
+    "vue",
+    "vuex",
+    "vue-cli",
+    "vue-admin",
+    "mock"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 90229,
+    "forks": 30366,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "4.4.0",
+  "auto_discovered": true,
+  "quality_score": 80
+}

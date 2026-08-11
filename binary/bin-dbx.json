@@ -1,0 +1,52 @@
+{
+  "id": "bin-dbx",
+  "name": "dbx",
+  "category": "binary",
+  "description": "20 MB lightweight cross-platform database client for 70+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docke",
+  "official_website": "https://dbxio.com",
+  "documentation": "https://github.com/t8y2/dbx#readme",
+  "github_repository": "https://github.com/t8y2/dbx",
+  "license": "Apache-2.0",
+  "latest_version": "v0.5.77",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Linux",
+    "Android",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "ai",
+    "cli",
+    "clickhouse",
+    "database",
+    "database-client",
+    "database-management",
+    "docker",
+    "gui",
+    "binary",
+    "pre-built",
+    "mongodb",
+    "mysql",
+    "postgresql",
+    "redis",
+    "rust"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 13646,
+    "forks": 1396,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "source": "binary-release"
+}

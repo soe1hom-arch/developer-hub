@@ -1,0 +1,46 @@
+{
+  "id": "cyberchef",
+  "name": "CyberChef",
+  "category": "security",
+  "description": "The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis",
+  "official_website": "https://gchq.github.io/CyberChef",
+  "documentation": "https://github.com/gchq/CyberChef#readme",
+  "github_repository": "https://github.com/gchq/CyberChef",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "compression",
+    "data-analysis",
+    "data-manipulation",
+    "encoding",
+    "encryption",
+    "hashing",
+    "parsing"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 35545,
+    "forks": 4080,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-10",
+  "last_updated": "2026-08-10",
+  "latest_version": "v11.3.0",
+  "auto_discovered": true,
+  "quality_score": 85
+}

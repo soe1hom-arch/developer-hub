@@ -1,0 +1,33 @@
+{
+  "id": "yolo",
+  "name": "YOLO (Ultralytics)",
+  "category": "ai",
+  "description": "Real-time object detection model with YOLOv8 for computer vision tasks",
+  "official_website": "https://ultralytics.com",
+  "documentation": "https://docs.ultralytics.com",
+  "github_repository": "https://github.com/ultralytics",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install yolo"
+  },
+  "tags": [
+    "ai",
+    "tool",
+    "library"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

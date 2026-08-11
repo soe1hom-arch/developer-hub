@@ -1,0 +1,53 @@
+{
+  "id": "docker-android",
+  "name": "docker-android",
+  "category": "cloud",
+  "description": "Android in docker solution with noVNC supported and video recording",
+  "official_website": "https://github.com/budtmo/docker-android",
+  "documentation": "https://github.com/budtmo/docker-android#readme",
+  "github_repository": "https://github.com/budtmo/docker-android",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "alibabacloud",
+    "android",
+    "android-emulator",
+    "aws",
+    "azure",
+    "cloud",
+    "docker",
+    "docker-android",
+    "novnc",
+    "mobile-web",
+    "mobile-app",
+    "selenium-grid",
+    "emulator",
+    "genymotion"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 15647,
+    "forks": 1742,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "v3.6.0-p0",
+  "auto_discovered": true,
+  "quality_score": 75
+}

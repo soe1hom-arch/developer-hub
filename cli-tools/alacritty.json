@@ -1,0 +1,49 @@
+{
+  "id": "alacritty",
+  "name": "alacritty",
+  "category": "cli-tools",
+  "description": "A cross-platform, OpenGL terminal emulator.",
+  "official_website": "https://alacritty.org",
+  "documentation": "https://github.com/alacritty/alacritty#readme",
+  "github_repository": "https://github.com/alacritty/alacritty",
+  "license": "Apache-2.0",
+  "latest_version": "v0.17.0",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "bsd",
+    "gpu",
+    "linux",
+    "macos",
+    "opengl",
+    "rust",
+    "terminal",
+    "terminal-emulators",
+    "cli",
+    "command-line",
+    "vte",
+    "windows"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 65279,
+    "forks": 3552,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "source": "cli-github"
+}

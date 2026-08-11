@@ -1,0 +1,52 @@
+{
+  "id": "nvm",
+  "name": "nvm",
+  "category": "linux",
+  "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+  "official_website": "https://github.com/nvm-sh/nvm",
+  "documentation": "https://github.com/nvm-sh/nvm#readme",
+  "github_repository": "https://github.com/nvm-sh/nvm",
+  "license": "MIT",
+  "programming_languages": [
+    "Shell"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "bash",
+    "install",
+    "lts",
+    "node",
+    "node-js",
+    "nodejs",
+    "nvm",
+    "nvmrc",
+    "version-manager",
+    "posix",
+    "posix-compliant",
+    "zsh",
+    "shell"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 94404,
+    "forks": 10343,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "v0.40.6",
+  "auto_discovered": true,
+  "quality_score": 75
+}

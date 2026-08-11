@@ -1,0 +1,32 @@
+{
+  "id": "zig",
+  "name": "Zig",
+  "category": "languages",
+  "description": "General-purpose systems language for robust and optimal software",
+  "official_website": "https://ziglang.org",
+  "documentation": "https://ziglang.org/documentation",
+  "github_repository": "https://github.com/ziglang",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install zig"
+  },
+  "tags": [
+    "languages",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

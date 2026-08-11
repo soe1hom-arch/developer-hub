@@ -1,0 +1,34 @@
+# Dependencies
+node_modules/
+vendor/
+__pycache__/
+*.pyc
+.env
+.venv
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# IDE
+.idea/
+.vscode/
+*.sublime-*
+
+# Generated
+index.json
+reports/
+temp/
+
+# Secrets
+*.key
+*.pem
+secrets/
+*.key
+*.pem
+*.pyc
+*.pyo
+reports/
+.cache/

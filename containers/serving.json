@@ -1,0 +1,49 @@
+{
+  "id": "serving",
+  "name": "serving",
+  "category": "containers",
+  "description": "Kubernetes-based, scale-to-zero, request-driven compute",
+  "official_website": "https://knative.dev/docs/serving/",
+  "documentation": "https://github.com/knative/serving#readme",
+  "github_repository": "https://github.com/knative/serving",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "app",
+    "autoscaler",
+    "container",
+    "developer-productivity",
+    "function",
+    "knative",
+    "kubernetes",
+    "networking",
+    "serverless",
+    "scale"
+  ],
+  "alternatives": [],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 6077,
+    "forks": 1233,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-06",
+  "last_updated": "2026-08-06",
+  "latest_version": "knative-v1.23.0",
+  "auto_discovered": true,
+  "quality_score": 80
+}

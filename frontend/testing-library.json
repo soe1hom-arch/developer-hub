@@ -1,0 +1,32 @@
+{
+  "id": "testing-library",
+  "name": "Testing Library",
+  "category": "frontend",
+  "description": "Lightweight testing utilities for DOM interaction testing",
+  "official_website": "https://testing-library.com",
+  "documentation": "https://testing-library.com/docs",
+  "github_repository": "https://github.com/testing-library",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install testing-library"
+  },
+  "tags": [
+    "frontend",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

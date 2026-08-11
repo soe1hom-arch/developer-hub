@@ -1,0 +1,51 @@
+{
+  "id": "oh-my-openagent",
+  "name": "oh-my-openagent",
+  "category": "cli-tools",
+  "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode",
+  "official_website": "https://omo.dev",
+  "documentation": "https://github.com/code-yeongyu/oh-my-openagent#readme",
+  "github_repository": "https://github.com/code-yeongyu/oh-my-openagent",
+  "license": "NOASSERTION",
+  "latest_version": "v4.19.4",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "ai",
+    "ai-agents",
+    "anthropic",
+    "chatgpt",
+    "claude",
+    "claude-skills",
+    "codex",
+    "cursor",
+    "cli",
+    "command-line",
+    "opencode",
+    "gemini",
+    "ide",
+    "openai",
+    "orchestration"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 67462,
+    "forks": 5503,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "source": "cli-github"
+}

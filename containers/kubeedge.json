@@ -1,0 +1,50 @@
+{
+  "id": "kubeedge",
+  "name": "kubeedge",
+  "category": "containers",
+  "description": "Kubernetes Native Edge Computing Framework (project under CNCF)",
+  "official_website": "https://kubeedge.io",
+  "documentation": "https://github.com/kubeedge/kubeedge#readme",
+  "github_repository": "https://github.com/kubeedge/kubeedge",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "cloud-native",
+    "cncf",
+    "container",
+    "device-management",
+    "docker",
+    "edge-computing",
+    "golang",
+    "iot",
+    "kubernetes",
+    "mosquitto",
+    "mqtt"
+  ],
+  "alternatives": [],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 7531,
+    "forks": 1982,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-05",
+  "last_updated": "2026-08-05",
+  "latest_version": "v1.23.1",
+  "auto_discovered": true,
+  "quality_score": 80
+}

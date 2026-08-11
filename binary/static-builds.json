@@ -1,0 +1,41 @@
+{
+  "id": "static-builds",
+  "name": "static-builds",
+  "category": "binary",
+  "description": "Statically-built, dependency free binaries of software packages for Linux.",
+  "official_website": "https://github.com/supriyo-biswas/static-builds",
+  "documentation": "https://github.com/supriyo-biswas/static-builds#readme",
+  "github_repository": "https://github.com/supriyo-biswas/static-builds",
+  "license": "MIT",
+  "programming_languages": [
+    "Shell"
+  ],
+  "platforms": [
+    "Linux"
+  ],
+  "tags": [
+    "curl",
+    "git",
+    "openssh",
+    "rsync",
+    "ssh",
+    "static-binary",
+    "wget"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 16,
+    "forks": 3,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-09",
+  "last_updated": "2026-08-09",
+  "latest_version": "gnu-sed-4.10",
+  "auto_discovered": true,
+  "quality_score": 45
+}

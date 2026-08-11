@@ -1,0 +1,48 @@
+{
+  "id": "v2rayng",
+  "name": "v2rayNG",
+  "category": "android",
+  "description": "A V2Ray client for Android, support Xray core and v2fly core",
+  "official_website": "https://v2rayng.2dust.link",
+  "documentation": "https://github.com/2dust/v2rayNG#readme",
+  "github_repository": "https://github.com/2dust/v2rayNG",
+  "license": "GPL-3.0",
+  "programming_languages": [
+    "Kotlin"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "android",
+    "proxy",
+    "shadowsocks",
+    "socks5",
+    "trojan",
+    "v2fly",
+    "v2ray",
+    "vless",
+    "xray",
+    "vmess"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 60894,
+    "forks": 7911,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "2.2.6",
+  "auto_discovered": true,
+  "quality_score": 85
+}

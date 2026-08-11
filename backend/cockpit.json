@@ -1,0 +1,50 @@
+{
+  "id": "cockpit",
+  "name": "cockpit",
+  "category": "backend",
+  "description": "Add content management functionality to any site - plug & play / headless / api-first CMS",
+  "official_website": "http://getcockpit.com",
+  "documentation": "https://github.com/agentejo/cockpit#readme",
+  "github_repository": "https://github.com/agentejo/cockpit",
+  "license": "MIT",
+  "programming_languages": [
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "api-rest",
+    "backend",
+    "cms",
+    "cms-framework",
+    "cockpit",
+    "hacktoberfest",
+    "headless",
+    "headless-cms",
+    "php",
+    "javascript",
+    "riotjs"
+  ],
+  "alternatives": [],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 5397,
+    "forks": 509,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

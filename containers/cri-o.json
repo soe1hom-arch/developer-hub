@@ -1,0 +1,32 @@
+{
+  "id": "cri-o",
+  "name": "CRI-O",
+  "category": "containers",
+  "description": "OCI-compliant container runtime for Kubernetes with CRI interface",
+  "official_website": "https://cri-o.io",
+  "documentation": "https://cri-o.io/docs",
+  "github_repository": "https://github.com/cri-o",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install cri-o"
+  },
+  "tags": [
+    "containers",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

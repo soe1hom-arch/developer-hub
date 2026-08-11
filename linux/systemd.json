@@ -1,0 +1,32 @@
+{
+  "id": "systemd",
+  "name": "systemd",
+  "category": "linux",
+  "description": "System and service manager for Linux with unit-based configuration",
+  "official_website": "https://systemd.io",
+  "documentation": "https://www.freedesktop.org/software/systemd/man",
+  "github_repository": "https://github.com/systemd",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install systemd"
+  },
+  "tags": [
+    "linux",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "pandas-ai",
+  "name": "pandas-ai",
+  "category": "database",
+  "description": "Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.",
+  "official_website": "https://pandas-ai.com",
+  "documentation": "https://github.com/sinaptik-ai/pandas-ai#readme",
+  "github_repository": "https://github.com/sinaptik-ai/pandas-ai",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "ai",
+    "csv",
+    "data",
+    "data-analysis",
+    "data-science",
+    "data-visualization",
+    "database",
+    "datalake",
+    "llm",
+    "pandas",
+    "gpt-4",
+    "sql"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 23737,
+    "forks": 2344,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "v3.0.0",
+  "auto_discovered": true,
+  "quality_score": 90
+}

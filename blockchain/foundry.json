@@ -1,0 +1,32 @@
+{
+  "id": "foundry",
+  "name": "Foundry",
+  "category": "blockchain",
+  "description": "Blazing-fast Ethereum development toolkit in Rust with forge and cast",
+  "official_website": "https://book.getfoundry.sh",
+  "documentation": "https://book.getfoundry.sh",
+  "github_repository": "https://github.com/getfoundry",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install foundry"
+  },
+  "tags": [
+    "blockchain",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

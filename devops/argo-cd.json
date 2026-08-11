@@ -1,0 +1,51 @@
+{
+  "id": "argo-cd",
+  "name": "argo-cd",
+  "category": "devops",
+  "description": "Declarative Continuous Deployment for Kubernetes",
+  "official_website": "https://argo-cd.readthedocs.io",
+  "documentation": "https://github.com/argoproj/argo-cd#readme",
+  "github_repository": "https://github.com/argoproj/argo-cd",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "argo",
+    "argo-cd",
+    "cd",
+    "ci-cd",
+    "cicd",
+    "continuous-delivery",
+    "continuous-deployment",
+    "devops",
+    "kubernetes",
+    "gitops",
+    "docker",
+    "pipeline"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 23886,
+    "forks": 7722,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "v3.5.0",
+  "auto_discovered": true,
+  "quality_score": 80
+}

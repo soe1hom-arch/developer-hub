@@ -1,0 +1,46 @@
+{
+  "id": "mongoose",
+  "name": "mongoose",
+  "category": "iot",
+  "description": "Embedded web server, with TCP/IP network stack, MQTT and Websocket",
+  "official_website": "https://mongoose.ws",
+  "documentation": "https://github.com/cesanta/mongoose#readme",
+  "github_repository": "https://github.com/cesanta/mongoose",
+  "license": "NOASSERTION",
+  "latest_version": "7.22",
+  "programming_languages": [
+    "C"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS"
+  ],
+  "tags": [
+    "embedded",
+    "http",
+    "iot",
+    "mqtt",
+    "tcp",
+    "tcpip",
+    "tls13",
+    "udp",
+    "websocket",
+    "webserver",
+    "web-server"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 12982,
+    "forks": 2928,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-09",
+  "last_updated": "2026-08-09"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "leakcanary",
+  "name": "LeakCanary",
+  "category": "android",
+  "description": "Memory leak detection library for Android that automatically detects leaks",
+  "official_website": "https://square.github.io/leakcanary",
+  "documentation": "https://square.github.io/leakcanary",
+  "github_repository": "https://github.com/github",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install leakcanary"
+  },
+  "tags": [
+    "android",
+    "tool",
+    "library"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

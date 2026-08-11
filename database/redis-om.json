@@ -1,0 +1,32 @@
+{
+  "id": "redis-om",
+  "name": "Redis OM",
+  "category": "database",
+  "description": "Object mapping and RedisJSON client for modeling Redis data",
+  "official_website": "https://redis.io/redis-om",
+  "documentation": "https://redis.io/docs/stack/get-started/tutorials/redis-om",
+  "github_repository": "https://github.com/redis",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install redis-om"
+  },
+  "tags": [
+    "database",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

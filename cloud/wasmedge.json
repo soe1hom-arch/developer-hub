@@ -1,0 +1,51 @@
+{
+  "id": "wasmedge",
+  "name": "WasmEdge",
+  "category": "cloud",
+  "description": "WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm",
+  "official_website": "https://WasmEdge.org",
+  "documentation": "https://github.com/WasmEdge/WasmEdge#readme",
+  "github_repository": "https://github.com/WasmEdge/WasmEdge",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "C++"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "artificial-intelligence",
+    "cloud",
+    "cloud-native",
+    "cncf",
+    "container",
+    "docker",
+    "edge-computing",
+    "ewasm",
+    "webassembly",
+    "wasm",
+    "rust-lang",
+    "serverless"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 10762,
+    "forks": 1157,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "latest_version": "0.17.1",
+  "auto_discovered": true,
+  "quality_score": 90
+}

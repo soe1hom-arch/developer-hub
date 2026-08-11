@@ -1,0 +1,53 @@
+{
+  "id": "capstone",
+  "name": "capstone",
+  "category": "frameworks",
+  "description": "Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, LoongArch, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriC",
+  "official_website": "http://www.capstone-engine.org",
+  "documentation": "https://github.com/capstone-engine/capstone#readme",
+  "github_repository": "https://github.com/capstone-engine/capstone",
+  "license": "MIT",
+  "programming_languages": [
+    "C"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "arm",
+    "arm64",
+    "bpf",
+    "disassembler",
+    "ethereum",
+    "framework",
+    "m0s65xx",
+    "m680x",
+    "reverse-engineering",
+    "security",
+    "x86",
+    "sparc",
+    "powerpc",
+    "mips"
+  ],
+  "alternatives": [],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 8940,
+    "forks": 1706,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "6.0.0-Alpha10",
+  "auto_discovered": true,
+  "quality_score": 85
+}

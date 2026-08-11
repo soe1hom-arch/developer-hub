@@ -1,0 +1,32 @@
+{
+  "id": "javafx",
+  "name": "JavaFX",
+  "category": "desktop",
+  "description": "Java GUI framework for building rich desktop applications",
+  "official_website": "https://openjfx.io",
+  "documentation": "https://openjfx.io/docs",
+  "github_repository": "https://github.com/openjfx",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install javafx"
+  },
+  "tags": [
+    "desktop",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

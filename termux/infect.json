@@ -1,0 +1,46 @@
+{
+  "id": "infect",
+  "name": "infect",
+  "category": "termux",
+  "description": "Infect Any Android Device With Virus From Link In Termux",
+  "official_website": "https://www.noob-hackers.com",
+  "documentation": "https://github.com/noob-hackers/infect#readme",
+  "github_repository": "https://github.com/noob-hackers/infect",
+  "license": "MIT",
+  "programming_languages": [
+    "Shell"
+  ],
+  "platforms": [
+    "Termux",
+    "Android",
+    "Linux"
+  ],
+  "tags": [
+    "2020",
+    "bash-script",
+    "education",
+    "free",
+    "kali-linux",
+    "noob-friendly",
+    "termux",
+    "termux-hacking",
+    "virus",
+    "termux-tools"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 2967,
+    "forks": 379,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 75
+}

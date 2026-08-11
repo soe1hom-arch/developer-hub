@@ -1,0 +1,45 @@
+{
+  "id": "messagepack-csharp",
+  "name": "MessagePack-CSharp",
+  "category": "game-development",
+  "description": "Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin). / msgpack.org[C#]",
+  "official_website": "https://github.com/MessagePack-CSharp/MessagePack-CSharp",
+  "documentation": "https://github.com/MessagePack-CSharp/MessagePack-CSharp#readme",
+  "github_repository": "https://github.com/MessagePack-CSharp/MessagePack-CSharp",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "C#"
+  ],
+  "platforms": [
+    "Windows",
+    "macOS",
+    "Linux",
+    "Web"
+  ],
+  "tags": [
+    "c-sharp",
+    "lz4",
+    "messagepack",
+    "msgpack",
+    "serialization",
+    "serializer",
+    "unity",
+    "xamarin"
+  ],
+  "alternatives": [],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 6767,
+    "forks": 770,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "v3.1.7",
+  "auto_discovered": true,
+  "quality_score": 70
+}

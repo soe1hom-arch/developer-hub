@@ -1,0 +1,47 @@
+{
+  "id": "robyn",
+  "name": "Robyn",
+  "category": "backend",
+  "description": "Robyn is a Super Fast Async Python Web Framework with a Rust runtime.",
+  "official_website": "https://robyn.tech/",
+  "documentation": "https://github.com/sparckles/Robyn#readme",
+  "github_repository": "https://github.com/sparckles/Robyn",
+  "license": "BSD-2-Clause",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "async",
+    "backend",
+    "hacktoberfest",
+    "http-server",
+    "python",
+    "python3",
+    "rust",
+    "web"
+  ],
+  "alternatives": [],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 7363,
+    "forks": 341,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "v0.88.0",
+  "auto_discovered": true,
+  "quality_score": 80
+}

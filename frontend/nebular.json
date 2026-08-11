@@ -1,0 +1,54 @@
+{
+  "id": "nebular",
+  "name": "nebular",
+  "category": "frontend",
+  "description": ":boom: Customizable Angular UI Library based on Eva Design System :new_moon_with_face::sparkles:Dark Mode",
+  "official_website": "https://akveo.github.io/nebular",
+  "documentation": "https://github.com/akveo/nebular#readme",
+  "github_repository": "https://github.com/akveo/nebular",
+  "license": "MIT",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "akveo",
+    "angular",
+    "angular-cli",
+    "angular-components",
+    "angular2",
+    "angular4",
+    "angular5",
+    "angular6",
+    "ui",
+    "ui-kit",
+    "authentication",
+    "theme",
+    "multitheme",
+    "modular",
+    "typescript",
+    "sass",
+    "webpack"
+  ],
+  "alternatives": [],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 8122,
+    "forks": 1498,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "latest_version": "v17.0.0",
+  "auto_discovered": true,
+  "quality_score": 85
+}

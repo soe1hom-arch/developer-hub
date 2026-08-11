@@ -1,0 +1,48 @@
+{
+  "id": "remix",
+  "name": "Remix",
+  "category": "frontend",
+  "description": "Full-stack web framework for building modern web applications with nested routing and server rendering",
+  "official_website": "https://remix.run",
+  "documentation": "https://remix.run/docs",
+  "github_repository": "https://github.com/remix-run/remix",
+  "license": "MIT",
+  "latest_version": "remix@3.0.0-beta.5",
+  "programming_languages": [
+    "TypeScript",
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "npm",
+  "installation_examples": {
+    "npm": "npx create-remix@latest"
+  },
+  "tags": [
+    "web",
+    "framework",
+    "ssr",
+    "react",
+    "full-stack",
+    "routing"
+  ],
+  "alternatives": [
+    "Next.js",
+    "Nuxt",
+    "SvelteKit",
+    "Astro"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "repository_statistics": {
+    "stars": 33291,
+    "forks": 2788,
+    "open_issues": 0,
+    "watchers": 0
+  }
+}

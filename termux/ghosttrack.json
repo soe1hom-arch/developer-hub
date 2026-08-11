@@ -1,0 +1,45 @@
+{
+  "id": "ghosttrack",
+  "name": "GhostTrack",
+  "category": "termux",
+  "description": "Useful tool to track location or mobile number",
+  "official_website": "https://github.com/HunxByts/GhostTrack",
+  "documentation": "https://github.com/HunxByts/GhostTrack#readme",
+  "github_repository": "https://github.com/HunxByts/GhostTrack",
+  "license": "MIT",
+  "latest_version": "main",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Termux",
+    "Android"
+  ],
+  "tags": [
+    "cybersecurity",
+    "fyp",
+    "hacking",
+    "hacking-tool",
+    "indonesia",
+    "information",
+    "information-gathering",
+    "ip-geolocation",
+    "linux",
+    "osint",
+    "osint-python"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 14765,
+    "forks": 1983,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "source": "termux-github"
+}

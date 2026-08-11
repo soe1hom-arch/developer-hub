@@ -1,0 +1,51 @@
+{
+  "id": "zoxide",
+  "name": "zoxide",
+  "category": "cli-tools",
+  "description": "A smarter cd command. Supports all major shells.",
+  "official_website": "https://crates.io/crates/zoxide",
+  "documentation": "https://github.com/ajeetdsouza/zoxide#readme",
+  "github_repository": "https://github.com/ajeetdsouza/zoxide",
+  "license": "MIT",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "autojump",
+    "bash",
+    "cli",
+    "command-line",
+    "command-line-tool",
+    "elvish",
+    "fasd",
+    "fish",
+    "z",
+    "rust",
+    "zsh",
+    "powershell",
+    "shell",
+    "xonsh"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 38592,
+    "forks": 858,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "v0.10.0",
+  "auto_discovered": true,
+  "quality_score": 80
+}

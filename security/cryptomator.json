@@ -1,0 +1,47 @@
+{
+  "id": "cryptomator",
+  "name": "cryptomator",
+  "category": "security",
+  "description": "Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.",
+  "official_website": "https://cryptomator.org",
+  "documentation": "https://github.com/cryptomator/cryptomator#readme",
+  "github_repository": "https://github.com/cryptomator/cryptomator",
+  "license": "GPL-3.0",
+  "programming_languages": [
+    "Java"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "cloud-storage",
+    "crypto",
+    "cryptography",
+    "cryptomator",
+    "encryption",
+    "java",
+    "privacy",
+    "security"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 15828,
+    "forks": 1508,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-05",
+  "last_updated": "2026-08-05",
+  "latest_version": "1.19.3",
+  "auto_discovered": true,
+  "quality_score": 90
+}

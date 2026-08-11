@@ -1,0 +1,52 @@
+{
+  "id": "gnet",
+  "name": "gnet",
+  "category": "network",
+  "description": "\ud83d\ude80 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.",
+  "official_website": "https://gnet.host",
+  "documentation": "https://github.com/panjf2000/gnet#readme",
+  "github_repository": "https://github.com/panjf2000/gnet",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "async",
+    "asynchronous",
+    "epoll",
+    "event-driven",
+    "event-loop",
+    "go",
+    "golang",
+    "goroutine",
+    "networking",
+    "non-blocking",
+    "kqueue",
+    "reactor",
+    "tcp"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 11229,
+    "forks": 1121,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "v2.10.0",
+  "auto_discovered": true,
+  "quality_score": 90
+}

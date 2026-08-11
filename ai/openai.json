@@ -1,0 +1,26 @@
+{
+  "id": "openai",
+  "name": "OpenAI",
+  "category": "ai",
+  "description": "AI research and deployment company offering powerful models like GPT-4o, DALL·E, and Whisper via API",
+  "official_website": "https://openai.com",
+  "documentation": "https://platform.openai.com/docs",
+  "github_repository": "https://github.com/openai",
+  "license": "MIT",
+  "latest_version": "2024-08-06",
+  "programming_languages": ["Python", "TypeScript", "Go", "Java", "C#"],
+  "platforms": ["Cloud", "Web", "API"],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install openai",
+    "npm": "npm install openai"
+  },
+  "tags": ["ai", "llm", "gpt", "machine-learning", "nlp", "text-generation", "image-generation"],
+  "alternatives": ["Anthropic Claude", "Google Gemini", "Meta LLaMA", "Cohere", "Mistral"],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": false,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

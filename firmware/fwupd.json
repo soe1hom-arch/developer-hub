@@ -1,0 +1,39 @@
+{
+  "id": "fwupd",
+  "name": "fwupd",
+  "category": "firmware",
+  "description": "A system daemon to allow session software to update firmware",
+  "official_website": "https://github.com/fwupd/fwupd",
+  "documentation": "https://github.com/fwupd/fwupd#readme",
+  "github_repository": "https://github.com/fwupd/fwupd",
+  "license": "LGPL-2.1",
+  "programming_languages": [
+    "C"
+  ],
+  "platforms": [
+    "Linux",
+    "Embedded"
+  ],
+  "tags": [
+    "c",
+    "firmware",
+    "linux",
+    "update"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 4113,
+    "forks": 623,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "2.1.7",
+  "auto_discovered": true,
+  "quality_score": 62
+}

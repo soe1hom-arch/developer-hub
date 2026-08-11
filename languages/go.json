@@ -1,0 +1,53 @@
+{
+  "id": "go",
+  "name": "Go",
+  "category": "languages",
+  "description": "Statically typed, compiled programming language designed for simplicity, efficiency, and concurrency",
+  "official_website": "https://go.dev",
+  "documentation": "https://go.dev/doc",
+  "github_repository": "https://github.com/golang/go",
+  "license": "BSD-3-Clause",
+  "latest_version": "1.22.4",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "package_manager": "go mod",
+  "installation_examples": {
+    "apt": "sudo apt install golang",
+    "brew": "brew install go",
+    "choco": "choco install golang"
+  },
+  "tags": [
+    "programming-language",
+    "compiled",
+    "concurrent",
+    "systems",
+    "language",
+    "go",
+    "golang"
+  ],
+  "alternatives": [
+    "Rust",
+    "Python",
+    "Java",
+    "C#",
+    "Zig"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "repository_statistics": {
+    "stars": 135678,
+    "forks": 19257,
+    "open_issues": 0,
+    "watchers": 0
+  }
+}

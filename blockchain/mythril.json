@@ -1,0 +1,47 @@
+{
+  "id": "mythril",
+  "name": "mythril",
+  "category": "blockchain",
+  "description": "Mythril is a symbolic-execution-based securty analysis tool for EVM bytecode. It detects security vulnerabilities in smart contracts built for Ethereum and other EVM-compatible blockchains.",
+  "official_website": "https://mythx.io/",
+  "documentation": "https://github.com/ConsenSysDiligence/mythril#readme",
+  "github_repository": "https://github.com/ConsenSysDiligence/mythril",
+  "license": "MIT",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "blockchain",
+    "ethereum",
+    "program-analysis",
+    "security",
+    "security-analysis",
+    "smart-contracts",
+    "solidity",
+    "symbolic-execution"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 4260,
+    "forks": 819,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-09",
+  "last_updated": "2026-08-09",
+  "latest_version": "v0.24.8",
+  "auto_discovered": true,
+  "quality_score": 80
+}

@@ -1,0 +1,33 @@
+{
+  "id": "replicate-sd",
+  "name": "Replicate Stable Diffusion",
+  "category": "ai",
+  "description": "Cloud API for running Stable Diffusion image generation models",
+  "official_website": "https://replicate.com/stability-ai/stable-diffusion",
+  "documentation": "https://replicate.com/docs",
+  "github_repository": "https://github.com/replicate",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install replicate-sd"
+  },
+  "tags": [
+    "ai",
+    "tool",
+    "library"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

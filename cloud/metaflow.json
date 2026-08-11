@@ -1,0 +1,55 @@
+{
+  "id": "metaflow",
+  "name": "metaflow",
+  "category": "cloud",
+  "description": "Build, Manage and Deploy AI/ML Systems",
+  "official_website": "https://metaflow.org",
+  "documentation": "https://github.com/Netflix/metaflow#readme",
+  "github_repository": "https://github.com/Netflix/metaflow",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "agents",
+    "ai",
+    "aws",
+    "azure",
+    "cost-optimization",
+    "datascience",
+    "distributed-training",
+    "gcp",
+    "machine-learning",
+    "model-management",
+    "ml",
+    "ml-platform",
+    "ml-infrastructure",
+    "python",
+    "mlops",
+    "high-performance-computing"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 10207,
+    "forks": 1319,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-06",
+  "last_updated": "2026-08-06",
+  "latest_version": "2.19.36",
+  "auto_discovered": true,
+  "quality_score": 80
+}

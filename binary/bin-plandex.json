@@ -1,0 +1,48 @@
+{
+  "id": "bin-plandex",
+  "name": "plandex",
+  "category": "binary",
+  "description": "Open source AI coding agent. Designed for large projects and real world tasks.",
+  "official_website": "https://plandex.ai",
+  "documentation": "https://github.com/plandex-ai/plandex#readme",
+  "github_repository": "https://github.com/plandex-ai/plandex",
+  "license": "MIT",
+  "latest_version": "cli/v2.2.1",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux"
+  ],
+  "tags": [
+    "ai",
+    "ai-agents",
+    "ai-developer-tools",
+    "ai-tools",
+    "cli",
+    "command-line",
+    "developer-tools",
+    "git",
+    "binary",
+    "pre-built",
+    "gpt-4",
+    "llm",
+    "openai",
+    "polyglot-programming"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 15574,
+    "forks": 1168,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "source": "binary-release"
+}

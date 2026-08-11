@@ -1,0 +1,53 @@
+{
+  "id": "tdengine",
+  "name": "TDengine",
+  "category": "database",
+  "description": "High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios",
+  "official_website": "https://tdengine.com",
+  "documentation": "https://github.com/taosdata/TDengine#readme",
+  "github_repository": "https://github.com/taosdata/TDengine",
+  "license": "AGPL-3.0",
+  "programming_languages": [
+    "C"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "bigdata",
+    "cloud-native",
+    "cluster",
+    "connected-vehicles",
+    "database",
+    "distributed",
+    "financial-analysis",
+    "industrial-iot",
+    "iot",
+    "time-series",
+    "monitoring",
+    "tsdb",
+    "tdengine",
+    "sql"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 25051,
+    "forks": 5014,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "ver-3.4.1.6",
+  "auto_discovered": true,
+  "quality_score": 85
+}

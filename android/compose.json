@@ -1,0 +1,25 @@
+{
+  "id": "jetpack-compose",
+  "name": "Jetpack Compose",
+  "category": "android",
+  "description": "Modern declarative UI toolkit for building native Android UIs",
+  "official_website": "https://developer.android.com/jetpack/compose",
+  "documentation": "https://developer.android.com/jetpack/compose/documentation",
+  "github_repository": "https://github.com/androidx/compose-samples",
+  "license": "Apache-2.0",
+  "latest_version": "1.6.7",
+  "programming_languages": ["Kotlin"],
+  "platforms": ["Android"],
+  "package_manager": "gradle",
+  "installation_examples": {
+    "gradle": "implementation 'androidx.compose.ui:ui:1.6.7'"
+  },
+  "tags": ["android", "ui", "declarative", "kotlin", "compose", "jetpack"],
+  "alternatives": ["Flutter", "SwiftUI", "React Native"],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "mpandroidchart",
+  "name": "MPAndroidChart",
+  "category": "android",
+  "description": "A powerful \ud83d\ude80 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations.",
+  "official_website": "https://philippjahoda.com",
+  "documentation": "https://github.com/PhilJay/MPAndroidChart#readme",
+  "github_repository": "https://github.com/PhilJay/MPAndroidChart",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "Java"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "android",
+    "chart",
+    "graph",
+    "java",
+    "mpandroidchart"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 38196,
+    "forks": 8985,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "v3.1.0",
+  "auto_discovered": true,
+  "quality_score": 90
+}

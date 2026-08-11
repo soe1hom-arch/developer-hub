@@ -1,0 +1,49 @@
+{
+  "id": "face-api-js",
+  "name": "face-api.js",
+  "category": "frontend",
+  "description": "JavaScript API for face detection and face recognition in the browser and nodejs with tensorflow.js",
+  "official_website": "https://github.com/justadudewhohacks/face-api.js",
+  "documentation": "https://github.com/justadudewhohacks/face-api.js#readme",
+  "github_repository": "https://github.com/justadudewhohacks/face-api.js",
+  "license": "MIT",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "age-estimation",
+    "emotion-recognition",
+    "face-detection",
+    "face-landmarks",
+    "face-recognition",
+    "gender-recognition",
+    "javascript",
+    "js",
+    "tensorflow",
+    "tfjs",
+    "tensorflowjs",
+    "nodejs"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 17936,
+    "forks": 3891,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "0.22.2",
+  "auto_discovered": true,
+  "quality_score": 75
+}

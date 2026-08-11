@@ -1,0 +1,39 @@
+{
+  "id": "spacy",
+  "name": "spaCy",
+  "category": "ai",
+  "description": "Industrial-strength NLP library for Python with pre-trained models and pipeline support",
+  "official_website": "https://spacy.io",
+  "documentation": "https://spacy.io/api",
+  "github_repository": "https://github.com/fighting41love/funNLP",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install spacy"
+  },
+  "tags": [
+    "ai",
+    "tool",
+    "library"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-08-09",
+  "last_updated": "2026-08-09",
+  "repository_statistics": {
+    "stars": 82345,
+    "forks": 15271,
+    "open_issues": 0,
+    "watchers": 0
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "bin-cpu-x",
+  "name": "CPU-X",
+  "category": "binary",
+  "description": "CPU-X is a Free software that gathers information on CPU, motherboard and more",
+  "official_website": "https://thetumultuousunicornofdarkness.github.io/CPU-X",
+  "documentation": "https://github.com/TheTumultuousUnicornOfDarkness/CPU-X#readme",
+  "github_repository": "https://github.com/TheTumultuousUnicornOfDarkness/CPU-X",
+  "license": "GPL-3.0",
+  "latest_version": "v5.4.0",
+  "programming_languages": [
+    "C"
+  ],
+  "platforms": [
+    "Linux",
+    "Android"
+  ],
+  "tags": [
+    "benchmark",
+    "bsd-app",
+    "cpu",
+    "gpu",
+    "gtk3",
+    "linux-app",
+    "motherboard",
+    "ncurses",
+    "binary",
+    "pre-built",
+    "portable",
+    "ram"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 2636,
+    "forks": 156,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "source": "binary-release"
+}

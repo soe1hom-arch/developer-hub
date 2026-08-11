@@ -1,0 +1,53 @@
+{
+  "id": "openobserve",
+  "name": "openobserve",
+  "category": "devops",
+  "description": "Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and El",
+  "official_website": "https://openobserve.ai",
+  "documentation": "https://github.com/openobserve/openobserve#readme",
+  "github_repository": "https://github.com/openobserve/openobserve",
+  "license": "AGPL-3.0",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "analytics",
+    "apm",
+    "datadog",
+    "elasticsearch",
+    "grafana",
+    "jaeger",
+    "kibana",
+    "log-analytics",
+    "logs",
+    "metrics",
+    "traces",
+    "log-management",
+    "prometheus",
+    "log-search"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 20562,
+    "forks": 984,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-05",
+  "last_updated": "2026-08-05",
+  "latest_version": "v0.91.5",
+  "auto_discovered": true,
+  "quality_score": 90
+}

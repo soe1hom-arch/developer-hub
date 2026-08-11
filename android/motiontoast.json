@@ -1,0 +1,50 @@
+{
+  "id": "motiontoast",
+  "name": "MotionToast",
+  "category": "android",
+  "description": "\ud83c\udf08 A Beautiful Motion Toast Library for Kotlin Android",
+  "official_website": "https://github.com/Spikeysanju/MotionToast",
+  "documentation": "https://github.com/Spikeysanju/MotionToast#readme",
+  "github_repository": "https://github.com/Spikeysanju/MotionToast",
+  "license": "MIT",
+  "programming_languages": [
+    "Kotlin"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "android-app",
+    "android-development",
+    "android-library",
+    "android-sdk",
+    "android-ui",
+    "androidkotlin",
+    "androidstudio",
+    "kotlin",
+    "kotlin-android",
+    "kotlin-library",
+    "toastlibrary",
+    "material-design"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 1533,
+    "forks": 136,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-10",
+  "last_updated": "2026-08-10",
+  "latest_version": "v1.5",
+  "auto_discovered": true,
+  "quality_score": 65
+}

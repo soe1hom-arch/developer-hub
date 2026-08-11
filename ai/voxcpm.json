@@ -1,0 +1,50 @@
+{
+  "id": "voxcpm",
+  "name": "VoxCPM",
+  "category": "ai",
+  "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+  "official_website": "https://voxcpm.com",
+  "documentation": "https://github.com/OpenBMB/VoxCPM#readme",
+  "github_repository": "https://github.com/OpenBMB/VoxCPM",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "audio",
+    "deeplearning",
+    "minicpm",
+    "multilingual",
+    "python",
+    "pytorch",
+    "speech",
+    "speech-synthesis",
+    "text-to-speech",
+    "tts",
+    "tts-model"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 35194,
+    "forks": 4051,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "2.0.3",
+  "auto_discovered": true,
+  "quality_score": 90
+}

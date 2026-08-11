@@ -1,0 +1,53 @@
+{
+  "id": "openproject",
+  "name": "openproject",
+  "category": "frontend",
+  "description": "OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt chart",
+  "official_website": "https://www.openproject.org",
+  "documentation": "https://github.com/opf/openproject#readme",
+  "github_repository": "https://github.com/opf/openproject",
+  "license": "GPL-3.0",
+  "programming_languages": [
+    "Ruby"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "agile-development",
+    "angular",
+    "bcf",
+    "boards",
+    "bug-tracker",
+    "gantt",
+    "gantt-chart",
+    "ifc",
+    "project-management",
+    "openproject",
+    "ruby",
+    "issue-tracker",
+    "scrum",
+    "project-planning",
+    "timeline",
+    "roadmap"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 15806,
+    "forks": 3416,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-09",
+  "last_updated": "2026-08-09",
+  "latest_version": "v17.7.1",
+  "auto_discovered": true,
+  "quality_score": 90
+}

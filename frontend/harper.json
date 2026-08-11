@@ -1,0 +1,46 @@
+{
+  "id": "harper",
+  "name": "harper",
+  "category": "frontend",
+  "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+  "official_website": "https://writewithharper.com",
+  "documentation": "https://github.com/Automattic/harper#readme",
+  "github_repository": "https://github.com/Automattic/harper",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "chrome-extension",
+    "developer-tools",
+    "english-language",
+    "grammar-checker",
+    "nodejs",
+    "react",
+    "rust",
+    "svelte",
+    "webassembly"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 14336,
+    "forks": 554,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "v2.7.0",
+  "auto_discovered": true,
+  "quality_score": 85
+}

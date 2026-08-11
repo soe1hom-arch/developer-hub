@@ -1,0 +1,50 @@
+{
+  "id": "front-end-checklist",
+  "name": "Front-End-Checklist",
+  "category": "frontend",
+  "description": "\ud83d\uddc2 The essential checklist for modern web development, for humans and AI agents",
+  "official_website": "https://frontendchecklist.io",
+  "documentation": "https://github.com/thedaviddias/Front-End-Checklist#readme",
+  "github_repository": "https://github.com/thedaviddias/Front-End-Checklist",
+  "license": "MIT",
+  "latest_version": "v2.0",
+  "programming_languages": [
+    "MDX"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "ai-agent",
+    "ai-agents",
+    "checklist",
+    "css",
+    "front-end-developer-tool",
+    "front-end-development",
+    "frontend",
+    "guidelines",
+    "reference",
+    "web-development",
+    "html",
+    "javascript"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 73467,
+    "forks": 6663,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-09",
+  "last_updated": "2026-08-09"
+}

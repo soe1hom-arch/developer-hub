@@ -1,0 +1,52 @@
+{
+  "id": "axios",
+  "name": "Axios",
+  "category": "libraries",
+  "description": "Promise-based HTTP client for the browser and Node.js with interceptors and automatic JSON transformation",
+  "official_website": "https://axios-http.com",
+  "documentation": "https://axios-http.com/docs",
+  "github_repository": "https://github.com/axios/axios",
+  "license": "MIT",
+  "latest_version": "v1.19.0",
+  "programming_languages": [
+    "JavaScript",
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Node.js"
+  ],
+  "package_manager": "npm",
+  "installation_examples": {
+    "npm": "npm install axios",
+    "yarn": "yarn add axios"
+  },
+  "tags": [
+    "http",
+    "client",
+    "promise",
+    "javascript",
+    "api",
+    "http-client",
+    "nodejs",
+    "hacktoberfest"
+  ],
+  "alternatives": [
+    "Fetch API",
+    "SuperAgent",
+    "Got",
+    "node-fetch"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "repository_statistics": {
+    "stars": 109230,
+    "forks": 11807,
+    "open_issues": 0,
+    "watchers": 0
+  }
+}

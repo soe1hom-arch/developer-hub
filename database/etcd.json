@@ -1,0 +1,49 @@
+{
+  "id": "etcd",
+  "name": "etcd",
+  "category": "database",
+  "description": "Distributed reliable key-value store for the most critical data of a distributed system",
+  "official_website": "https://etcd.io",
+  "documentation": "https://github.com/etcd-io/etcd#readme",
+  "github_repository": "https://github.com/etcd-io/etcd",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "cncf",
+    "consensus",
+    "database",
+    "distributed-database",
+    "distributed-systems",
+    "etcd",
+    "go",
+    "key-value",
+    "raft",
+    "kubernetes"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 52105,
+    "forks": 10453,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "v3.7.1",
+  "auto_discovered": true,
+  "quality_score": 85
+}

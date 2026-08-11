@@ -1,0 +1,51 @@
+{
+  "id": "ultralytics",
+  "name": "ultralytics",
+  "category": "machine-learning",
+  "description": "Ultralytics YOLO26, YOLO11, YOLOv8 \u2014 object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking",
+  "official_website": "https://platform.ultralytics.com",
+  "documentation": "https://github.com/ultralytics/ultralytics#readme",
+  "github_repository": "https://github.com/ultralytics/ultralytics",
+  "license": "AGPL-3.0",
+  "latest_version": "v8.4.116",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "computer-vision",
+    "deep-learning",
+    "image-classification",
+    "instance-segmentation",
+    "machine-learning",
+    "object-detection",
+    "object-tracking",
+    "pose-estimation",
+    "ultralytics",
+    "yolov8",
+    "yolo",
+    "pytorch",
+    "tracking"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 60379,
+    "forks": 11546,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-09",
+  "last_updated": "2026-08-09"
+}

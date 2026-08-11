@@ -1,0 +1,49 @@
+{
+  "id": "monero",
+  "name": "monero",
+  "category": "blockchain",
+  "description": "Monero: the secure, private, untraceable cryptocurrency",
+  "official_website": "https://getmonero.org",
+  "documentation": "https://github.com/monero-project/monero#readme",
+  "github_repository": "https://github.com/monero-project/monero",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "C++"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "blockchain",
+    "c-plus-plus",
+    "cmake",
+    "cryptocurrency",
+    "cryptography",
+    "cryptonote",
+    "monero",
+    "p2p",
+    "security",
+    "privacy"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 10760,
+    "forks": 3496,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "v0.18.5.1",
+  "auto_discovered": true,
+  "quality_score": 85
+}

@@ -1,0 +1,50 @@
+{
+  "id": "kitty",
+  "name": "kitty",
+  "category": "cli-tools",
+  "description": "If you live in the terminal, kitty is made for you! Cross-platform, fast, feature-rich, GPU based.",
+  "official_website": "https://sw.kovidgoyal.net/kitty/",
+  "documentation": "https://github.com/kovidgoyal/kitty#readme",
+  "github_repository": "https://github.com/kovidgoyal/kitty",
+  "license": "GPL-3.0",
+  "latest_version": "v0.48.2",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "c",
+    "go",
+    "golang",
+    "golang-application",
+    "kitty",
+    "kitty-terminal",
+    "opengl",
+    "python",
+    "cli",
+    "command-line",
+    "terminal-emulators",
+    "terminfo",
+    "vt100",
+    "terminal"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 34297,
+    "forks": 1456,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "source": "cli-github"
+}

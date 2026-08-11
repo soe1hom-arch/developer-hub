@@ -1,0 +1,32 @@
+{
+  "id": "clamav",
+  "name": "ClamAV",
+  "category": "security",
+  "description": "Open-source antivirus engine for detecting viruses and malware",
+  "official_website": "https://clamav.net",
+  "documentation": "https://docs.clamav.net",
+  "github_repository": "https://github.com/ClamAV",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install clamav"
+  },
+  "tags": [
+    "security",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

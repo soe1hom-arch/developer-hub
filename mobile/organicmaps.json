@@ -1,0 +1,49 @@
+{
+  "id": "organicmaps",
+  "name": "organicmaps",
+  "category": "mobile",
+  "description": "\ud83c\udf43 Organic Maps is a free Android & iOS offline maps app for more than 6M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community",
+  "official_website": "https://organicmaps.app",
+  "documentation": "https://github.com/organicmaps/organicmaps#readme",
+  "github_repository": "https://github.com/organicmaps/organicmaps",
+  "license": "NOASSERTION",
+  "latest_version": "2026.07.23-6-android",
+  "programming_languages": [
+    "C++"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS"
+  ],
+  "tags": [
+    "android",
+    "app",
+    "cpp",
+    "cyclists",
+    "hacktoberfest",
+    "hikers",
+    "ios",
+    "java",
+    "privacy",
+    "objective-c",
+    "maps",
+    "mobile-app",
+    "mobile",
+    "offline-maps"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 15023,
+    "forks": 1535,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-09",
+  "last_updated": "2026-08-09"
+}

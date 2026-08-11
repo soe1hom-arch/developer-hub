@@ -1,0 +1,45 @@
+{
+  "id": "cloud-sql-proxy",
+  "name": "cloud-sql-proxy",
+  "category": "cloud",
+  "description": "A utility for connecting securely to your Cloud SQL instances",
+  "official_website": "https://github.com/GoogleCloudPlatform/cloud-sql-proxy",
+  "documentation": "https://github.com/GoogleCloudPlatform/cloud-sql-proxy#readme",
+  "github_repository": "https://github.com/GoogleCloudPlatform/cloud-sql-proxy",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "cloud-sql",
+    "cloud-sql-proxy",
+    "gcp",
+    "google-cloud",
+    "google-cloud-platform",
+    "libraries"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 1431,
+    "forks": 353,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "v2.25.0",
+  "auto_discovered": true,
+  "quality_score": 65
+}

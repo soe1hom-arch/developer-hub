@@ -1,0 +1,46 @@
+{
+  "id": "gitui",
+  "name": "gitui",
+  "category": "cli-tools",
+  "description": "Blazing \ud83d\udca5 fast terminal-ui for git written in rust \ud83e\udd80",
+  "official_website": "https://github.com/gitui-org/gitui",
+  "documentation": "https://github.com/gitui-org/gitui#readme",
+  "github_repository": "https://github.com/gitui-org/gitui",
+  "license": "MIT",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "async",
+    "bash",
+    "command-line-interface",
+    "command-line-tool",
+    "git",
+    "hacktoberfest",
+    "rust",
+    "terminal",
+    "tui"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 22363,
+    "forks": 758,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "v0.28.1",
+  "auto_discovered": true,
+  "quality_score": 75
+}

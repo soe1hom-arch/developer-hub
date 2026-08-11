@@ -1,0 +1,51 @@
+{
+  "id": "svelte",
+  "name": "Svelte",
+  "category": "frontend",
+  "description": "Cybernetically enhanced web framework that compiles components to efficient vanilla JavaScript",
+  "official_website": "https://svelte.dev",
+  "documentation": "https://svelte.dev/docs",
+  "github_repository": "https://github.com/sveltejs/svelte",
+  "license": "MIT",
+  "latest_version": "svelte@5.56.8",
+  "programming_languages": [
+    "TypeScript",
+    "JavaScript",
+    "HTML",
+    "CSS"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "npm",
+  "installation_examples": {
+    "npm": "npm create svelte@latest my-app",
+    "yarn": "yarn create svelte my-app"
+  },
+  "tags": [
+    "ui",
+    "components",
+    "compiler",
+    "reactivity",
+    "frontend",
+    "template"
+  ],
+  "alternatives": [
+    "React",
+    "Vue",
+    "Angular",
+    "Solid"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "repository_statistics": {
+    "stars": 87925,
+    "forks": 5190,
+    "open_issues": 0,
+    "watchers": 0
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "cloudflare-r2",
+  "name": "Cloudflare R2",
+  "category": "cloud",
+  "description": "Object storage compatible with S3 API with zero egress fees",
+  "official_website": "https://cloudflare.com/products/r2",
+  "documentation": "https://developers.cloudflare.com/r2",
+  "github_repository": "https://github.com/cloudflare",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install cloudflare-r2"
+  },
+  "tags": [
+    "cloud",
+    "tool",
+    "library"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "salt",
+  "name": "salt",
+  "category": "cloud",
+  "description": "Software to automate the management and configuration of infrastructure and applications at scale.",
+  "official_website": "https://docs.saltproject.io/salt/install-guide/en/latest/",
+  "documentation": "https://github.com/saltstack/salt#readme",
+  "github_repository": "https://github.com/saltstack/salt",
+  "license": "Apache-2.0",
+  "latest_version": "v3008.1-2",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "cloud",
+    "cloud-management",
+    "cloud-providers",
+    "cloud-provisioning",
+    "configuration-management",
+    "edge",
+    "event-management",
+    "event-stream",
+    "python",
+    "remote-execution",
+    "infrastructure-management",
+    "zeromq"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 15602,
+    "forks": 5610,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-09",
+  "last_updated": "2026-08-09"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "files",
+  "name": "Files",
+  "category": "tools",
+  "description": "A modern file manager that helps users organize their files and folders.",
+  "official_website": "https://files.community",
+  "documentation": "https://github.com/files-community/Files#readme",
+  "github_repository": "https://github.com/files-community/Files",
+  "license": "MIT",
+  "latest_version": "v4.2.2",
+  "programming_languages": [
+    "C#"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "alternatives",
+    "csharp",
+    "customization",
+    "developer-tools",
+    "dotnet",
+    "file-manager",
+    "files",
+    "fluent",
+    "fluent-design",
+    "xaml",
+    "winui",
+    "windows",
+    "windows-10",
+    "windows-11"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 44579,
+    "forks": 2807,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-09",
+  "last_updated": "2026-08-09"
+}

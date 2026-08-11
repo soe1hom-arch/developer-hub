@@ -1,0 +1,52 @@
+{
+  "id": "career-ops",
+  "name": "career-ops",
+  "category": "cli-tools",
+  "description": "Open-source AI job search: scan job portals, score listings A-F, tailor your CV, track applications \u2014 runs locally in your AI coding CLI (Claude Code, Gemini, Codex, OpenCode\u2026)",
+  "official_website": "https://career-ops.org",
+  "documentation": "https://github.com/santifer/career-ops#readme",
+  "github_repository": "https://github.com/santifer/career-ops",
+  "license": "MIT",
+  "latest_version": "career-ops-v1.25.0",
+  "programming_languages": [
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "ai",
+    "ai-agent",
+    "anthropic",
+    "ats",
+    "automation",
+    "beginner-friendly",
+    "career",
+    "careerops",
+    "claude",
+    "claude-code",
+    "cli",
+    "golang",
+    "interview-prep",
+    "job-search"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 63244,
+    "forks": 12479,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-09",
+  "last_updated": "2026-08-09"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "memvid",
+  "name": "memvid",
+  "category": "ai",
+  "description": "Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.",
+  "official_website": "https://www.memvid.com",
+  "documentation": "https://github.com/memvid/memvid#readme",
+  "github_repository": "https://github.com/memvid/memvid",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "ai",
+    "context",
+    "embedded",
+    "faiss",
+    "knowledge-base",
+    "knowledge-graph",
+    "llm",
+    "machine-learning",
+    "memory",
+    "nlp"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 16206,
+    "forks": 1402,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "v2.0.140",
+  "auto_discovered": true,
+  "quality_score": 90
+}

@@ -1,0 +1,32 @@
+{
+  "id": "containerd",
+  "name": "containerd",
+  "category": "containers",
+  "description": "Industry-standard container runtime for managing container lifecycle",
+  "official_website": "https://containerd.io",
+  "documentation": "https://containerd.io/docs",
+  "github_repository": "https://github.com/containerd",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install containerd"
+  },
+  "tags": [
+    "containers",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

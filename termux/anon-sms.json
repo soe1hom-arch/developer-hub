@@ -1,0 +1,41 @@
+{
+  "id": "anon-sms",
+  "name": "Anon-SMS",
+  "category": "termux",
+  "description": "A Tool To Send Messages Anonymously..",
+  "official_website": "https://youtu.be/Z2EHj4JQHCw",
+  "documentation": "https://github.com/HACK3RY2J/Anon-SMS#readme",
+  "github_repository": "https://github.com/HACK3RY2J/Anon-SMS",
+  "license": "MIT",
+  "latest_version": "master",
+  "programming_languages": [
+    "Shell"
+  ],
+  "platforms": [
+    "Termux",
+    "Android"
+  ],
+  "tags": [
+    "anon-sms",
+    "anonymous-message",
+    "anonymous-sms",
+    "linux",
+    "sms-notifications",
+    "sms-spoofing",
+    "termux"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 1593,
+    "forks": 174,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "source": "termux-github"
+}

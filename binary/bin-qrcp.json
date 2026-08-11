@@ -1,0 +1,44 @@
+{
+  "id": "bin-qrcp",
+  "name": "qrcp",
+  "category": "binary",
+  "description": ":zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.",
+  "official_website": "https://qrcp.sh",
+  "documentation": "https://github.com/claudiodangelis/qrcp#readme",
+  "github_repository": "https://github.com/claudiodangelis/qrcp",
+  "license": "MIT",
+  "latest_version": "v0.11.6",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS",
+    "Android"
+  ],
+  "tags": [
+    "cli",
+    "command-line",
+    "golang",
+    "qrcode",
+    "utility",
+    "binary",
+    "pre-built"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 10490,
+    "forks": 544,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "source": "binary-release"
+}

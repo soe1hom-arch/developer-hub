@@ -1,0 +1,53 @@
+{
+  "id": "sttr",
+  "name": "sttr",
+  "category": "cli-tools",
+  "description": "cross-platform, cli app to perform various operations on string",
+  "official_website": "https://github.com/abhimanyu003/sttr",
+  "documentation": "https://github.com/abhimanyu003/sttr#readme",
+  "github_repository": "https://github.com/abhimanyu003/sttr",
+  "license": "MIT",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "cli",
+    "cli-app",
+    "cli-tool",
+    "cli-utilities",
+    "decoding",
+    "developer-tools",
+    "devutils",
+    "encoding",
+    "string",
+    "transform",
+    "productivity",
+    "tui",
+    "go",
+    "tui-app",
+    "json",
+    "encryption-decryption"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 1339,
+    "forks": 48,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "v0.2.30",
+  "auto_discovered": true,
+  "quality_score": 65
+}

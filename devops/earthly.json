@@ -1,0 +1,53 @@
+{
+  "id": "earthly",
+  "name": "earthly",
+  "category": "devops",
+  "description": "Super simple build framework with fast, repeatable builds and an instantly familiar syntax \u2013 like Dockerfile and Makefile had a baby.",
+  "official_website": "https://earthly.dev",
+  "documentation": "https://github.com/earthly/earthly#readme",
+  "github_repository": "https://github.com/earthly/earthly",
+  "license": "MPL-2.0",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "build",
+    "build-automation",
+    "build-system",
+    "build-tool",
+    "ci",
+    "ci-cd",
+    "cicd",
+    "container-builder",
+    "hacktoberfest",
+    "docker-images",
+    "hacktoberfest2020",
+    "reproducible-builds",
+    "dockerfiles",
+    "hacktoberfest2021"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 12048,
+    "forks": 457,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "v0.8.16",
+  "auto_discovered": true,
+  "quality_score": 90
+}

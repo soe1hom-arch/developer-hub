@@ -1,0 +1,51 @@
+{
+  "id": "jcode",
+  "name": "jcode",
+  "category": "cli-tools",
+  "description": "The most intelligent agent harness for code",
+  "official_website": "https://jcode.sh",
+  "documentation": "https://github.com/1jehuang/jcode#readme",
+  "github_repository": "https://github.com/1jehuang/jcode",
+  "license": "MIT",
+  "latest_version": "v0.71.1",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "ai",
+    "ai-agent",
+    "ai-coding-agent",
+    "claude",
+    "cli",
+    "coding-agent",
+    "llm",
+    "mcp",
+    "cli",
+    "command-line",
+    "openai",
+    "rust",
+    "terminal",
+    "tui"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 16359,
+    "forks": 1837,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "source": "cli-github"
+}

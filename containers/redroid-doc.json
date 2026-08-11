@@ -1,0 +1,42 @@
+{
+  "id": "redroid-doc",
+  "name": "redroid-doc",
+  "category": "containers",
+  "description": "redroid (Remote-Android) is a multi-arch, GPU enabled, Android in Cloud solution. Track issues / docs here",
+  "official_website": "https://github.com/remote-android/redroid-doc",
+  "documentation": "https://github.com/remote-android/redroid-doc#readme",
+  "github_repository": "https://github.com/remote-android/redroid-doc",
+  "license": "MIT",
+  "programming_languages": [
+    "Shell"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "android",
+    "container",
+    "docker"
+  ],
+  "alternatives": [],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 6660,
+    "forks": 472,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-06",
+  "last_updated": "2026-08-06",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 72
+}

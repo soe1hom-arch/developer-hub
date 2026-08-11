@@ -1,0 +1,42 @@
+{
+  "id": "openclaw-termux",
+  "name": "openclaw-termux",
+  "category": "termux",
+  "description": "Run OpenClaw AI Gateway on Android \u2014 standalone Flutter app with built-in terminal, web dashboard, and one-tap setup. Also available as a Termux CLI package.",
+  "official_website": "https://github.com/mithun50/openclawd-termux#readme",
+  "documentation": "https://github.com/mithun50/openclaw-termux#readme",
+  "github_repository": "https://github.com/mithun50/openclaw-termux",
+  "license": "MIT",
+  "latest_version": "v1.8.7",
+  "programming_languages": [
+    "Dart"
+  ],
+  "platforms": [
+    "Termux",
+    "Android"
+  ],
+  "tags": [
+    "ai",
+    "android",
+    "claude",
+    "gateway",
+    "gemini",
+    "openai",
+    "openclaw",
+    "termux"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 1670,
+    "forks": 252,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "source": "termux-github"
+}

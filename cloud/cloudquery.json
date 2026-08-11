@@ -1,0 +1,54 @@
+{
+  "id": "cloudquery",
+  "name": "cloudquery",
+  "category": "cloud",
+  "description": "Data pipelines for cloud config and security data. Build cloud asset inventory, CSPM, FinOps, and vulnerability management solutions. Extract from AWS, Azure, GCP, and 70+ cloud and SaaS sources.",
+  "official_website": "https://cloudquery.io",
+  "documentation": "https://github.com/cloudquery/cloudquery#readme",
+  "github_repository": "https://github.com/cloudquery/cloudquery",
+  "license": "MPL-2.0",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "airbyte",
+    "attack-surface-management",
+    "aws",
+    "azure",
+    "bigquery",
+    "cspm",
+    "data",
+    "data-analysis",
+    "gcp",
+    "sql",
+    "data-integration",
+    "elt",
+    "etl",
+    "etl-framework",
+    "data-collection"
+  ],
+  "alternatives": [],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 6479,
+    "forks": 552,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-09",
+  "last_updated": "2026-08-09",
+  "latest_version": "cli-v6.41.1",
+  "auto_discovered": true,
+  "quality_score": 85
+}

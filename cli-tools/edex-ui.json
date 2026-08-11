@@ -1,0 +1,48 @@
+{
+  "id": "edex-ui",
+  "name": "edex-ui",
+  "category": "cli-tools",
+  "description": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+  "official_website": "https://github.com/GitSquared/edex-ui",
+  "documentation": "https://github.com/GitSquared/edex-ui#readme",
+  "github_repository": "https://github.com/GitSquared/edex-ui",
+  "license": "GPL-3.0",
+  "latest_version": "v2.2.8",
+  "programming_languages": [
+    "JavaScript"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "desktop",
+    "edex-ui",
+    "electron",
+    "linux",
+    "macos",
+    "nodejs",
+    "science-fiction",
+    "shell",
+    "cli",
+    "command-line",
+    "terminal",
+    "windows"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": false,
+  "archived": true,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 45028,
+    "forks": 3175,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "source": "cli-github"
+}

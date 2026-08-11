@@ -1,0 +1,32 @@
+{
+  "id": "defold",
+  "name": "Defold",
+  "category": "game-development",
+  "description": "Free 2D game engine for cross-platform game development",
+  "official_website": "https://defold.com",
+  "documentation": "https://defold.com/manuals",
+  "github_repository": "https://github.com/defold",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install defold"
+  },
+  "tags": [
+    "game-development",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

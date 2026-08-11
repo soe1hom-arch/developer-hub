@@ -1,0 +1,32 @@
+{
+  "id": "akka",
+  "name": "Akka",
+  "category": "backend",
+  "description": "Toolkit for building concurrent and distributed applications on JVM",
+  "official_website": "https://akka.io",
+  "documentation": "https://doc.akka.io",
+  "github_repository": "https://github.com/akka",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install akka"
+  },
+  "tags": [
+    "backend",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

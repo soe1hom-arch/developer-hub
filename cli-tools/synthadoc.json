@@ -1,0 +1,47 @@
+{
+  "id": "synthadoc",
+  "name": "synthadoc",
+  "category": "cli-tools",
+  "description": "Synthadoc: An open-source LLM knowledge compilation engine that turns raw documents into structured, local-first wikis. A transparent, human-readable alternative to traditional RAG, which can be self-",
+  "official_website": "https://github.com/axoviq-ai/synthadoc",
+  "documentation": "https://github.com/axoviq-ai/synthadoc#readme",
+  "github_repository": "https://github.com/axoviq-ai/synthadoc",
+  "license": "AGPL-3.0",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "agent-skills",
+    "agentic-ai",
+    "cli-tool",
+    "domain-adaptation",
+    "enterprise",
+    "enterprise-solutions",
+    "knowledge-graph",
+    "local-llm",
+    "obsidian-md",
+    "obsidian-plugin"
+  ],
+  "alternatives": [],
+  "popularity": 7,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 862,
+    "forks": 84,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-09",
+  "last_updated": "2026-08-09",
+  "latest_version": "v1.2.0",
+  "auto_discovered": true,
+  "quality_score": 65
+}

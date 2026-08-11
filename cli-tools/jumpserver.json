@@ -1,0 +1,47 @@
+{
+  "id": "jumpserver",
+  "name": "jumpserver",
+  "category": "cli-tools",
+  "description": "JumpServer is an open-source Privileged Access Management (PAM) platform that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints th",
+  "official_website": "https://jumpserver.com",
+  "documentation": "https://github.com/jumpserver/jumpserver#readme",
+  "github_repository": "https://github.com/jumpserver/jumpserver",
+  "license": "GPL-3.0",
+  "latest_version": "v4.10.18",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "bastion-host",
+    "cyberark",
+    "django",
+    "jumpserver",
+    "pam",
+    "python",
+    "ssh-server",
+    "teleport",
+    "cli",
+    "command-line",
+    "terminal"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 31230,
+    "forks": 5730,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "source": "cli-github"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "moai-adk",
+  "name": "moai-adk",
+  "category": "ai",
+  "description": "Agentic development harness for Claude Code \u2014 SPEC-driven plan/run/sync, TRUST 5 quality gates, model+effort routing, and Claude\u00d7GLM multi-LLM cost control. Single Go binary, 16 languages, zero deps.",
+  "official_website": "https://adk.mo.ai.kr",
+  "documentation": "https://github.com/modu-ai/moai-adk#readme",
+  "github_repository": "https://github.com/modu-ai/moai-adk",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "agentic-ai",
+    "agentic-coding",
+    "agentic-workflow",
+    "ai-agent",
+    "ai-coding",
+    "anthropic",
+    "claude",
+    "claude-code",
+    "vibe-coding",
+    "cli-tool"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 1161,
+    "forks": 213,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-07",
+  "last_updated": "2026-08-07",
+  "latest_version": "v3.0.1",
+  "auto_discovered": true,
+  "quality_score": 80
+}

@@ -1,0 +1,19 @@
+{
+  "id": "stable-diffusion",
+  "name": "Stable Diffusion",
+  "category": "ai",
+  "description": "Open-source text-to-image diffusion model capable of generating photorealistic images from text prompts",
+  "official_website": "https://stability.ai",
+  "documentation": "https://stability.ai/stable-diffusion",
+  "github_repository": "https://github.com/Stability-AI/stablediffusion",
+  "license": "CreativeML Open RAIL-M",
+  "latest_version": "SD3.0",
+  "programming_languages": ["Python", "CUDA"],
+  "platforms": ["Linux", "macOS", "Windows", "Cloud"],
+  "package_manager": "pip",
+  "installation_examples": {"pip": "pip install diffusers transformers"},
+  "tags": ["ai", "image-generation", "diffusion-models", "text-to-image", "open-source"],
+  "alternatives": ["DALL·E", "Midjourney", "Adobe Firefly", "Imagen"],
+  "popularity": 10, "maintained": true, "archived": false, "open_source": true,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

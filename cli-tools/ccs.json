@@ -1,0 +1,48 @@
+{
+  "id": "ccs",
+  "name": "ccs",
+  "category": "cli-tools",
+  "description": "Switch between Claude accounts, Gemini, Copilot, OpenRouter (300+ models) via CLIProxyAPI OAuth proxy. Visual dashboard, remote proxy support, WebSearch fallback. Zero-config to production-ready.",
+  "official_website": "https://ccs.kaitran.ca/",
+  "documentation": "https://github.com/kaitranntt/ccs#readme",
+  "github_repository": "https://github.com/kaitranntt/ccs",
+  "license": "MIT",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "ai-gateway",
+    "anthropic-api",
+    "claude",
+    "claude-code",
+    "cli-tool",
+    "cliproxyapi",
+    "developer-productivity",
+    "gemini",
+    "multi-account",
+    "github-copilot",
+    "nodejs"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 2795,
+    "forks": 257,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "v8.9.0",
+  "auto_discovered": true,
+  "quality_score": 80
+}

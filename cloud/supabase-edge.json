@@ -1,0 +1,33 @@
+{
+  "id": "supabase-edge",
+  "name": "Supabase Edge Functions",
+  "category": "cloud",
+  "description": "Serverless TypeScript functions running on Deno globally",
+  "official_website": "https://supabase.com",
+  "documentation": "https://supabase.com/docs",
+  "github_repository": "https://github.com/supabase",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install supabase-edge"
+  },
+  "tags": [
+    "cloud",
+    "tool",
+    "library"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

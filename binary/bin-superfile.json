@@ -1,0 +1,50 @@
+{
+  "id": "bin-superfile",
+  "name": "superfile",
+  "category": "binary",
+  "description": "Pretty fancy and modern terminal file manager",
+  "official_website": "https://superfile.dev",
+  "documentation": "https://github.com/yorukot/superfile#readme",
+  "github_repository": "https://github.com/yorukot/superfile",
+  "license": "MIT",
+  "latest_version": "v1.6.0",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS",
+    "Android"
+  ],
+  "tags": [
+    "bubbletea",
+    "cli",
+    "file-manager",
+    "filemanager",
+    "filesystem",
+    "golang",
+    "hacktoberfest",
+    "linux-app",
+    "binary",
+    "pre-built",
+    "terminal-app",
+    "tui",
+    "terminal-based"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 22356,
+    "forks": 808,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "source": "binary-release"
+}

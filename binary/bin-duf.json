@@ -1,0 +1,51 @@
+{
+  "id": "bin-duf",
+  "name": "duf",
+  "category": "binary",
+  "description": "Disk Usage/Free Utility - a better 'df' alternative",
+  "official_website": "https://github.com/muesli/duf",
+  "documentation": "https://github.com/muesli/duf#readme",
+  "github_repository": "https://github.com/muesli/duf",
+  "license": "NOASSERTION",
+  "latest_version": "v0.9.1",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS",
+    "Android"
+  ],
+  "tags": [
+    "cli",
+    "df",
+    "disk-space",
+    "disk-usage",
+    "filesystem",
+    "freebsd",
+    "hacktoberfest",
+    "linux",
+    "binary",
+    "pre-built",
+    "macos",
+    "openbsd",
+    "windows",
+    "user-friendly"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 15243,
+    "forks": 467,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "source": "binary-release"
+}

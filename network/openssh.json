@@ -1,0 +1,32 @@
+{
+  "id": "openssh",
+  "name": "OpenSSH",
+  "category": "network",
+  "description": "Open-source connectivity tool for remote login using SSH protocol",
+  "official_website": "https://openssh.com",
+  "documentation": "https://www.openssh.com/manual",
+  "github_repository": "https://github.com/openssh",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install openssh"
+  },
+  "tags": [
+    "network",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

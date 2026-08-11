@@ -1,0 +1,41 @@
+{
+  "id": "bin-gron",
+  "name": "gron",
+  "category": "binary",
+  "description": "Make JSON greppable!",
+  "official_website": "https://github.com/tomnomnom/gron",
+  "documentation": "https://github.com/tomnomnom/gron#readme",
+  "github_repository": "https://github.com/tomnomnom/gron",
+  "license": "MIT",
+  "latest_version": "v0.7.1",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS",
+    "Android"
+  ],
+  "tags": [
+    "cli",
+    "json",
+    "binary",
+    "pre-built"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 14498,
+    "forks": 331,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "source": "binary-release"
+}

@@ -1,0 +1,52 @@
+{
+  "id": "analytics",
+  "name": "analytics",
+  "category": "database",
+  "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
+  "official_website": "https://plausible.io",
+  "documentation": "https://github.com/plausible/analytics#readme",
+  "github_repository": "https://github.com/plausible/analytics",
+  "license": "AGPL-3.0",
+  "programming_languages": [
+    "Elixir"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "analytics",
+    "analytics-dashboard",
+    "clickhouse",
+    "elixir",
+    "google-analytics",
+    "marketing",
+    "open-source-analytics",
+    "phoenix",
+    "privacy",
+    "postgresql",
+    "tailwindcss",
+    "plausible-analytics",
+    "web-analytics"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 28461,
+    "forks": 1782,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "v3.2.1",
+  "auto_discovered": true,
+  "quality_score": 90
+}

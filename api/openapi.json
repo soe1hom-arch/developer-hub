@@ -1,0 +1,32 @@
+{
+  "id": "openapi",
+  "name": "OpenAPI (Swagger)",
+  "category": "api",
+  "description": "Standard specification for describing RESTful APIs with JSON/YAML",
+  "official_website": "https://openapis.org",
+  "documentation": "https://learn.openapis.org",
+  "github_repository": "https://github.com/openapis",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install openapi"
+  },
+  "tags": [
+    "api",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

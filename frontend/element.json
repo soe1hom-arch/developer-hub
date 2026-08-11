@@ -1,0 +1,44 @@
+{
+  "id": "element",
+  "name": "element",
+  "category": "frontend",
+  "description": "A Vue.js 2.0 UI Toolkit for Web",
+  "official_website": "https://element.eleme.io/",
+  "documentation": "https://github.com/ElemeFE/element#readme",
+  "github_repository": "https://github.com/ElemeFE/element",
+  "license": "MIT",
+  "programming_languages": [
+    "Vue"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "components",
+    "element-ui",
+    "javascript",
+    "ui-kit",
+    "vue",
+    "vue-components",
+    "vuejs"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 54072,
+    "forks": 14422,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "v2.15.14",
+  "auto_discovered": true,
+  "quality_score": 80
+}

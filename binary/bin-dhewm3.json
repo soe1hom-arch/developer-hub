@@ -1,0 +1,46 @@
+{
+  "id": "bin-dhewm3",
+  "name": "dhewm3",
+  "category": "binary",
+  "description": "dhewm 3 (Doom3 sourceport) main repository",
+  "official_website": "https://dhewm3.org/",
+  "documentation": "https://github.com/dhewm/dhewm3#readme",
+  "github_repository": "https://github.com/dhewm/dhewm3",
+  "license": "GPL-3.0",
+  "latest_version": "1.5.5",
+  "programming_languages": [
+    "C++"
+  ],
+  "platforms": [
+    "Linux",
+    "Android",
+    "Windows"
+  ],
+  "tags": [
+    "doom",
+    "doom3",
+    "game-engine",
+    "gaming",
+    "idtech4",
+    "linux",
+    "opengl",
+    "portable",
+    "binary",
+    "pre-built"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 2138,
+    "forks": 412,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "source": "binary-release"
+}

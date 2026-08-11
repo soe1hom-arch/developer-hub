@@ -1,0 +1,52 @@
+{
+  "id": "glance",
+  "name": "glance",
+  "category": "devops",
+  "description": "A self-hosted dashboard that puts all your feeds in one place",
+  "official_website": "https://github.com/glanceapp/glance",
+  "documentation": "https://github.com/glanceapp/glance#readme",
+  "github_repository": "https://github.com/glanceapp/glance",
+  "license": "AGPL-3.0",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "aggregator",
+    "dashboard",
+    "docker",
+    "feed-reader",
+    "go",
+    "homelab",
+    "homepage",
+    "monitoring",
+    "rss",
+    "self-hosted",
+    "startpage",
+    "reddit",
+    "youtube"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 36288,
+    "forks": 1402,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "v0.8.5",
+  "auto_discovered": true,
+  "quality_score": 75
+}

@@ -1,0 +1,43 @@
+{
+  "id": "number-flow",
+  "name": "number-flow",
+  "category": "frontend",
+  "description": "An animated number component for React, Vue, Svelte, and TS/JS.",
+  "official_website": "https://number-flow.barvian.me",
+  "documentation": "https://github.com/barvian/number-flow#readme",
+  "github_repository": "https://github.com/barvian/number-flow",
+  "license": "MIT",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "accessible",
+    "animation",
+    "odometer",
+    "react",
+    "svelte",
+    "vue"
+  ],
+  "alternatives": [],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 7604,
+    "forks": 154,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-05",
+  "last_updated": "2026-08-05",
+  "latest_version": "number-flow@0.6.2",
+  "auto_discovered": true,
+  "quality_score": 80
+}

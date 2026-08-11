@@ -1,0 +1,33 @@
+{
+  "id": "fastify",
+  "name": "Fastify",
+  "category": "backend",
+  "description": "Fast and low-overhead Node.js web framework with schema-based serialization",
+  "official_website": "https://fastify.dev",
+  "documentation": "https://fastify.dev/docs",
+  "github_repository": "https://github.com/fastify",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install fastify"
+  },
+  "tags": [
+    "backend",
+    "tool",
+    "library"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

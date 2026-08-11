@@ -1,0 +1,47 @@
+{
+  "id": "bencher",
+  "name": "bencher",
+  "category": "devops",
+  "description": "\ud83d\udc30 Bencher - Continuous Benchmarking",
+  "official_website": "https://bencher.dev",
+  "documentation": "https://github.com/bencherdev/bencher#readme",
+  "github_repository": "https://github.com/bencherdev/bencher",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "benchmark",
+    "benchmarking",
+    "cd",
+    "ci",
+    "ci-cd",
+    "code-quality",
+    "continuous-benchmarking",
+    "performance"
+  ],
+  "alternatives": [],
+  "popularity": 7,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 882,
+    "forks": 40,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-10",
+  "last_updated": "2026-08-10",
+  "latest_version": "v0.6.11",
+  "auto_discovered": true,
+  "quality_score": 65
+}

@@ -1,0 +1,52 @@
+{
+  "id": "hoppscotch",
+  "name": "hoppscotch",
+  "category": "tools",
+  "description": "Open-Source API Development Ecosystem \u2022 https://hoppscotch.io \u2022 Offline, On-Prem & Cloud \u2022 Web, Desktop & CLI \u2022 Open-Source Alternative to Postman, Insomnia",
+  "official_website": "https://hoppscotch.io",
+  "documentation": "https://github.com/hoppscotch/hoppscotch#readme",
+  "github_repository": "https://github.com/hoppscotch/hoppscotch",
+  "license": "MIT",
+  "latest_version": "2026.7.0",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "api",
+    "api-client",
+    "api-rest",
+    "api-testing",
+    "developer-tools",
+    "graphql",
+    "http",
+    "http-client",
+    "pwa",
+    "vue",
+    "vuejs",
+    "tools",
+    "testing-tools",
+    "testing"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 79996,
+    "forks": 6019,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-09",
+  "last_updated": "2026-08-09"
+}

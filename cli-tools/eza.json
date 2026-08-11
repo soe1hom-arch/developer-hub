@@ -1,0 +1,49 @@
+{
+  "id": "eza",
+  "name": "eza",
+  "category": "cli-tools",
+  "description": "A modern alternative to ls",
+  "official_website": "https://eza.rocks",
+  "documentation": "https://github.com/eza-community/eza#readme",
+  "github_repository": "https://github.com/eza-community/eza",
+  "license": "EUPL-1.2",
+  "latest_version": "v0.23.5",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "color",
+    "command-line",
+    "files",
+    "hacktoberfest",
+    "icons",
+    "ls",
+    "nerd-fonts",
+    "rust",
+    "cli",
+    "command-line",
+    "terminal",
+    "tools"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 22868,
+    "forks": 490,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "source": "cli-github"
+}

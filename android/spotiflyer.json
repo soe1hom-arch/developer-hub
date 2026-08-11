@@ -1,0 +1,54 @@
+{
+  "id": "spotiflyer",
+  "name": "SpotiFlyer",
+  "category": "android",
+  "description": "Kotlin Multiplatform Music Downloader, Supports Spotify /   Gaana / Youtube Music / Jio Saavn / SoundCloud.",
+  "official_website": "https://spotiflyer.in/",
+  "documentation": "https://github.com/Shabinder/SpotiFlyer#readme",
+  "github_repository": "https://github.com/Shabinder/SpotiFlyer",
+  "license": "GPL-3.0",
+  "programming_languages": [
+    "Kotlin"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "album-downloader",
+    "albums",
+    "android",
+    "app",
+    "desktop",
+    "gaana",
+    "gaana-downloader",
+    "metadata",
+    "spotify-downloader",
+    "mp3",
+    "youtube",
+    "song-downloader",
+    "playlist-downloader",
+    "youtube-downloader",
+    "music",
+    "music-downloader"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 11232,
+    "forks": 815,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "v3.6.4",
+  "auto_discovered": true,
+  "quality_score": 90
+}

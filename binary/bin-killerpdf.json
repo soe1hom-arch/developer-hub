@@ -1,0 +1,47 @@
+{
+  "id": "bin-killerpdf",
+  "name": "KillerPDF",
+  "category": "binary",
+  "description": "Free and open-source PDF editor for Windows. View, annotate, OCR, merge, split, edit text, draw, sign, fill forms, print, flatten, and open password-protected PDFs without a subscription. Install or r",
+  "official_website": "https://KillerPDF.net",
+  "documentation": "https://github.com/SteveTheKiller/KillerPDF#readme",
+  "github_repository": "https://github.com/SteveTheKiller/KillerPDF",
+  "license": "GPL-3.0",
+  "latest_version": "v1.7.1",
+  "programming_languages": [
+    "C#"
+  ],
+  "platforms": [
+    "Linux",
+    "Windows"
+  ],
+  "tags": [
+    "dotnet",
+    "fast",
+    "gplv3",
+    "opensource",
+    "pdf",
+    "pdf-editor",
+    "portable",
+    "small",
+    "binary",
+    "pre-built",
+    "windows",
+    "wpf"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 3294,
+    "forks": 244,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "source": "binary-release"
+}

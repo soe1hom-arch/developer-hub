@@ -1,0 +1,44 @@
+{
+  "id": "mask-rcnn",
+  "name": "Mask_RCNN",
+  "category": "ai",
+  "description": "Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow",
+  "official_website": "https://github.com/matterport/Mask_RCNN",
+  "documentation": "https://github.com/matterport/Mask_RCNN#readme",
+  "github_repository": "https://github.com/matterport/Mask_RCNN",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "instance-segmentation",
+    "keras",
+    "mask-rcnn",
+    "object-detection",
+    "tensorflow"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 25569,
+    "forks": 11616,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "v2.1",
+  "auto_discovered": true,
+  "quality_score": 75
+}

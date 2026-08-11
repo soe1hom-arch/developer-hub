@@ -1,0 +1,25 @@
+{
+  "id": "github-actions",
+  "name": "GitHub Actions",
+  "category": "devops",
+  "description": "Automation platform for CI/CD workflows directly integrated with GitHub repositories",
+  "official_website": "https://github.com/features/actions",
+  "documentation": "https://docs.github.com/actions",
+  "github_repository": "https://github.com/actions",
+  "license": "Proprietary",
+  "latest_version": "N/A",
+  "programming_languages": ["YAML", "JavaScript", "TypeScript"],
+  "platforms": ["Cloud"],
+  "package_manager": null,
+  "installation_examples": {
+    "yml": "name: CI\non: [push]\njobs:\n  build:\n    runs-on: ubuntu-latest\n    steps:\n      - uses: actions/checkout@v4"
+  },
+  "tags": ["ci/cd", "automation", "devops", "workflows", "github"],
+  "alternatives": ["Jenkins", "GitLab CI", "CircleCI", "Travis CI"],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": false,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "openmqttgateway",
+  "name": "OpenMQTTGateway",
+  "category": "firmware",
+  "description": "MQTT gateway for ESP8266 or ESP32 with bidirectional 433mhz/315mhz/868mhz, Infrared communications, BLE, Bluetooth, beacons detection, mi flora, mi jia, LYWSD02, LYWSD03MMC, Mi Scale, TPMS, BBQ thermo",
+  "official_website": "https://docs.openmqttgateway.com",
+  "documentation": "https://github.com/1technophile/OpenMQTTGateway#readme",
+  "github_repository": "https://github.com/1technophile/OpenMQTTGateway",
+  "license": "GPL-3.0",
+  "programming_languages": [
+    "C++"
+  ],
+  "platforms": [
+    "Linux",
+    "Embedded"
+  ],
+  "tags": [
+    "arduino",
+    "arduino-uno",
+    "ble",
+    "ble-beacons",
+    "bridge",
+    "esp32",
+    "esp8266",
+    "gateway",
+    "mqtt",
+    "openhab2",
+    "home-automation",
+    "home-assistant",
+    "wemos-d1",
+    "rcswitch",
+    "nodemcu"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 4073,
+    "forks": 894,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "v1.8.1",
+  "auto_discovered": true,
+  "quality_score": 80
+}

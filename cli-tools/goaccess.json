@@ -1,0 +1,51 @@
+{
+  "id": "goaccess",
+  "name": "goaccess",
+  "category": "cli-tools",
+  "description": "GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.",
+  "official_website": "https://goaccess.io",
+  "documentation": "https://github.com/allinurl/goaccess#readme",
+  "github_repository": "https://github.com/allinurl/goaccess",
+  "license": "MIT",
+  "programming_languages": [
+    "C"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "analytics",
+    "apache",
+    "c",
+    "caddy",
+    "cli",
+    "command-line",
+    "dashboard",
+    "data-analysis",
+    "goaccess",
+    "real-time",
+    "nginx",
+    "webserver",
+    "web-analytics",
+    "monitoring"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 20751,
+    "forks": 1190,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-05",
+  "last_updated": "2026-08-05",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 90
+}

@@ -1,0 +1,42 @@
+{
+  "id": "localsend",
+  "name": "localsend",
+  "category": "mobile",
+  "description": "An open-source cross-platform alternative to AirDrop",
+  "official_website": "https://localsend.org",
+  "documentation": "https://github.com/localsend/localsend#readme",
+  "github_repository": "https://github.com/localsend/localsend",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Dart"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "dart",
+    "file-sharing",
+    "flutter",
+    "flutter-apps"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 87239,
+    "forks": 4836,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "v1.18.0",
+  "auto_discovered": true,
+  "quality_score": 82
+}

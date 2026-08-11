@@ -1,0 +1,49 @@
+{
+  "id": "countly-sdk-android",
+  "name": "countly-sdk-android",
+  "category": "android",
+  "description": "Countly Digital Analytics Android SDK",
+  "official_website": "https://countly.com/",
+  "documentation": "https://github.com/Countly/countly-sdk-android#readme",
+  "github_repository": "https://github.com/Countly/countly-sdk-android",
+  "license": "MIT",
+  "programming_languages": [
+    "Java"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "android-sdk",
+    "crash",
+    "crash-reporting",
+    "crash-reports",
+    "java",
+    "messaging",
+    "notifications",
+    "open-source",
+    "push-api",
+    "push-notifications",
+    "sdk"
+  ],
+  "alternatives": [],
+  "popularity": 7,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 697,
+    "forks": 290,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "26.1.5",
+  "auto_discovered": true,
+  "quality_score": 65
+}

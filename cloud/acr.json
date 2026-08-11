@@ -1,0 +1,32 @@
+{
+  "id": "acr",
+  "name": "Azure Container Registry",
+  "category": "cloud",
+  "description": "Azure managed Docker registry for container image storage",
+  "official_website": "https://azure.microsoft.com/products/container-registry",
+  "documentation": "https://learn.microsoft.com/azure/container-registry",
+  "github_repository": "https://github.com/microsoft",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install acr"
+  },
+  "tags": [
+    "cloud",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

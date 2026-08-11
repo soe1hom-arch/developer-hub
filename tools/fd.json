@@ -1,0 +1,33 @@
+{
+  "id": "fd",
+  "name": "fd",
+  "category": "tools",
+  "description": "Simple, fast alternative to find command for file searching",
+  "official_website": "https://github.com/sharkdp/fd",
+  "documentation": "https://github.com/sharkdp/fd",
+  "github_repository": "https://github.com/github",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install fd"
+  },
+  "tags": [
+    "tools",
+    "tool",
+    "library"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

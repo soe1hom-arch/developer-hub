@@ -1,0 +1,33 @@
+{
+  "id": "sidekiq",
+  "name": "Sidekiq",
+  "category": "backend",
+  "description": "Background job processing for Ruby with thread-based concurrency",
+  "official_website": "https://sidekiq.org",
+  "documentation": "https://github.com/sidekiq/sidekiq/wiki",
+  "github_repository": "https://github.com/sidekiq",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install sidekiq"
+  },
+  "tags": [
+    "backend",
+    "tool",
+    "library"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

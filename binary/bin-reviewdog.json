@@ -1,0 +1,50 @@
+{
+  "id": "bin-reviewdog",
+  "name": "reviewdog",
+  "category": "binary",
+  "description": "\ud83d\udc36 Automated code review tool integrated with any code analysis tools regardless of programming language",
+  "official_website": "https://medium.com/@haya14busa/reviewdog-a-code-review-dog-who-keeps-your-codebase-healthy-d957c471938b#.8xctbaw5u",
+  "documentation": "https://github.com/reviewdog/reviewdog#readme",
+  "github_repository": "https://github.com/reviewdog/reviewdog",
+  "license": "MIT",
+  "latest_version": "v0.21.0",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS",
+    "Android"
+  ],
+  "tags": [
+    "bitbucket",
+    "ci",
+    "cli",
+    "code-quality",
+    "code-review",
+    "codereview",
+    "github",
+    "gitlab",
+    "binary",
+    "pre-built",
+    "linter",
+    "go",
+    "lint"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 9510,
+    "forks": 489,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "source": "binary-release"
+}

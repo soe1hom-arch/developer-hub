@@ -1,0 +1,44 @@
+{
+  "id": "bin-gitoxide",
+  "name": "gitoxide",
+  "category": "binary",
+  "description": "An idiomatic, lean, fast & safe pure Rust implementation of Git",
+  "official_website": "https://github.com/GitoxideLabs/gitoxide",
+  "documentation": "https://github.com/GitoxideLabs/gitoxide#readme",
+  "github_repository": "https://github.com/GitoxideLabs/gitoxide",
+  "license": "Apache-2.0",
+  "latest_version": "v0.56.0",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS",
+    "Android"
+  ],
+  "tags": [
+    "blazingly-fast",
+    "built-with-rust",
+    "cli",
+    "git",
+    "version-control",
+    "binary",
+    "pre-built"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 11761,
+    "forks": 518,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "source": "binary-release"
+}

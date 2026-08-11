@@ -1,0 +1,25 @@
+{
+  "id": "cloudflare",
+  "name": "Cloudflare",
+  "category": "cloud",
+  "description": "Web infrastructure and security platform with CDN, DNS, DDoS protection, serverless workers, and more",
+  "official_website": "https://cloudflare.com",
+  "documentation": "https://developers.cloudflare.com",
+  "github_repository": "https://github.com/cloudflare",
+  "license": "Proprietary",
+  "latest_version": "N/A",
+  "programming_languages": ["TypeScript", "JavaScript", "Rust", "Go"],
+  "platforms": ["Cloud", "Web"],
+  "package_manager": "npm",
+  "installation_examples": {
+    "npm": "npm install wrangler --save-dev"
+  },
+  "tags": ["cloud", "cdn", "dns", "security", "serverless", "workers"],
+  "alternatives": ["Fastly", "Akamai", "AWS CloudFront", "Vercel"],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": false,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "bin-fq",
+  "name": "fq",
+  "category": "binary",
+  "description": "jq for binary formats - tool, language and decoders for working with binary and text formats",
+  "official_website": "https://github.com/wader/fq",
+  "documentation": "https://github.com/wader/fq#readme",
+  "github_repository": "https://github.com/wader/fq",
+  "license": "NOASSERTION",
+  "latest_version": "v0.17.0",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux",
+    "Android",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "binary",
+    "cli",
+    "decode",
+    "go",
+    "golang",
+    "hexdump",
+    "jq",
+    "json",
+    "binary",
+    "pre-built",
+    "query",
+    "repl",
+    "pcap"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 10552,
+    "forks": 248,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "source": "binary-release"
+}

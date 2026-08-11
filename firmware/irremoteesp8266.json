@@ -1,0 +1,47 @@
+{
+  "id": "irremoteesp8266",
+  "name": "IRremoteESP8266",
+  "category": "firmware",
+  "description": "Infrared remote library for ESP8266/ESP32: send and receive infrared signals with multiple protocols. Based on: https://github.com/shirriff/Arduino-IRremote/",
+  "official_website": "https://github.com/crankyoldgit/IRremoteESP8266",
+  "documentation": "https://github.com/crankyoldgit/IRremoteESP8266#readme",
+  "github_repository": "https://github.com/crankyoldgit/IRremoteESP8266",
+  "license": "LGPL-2.1",
+  "programming_languages": [
+    "C++"
+  ],
+  "platforms": [
+    "Linux",
+    "Embedded"
+  ],
+  "tags": [
+    "940nm",
+    "airconditioners",
+    "arduino",
+    "arduino-ide",
+    "arduino-library",
+    "communication",
+    "esp32",
+    "esp8266",
+    "protocols",
+    "infrared",
+    "remote-control",
+    "home-automation"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 3559,
+    "forks": 927,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-09",
+  "last_updated": "2026-08-09",
+  "latest_version": "v2.9.0",
+  "auto_discovered": true,
+  "quality_score": 70
+}

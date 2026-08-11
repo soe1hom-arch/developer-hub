@@ -1,0 +1,45 @@
+{
+  "id": "bin-codewhale",
+  "name": "CodeWhale",
+  "category": "binary",
+  "description": "Open-source, community-driven agent harness",
+  "official_website": "https://codewhale.net/",
+  "documentation": "https://github.com/Hmbown/CodeWhale#readme",
+  "github_repository": "https://github.com/Hmbown/CodeWhale",
+  "license": "MIT",
+  "latest_version": "v0.9.3",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Linux",
+    "Android",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "cli",
+    "deepseek",
+    "llm",
+    "rust",
+    "terminal",
+    "tui",
+    "binary",
+    "pre-built"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 40540,
+    "forks": 3510,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "source": "binary-release"
+}

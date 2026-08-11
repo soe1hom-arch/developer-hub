@@ -1,0 +1,32 @@
+{
+  "id": "xcode",
+  "name": "Xcode",
+  "category": "macos",
+  "description": "Apple's integrated development environment for macOS and iOS apps",
+  "official_website": "https://developer.apple.com/xcode",
+  "documentation": "https://developer.apple.com/documentation/xcode",
+  "github_repository": "https://github.com/apple",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install xcode"
+  },
+  "tags": [
+    "macos",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

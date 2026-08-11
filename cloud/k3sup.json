@@ -1,0 +1,50 @@
+{
+  "id": "k3sup",
+  "name": "k3sup",
+  "category": "cloud",
+  "description": "bootstrap K3s over SSH in < 60s \ud83d\ude80",
+  "official_website": "https://github.com/sponsors/alexellis",
+  "documentation": "https://github.com/alexellis/k3sup#readme",
+  "github_repository": "https://github.com/alexellis/k3sup",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "cloud",
+    "cloud-native",
+    "devops",
+    "devtools",
+    "edge",
+    "go",
+    "k3s",
+    "k8s",
+    "kubernetes",
+    "raspberry-pi",
+    "vm"
+  ],
+  "alternatives": [],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 7407,
+    "forks": 432,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-05",
+  "last_updated": "2026-08-05",
+  "latest_version": "0.13.12",
+  "auto_discovered": true,
+  "quality_score": 65
+}

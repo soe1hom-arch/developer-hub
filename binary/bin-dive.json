@@ -1,0 +1,45 @@
+{
+  "id": "bin-dive",
+  "name": "dive",
+  "category": "binary",
+  "description": "A tool for exploring each layer in a docker image",
+  "official_website": "https://github.com/wagoodman/dive",
+  "documentation": "https://github.com/wagoodman/dive#readme",
+  "github_repository": "https://github.com/wagoodman/dive",
+  "license": "MIT",
+  "latest_version": "v0.13.1",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux",
+    "Windows",
+    "macOS",
+    "Android"
+  ],
+  "tags": [
+    "cli",
+    "docker",
+    "docker-image",
+    "explorer",
+    "inspector",
+    "tui",
+    "binary",
+    "pre-built"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 54427,
+    "forks": 1993,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "source": "binary-release"
+}

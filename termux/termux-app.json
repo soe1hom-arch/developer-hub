@@ -1,0 +1,40 @@
+{
+  "id": "termux-app",
+  "name": "termux-app",
+  "category": "termux",
+  "description": "Termux - a terminal emulator application for Android OS extendible by variety of packages.",
+  "official_website": "https://f-droid.org/en/packages/com.termux",
+  "documentation": "https://github.com/termux/termux-app#readme",
+  "github_repository": "https://github.com/termux/termux-app",
+  "license": "NOASSERTION",
+  "latest_version": "v0.118.3",
+  "programming_languages": [
+    "Java"
+  ],
+  "platforms": [
+    "Termux",
+    "Android"
+  ],
+  "tags": [
+    "android",
+    "hacktoberfest",
+    "linux",
+    "terminal",
+    "termux",
+    "cli"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 58834,
+    "forks": 7153,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "source": "termux-github"
+}

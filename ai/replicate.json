@@ -1,0 +1,19 @@
+{
+  "id": "replicate",
+  "name": "Replicate",
+  "category": "ai",
+  "description": "Cloud platform for running and deploying machine learning models via API",
+  "official_website": "https://replicate.com",
+  "documentation": "https://replicate.com/docs",
+  "github_repository": "https://github.com/replicate",
+  "license": "Proprietary",
+  "latest_version": "N/A",
+  "programming_languages": ["Python", "TypeScript", "Go"],
+  "platforms": ["Cloud", "API"],
+  "package_manager": "pip",
+  "installation_examples": {"pip": "pip install replicate"},
+  "tags": ["ai", "ml", "model-hosting", "api", "inference", "cloud"],
+  "alternatives": ["Hugging Face", "Modal", "Banana", "Cerebrium"],
+  "popularity": 8, "maintained": true, "archived": false, "open_source": false,
+  "last_checked": "2026-07-11", "last_updated": "2026-07-11"
+}

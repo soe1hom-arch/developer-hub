@@ -1,0 +1,33 @@
+{
+  "id": "jq",
+  "name": "jq",
+  "category": "tools",
+  "description": "Lightweight command-line JSON processor with powerful query language",
+  "official_website": "https://jqlang.github.io/jq",
+  "documentation": "https://jqlang.github.io/jq/manual",
+  "github_repository": "https://github.com/github",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install jq"
+  },
+  "tags": [
+    "tools",
+    "tool",
+    "library"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

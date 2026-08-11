@@ -1,0 +1,46 @@
+{
+  "id": "zx",
+  "name": "zx",
+  "category": "cli-tools",
+  "description": "A tool for writing better scripts",
+  "official_website": "https://google.github.io/zx/",
+  "documentation": "https://github.com/google/zx#readme",
+  "github_repository": "https://github.com/google/zx",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "JavaScript"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "bash",
+    "child-process",
+    "cli",
+    "exec",
+    "javascript",
+    "nodejs",
+    "pipe",
+    "shell",
+    "spawn"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 45656,
+    "forks": 1280,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "8.8.5",
+  "auto_discovered": true,
+  "quality_score": 80
+}

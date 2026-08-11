@@ -1,0 +1,44 @@
+{
+  "id": "mongoose-os",
+  "name": "mongoose-os",
+  "category": "firmware",
+  "description": "Mongoose OS - an IoT Firmware Development Framework. Supported microcontrollers: ESP32, ESP8266, CC3220, CC3200, STM32F4, STM32L4, STM32F7. Amazon AWS IoT, Microsoft Azure, Google IoT Core integrated.",
+  "official_website": "https://mongoose-os.com",
+  "documentation": "https://github.com/cesanta/mongoose-os#readme",
+  "github_repository": "https://github.com/cesanta/mongoose-os",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "C"
+  ],
+  "platforms": [
+    "Linux",
+    "Embedded"
+  ],
+  "tags": [
+    "aws",
+    "aws-iot",
+    "cc3200",
+    "esp32",
+    "esp8266",
+    "firmware",
+    "iot",
+    "iot-platform",
+    "stm32"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 2661,
+    "forks": 437,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "latest_version": "2.20.0",
+  "auto_discovered": true,
+  "quality_score": 80
+}

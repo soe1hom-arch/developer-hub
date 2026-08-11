@@ -1,0 +1,33 @@
+{
+  "id": "argocd",
+  "name": "Argo CD",
+  "category": "devops",
+  "description": "Declarative GitOps continuous delivery tool for Kubernetes",
+  "official_website": "https://argo-cd.readthedocs.io",
+  "documentation": "https://argo-cd.readthedocs.io",
+  "github_repository": "https://github.com/readthedocs",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install argocd"
+  },
+  "tags": [
+    "devops",
+    "tool",
+    "library"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

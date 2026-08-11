@@ -1,0 +1,33 @@
+{
+  "id": "docker-compose-v2",
+  "name": "Docker Compose V2",
+  "category": "tools",
+  "description": "Modern Docker Compose integration as a Docker CLI plugin",
+  "official_website": "https://docs.docker.com/compose",
+  "documentation": "https://docs.docker.com/compose",
+  "github_repository": "https://github.com/docker",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install docker-compose-v2"
+  },
+  "tags": [
+    "tools",
+    "tool",
+    "library"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

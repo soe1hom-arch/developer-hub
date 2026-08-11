@@ -1,0 +1,32 @@
+{
+  "id": "elixir",
+  "name": "Elixir",
+  "category": "languages",
+  "description": "Functional, concurrent language built on Erlang VM for scalable apps",
+  "official_website": "https://elixir-lang.org",
+  "documentation": "https://elixir-lang.org/docs",
+  "github_repository": "https://github.com/elixir-lang",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install elixir"
+  },
+  "tags": [
+    "languages",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

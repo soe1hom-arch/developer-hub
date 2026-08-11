@@ -1,0 +1,52 @@
+{
+  "id": "lastbackend",
+  "name": "lastbackend",
+  "category": "devops",
+  "description": "System for containerized apps management. From build to scaling.",
+  "official_website": "https://lastbackend.com",
+  "documentation": "https://github.com/lastbackend/lastbackend#readme",
+  "github_repository": "https://github.com/lastbackend/lastbackend",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "backend",
+    "cd",
+    "ci",
+    "cloud",
+    "container",
+    "containers",
+    "continuous-delivery",
+    "continuous-integration",
+    "docker",
+    "hosting",
+    "go",
+    "golang",
+    "lastbackend"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 1656,
+    "forks": 113,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-09",
+  "last_updated": "2026-08-09",
+  "latest_version": "v0.1.0-beta1",
+  "auto_discovered": true,
+  "quality_score": 75
+}

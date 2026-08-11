@@ -1,0 +1,54 @@
+{
+  "id": "bin-sftpgo",
+  "name": "sftpgo",
+  "category": "binary",
+  "description": "Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob",
+  "official_website": "https://sftpgo.com",
+  "documentation": "https://github.com/drakkan/sftpgo#readme",
+  "github_repository": "https://github.com/drakkan/sftpgo",
+  "license": "AGPL-3.0",
+  "latest_version": "v2.7.5",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux",
+    "Android",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "azure-blob",
+    "cloud-storage",
+    "data-at-rest-encryption",
+    "docker",
+    "ftp",
+    "ftp-server",
+    "go",
+    "google-cloud-storage",
+    "binary",
+    "pre-built",
+    "sftp-server",
+    "sftp",
+    "scp",
+    "prometheus",
+    "multi-factor-authentication",
+    "portable",
+    "proxy-protocol"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 12371,
+    "forks": 947,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "source": "binary-release"
+}

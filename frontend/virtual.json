@@ -1,0 +1,47 @@
+{
+  "id": "virtual",
+  "name": "virtual",
+  "category": "frontend",
+  "description": "\ud83e\udd16 Headless UI for Virtualizing Large Element Lists in JS/TS, React, Solid, Vue and Svelte",
+  "official_website": "https://tanstack.com/virtual",
+  "documentation": "https://github.com/TanStack/virtual#readme",
+  "github_repository": "https://github.com/TanStack/virtual",
+  "license": "MIT",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "javascript",
+    "performance",
+    "react",
+    "reactjs",
+    "scrolling",
+    "solid",
+    "solidjs",
+    "svelte",
+    "virtualization",
+    "virtualized"
+  ],
+  "alternatives": [],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 7040,
+    "forks": 452,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-05",
+  "last_updated": "2026-08-05",
+  "latest_version": "@tanstack/marko-virtual@3.15.0",
+  "auto_discovered": true,
+  "quality_score": 80
+}

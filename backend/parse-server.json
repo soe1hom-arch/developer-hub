@@ -1,0 +1,52 @@
+{
+  "id": "parse-server",
+  "name": "parse-server",
+  "category": "backend",
+  "description": "Parse Server for Node.js / Express",
+  "official_website": "https://parseplatform.org",
+  "documentation": "https://github.com/parse-community/parse-server#readme",
+  "github_repository": "https://github.com/parse-community/parse-server",
+  "license": "Apache-2.0",
+  "latest_version": "9.10.0",
+  "programming_languages": [
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android"
+  ],
+  "tags": [
+    "baas",
+    "backend",
+    "file-storage",
+    "graphql",
+    "graphql-api",
+    "graphql-relay",
+    "graphql-server",
+    "hacktoberfest",
+    "parse-server",
+    "parse-platform",
+    "mongodb",
+    "postgres",
+    "rest-api",
+    "object-storage",
+    "nodejs"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 21408,
+    "forks": 4816,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-09",
+  "last_updated": "2026-08-09"
+}

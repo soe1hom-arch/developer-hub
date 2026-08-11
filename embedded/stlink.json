@@ -1,0 +1,47 @@
+{
+  "id": "stlink",
+  "name": "stlink",
+  "category": "embedded",
+  "description": "Open source STM32 MCU programming toolset",
+  "official_website": "https://github.com/stlink-org/stlink",
+  "documentation": "https://github.com/stlink-org/stlink#readme",
+  "github_repository": "https://github.com/stlink-org/stlink",
+  "license": "BSD-3-Clause",
+  "programming_languages": [
+    "C"
+  ],
+  "platforms": [
+    "Linux",
+    "Embedded"
+  ],
+  "tags": [
+    "arm",
+    "board",
+    "chip",
+    "cortex-m",
+    "embedded",
+    "gdb",
+    "mcu",
+    "microcontroller",
+    "stlink",
+    "stm32",
+    "nucleo",
+    "toolset"
+  ],
+  "alternatives": [],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 5124,
+    "forks": 1323,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-09",
+  "last_updated": "2026-08-09",
+  "latest_version": "v1.8.0",
+  "auto_discovered": true,
+  "quality_score": 65
+}

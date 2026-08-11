@@ -1,0 +1,51 @@
+{
+  "id": "terminalizer",
+  "name": "terminalizer",
+  "category": "cli-tools",
+  "description": "\ud83e\udd84 Record your terminal and generate animated gif images or share a web player",
+  "official_website": "https://terminalizer.com",
+  "documentation": "https://github.com/faressoft/terminalizer#readme",
+  "github_repository": "https://github.com/faressoft/terminalizer",
+  "license": "MIT",
+  "programming_languages": [
+    "JavaScript"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "animated",
+    "bash",
+    "bash-profile",
+    "capture",
+    "colors",
+    "command-line",
+    "font",
+    "generate",
+    "terminal",
+    "record",
+    "shot",
+    "powershell",
+    "gif",
+    "theme"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 16142,
+    "forks": 522,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

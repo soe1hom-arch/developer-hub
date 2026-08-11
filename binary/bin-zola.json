@@ -1,0 +1,49 @@
+{
+  "id": "bin-zola",
+  "name": "zola",
+  "category": "binary",
+  "description": "A fast static site generator in a single binary with everything built-in. https://www.getzola.org",
+  "official_website": "https://www.getzola.org",
+  "documentation": "https://github.com/getzola/zola#readme",
+  "github_repository": "https://github.com/getzola/zola",
+  "license": "EUPL-1.2",
+  "latest_version": "v0.23.2",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "blog-engine",
+    "cms",
+    "content-management-system",
+    "documentation-tool",
+    "markdown",
+    "markdown-to-html",
+    "binary",
+    "pre-built",
+    "static",
+    "site-generator",
+    "rust",
+    "tera",
+    "static-site-generator"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 17307,
+    "forks": 1170,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "source": "binary-release"
+}

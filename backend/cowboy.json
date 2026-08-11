@@ -1,0 +1,51 @@
+{
+  "id": "cowboy",
+  "name": "cowboy",
+  "category": "backend",
+  "description": "Small, fast, modern HTTP server for Erlang/OTP.",
+  "official_website": "https://ninenines.eu",
+  "documentation": "https://github.com/ninenines/cowboy#readme",
+  "github_repository": "https://github.com/ninenines/cowboy",
+  "license": "ISC",
+  "programming_languages": [
+    "Erlang"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "cowboy",
+    "erlang",
+    "functional",
+    "high-performance",
+    "http",
+    "http-server",
+    "http2",
+    "http2-server",
+    "websocket",
+    "websockets",
+    "websocket-server",
+    "rest"
+  ],
+  "alternatives": [],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 7523,
+    "forks": 1169,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 75
+}

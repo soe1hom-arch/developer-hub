@@ -1,0 +1,55 @@
+{
+  "id": "pipecd",
+  "name": "pipecd",
+  "category": "devops",
+  "description": "The One CD for All {applications, platforms, operations}",
+  "official_website": "https://pipecd.dev",
+  "documentation": "https://github.com/pipe-cd/pipecd#readme",
+  "github_repository": "https://github.com/pipe-cd/pipecd",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "cd",
+    "ci-cd",
+    "cicd",
+    "cloudrun",
+    "cncf",
+    "cncf-project",
+    "continuous-delivery",
+    "devops",
+    "kubernetes",
+    "terraform",
+    "serverless",
+    "gitops",
+    "infrastructure",
+    "istio",
+    "ecs",
+    "lambda"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 1339,
+    "forks": 344,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-09",
+  "last_updated": "2026-08-09",
+  "latest_version": "v0.57.0",
+  "auto_discovered": true,
+  "quality_score": 75
+}

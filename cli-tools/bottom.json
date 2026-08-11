@@ -1,0 +1,46 @@
+{
+  "id": "bottom",
+  "name": "bottom",
+  "category": "cli-tools",
+  "description": "Yet another cross-platform graphical process/system monitor.",
+  "official_website": "https://bottom.pages.dev",
+  "documentation": "https://github.com/ClementTsang/bottom#readme",
+  "github_repository": "https://github.com/ClementTsang/bottom",
+  "license": "MIT",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "bottom",
+    "btm",
+    "cli",
+    "cross-platform",
+    "monitoring",
+    "rust",
+    "terminal",
+    "top",
+    "tui"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 13843,
+    "forks": 369,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-07",
+  "last_updated": "2026-08-07",
+  "latest_version": "0.14.7",
+  "auto_discovered": true,
+  "quality_score": 85
+}

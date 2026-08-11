@@ -1,0 +1,48 @@
+{
+  "id": "matomo-sdk-android",
+  "name": "matomo-sdk-android",
+  "category": "android",
+  "description": "SDK for Android to measure your apps with Matomo. Works on Android phones, tablets, Fire TV sticks, and more!",
+  "official_website": "https://github.com/matomo-org/matomo-sdk-android",
+  "documentation": "https://github.com/matomo-org/matomo-sdk-android#readme",
+  "github_repository": "https://github.com/matomo-org/matomo-sdk-android",
+  "license": "BSD-3-Clause",
+  "programming_languages": [
+    "Java"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "analytics",
+    "android",
+    "android-sdk",
+    "java",
+    "matomo",
+    "matomo-sdk",
+    "metrics",
+    "piwik",
+    "piwik-sdk",
+    "tracker"
+  ],
+  "alternatives": [],
+  "popularity": 6,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 425,
+    "forks": 168,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-06",
+  "last_updated": "2026-08-06",
+  "latest_version": "4.4",
+  "auto_discovered": true,
+  "quality_score": 60
+}

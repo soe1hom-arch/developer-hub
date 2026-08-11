@@ -1,0 +1,39 @@
+{
+  "id": "wifiduck",
+  "name": "WiFiDuck",
+  "category": "firmware",
+  "description": "Wireless keystroke injection attack platform",
+  "official_website": "http://wifiduck.com",
+  "documentation": "https://github.com/SpacehuhnTech/WiFiDuck#readme",
+  "github_repository": "https://github.com/SpacehuhnTech/WiFiDuck",
+  "license": "MIT",
+  "programming_languages": [
+    "C++"
+  ],
+  "platforms": [
+    "Linux",
+    "Embedded"
+  ],
+  "tags": [
+    "arduino",
+    "esp8266",
+    "hacktoberfest",
+    "hid"
+  ],
+  "alternatives": [],
+  "popularity": 8,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 3117,
+    "forks": 457,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "1.1.0",
+  "auto_discovered": true,
+  "quality_score": 67
+}

@@ -1,0 +1,55 @@
+{
+  "id": "opencv",
+  "name": "OpenCV",
+  "category": "ai",
+  "description": "Open-source computer vision library with thousands of algorithms for image and video analysis",
+  "official_website": "https://opencv.org",
+  "documentation": "https://docs.opencv.org",
+  "github_repository": "https://github.com/opencv/opencv",
+  "license": "Apache-2.0",
+  "latest_version": "5.0.0",
+  "programming_languages": [
+    "C++",
+    "Python",
+    "Java"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "iOS"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install opencv-python"
+  },
+  "tags": [
+    "ai",
+    "computer-vision",
+    "image-processing",
+    "c++",
+    "python",
+    "opencv",
+    "c-plus-plus",
+    "deep-learning"
+  ],
+  "alternatives": [
+    "Pillow",
+    "scikit-image",
+    "Dlib",
+    "MATLAB Vision"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "repository_statistics": {
+    "stars": 90340,
+    "forks": 56958,
+    "open_issues": 0,
+    "watchers": 0
+  }
+}

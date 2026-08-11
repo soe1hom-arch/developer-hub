@@ -1,0 +1,47 @@
+{
+  "id": "halp",
+  "name": "halp",
+  "category": "cli-tools",
+  "description": "A CLI tool to get help with CLI tools \ud83d\udc19",
+  "official_website": "https://halp.cli.rs/",
+  "documentation": "https://github.com/orhun/halp#readme",
+  "github_repository": "https://github.com/orhun/halp",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "cli",
+    "cli-command",
+    "cli-helper",
+    "cli-helpers",
+    "cli-tool",
+    "cli-tools",
+    "command-line",
+    "command-line-tool",
+    "rust",
+    "command-line-tools"
+  ],
+  "alternatives": [],
+  "popularity": 7,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 764,
+    "forks": 14,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "latest_version": "v0.2.0",
+  "auto_discovered": true,
+  "quality_score": 65
+}

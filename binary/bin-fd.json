@@ -1,0 +1,48 @@
+{
+  "id": "bin-fd",
+  "name": "fd",
+  "category": "binary",
+  "description": "A simple, fast and user-friendly alternative to 'find'",
+  "official_website": "https://github.com/sharkdp/fd",
+  "documentation": "https://github.com/sharkdp/fd#readme",
+  "github_repository": "https://github.com/sharkdp/fd",
+  "license": "Apache-2.0",
+  "latest_version": "v10.4.2",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Linux",
+    "Android",
+    "Windows",
+    "macOS"
+  ],
+  "tags": [
+    "cli",
+    "command-line",
+    "filesystem",
+    "hacktoberfest",
+    "regex",
+    "rust",
+    "search",
+    "terminal",
+    "binary",
+    "pre-built",
+    "tool"
+  ],
+  "has_binaries": true,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 43999,
+    "forks": 1108,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "source": "binary-release"
+}

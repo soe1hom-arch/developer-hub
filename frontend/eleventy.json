@@ -1,0 +1,32 @@
+{
+  "id": "eleventy",
+  "name": "11ty",
+  "category": "frontend",
+  "description": "Simpler static site generator with zero client-side JavaScript by default",
+  "official_website": "https://11ty.dev",
+  "documentation": "https://11ty.dev/docs",
+  "github_repository": "https://github.com/11ty",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install eleventy"
+  },
+  "tags": [
+    "frontend",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

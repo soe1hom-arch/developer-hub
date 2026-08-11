@@ -1,0 +1,50 @@
+{
+  "id": "claude-mem",
+  "name": "claude-mem",
+  "category": "ai",
+  "description": "Persistent Context Across Sessions for Every Agent \u2013  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla",
+  "official_website": "https://claude-mem.ai",
+  "documentation": "https://github.com/thedotmack/claude-mem#readme",
+  "github_repository": "https://github.com/thedotmack/claude-mem",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "ai",
+    "ai-agents",
+    "ai-memory",
+    "anthropic",
+    "artificial-intelligence",
+    "chromadb",
+    "claude",
+    "claude-agent-sdk",
+    "claude-agents",
+    "claude-code",
+    "claude-code-plugin"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 90338,
+    "forks": 7867,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "v13.15.0",
+  "auto_discovered": true,
+  "quality_score": 90
+}

@@ -1,0 +1,45 @@
+{
+  "id": "scoutsuite",
+  "name": "ScoutSuite",
+  "category": "cloud",
+  "description": "Multi-Cloud Security Auditing Tool",
+  "official_website": "https://github.com/nccgroup/ScoutSuite",
+  "documentation": "https://github.com/nccgroup/ScoutSuite#readme",
+  "github_repository": "https://github.com/nccgroup/ScoutSuite",
+  "license": "GPL-2.0",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "auditing",
+    "aws",
+    "azure",
+    "cloud",
+    "gcp",
+    "security"
+  ],
+  "alternatives": [],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 7787,
+    "forks": 1222,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "latest_version": "5.14.0",
+  "auto_discovered": true,
+  "quality_score": 65
+}

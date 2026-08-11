@@ -1,0 +1,50 @@
+{
+  "id": "surrealdb",
+  "name": "surrealdb",
+  "category": "database",
+  "description": "A scalable, distributed, collaborative, document-graph database, for the realtime web",
+  "official_website": "https://surrealdb.com",
+  "documentation": "https://github.com/surrealdb/surrealdb#readme",
+  "github_repository": "https://github.com/surrealdb/surrealdb",
+  "license": "NOASSERTION",
+  "latest_version": "v3.2.0",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "backend-as-a-service",
+    "cloud-database",
+    "database",
+    "database-as-a-service",
+    "developer-tools",
+    "devtools",
+    "distributed",
+    "distributed-database",
+    "document-database",
+    "realtime-database",
+    "serverless",
+    "web"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 32843,
+    "forks": 1328,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-09",
+  "last_updated": "2026-08-09"
+}

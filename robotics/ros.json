@@ -1,0 +1,25 @@
+{
+  "id": "ros",
+  "name": "ROS (Robot Operating System)",
+  "category": "robotics",
+  "description": "Flexible framework for writing robot software with publisher/subscriber message passing",
+  "official_website": "https://ros.org",
+  "documentation": "https://docs.ros.org",
+  "github_repository": "https://github.com/ros",
+  "license": "BSD-3-Clause",
+  "latest_version": "ROS 2 Humble",
+  "programming_languages": ["C++", "Python"],
+  "platforms": ["Linux", "Windows"],
+  "package_manager": "apt",
+  "installation_examples": {
+    "apt": "sudo apt install ros-humble-desktop"
+  },
+  "tags": ["robotics", "middleware", "messages", "simulation", "sensors"],
+  "alternatives": ["LCM", "YARP", "Player/Stage", "MOOS"],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-11",
+  "last_updated": "2026-07-11"
+}

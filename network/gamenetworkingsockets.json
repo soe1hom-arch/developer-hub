@@ -1,0 +1,44 @@
+{
+  "id": "gamenetworkingsockets",
+  "name": "GameNetworkingSockets",
+  "category": "network",
+  "description": "Reliable & unreliable messages over UDP.  Robust message fragmentation & reassembly.  P2P networking / NAT traversal.  Encryption.",
+  "official_website": "https://github.com/ValveSoftware/GameNetworkingSockets",
+  "documentation": "https://github.com/ValveSoftware/GameNetworkingSockets#readme",
+  "github_repository": "https://github.com/ValveSoftware/GameNetworkingSockets",
+  "license": "BSD-3-Clause",
+  "programming_languages": [
+    "C++"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "game-development",
+    "networking",
+    "peer-to-peer",
+    "realtime-messaging",
+    "reliable-messages"
+  ],
+  "alternatives": [],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 9825,
+    "forks": 736,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-09",
+  "last_updated": "2026-08-09",
+  "latest_version": "v1.6.0",
+  "auto_discovered": true,
+  "quality_score": 75
+}

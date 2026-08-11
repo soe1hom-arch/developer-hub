@@ -1,0 +1,45 @@
+{
+  "id": "neofetch",
+  "name": "neofetch",
+  "category": "cli-tools",
+  "description": "\ud83d\uddbc\ufe0f  A command-line system information tool written in bash 3.2+",
+  "official_website": "https://github.com/dylanaraps/neofetch",
+  "documentation": "https://github.com/dylanaraps/neofetch#readme",
+  "github_repository": "https://github.com/dylanaraps/neofetch",
+  "license": "MIT",
+  "latest_version": "7.1.0",
+  "programming_languages": [
+    "Shell"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "bash",
+    "command-line",
+    "commandline",
+    "distro",
+    "neofetch",
+    "screenshot",
+    "script",
+    "cli",
+    "command-line"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": false,
+  "archived": true,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 23716,
+    "forks": 1781,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "source": "cli-github"
+}

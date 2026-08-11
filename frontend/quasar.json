@@ -1,0 +1,50 @@
+{
+  "id": "quasar",
+  "name": "quasar",
+  "category": "frontend",
+  "description": "Quasar Framework - Build high-performance VueJS user interfaces in record time",
+  "official_website": "https://quasar.dev",
+  "documentation": "https://github.com/quasarframework/quasar#readme",
+  "github_repository": "https://github.com/quasarframework/quasar",
+  "license": "MIT",
+  "programming_languages": [
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "android",
+    "browser-extension",
+    "electron",
+    "ios",
+    "javascript",
+    "material",
+    "material-components",
+    "material-design",
+    "quasar-framework",
+    "vuejs",
+    "vue",
+    "vue-component",
+    "vue-components"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 27204,
+    "forks": 3685,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "quasar-v2.24.0",
+  "auto_discovered": true,
+  "quality_score": 85
+}

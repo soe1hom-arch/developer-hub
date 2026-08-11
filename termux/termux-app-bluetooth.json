@@ -1,0 +1,42 @@
+{
+  "id": "termux-app-bluetooth",
+  "name": "termux-app-bluetooth",
+  "category": "termux",
+  "description": "This repository allows to use bluetooth (and ble) scan command from the termux console (version 0.64 of the Termux Project, so this repository is not official, it is just my modified version for termu",
+  "official_website": "https://github.com/StevenSalazarM/termux-app-bluetooth",
+  "documentation": "https://github.com/StevenSalazarM/termux-app-bluetooth#readme",
+  "github_repository": "https://github.com/StevenSalazarM/termux-app-bluetooth",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "Java"
+  ],
+  "platforms": [
+    "Termux",
+    "Android",
+    "Linux"
+  ],
+  "tags": [
+    "android",
+    "bluetooth",
+    "bluetooth-low-energy",
+    "termux",
+    "termux-api",
+    "termux-app"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 56,
+    "forks": 15,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "latest_version": "v0.2",
+  "auto_discovered": true,
+  "quality_score": 55
+}

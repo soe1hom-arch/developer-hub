@@ -1,0 +1,48 @@
+{
+  "id": "opencat-quadruped-robot",
+  "name": "OpenCat-Quadruped-Robot",
+  "category": "iot",
+  "description": "An open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications, AI-enhanced robo",
+  "official_website": "https://www.petoi.com",
+  "documentation": "https://github.com/PetoiCamp/OpenCat-Quadruped-Robot#readme",
+  "github_repository": "https://github.com/PetoiCamp/OpenCat-Quadruped-Robot",
+  "license": "MIT",
+  "programming_languages": [
+    "C++"
+  ],
+  "platforms": [
+    "Linux",
+    "Embedded"
+  ],
+  "tags": [
+    "ai",
+    "arduino",
+    "block-coding",
+    "education",
+    "iot",
+    "legged-robot",
+    "quadruped",
+    "quadruped-robot-gaits",
+    "walking",
+    "stem",
+    "simulation",
+    "raspberry-pi",
+    "robotics"
+  ],
+  "alternatives": [],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 5078,
+    "forks": 605,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "1.2.5",
+  "auto_discovered": true,
+  "quality_score": 80
+}

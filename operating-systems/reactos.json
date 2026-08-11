@@ -1,0 +1,51 @@
+{
+  "id": "reactos",
+  "name": "reactos",
+  "category": "operating-systems",
+  "description": "A free Windows-compatible Operating System",
+  "official_website": "https://reactos.org/",
+  "documentation": "https://github.com/reactos/reactos#readme",
+  "github_repository": "https://github.com/reactos/reactos",
+  "license": "GPL-2.0",
+  "programming_languages": [
+    "C"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "c",
+    "drivers",
+    "gpl",
+    "hacktoberfest",
+    "kernel",
+    "operating-system",
+    "os",
+    "osdev",
+    "x86",
+    "windows",
+    "win32",
+    "win32api"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 17906,
+    "forks": 2179,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "0.4.15-release",
+  "auto_discovered": true,
+  "quality_score": 80
+}

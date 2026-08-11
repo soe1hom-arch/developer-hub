@@ -1,0 +1,41 @@
+{
+  "id": "reactivecocoa",
+  "name": "ReactiveCocoa",
+  "category": "mobile",
+  "description": "Cocoa framework and Obj-C dynamism bindings for ReactiveSwift.",
+  "official_website": "https://github.com/ReactiveCocoa/ReactiveCocoa",
+  "documentation": "https://github.com/ReactiveCocoa/ReactiveCocoa#readme",
+  "github_repository": "https://github.com/ReactiveCocoa/ReactiveCocoa",
+  "license": "MIT",
+  "programming_languages": [
+    "Swift"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "reactivecocoa",
+    "reactiveswift",
+    "swift"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 19821,
+    "forks": 3410,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-09",
+  "last_updated": "2026-08-09",
+  "latest_version": "12.0.0",
+  "auto_discovered": true,
+  "quality_score": 72
+}

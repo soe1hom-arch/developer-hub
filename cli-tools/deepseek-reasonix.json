@@ -1,0 +1,52 @@
+{
+  "id": "deepseek-reasonix",
+  "name": "DeepSeek-Reasonix",
+  "category": "cli-tools",
+  "description": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability \u2014 leave it running.",
+  "official_website": "http://reasonix.io/",
+  "documentation": "https://github.com/esengine/DeepSeek-Reasonix#readme",
+  "github_repository": "https://github.com/esengine/DeepSeek-Reasonix",
+  "license": "MIT",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "agent",
+    "agent-framework",
+    "ai-agent",
+    "ai-coding",
+    "cli",
+    "coding-agent",
+    "deepseek",
+    "developer-tools",
+    "ink",
+    "llm",
+    "prompt-caching",
+    "r1",
+    "tool-use",
+    "tui",
+    "typescript"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 33742,
+    "forks": 2194,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "desktop-v1.23.0",
+  "auto_discovered": true,
+  "quality_score": 90
+}

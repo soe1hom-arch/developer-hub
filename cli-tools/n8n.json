@@ -1,0 +1,52 @@
+{
+  "id": "n8n",
+  "name": "n8n",
+  "category": "cli-tools",
+  "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+  "official_website": "https://n8n.io",
+  "documentation": "https://github.com/n8n-io/n8n#readme",
+  "github_repository": "https://github.com/n8n-io/n8n",
+  "license": "NOASSERTION",
+  "latest_version": "n8n@2.33.7",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "ai",
+    "apis",
+    "automation",
+    "cli",
+    "data-flow",
+    "development",
+    "integration-framework",
+    "integrations",
+    "ipaas",
+    "n8n",
+    "workflow",
+    "typescript",
+    "self-hosted",
+    "workflow-automation"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 199867,
+    "forks": 60010,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-09",
+  "last_updated": "2026-08-09"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "checkov",
+  "name": "checkov",
+  "category": "cloud",
+  "description": "Prevent cloud misconfigurations and find vulnerabilities during build-time in infrastructure as code, container images and open source packages with Checkov by Bridgecrew.",
+  "official_website": "https://www.checkov.io/",
+  "documentation": "https://github.com/bridgecrewio/checkov#readme",
+  "github_repository": "https://github.com/bridgecrewio/checkov",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "aws",
+    "aws-security",
+    "azure",
+    "cloudformation",
+    "compliance",
+    "devops",
+    "gcp",
+    "hacktoberfest",
+    "terraform",
+    "static-analysis",
+    "scans",
+    "kubernetes"
+  ],
+  "alternatives": [],
+  "popularity": 9,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 8920,
+    "forks": 1380,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "latest_version": "3.3.9",
+  "auto_discovered": true,
+  "quality_score": 85
+}

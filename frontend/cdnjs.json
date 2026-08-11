@@ -1,0 +1,50 @@
+{
+  "id": "cdnjs",
+  "name": "cdnjs",
+  "category": "frontend",
+  "description": "\ud83e\udd16 CDN assets - The #1 free and open source CDN built to make life easier for developers.",
+  "official_website": "https://cdnjs.com",
+  "documentation": "https://github.com/cdnjs/cdnjs#readme",
+  "github_repository": "https://github.com/cdnjs/cdnjs",
+  "license": "MIT",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "cdn",
+    "cdnjs",
+    "css",
+    "fast",
+    "font",
+    "foss",
+    "framework",
+    "front-end",
+    "javascript",
+    "library",
+    "web",
+    "opensource",
+    "js"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 10728,
+    "forks": 4475,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

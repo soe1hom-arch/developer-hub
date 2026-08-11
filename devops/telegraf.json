@@ -1,0 +1,50 @@
+{
+  "id": "telegraf",
+  "name": "telegraf",
+  "category": "devops",
+  "description": "Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.",
+  "official_website": "https://influxdata.com/telegraf",
+  "documentation": "https://github.com/influxdata/telegraf#readme",
+  "github_repository": "https://github.com/influxdata/telegraf",
+  "license": "MIT",
+  "programming_languages": [
+    "Go"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "golang",
+    "hacktoberfest",
+    "influxdb",
+    "json",
+    "kafka",
+    "logs",
+    "metrics",
+    "modbus",
+    "telegraf",
+    "monitoring",
+    "time-series"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 17732,
+    "forks": 5830,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-06",
+  "last_updated": "2026-08-06",
+  "latest_version": "v1.39.2",
+  "auto_discovered": true,
+  "quality_score": 85
+}

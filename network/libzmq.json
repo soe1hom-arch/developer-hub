@@ -1,0 +1,50 @@
+{
+  "id": "libzmq",
+  "name": "libzmq",
+  "category": "network",
+  "description": "ZeroMQ core engine in C++, implements ZMTP/3.1",
+  "official_website": "https://www.zeromq.org",
+  "documentation": "https://github.com/zeromq/libzmq#readme",
+  "github_repository": "https://github.com/zeromq/libzmq",
+  "license": "MPL-2.0",
+  "programming_languages": [
+    "C++"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "concurrency",
+    "libzmq",
+    "messaging",
+    "network",
+    "networking",
+    "pubsub",
+    "pushpull",
+    "stream",
+    "zeromq",
+    "zmq",
+    "zmtp"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 10961,
+    "forks": 2488,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "v4.3.5",
+  "auto_discovered": true,
+  "quality_score": 80
+}

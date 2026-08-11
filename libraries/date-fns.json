@@ -1,0 +1,32 @@
+{
+  "id": "date-fns",
+  "name": "date-fns",
+  "category": "libraries",
+  "description": "Modular JavaScript date utility library with functional programming",
+  "official_website": "https://date-fns.org",
+  "documentation": "https://date-fns.org/docs",
+  "github_repository": "https://github.com/date-fns",
+  "license": "MIT",
+  "latest_version": "1.0.0",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install date-fns"
+  },
+  "tags": [
+    "libraries",
+    "tool"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-07-12",
+  "last_updated": "2026-07-12"
+}

@@ -1,0 +1,47 @@
+{
+  "id": "mihon",
+  "name": "mihon",
+  "category": "android",
+  "description": "Free and open source manga reader for Android",
+  "official_website": "https://github.com/mihonapp/mihon",
+  "documentation": "https://github.com/mihonapp/mihon#readme",
+  "github_repository": "https://github.com/mihonapp/mihon",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Kotlin"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "android",
+    "kotlin",
+    "manga",
+    "manga-downloader",
+    "manga-reader",
+    "mangadownloader",
+    "mangareader",
+    "tachiyomi",
+    "tachiyomi-alternative"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 22725,
+    "forks": 1397,
+    "open_issues": 0,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-11",
+  "last_updated": "2026-08-11",
+  "latest_version": "v0.20.4",
+  "auto_discovered": true,
+  "quality_score": 70
+}

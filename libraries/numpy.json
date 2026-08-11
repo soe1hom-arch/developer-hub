@@ -1,0 +1,51 @@
+{
+  "id": "numpy",
+  "name": "NumPy",
+  "category": "libraries",
+  "description": "Fundamental package for scientific computing in Python with N-dimensional array support",
+  "official_website": "https://numpy.org",
+  "documentation": "https://numpy.org/doc",
+  "github_repository": "https://github.com/numpy/numpy",
+  "license": "NOASSERTION",
+  "latest_version": "v2.5.1",
+  "programming_languages": [
+    "Python",
+    "C",
+    "C++"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "package_manager": "pip",
+  "installation_examples": {
+    "pip": "pip install numpy"
+  },
+  "tags": [
+    "python",
+    "scientific",
+    "array",
+    "numerical",
+    "computation",
+    "numpy"
+  ],
+  "alternatives": [
+    "CuPy",
+    "JAX",
+    "TensorFlow",
+    "PyTorch"
+  ],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "last_checked": "2026-08-08",
+  "last_updated": "2026-08-08",
+  "repository_statistics": {
+    "stars": 32521,
+    "forks": 12621,
+    "open_issues": 0,
+    "watchers": 0
+  }
+}

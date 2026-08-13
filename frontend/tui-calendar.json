@@ -1,0 +1,45 @@
+{
+  "id": "tui-calendar",
+  "name": "tui.calendar",
+  "category": "frontend",
+  "description": "\ud83c\udf5e\ud83d\udcc5A JavaScript calendar that has everything you need.",
+  "official_website": "http://ui.toast.com/tui-calendar",
+  "documentation": "https://github.com/nhn/tui.calendar#readme",
+  "github_repository": "https://github.com/nhn/tui.calendar",
+  "license": "MIT",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "calendar",
+    "daily",
+    "frontend",
+    "fullcalendar",
+    "javascript",
+    "milestone",
+    "monthly",
+    "schedule"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 12694,
+    "forks": 1353,
+    "open_issues": 208,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-13",
+  "last_updated": "2026-08-13",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

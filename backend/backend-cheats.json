@@ -1,0 +1,47 @@
+{
+  "id": "backend-cheats",
+  "name": "backend-cheats",
+  "category": "backend",
+  "description": "\ud83d\udcc3 White paper for Backend developers",
+  "official_website": "https://github.com/cheatsnake/backend-cheats",
+  "documentation": "https://github.com/cheatsnake/backend-cheats#readme",
+  "github_repository": "https://github.com/cheatsnake/backend-cheats",
+  "license": "MIT",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "architectural-patterns",
+    "architecture",
+    "awesome",
+    "awesome-list",
+    "backend",
+    "backend-development",
+    "cheat-sheets",
+    "cheatsheet"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 5025,
+    "forks": 509,
+    "open_issues": 5,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-13",
+  "last_updated": "2026-08-13",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 60
+}

@@ -26,22 +26,29 @@
     "liveview",
     "network",
     "network-security",
-    "networking"
+    "networking",
+    "vpn",
+    "security",
+    "wireguard",
+    "wireguard-vpn",
+    "wireguard-ui",
+    "vpn-server",
+    "virtual-network"
   ],
   "alternatives": [],
-  "popularity": 10,
+  "popularity": 9,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 8991,
-    "forks": 440,
-    "open_issues": 411,
+    "stars": 9013,
+    "forks": 442,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-07",
-  "last_updated": "2026-08-07",
-  "latest_version": "latest",
+  "last_checked": "2026-08-14",
+  "last_updated": "2026-08-14",
+  "latest_version": "android-client-1.5.13",
   "auto_discovered": true,
   "quality_score": 80
 }

@@ -7,7 +7,7 @@
   "documentation": "https://the-guild.dev/graphql/yoga-server/docs",
   "github_repository": "https://github.com/dotansimha/graphql-yoga",
   "license": "MIT",
-  "latest_version": "release-1782317638369",
+  "latest_version": "release-1786610592790",
   "programming_languages": [
     "TypeScript",
     "JavaScript"
@@ -47,11 +47,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-08-08",
-  "last_updated": "2026-08-08",
+  "last_checked": "2026-08-15",
+  "last_updated": "2026-08-15",
   "repository_statistics": {
-    "stars": 8529,
-    "forks": 592,
+    "stars": 8532,
+    "forks": 595,
     "open_issues": 0,
     "watchers": 0
   }

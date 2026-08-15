@@ -7,7 +7,7 @@
   "documentation": "https://github.com/ClementTsang/bottom#readme",
   "github_repository": "https://github.com/ClementTsang/bottom",
   "license": "MIT",
-  "latest_version": "0.14.7",
+  "latest_version": "0.14.8",
   "programming_languages": [
     "Rust"
   ],
@@ -37,12 +37,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 13853,
-    "forks": 370,
+    "stars": 13886,
+    "forks": 373,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-08",
-  "last_updated": "2026-08-08",
+  "last_checked": "2026-08-15",
+  "last_updated": "2026-08-15",
   "source": "binary-release"
 }

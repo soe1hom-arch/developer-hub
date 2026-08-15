@@ -7,7 +7,7 @@
   "documentation": "https://github.com/stablyai/orca#readme",
   "github_repository": "https://github.com/stablyai/orca",
   "license": "MIT",
-  "latest_version": "v1.4.176",
+  "latest_version": "v1.4.182",
   "programming_languages": [
     "TypeScript"
   ],
@@ -41,12 +41,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 39676,
-    "forks": 2791,
+    "stars": 45684,
+    "forks": 3186,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-08",
-  "last_updated": "2026-08-08",
+  "last_checked": "2026-08-15",
+  "last_updated": "2026-08-15",
   "source": "cli-github"
 }

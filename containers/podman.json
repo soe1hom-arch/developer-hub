@@ -7,7 +7,7 @@
   "documentation": "https://podman.io/docs",
   "github_repository": "https://github.com/containers/podman",
   "license": "Apache-2.0",
-  "latest_version": "v6.0.2",
+  "latest_version": "v6.1.0",
   "programming_languages": [
     "Go"
   ],
@@ -39,11 +39,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-08-08",
-  "last_updated": "2026-08-08",
+  "last_checked": "2026-08-15",
+  "last_updated": "2026-08-15",
   "repository_statistics": {
-    "stars": 32481,
-    "forks": 3279,
+    "stars": 32568,
+    "forks": 3318,
     "open_issues": 0,
     "watchers": 0
   }

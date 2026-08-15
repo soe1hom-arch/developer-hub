@@ -7,7 +7,7 @@
   "documentation": "https://github.com/RivoLink/leaf#readme",
   "github_repository": "https://github.com/RivoLink/leaf",
   "license": "MIT",
-  "latest_version": "1.27.0",
+  "latest_version": "1.27.1",
   "programming_languages": [
     "Rust"
   ],
@@ -31,13 +31,13 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 1802,
-    "forks": 79,
+    "stars": 1823,
+    "forks": 82,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-08",
-  "last_updated": "2026-08-08",
+  "last_checked": "2026-08-15",
+  "last_updated": "2026-08-15",
   "source": "termux-github",
   "has_binaries": true
 }

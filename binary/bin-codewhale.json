@@ -7,7 +7,7 @@
   "documentation": "https://github.com/Hmbown/CodeWhale#readme",
   "github_repository": "https://github.com/Hmbown/CodeWhale",
   "license": "MIT",
-  "latest_version": "v0.9.3",
+  "latest_version": "v0.9.8",
   "programming_languages": [
     "Rust"
   ],
@@ -34,12 +34,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 40540,
-    "forks": 3510,
+    "stars": 40772,
+    "forks": 3522,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-08",
-  "last_updated": "2026-08-08",
+  "last_checked": "2026-08-15",
+  "last_updated": "2026-08-15",
   "source": "binary-release"
 }

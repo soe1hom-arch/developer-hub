@@ -7,7 +7,7 @@
   "documentation": "https://svelte.dev/docs",
   "github_repository": "https://github.com/sveltejs/svelte",
   "license": "MIT",
-  "latest_version": "svelte@5.56.8",
+  "latest_version": "svelte@5.56.9",
   "programming_languages": [
     "TypeScript",
     "JavaScript",
@@ -40,11 +40,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-08-08",
-  "last_updated": "2026-08-08",
+  "last_checked": "2026-08-15",
+  "last_updated": "2026-08-15",
   "repository_statistics": {
-    "stars": 87925,
-    "forks": 5190,
+    "stars": 87944,
+    "forks": 5197,
     "open_issues": 0,
     "watchers": 0
   }

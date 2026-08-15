@@ -7,7 +7,7 @@
   "documentation": "https://github.com/superset-sh/superset#readme",
   "github_repository": "https://github.com/superset-sh/superset",
   "license": "NOASSERTION",
-  "latest_version": "desktop-v1.19.0",
+  "latest_version": "desktop-v1.22.0",
   "programming_languages": [
     "TypeScript"
   ],
@@ -40,12 +40,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 12816,
-    "forks": 1170,
+    "stars": 12921,
+    "forks": 1191,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-08",
-  "last_updated": "2026-08-08",
+  "last_checked": "2026-08-15",
+  "last_updated": "2026-08-15",
   "source": "cli-github"
 }

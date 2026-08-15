@@ -30,13 +30,13 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 2835,
-    "forks": 790,
+    "stars": 2833,
+    "forks": 793,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-08",
-  "last_updated": "2026-08-08",
+  "last_checked": "2026-08-15",
+  "last_updated": "2026-08-15",
   "latest_version": "@rainbow-me/rainbowkit-siwe-next-auth@0.6.0",
   "auto_discovered": true,
   "quality_score": 67

@@ -7,7 +7,7 @@
   "documentation": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill#readme",
   "github_repository": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
   "license": "MIT",
-  "latest_version": "v2.14.1",
+  "latest_version": "v2.15.0",
   "programming_languages": [
     "Python"
   ],
@@ -38,12 +38,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 114502,
-    "forks": 12265,
+    "stars": 116763,
+    "forks": 12546,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-08",
-  "last_updated": "2026-08-08",
+  "last_checked": "2026-08-15",
+  "last_updated": "2026-08-15",
   "source": "cli-github"
 }

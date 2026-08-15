@@ -7,7 +7,7 @@
   "documentation": "https://github.com/jesseduffield/lazygit#readme",
   "github_repository": "https://github.com/jesseduffield/lazygit",
   "license": "MIT",
-  "latest_version": "v0.64.0",
+  "latest_version": "v0.64.1",
   "programming_languages": [
     "Go"
   ],
@@ -31,12 +31,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 81128,
-    "forks": 2965,
+    "stars": 81339,
+    "forks": 2984,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-08",
-  "last_updated": "2026-08-08",
+  "last_checked": "2026-08-15",
+  "last_updated": "2026-08-15",
   "source": "binary-release"
 }

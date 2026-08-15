@@ -18,7 +18,8 @@
   ],
   "tags": [
     "opencode",
-    "tui"
+    "tui",
+    "opentui"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -26,14 +27,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 12922,
-    "forks": 676,
+    "stars": 13005,
+    "forks": 688,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-08",
-  "last_updated": "2026-08-08",
-  "latest_version": "v0.5.1",
+  "last_checked": "2026-08-15",
+  "last_updated": "2026-08-15",
+  "latest_version": "v0.5.3",
   "auto_discovered": true,
   "quality_score": 78
 }

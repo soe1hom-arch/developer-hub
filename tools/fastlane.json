@@ -7,7 +7,7 @@
   "documentation": "https://docs.fastlane.tools",
   "github_repository": "https://github.com/fastlane/fastlane",
   "license": "MIT",
-  "latest_version": "2.237.0",
+  "latest_version": "2.238.0",
   "programming_languages": [
     "Ruby"
   ],
@@ -42,11 +42,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-08-08",
-  "last_updated": "2026-08-08",
+  "last_checked": "2026-08-15",
+  "last_updated": "2026-08-15",
   "repository_statistics": {
-    "stars": 41955,
-    "forks": 6025,
+    "stars": 41992,
+    "forks": 6023,
     "open_issues": 0,
     "watchers": 0
   }

@@ -7,7 +7,7 @@
   "documentation": "https://esbuild.github.io/api",
   "github_repository": "https://github.com/evanw/esbuild",
   "license": "MIT",
-  "latest_version": "v0.28.1",
+  "latest_version": "v0.28.2",
   "programming_languages": [
     "Go",
     "JavaScript"
@@ -46,11 +46,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-08-08",
-  "last_updated": "2026-08-08",
+  "last_checked": "2026-08-15",
+  "last_updated": "2026-08-15",
   "repository_statistics": {
-    "stars": 40007,
-    "forks": 1331,
+    "stars": 40013,
+    "forks": 1336,
     "open_issues": 0,
     "watchers": 0
   }

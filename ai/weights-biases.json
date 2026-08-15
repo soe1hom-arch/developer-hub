@@ -7,7 +7,7 @@
   "documentation": "https://docs.wandb.ai",
   "github_repository": "https://github.com/wandb/wandb",
   "license": "MIT",
-  "latest_version": "v0.28.1",
+  "latest_version": "v0.28.2",
   "programming_languages": [
     "Python",
     "TypeScript"
@@ -48,11 +48,11 @@
   "maintained": true,
   "archived": false,
   "open_source": false,
-  "last_checked": "2026-08-08",
-  "last_updated": "2026-08-08",
+  "last_checked": "2026-08-15",
+  "last_updated": "2026-08-15",
   "repository_statistics": {
-    "stars": 11219,
-    "forks": 880,
+    "stars": 11230,
+    "forks": 881,
     "open_issues": 0,
     "watchers": 0
   }

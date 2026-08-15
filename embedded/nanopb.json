@@ -27,13 +27,13 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 5511,
-    "forks": 1036,
+    "stars": 5520,
+    "forks": 1035,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-08",
-  "last_updated": "2026-08-08",
+  "last_checked": "2026-08-15",
+  "last_updated": "2026-08-15",
   "latest_version": "nanopb-0.4.9.1",
   "auto_discovered": true,
   "quality_score": 75

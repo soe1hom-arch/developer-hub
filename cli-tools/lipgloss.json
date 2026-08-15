@@ -7,7 +7,7 @@
   "documentation": "https://github.com/charmbracelet/lipgloss#readme",
   "github_repository": "https://github.com/charmbracelet/lipgloss",
   "license": "MIT",
-  "latest_version": "v2.0.5",
+  "latest_version": "v2.0.6",
   "programming_languages": [
     "Go"
   ],
@@ -35,12 +35,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 11679,
-    "forks": 385,
+    "stars": 11703,
+    "forks": 386,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-08",
-  "last_updated": "2026-08-08",
+  "last_checked": "2026-08-15",
+  "last_updated": "2026-08-15",
   "source": "cli-github"
 }

@@ -7,7 +7,7 @@
   "documentation": "https://huggingface.co/docs/transformers",
   "github_repository": "https://github.com/huggingface/transformers",
   "license": "Apache-2.0",
-  "latest_version": "v5.14.1",
+  "latest_version": "v5.15.0",
   "programming_languages": [
     "Python",
     "Rust",
@@ -49,11 +49,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-08-08",
-  "last_updated": "2026-08-08",
+  "last_checked": "2026-08-15",
+  "last_updated": "2026-08-15",
   "repository_statistics": {
-    "stars": 163450,
-    "forks": 34139,
+    "stars": 164084,
+    "forks": 34242,
     "open_issues": 0,
     "watchers": 0
   }

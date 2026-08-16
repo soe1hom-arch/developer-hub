@@ -1,0 +1,44 @@
+{
+  "id": "inspector",
+  "name": "inspector",
+  "category": "cli-tools",
+  "description": "Visual testing tool for MCP servers",
+  "official_website": "https://modelcontextprotocol.io/docs/2026-07-28/tools/inspector",
+  "documentation": "https://github.com/modelcontextprotocol/inspector#readme",
+  "github_repository": "https://github.com/modelcontextprotocol/inspector",
+  "license": "MIT",
+  "latest_version": "main",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "cli",
+    "debug",
+    "mcp",
+    "tool",
+    "tui",
+    "web",
+    "cli",
+    "command-line"
+  ],
+  "has_binaries": false,
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 10670,
+    "forks": 1479,
+    "open_issues": 67,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-16",
+  "last_updated": "2026-08-16",
+  "source": "cli-github"
+}

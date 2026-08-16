@@ -7,7 +7,7 @@
   "documentation": "https://github.com/nestjs/nest#readme",
   "github_repository": "https://github.com/nestjs/nest",
   "license": "MIT",
-  "latest_version": "v11.1.28",
+  "latest_version": "v11.2.1",
   "programming_languages": [
     "TypeScript"
   ],
@@ -41,11 +41,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 76373,
-    "forks": 8514,
+    "stars": 76386,
+    "forks": 8519,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-09",
-  "last_updated": "2026-08-09"
+  "last_checked": "2026-08-16",
+  "last_updated": "2026-08-16"
 }

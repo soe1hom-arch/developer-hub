@@ -26,7 +26,10 @@
     "claude",
     "ernie-bot",
     "gemini",
-    "gpt"
+    "gpt",
+    "openai-api",
+    "proxy",
+    "openai"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -34,14 +37,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 36268,
-    "forks": 6790,
-    "open_issues": 1028,
+    "stars": 36395,
+    "forks": 6799,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-09",
-  "last_updated": "2026-08-09",
-  "latest_version": "latest",
+  "last_checked": "2026-08-16",
+  "last_updated": "2026-08-16",
+  "latest_version": "v0.6.10",
   "auto_discovered": true,
   "quality_score": 90
 }

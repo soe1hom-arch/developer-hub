@@ -7,7 +7,7 @@
   "documentation": "https://github.com/cesanta/mongoose#readme",
   "github_repository": "https://github.com/cesanta/mongoose",
   "license": "NOASSERTION",
-  "latest_version": "7.22",
+  "latest_version": "7.23",
   "programming_languages": [
     "C"
   ],
@@ -36,11 +36,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 12982,
+    "stars": 12992,
     "forks": 2928,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-09",
-  "last_updated": "2026-08-09"
+  "last_checked": "2026-08-16",
+  "last_updated": "2026-08-16"
 }

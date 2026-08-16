@@ -7,7 +7,7 @@
   "documentation": "https://github.com/sxyazi/yazi#readme",
   "github_repository": "https://github.com/sxyazi/yazi",
   "license": "MIT",
-  "latest_version": "v26.5.6",
+  "latest_version": "v26.8.15",
   "programming_languages": [
     "Rust"
   ],
@@ -43,11 +43,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 41175,
-    "forks": 972,
+    "stars": 41363,
+    "forks": 983,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-09",
-  "last_updated": "2026-08-09"
+  "last_checked": "2026-08-16",
+  "last_updated": "2026-08-16"
 }

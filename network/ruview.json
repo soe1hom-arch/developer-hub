@@ -7,7 +7,7 @@
   "documentation": "https://github.com/ruvnet/RuView#readme",
   "github_repository": "https://github.com/ruvnet/RuView",
   "license": "MIT",
-  "latest_version": "v2146",
+  "latest_version": "v2262",
   "programming_languages": [
     "Rust"
   ],
@@ -43,11 +43,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 88978,
-    "forks": 11847,
+    "stars": 90282,
+    "forks": 12003,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-09",
-  "last_updated": "2026-08-09"
+  "last_checked": "2026-08-16",
+  "last_updated": "2026-08-16"
 }

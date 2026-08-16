@@ -7,7 +7,7 @@
   "documentation": "https://github.com/appsmithorg/appsmith#readme",
   "github_repository": "https://github.com/appsmithorg/appsmith",
   "license": "Apache-2.0",
-  "latest_version": "v2.2",
+  "latest_version": "v2.3",
   "programming_languages": [
     "TypeScript"
   ],
@@ -42,11 +42,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 40610,
-    "forks": 4709,
+    "stars": 40677,
+    "forks": 4727,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-09",
-  "last_updated": "2026-08-09"
+  "last_checked": "2026-08-16",
+  "last_updated": "2026-08-16"
 }

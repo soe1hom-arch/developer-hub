@@ -35,14 +35,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 37962,
-    "forks": 2494,
+    "stars": 38032,
+    "forks": 2507,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-10",
-  "last_updated": "2026-08-10",
-  "latest_version": "@xyflow/system@0.0.79",
+  "last_checked": "2026-08-17",
+  "last_updated": "2026-08-17",
+  "latest_version": "@xyflow/svelte@1.6.3",
   "auto_discovered": true,
   "quality_score": 90
 }

@@ -33,13 +33,13 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 34331,
-    "forks": 2785,
+    "stars": 34328,
+    "forks": 2780,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-10",
-  "last_updated": "2026-08-10",
+  "last_checked": "2026-08-17",
+  "last_updated": "2026-08-17",
   "latest_version": "formik@2.4.9",
   "auto_discovered": true,
   "quality_score": 80

@@ -28,13 +28,13 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 24486,
-    "forks": 5126,
+    "stars": 24490,
+    "forks": 5129,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-10",
-  "last_updated": "2026-08-10",
+  "last_checked": "2026-08-17",
+  "last_updated": "2026-08-17",
   "latest_version": "@react-navigation/stack@7.10.22",
   "auto_discovered": true,
   "quality_score": 82

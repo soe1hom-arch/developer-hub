@@ -1,0 +1,40 @@
+{
+  "id": "termux-desktops",
+  "name": "Termux-Desktops",
+  "category": "termux",
+  "description": "Collection of scripts to launch Desktops with audio in Termux X11 and how to use hardware acceleration",
+  "official_website": "https://www.youtube.com/@LinuxDroidMaster/videos",
+  "documentation": "https://github.com/LinuxDroidMaster/Termux-Desktops#readme",
+  "github_repository": "https://github.com/LinuxDroidMaster/Termux-Desktops",
+  "license": "GPL-3.0",
+  "programming_languages": [
+    "Shell"
+  ],
+  "platforms": [
+    "Termux",
+    "Android",
+    "Linux"
+  ],
+  "tags": [
+    "termux",
+    "termux-desktop",
+    "termux-hardware-acceleration",
+    "termux-x11"
+  ],
+  "alternatives": [],
+  "popularity": 7,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 2146,
+    "forks": 256,
+    "open_issues": 97,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-18",
+  "last_updated": "2026-08-18",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 77
+}

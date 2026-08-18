@@ -29,13 +29,13 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 20434,
-    "forks": 12880,
+    "stars": 20435,
+    "forks": 12873,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-11",
-  "last_updated": "2026-08-11",
+  "last_checked": "2026-08-18",
+  "last_updated": "2026-08-18",
   "latest_version": "mybatis-3.5.19",
   "auto_discovered": true,
   "quality_score": 77

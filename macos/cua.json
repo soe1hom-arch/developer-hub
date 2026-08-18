@@ -40,14 +40,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 21109,
-    "forks": 1445,
+    "stars": 21454,
+    "forks": 1479,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-11",
-  "last_updated": "2026-08-11",
-  "latest_version": "cli-v0.1.14",
+  "last_checked": "2026-08-18",
+  "last_updated": "2026-08-18",
+  "latest_version": "sandbox-v0.4.1",
   "auto_discovered": true,
   "quality_score": 90
 }

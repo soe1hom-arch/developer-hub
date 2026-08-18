@@ -31,13 +31,13 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 15890,
+    "stars": 15887,
     "forks": 526,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-11",
-  "last_updated": "2026-08-11",
+  "last_checked": "2026-08-18",
+  "last_updated": "2026-08-18",
   "latest_version": "alpha-deploy-core-hydra-s1-pythia1-mainnet-01-11-2023",
   "auto_discovered": true,
   "quality_score": 80

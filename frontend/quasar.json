@@ -37,14 +37,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 27204,
-    "forks": 3685,
+    "stars": 27203,
+    "forks": 3684,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-11",
-  "last_updated": "2026-08-11",
-  "latest_version": "quasar-v2.24.0",
+  "last_checked": "2026-08-18",
+  "last_updated": "2026-08-18",
+  "latest_version": "quasar-v2.25.0",
   "auto_discovered": true,
   "quality_score": 85
 }

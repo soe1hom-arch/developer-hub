@@ -32,13 +32,13 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 2162,
-    "forks": 912,
+    "stars": 2182,
+    "forks": 927,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-12",
-  "last_updated": "2026-08-12",
+  "last_checked": "2026-08-19",
+  "last_updated": "2026-08-19",
   "latest_version": "turnip-26.2.0",
   "auto_discovered": true,
   "quality_score": 70

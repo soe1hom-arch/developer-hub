@@ -34,14 +34,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 7058,
-    "forks": 454,
+    "stars": 7072,
+    "forks": 456,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-12",
-  "last_updated": "2026-08-12",
-  "latest_version": "@tanstack/marko-virtual@3.15.0",
+  "last_checked": "2026-08-19",
+  "last_updated": "2026-08-19",
+  "latest_version": "@tanstack/angular-virtual@6.0.3",
   "auto_discovered": true,
   "quality_score": 80
 }

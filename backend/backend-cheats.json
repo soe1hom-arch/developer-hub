@@ -26,21 +26,25 @@
     "backend",
     "backend-development",
     "cheat-sheets",
-    "cheatsheet"
+    "cheatsheet",
+    "development",
+    "helpful",
+    "knowledge-sharing",
+    "roadmap"
   ],
   "alternatives": [],
-  "popularity": 10,
+  "popularity": 9,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 5025,
-    "forks": 509,
-    "open_issues": 5,
+    "stars": 5044,
+    "forks": 512,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-13",
-  "last_updated": "2026-08-13",
+  "last_checked": "2026-08-20",
+  "last_updated": "2026-08-20",
   "latest_version": "latest",
   "auto_discovered": true,
   "quality_score": 60

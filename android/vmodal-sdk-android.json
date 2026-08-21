@@ -1,0 +1,46 @@
+{
+  "id": "vmodal-sdk-android",
+  "name": "vmodal_sdk_android",
+  "category": "android",
+  "description": "Video Search SDK for Android Kotlin. Integrate in any video app",
+  "official_website": "https://www.v-modal.com",
+  "documentation": "https://github.com/v-modal/vmodal_sdk_android#readme",
+  "github_repository": "https://github.com/v-modal/vmodal_sdk_android",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "Kotlin"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "android",
+    "android-app",
+    "android-sdk",
+    "android-studio",
+    "android-ui",
+    "mobile-app",
+    "mobile-development",
+    "mobility"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 589,
+    "forks": 14,
+    "open_issues": 5,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-21",
+  "last_updated": "2026-08-21",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 70
+}

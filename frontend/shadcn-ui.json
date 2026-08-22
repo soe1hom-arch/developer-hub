@@ -7,7 +7,7 @@
   "documentation": "https://ui.shadcn.com/docs",
   "github_repository": "https://github.com/shadcn-ui/ui",
   "license": "MIT",
-  "latest_version": "shadcn@4.18.0",
+  "latest_version": "shadcn@4.19.0",
   "programming_languages": [
     "TypeScript",
     "JavaScript"
@@ -42,11 +42,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-08-15",
-  "last_updated": "2026-08-15",
+  "last_checked": "2026-08-22",
+  "last_updated": "2026-08-22",
   "repository_statistics": {
-    "stars": 121323,
-    "forks": 9854,
+    "stars": 121796,
+    "forks": 9937,
     "open_issues": 0,
     "watchers": 0
   }

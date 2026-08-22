@@ -7,7 +7,7 @@
   "documentation": "https://grafana.com/docs",
   "github_repository": "https://github.com/grafana/grafana",
   "license": "AGPL-3.0",
-  "latest_version": "v13.1.3",
+  "latest_version": "v13.2.0",
   "programming_languages": [
     "Go",
     "TypeScript"
@@ -48,11 +48,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-08-15",
-  "last_updated": "2026-08-15",
+  "last_checked": "2026-08-22",
+  "last_updated": "2026-08-22",
   "repository_statistics": {
-    "stars": 76280,
-    "forks": 14561,
+    "stars": 76333,
+    "forks": 14605,
     "open_issues": 0,
     "watchers": 0
   }

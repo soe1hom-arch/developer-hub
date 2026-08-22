@@ -7,7 +7,7 @@
   "documentation": "https://xgboost.readthedocs.io",
   "github_repository": "https://github.com/dmlc/xgboost",
   "license": "Apache-2.0",
-  "latest_version": "v3.4.0",
+  "latest_version": "v3.4.1",
   "programming_languages": [
     "C++",
     "Python",
@@ -44,11 +44,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-08-15",
-  "last_updated": "2026-08-15",
+  "last_checked": "2026-08-22",
+  "last_updated": "2026-08-22",
   "repository_statistics": {
-    "stars": 28655,
-    "forks": 8880,
+    "stars": 28686,
+    "forks": 8887,
     "open_issues": 0,
     "watchers": 0
   }

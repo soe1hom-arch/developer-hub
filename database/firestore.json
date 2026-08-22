@@ -7,7 +7,7 @@
   "documentation": "https://firebase.google.com/docs/firestore",
   "github_repository": "https://github.com/firebase/firebase-ios-sdk",
   "license": "Apache-2.0",
-  "latest_version": "12.17.0",
+  "latest_version": "12.18.0",
   "programming_languages": [
     "TypeScript",
     "JavaScript",
@@ -49,11 +49,11 @@
   "maintained": true,
   "archived": false,
   "open_source": false,
-  "last_checked": "2026-08-15",
-  "last_updated": "2026-08-15",
+  "last_checked": "2026-08-22",
+  "last_updated": "2026-08-22",
   "repository_statistics": {
-    "stars": 6656,
-    "forks": 1772,
+    "stars": 6658,
+    "forks": 1776,
     "open_issues": 0,
     "watchers": 0
   }

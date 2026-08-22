@@ -7,7 +7,7 @@
   "documentation": "https://docs.brew.sh",
   "github_repository": "https://github.com/Homebrew/brew",
   "license": "BSD-2-Clause",
-  "latest_version": "6.0.17",
+  "latest_version": "6.0.18",
   "programming_languages": [
     "Ruby",
     "Shell"
@@ -40,11 +40,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-08-15",
-  "last_updated": "2026-08-15",
+  "last_checked": "2026-08-22",
+  "last_updated": "2026-08-22",
   "repository_statistics": {
-    "stars": 49157,
-    "forks": 11283,
+    "stars": 49230,
+    "forks": 11288,
     "open_issues": 0,
     "watchers": 0
   }

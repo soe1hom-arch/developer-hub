@@ -7,7 +7,7 @@
   "documentation": "https://developer.hashicorp.com/terraform/docs",
   "github_repository": "https://github.com/hashicorp/terraform",
   "license": "NOASSERTION",
-  "latest_version": "v1.15.8",
+  "latest_version": "v1.15.9",
   "programming_languages": [
     "Go",
     "HCL"
@@ -43,11 +43,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-08-15",
-  "last_updated": "2026-08-15",
+  "last_checked": "2026-08-22",
+  "last_updated": "2026-08-22",
   "repository_statistics": {
-    "stars": 49462,
-    "forks": 10599,
+    "stars": 49504,
+    "forks": 10610,
     "open_issues": 0,
     "watchers": 0
   }

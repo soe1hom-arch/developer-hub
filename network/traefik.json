@@ -7,7 +7,7 @@
   "documentation": "https://doc.traefik.io/traefik",
   "github_repository": "https://github.com/traefik/traefik",
   "license": "MIT",
-  "latest_version": "v3.7.10",
+  "latest_version": "v3.7.11",
   "programming_languages": [
     "Go"
   ],
@@ -44,11 +44,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-08-15",
-  "last_updated": "2026-08-15",
+  "last_checked": "2026-08-22",
+  "last_updated": "2026-08-22",
   "repository_statistics": {
-    "stars": 64427,
-    "forks": 6136,
+    "stars": 64533,
+    "forks": 6150,
     "open_issues": 0,
     "watchers": 0
   }

@@ -7,7 +7,7 @@
   "documentation": "https://prometheus.io/docs",
   "github_repository": "https://github.com/prometheus/prometheus",
   "license": "Apache-2.0",
-  "latest_version": "v3.13.2",
+  "latest_version": "v3.14.0",
   "programming_languages": [
     "Go"
   ],
@@ -40,11 +40,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-08-15",
-  "last_updated": "2026-08-15",
+  "last_checked": "2026-08-22",
+  "last_updated": "2026-08-22",
   "repository_statistics": {
-    "stars": 65703,
-    "forks": 10761,
+    "stars": 65767,
+    "forks": 10784,
     "open_issues": 0,
     "watchers": 0
   }

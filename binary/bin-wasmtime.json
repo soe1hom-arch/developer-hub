@@ -7,7 +7,7 @@
   "documentation": "https://github.com/bytecodealliance/wasmtime#readme",
   "github_repository": "https://github.com/bytecodealliance/wasmtime",
   "license": "Apache-2.0",
-  "latest_version": "v47.0.3",
+  "latest_version": "v48.0.0",
   "programming_languages": [
     "Rust"
   ],
@@ -40,12 +40,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 18512,
-    "forks": 1796,
+    "stars": 18554,
+    "forks": 1804,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-15",
-  "last_updated": "2026-08-15",
+  "last_checked": "2026-08-22",
+  "last_updated": "2026-08-22",
   "source": "binary-release"
 }

@@ -7,7 +7,7 @@
   "documentation": "https://github.com/mikefarah/yq#readme",
   "github_repository": "https://github.com/mikefarah/yq",
   "license": "MIT",
-  "latest_version": "v4.53.3",
+  "latest_version": "v4.53.6",
   "programming_languages": [
     "Go"
   ],
@@ -40,12 +40,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 15831,
-    "forks": 816,
+    "stars": 15871,
+    "forks": 825,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-15",
-  "last_updated": "2026-08-15",
+  "last_checked": "2026-08-22",
+  "last_updated": "2026-08-22",
   "source": "binary-release"
 }

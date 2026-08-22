@@ -7,7 +7,7 @@
   "documentation": "https://bun.sh/docs",
   "github_repository": "https://github.com/oven-sh/bun",
   "license": "NOASSERTION",
-  "latest_version": "bun-v1.3.14",
+  "latest_version": "bun-v1.4.0",
   "programming_languages": [
     "Zig",
     "TypeScript",
@@ -46,11 +46,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-08-15",
-  "last_updated": "2026-08-15",
+  "last_checked": "2026-08-22",
+  "last_updated": "2026-08-22",
   "repository_statistics": {
-    "stars": 95400,
-    "forks": 4961,
+    "stars": 95554,
+    "forks": 4986,
     "open_issues": 0,
     "watchers": 0
   }

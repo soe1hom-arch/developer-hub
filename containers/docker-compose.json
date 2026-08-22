@@ -7,7 +7,7 @@
   "documentation": "https://docs.docker.com/compose",
   "github_repository": "https://github.com/docker/compose",
   "license": "Apache-2.0",
-  "latest_version": "v5.4.0",
+  "latest_version": "v5.5.0",
   "programming_languages": [
     "Go"
   ],
@@ -39,11 +39,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-08-15",
-  "last_updated": "2026-08-15",
+  "last_checked": "2026-08-22",
+  "last_updated": "2026-08-22",
   "repository_statistics": {
-    "stars": 38074,
-    "forks": 5784,
+    "stars": 38042,
+    "forks": 5791,
     "open_issues": 0,
     "watchers": 0
   }

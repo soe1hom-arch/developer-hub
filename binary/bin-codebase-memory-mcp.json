@@ -7,7 +7,7 @@
   "documentation": "https://github.com/DeusData/codebase-memory-mcp#readme",
   "github_repository": "https://github.com/DeusData/codebase-memory-mcp",
   "license": "MIT",
-  "latest_version": "v0.10.4",
+  "latest_version": "v0.10.8",
   "programming_languages": [
     "C"
   ],
@@ -40,12 +40,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 38959,
-    "forks": 3101,
+    "stars": 39812,
+    "forks": 3202,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-15",
-  "last_updated": "2026-08-15",
+  "last_checked": "2026-08-22",
+  "last_updated": "2026-08-22",
   "source": "binary-release"
 }

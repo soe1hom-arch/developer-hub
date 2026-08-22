@@ -7,7 +7,7 @@
   "documentation": "https://github.com/1ay1/agentty#readme",
   "github_repository": "https://github.com/1ay1/agentty",
   "license": "MIT",
-  "latest_version": "v0.3.0",
+  "latest_version": "v0.3.1",
   "programming_languages": [
     "C++"
   ],
@@ -41,12 +41,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 623,
+    "stars": 606,
     "forks": 17,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-15",
-  "last_updated": "2026-08-15",
+  "last_checked": "2026-08-22",
+  "last_updated": "2026-08-22",
   "source": "binary-release"
 }

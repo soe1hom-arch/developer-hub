@@ -7,7 +7,7 @@
   "documentation": "https://docs.spring.io/spring-boot",
   "github_repository": "https://github.com/spring-projects/spring-boot",
   "license": "Apache-2.0",
-  "latest_version": "v4.1.0",
+  "latest_version": "v4.1.1",
   "programming_languages": [
     "Java",
     "Kotlin",
@@ -42,11 +42,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-08-15",
-  "last_updated": "2026-08-15",
+  "last_checked": "2026-08-22",
+  "last_updated": "2026-08-22",
   "repository_statistics": {
-    "stars": 81302,
-    "forks": 42099,
+    "stars": 81334,
+    "forks": 42093,
     "open_issues": 0,
     "watchers": 0
   }

@@ -7,7 +7,7 @@
   "documentation": "https://docs.godotengine.org",
   "github_repository": "https://github.com/godotengine/godot",
   "license": "MIT",
-  "latest_version": "4.7.1-stable",
+  "latest_version": "4.7.2-stable",
   "programming_languages": [
     "C++",
     "GDScript",
@@ -48,11 +48,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-08-15",
-  "last_updated": "2026-08-15",
+  "last_checked": "2026-08-22",
+  "last_updated": "2026-08-22",
   "repository_statistics": {
-    "stars": 115669,
-    "forks": 26345,
+    "stars": 115963,
+    "forks": 26432,
     "open_issues": 0,
     "watchers": 0
   }

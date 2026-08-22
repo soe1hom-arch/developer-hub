@@ -7,7 +7,7 @@
   "documentation": "https://docs.llamaindex.ai",
   "github_repository": "https://github.com/run-llama/llama_index",
   "license": "MIT",
-  "latest_version": "v0.14.23",
+  "latest_version": "v0.14.24",
   "programming_languages": [
     "Python",
     "TypeScript"
@@ -46,11 +46,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-08-15",
-  "last_updated": "2026-08-15",
+  "last_checked": "2026-08-22",
+  "last_updated": "2026-08-22",
   "repository_statistics": {
-    "stars": 51643,
-    "forks": 7933,
+    "stars": 51790,
+    "forks": 7984,
     "open_issues": 0,
     "watchers": 0
   }

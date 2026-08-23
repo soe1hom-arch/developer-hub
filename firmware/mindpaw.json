@@ -20,18 +20,18 @@
     "vla"
   ],
   "alternatives": [],
-  "popularity": 7,
+  "popularity": 8,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 2389,
-    "forks": 2207,
+    "stars": 2411,
+    "forks": 2205,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-16",
-  "last_updated": "2026-08-16",
+  "last_checked": "2026-08-23",
+  "last_updated": "2026-08-23",
   "latest_version": "latest",
   "auto_discovered": true,
   "quality_score": 67

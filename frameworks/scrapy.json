@@ -7,7 +7,7 @@
   "documentation": "https://github.com/scrapy/scrapy#readme",
   "github_repository": "https://github.com/scrapy/scrapy",
   "license": "BSD-3-Clause",
-  "latest_version": "2.17.0",
+  "latest_version": "2.18.0",
   "programming_languages": [
     "Python"
   ],
@@ -36,11 +36,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 63864,
-    "forks": 11896,
+    "stars": 64001,
+    "forks": 11918,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-16",
-  "last_updated": "2026-08-16"
+  "last_checked": "2026-08-23",
+  "last_updated": "2026-08-23"
 }

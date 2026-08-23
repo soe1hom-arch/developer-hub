@@ -7,7 +7,7 @@
   "documentation": "https://github.com/spring-projects/spring-framework#readme",
   "github_repository": "https://github.com/spring-projects/spring-framework",
   "license": "Apache-2.0",
-  "latest_version": "v7.0.8",
+  "latest_version": "v7.0.9",
   "programming_languages": [
     "Java"
   ],
@@ -31,11 +31,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 60188,
-    "forks": 38787,
+    "stars": 60206,
+    "forks": 38775,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-16",
-  "last_updated": "2026-08-16"
+  "last_checked": "2026-08-23",
+  "last_updated": "2026-08-23"
 }

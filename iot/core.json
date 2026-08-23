@@ -7,7 +7,7 @@
   "documentation": "https://github.com/home-assistant/core#readme",
   "github_repository": "https://github.com/home-assistant/core",
   "license": "Apache-2.0",
-  "latest_version": "2026.8.2",
+  "latest_version": "2026.8.3",
   "programming_languages": [
     "Python"
   ],
@@ -36,11 +36,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 89939,
-    "forks": 38365,
+    "stars": 90050,
+    "forks": 38386,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-16",
-  "last_updated": "2026-08-16"
+  "last_checked": "2026-08-23",
+  "last_updated": "2026-08-23"
 }

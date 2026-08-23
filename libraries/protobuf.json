@@ -7,7 +7,7 @@
   "documentation": "https://protobuf.dev/getting-started",
   "github_repository": "https://github.com/protocolbuffers/protobuf",
   "license": "NOASSERTION",
-  "latest_version": "v35.1",
+  "latest_version": "v36.0",
   "programming_languages": [
     "C++",
     "C#",
@@ -39,11 +39,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-08-16",
-  "last_updated": "2026-08-16",
+  "last_checked": "2026-08-23",
+  "last_updated": "2026-08-23",
   "repository_statistics": {
-    "stars": 71732,
-    "forks": 16213,
+    "stars": 71810,
+    "forks": 16238,
     "open_issues": 0,
     "watchers": 0
   }

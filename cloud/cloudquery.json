@@ -41,14 +41,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 6481,
-    "forks": 552,
+    "stars": 6490,
+    "forks": 553,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-16",
-  "last_updated": "2026-08-16",
-  "latest_version": "plugins-destination-snowflake-v5.2.13",
+  "last_checked": "2026-08-23",
+  "last_updated": "2026-08-23",
+  "latest_version": "plugins-destination-azblob-v4.5.11",
   "auto_discovered": true,
   "quality_score": 85
 }

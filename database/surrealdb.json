@@ -7,7 +7,7 @@
   "documentation": "https://github.com/surrealdb/surrealdb#readme",
   "github_repository": "https://github.com/surrealdb/surrealdb",
   "license": "NOASSERTION",
-  "latest_version": "v3.2.0",
+  "latest_version": "v3.2.4",
   "programming_languages": [
     "Rust"
   ],
@@ -40,11 +40,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 32895,
-    "forks": 1336,
+    "stars": 32916,
+    "forks": 1345,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-16",
-  "last_updated": "2026-08-16"
+  "last_checked": "2026-08-23",
+  "last_updated": "2026-08-23"
 }

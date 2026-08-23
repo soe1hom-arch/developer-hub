@@ -7,7 +7,7 @@
   "documentation": "https://github.com/dbeaver/dbeaver#readme",
   "github_repository": "https://github.com/dbeaver/dbeaver",
   "license": "Apache-2.0",
-  "latest_version": "26.1.4",
+  "latest_version": "26.1.5",
   "programming_languages": [
     "Java"
   ],
@@ -40,11 +40,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 51442,
-    "forks": 4333,
+    "stars": 51508,
+    "forks": 4347,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-16",
-  "last_updated": "2026-08-16"
+  "last_checked": "2026-08-23",
+  "last_updated": "2026-08-23"
 }

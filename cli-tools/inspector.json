@@ -7,7 +7,7 @@
   "documentation": "https://github.com/modelcontextprotocol/inspector#readme",
   "github_repository": "https://github.com/modelcontextprotocol/inspector",
   "license": "MIT",
-  "latest_version": "main",
+  "latest_version": "2.3.0",
   "programming_languages": [
     "TypeScript"
   ],
@@ -33,12 +33,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 10670,
-    "forks": 1479,
-    "open_issues": 67,
+    "stars": 10724,
+    "forks": 1494,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-16",
-  "last_updated": "2026-08-16",
+  "last_checked": "2026-08-23",
+  "last_updated": "2026-08-23",
   "source": "cli-github"
 }

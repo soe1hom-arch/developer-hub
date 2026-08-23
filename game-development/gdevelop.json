@@ -7,7 +7,7 @@
   "documentation": "https://github.com/4ian/GDevelop#readme",
   "github_repository": "https://github.com/4ian/GDevelop",
   "license": "NOASSERTION",
-  "latest_version": "v5.6.279",
+  "latest_version": "v5.6.280",
   "programming_languages": [
     "JavaScript"
   ],
@@ -40,11 +40,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 25670,
-    "forks": 1503,
+    "stars": 25863,
+    "forks": 1511,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-16",
-  "last_updated": "2026-08-16"
+  "last_checked": "2026-08-23",
+  "last_updated": "2026-08-23"
 }

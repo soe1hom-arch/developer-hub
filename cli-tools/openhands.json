@@ -7,7 +7,7 @@
   "documentation": "https://github.com/OpenHands/OpenHands#readme",
   "github_repository": "https://github.com/OpenHands/OpenHands",
   "license": "MIT",
-  "latest_version": "v1.13.0",
+  "latest_version": "v1.15.0",
   "programming_languages": [
     "Python"
   ],
@@ -37,11 +37,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 84144,
-    "forks": 10919,
+    "stars": 84802,
+    "forks": 11060,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-16",
-  "last_updated": "2026-08-16"
+  "last_checked": "2026-08-23",
+  "last_updated": "2026-08-23"
 }

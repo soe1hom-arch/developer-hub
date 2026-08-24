@@ -33,17 +33,17 @@
     "gps-location"
   ],
   "alternatives": [],
-  "popularity": 8,
+  "popularity": 9,
   "maintained": false,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 4995,
-    "forks": 1361,
+    "stars": 5014,
+    "forks": 1364,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-17",
-  "last_updated": "2026-08-17",
+  "last_checked": "2026-08-24",
+  "last_updated": "2026-08-24",
   "latest_version": "main"
 }

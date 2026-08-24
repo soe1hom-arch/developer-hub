@@ -28,14 +28,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 24490,
+    "stars": 24495,
     "forks": 5129,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-17",
-  "last_updated": "2026-08-17",
-  "latest_version": "@react-navigation/stack@7.10.22",
+  "last_checked": "2026-08-24",
+  "last_updated": "2026-08-24",
+  "latest_version": "@react-navigation/native-stack@7.18.9",
   "auto_discovered": true,
   "quality_score": 82
 }

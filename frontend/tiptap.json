@@ -35,14 +35,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 38051,
-    "forks": 3084,
+    "stars": 38154,
+    "forks": 3095,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-18",
-  "last_updated": "2026-08-18",
-  "latest_version": "v3.30.1",
+  "last_checked": "2026-08-25",
+  "last_updated": "2026-08-25",
+  "latest_version": "v3.30.3",
   "auto_discovered": true,
   "quality_score": 85
 }

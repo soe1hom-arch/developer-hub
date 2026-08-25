@@ -1,0 +1,43 @@
+{
+  "id": "fgo-py",
+  "name": "FGO-py",
+  "category": "android-tools",
+  "description": "\u81ea\u52a8\u722c\u5854! \u81ea\u52a8\u6bcf\u5468\u4efb\u52a1! \u5168\u81ea\u52a8\u514d\u914d\u7f6e\u8de8\u5e73\u53f0\u7684Fate/Grand Order\u52a9\u624b.\u542f\u52a8\u811a\u672c,\u4e0a\u5e8a\u7761\u89c9,\u517b\u809d\u62a4\u53d1,\u6ee1\u52a0\u6210\u5723\u8bde\u4e86\u89e3\u4e00\u4e0b?",
+  "official_website": "http://fgo-py.hgjazhgj.top/",
+  "documentation": "https://github.com/hgjazhgj/FGO-py#readme",
+  "github_repository": "https://github.com/hgjazhgj/FGO-py",
+  "license": "AGPL-3.0",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Android",
+    "Linux",
+    "Windows",
+    "macOS"
+  ],
+  "tags": [
+    "adb",
+    "airtest",
+    "cv",
+    "fate-grand-order",
+    "fgo",
+    "qt6"
+  ],
+  "alternatives": [],
+  "popularity": 7,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 2017,
+    "forks": 200,
+    "open_issues": 11,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-25",
+  "last_updated": "2026-08-25",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 75
+}

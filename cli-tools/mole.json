@@ -27,7 +27,9 @@
     "daisydisk",
     "macos",
     "mac",
-    "shell"
+    "shell",
+    "istat",
+    "optimize"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -35,14 +37,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 63948,
-    "forks": 2250,
+    "stars": 64813,
+    "forks": 2273,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-18",
-  "last_updated": "2026-08-18",
-  "latest_version": "V1.51.0",
+  "last_checked": "2026-08-25",
+  "last_updated": "2026-08-25",
+  "latest_version": "V1.52.0",
   "auto_discovered": true,
   "quality_score": 85
 }

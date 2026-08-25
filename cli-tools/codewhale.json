@@ -26,7 +26,13 @@
     "ai",
     "ai-agent",
     "alibaba-cloud",
-    "anthropic"
+    "anthropic",
+    "coding-agent",
+    "agent-orchestration",
+    "local-first",
+    "mcp",
+    "multi-agent",
+    "multi-model"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -34,14 +40,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 40828,
-    "forks": 3531,
+    "stars": 40845,
+    "forks": 3534,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-18",
-  "last_updated": "2026-08-18",
-  "latest_version": "v0.9.8",
+  "last_checked": "2026-08-25",
+  "last_updated": "2026-08-25",
+  "latest_version": "v0.9.11",
   "auto_discovered": true,
   "quality_score": 80
 }

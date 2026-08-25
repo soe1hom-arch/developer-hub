@@ -22,19 +22,19 @@
     "termux-x11"
   ],
   "alternatives": [],
-  "popularity": 7,
+  "popularity": 8,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 2146,
-    "forks": 256,
-    "open_issues": 97,
+    "stars": 2155,
+    "forks": 258,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-18",
-  "last_updated": "2026-08-18",
-  "latest_version": "latest",
+  "last_checked": "2026-08-25",
+  "last_updated": "2026-08-25",
+  "latest_version": "Debian",
   "auto_discovered": true,
   "quality_score": 77
 }

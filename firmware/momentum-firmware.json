@@ -30,13 +30,13 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 9043,
-    "forks": 578,
+    "stars": 9069,
+    "forks": 579,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-18",
-  "last_updated": "2026-08-18",
+  "last_checked": "2026-08-25",
+  "last_updated": "2026-08-25",
   "latest_version": "mntm-012",
   "auto_discovered": true,
   "quality_score": 80

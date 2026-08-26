@@ -34,13 +34,13 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 7072,
-    "forks": 456,
+    "stars": 7087,
+    "forks": 460,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-19",
-  "last_updated": "2026-08-19",
+  "last_checked": "2026-08-26",
+  "last_updated": "2026-08-26",
   "latest_version": "@tanstack/angular-virtual@6.0.3",
   "auto_discovered": true,
   "quality_score": 80

@@ -1,0 +1,43 @@
+{
+  "id": "llama-cpp-mtp-turboquant-sm120-blackwell-windows",
+  "name": "llama-cpp-mtp-turboquant-sm120-blackwell-windows",
+  "category": "binary",
+  "description": "Windows prebuilt of llama.cpp combining Multi-Token Prediction (MTP) + TurboQuant KV cache compression + native sm_120 (Blackwell consumer GPU, FP4 tensor cores). For RTX 5060 Ti / 5070 / 5080 / 5090.",
+  "official_website": "https://github.com/Andgihat/llama-cpp-mtp-turboquant-sm120-blackwell-windows",
+  "documentation": "https://github.com/Andgihat/llama-cpp-mtp-turboquant-sm120-blackwell-windows#readme",
+  "github_repository": "https://github.com/Andgihat/llama-cpp-mtp-turboquant-sm120-blackwell-windows",
+  "license": "NOASSERTION",
+  "programming_languages": [
+    "Generic"
+  ],
+  "platforms": [
+    "Linux",
+    "Windows"
+  ],
+  "tags": [
+    "blackwell",
+    "cuda-12-8",
+    "llama-cpp",
+    "mtp",
+    "prebuilt",
+    "rtx-50",
+    "rtx-5060ti",
+    "rtx-5090"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 10,
+    "forks": 2,
+    "open_issues": 1,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-26",
+  "last_updated": "2026-08-26",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 45
+}

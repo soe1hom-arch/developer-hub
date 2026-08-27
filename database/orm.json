@@ -1,0 +1,47 @@
+{
+  "id": "orm",
+  "name": "orm",
+  "category": "database",
+  "description": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+  "official_website": "https://www.prisma.io",
+  "documentation": "https://github.com/prisma/orm#readme",
+  "github_repository": "https://github.com/prisma/orm",
+  "license": "Apache-2.0",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "cockroachdb",
+    "database",
+    "javascript",
+    "loggy-core",
+    "loggy-terminal",
+    "mariadb",
+    "mongodb",
+    "mssql"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 47564,
+    "forks": 2533,
+    "open_issues": 2569,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-27",
+  "last_updated": "2026-08-27",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 90
+}

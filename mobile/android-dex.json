@@ -1,0 +1,46 @@
+{
+  "id": "android-dex",
+  "name": "Android-Dex",
+  "category": "mobile",
+  "description": "Universal Samsung DeX alternative for all Android devices. Run Android apps on Windows, Linux & macOS with resizable windows, advanced FPS gaming controls, and high-performance wireless ADB mirroring.",
+  "official_website": "https://shrey113.github.io/Android-Dex/",
+  "documentation": "https://github.com/Shrey113/Android-Dex#readme",
+  "github_repository": "https://github.com/Shrey113/Android-Dex",
+  "license": "MIT",
+  "programming_languages": [
+    "HTML"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "adb",
+    "android-dex",
+    "android-gaming",
+    "desktop",
+    "desktop-environment",
+    "flutter",
+    "game",
+    "keymapper"
+  ],
+  "alternatives": [],
+  "popularity": 7,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 2081,
+    "forks": 156,
+    "open_issues": 15,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-28",
+  "last_updated": "2026-08-28",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 80
+}

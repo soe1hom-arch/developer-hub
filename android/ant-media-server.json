@@ -38,13 +38,13 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 4723,
-    "forks": 689,
+    "stars": 4726,
+    "forks": 690,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-22",
-  "last_updated": "2026-08-22",
+  "last_checked": "2026-08-29",
+  "last_updated": "2026-08-29",
   "latest_version": "ams-v3.0.3",
   "auto_discovered": true,
   "quality_score": 80

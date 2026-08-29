@@ -7,7 +7,7 @@
   "documentation": "https://github.com/SteveTheKiller/KillerPDF#readme",
   "github_repository": "https://github.com/SteveTheKiller/KillerPDF",
   "license": "GPL-3.0",
-  "latest_version": "v1.7.3",
+  "latest_version": "v1.8.0",
   "programming_languages": [
     "C#"
   ],
@@ -36,12 +36,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 3574,
-    "forks": 269,
+    "stars": 3683,
+    "forks": 282,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-22",
-  "last_updated": "2026-08-22",
+  "last_checked": "2026-08-29",
+  "last_updated": "2026-08-29",
   "source": "binary-release"
 }

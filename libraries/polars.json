@@ -7,7 +7,7 @@
   "documentation": "https://docs.pola.rs",
   "github_repository": "https://github.com/pola-rs/polars",
   "license": "MIT",
-  "latest_version": "rs-0.55.2",
+  "latest_version": "py-1.44.1",
   "programming_languages": [
     "Rust",
     "Python"
@@ -43,11 +43,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-08-22",
-  "last_updated": "2026-08-22",
+  "last_checked": "2026-08-29",
+  "last_updated": "2026-08-29",
   "repository_statistics": {
-    "stars": 39435,
-    "forks": 3038,
+    "stars": 39536,
+    "forks": 3064,
     "open_issues": 0,
     "watchers": 0
   }

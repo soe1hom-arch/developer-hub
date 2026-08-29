@@ -7,7 +7,7 @@
   "documentation": "https://axios-http.com/docs",
   "github_repository": "https://github.com/axios/axios",
   "license": "MIT",
-  "latest_version": "v1.19.0",
+  "latest_version": "v1.20.0",
   "programming_languages": [
     "JavaScript",
     "TypeScript"
@@ -41,11 +41,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-08-22",
-  "last_updated": "2026-08-22",
+  "last_checked": "2026-08-29",
+  "last_updated": "2026-08-29",
   "repository_statistics": {
-    "stars": 109197,
-    "forks": 11824,
+    "stars": 109192,
+    "forks": 11829,
     "open_issues": 0,
     "watchers": 0
   }

@@ -7,7 +7,7 @@
   "documentation": "https://esphome.io/guides",
   "github_repository": "https://github.com/esphome/esphome",
   "license": "NOASSERTION",
-  "latest_version": "2026.8.0",
+  "latest_version": "2026.8.1",
   "programming_languages": [
     "C++",
     "Python",
@@ -45,11 +45,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-08-22",
-  "last_updated": "2026-08-22",
+  "last_checked": "2026-08-29",
+  "last_updated": "2026-08-29",
   "repository_statistics": {
-    "stars": 11574,
-    "forks": 5564,
+    "stars": 11614,
+    "forks": 5584,
     "open_issues": 0,
     "watchers": 0
   }

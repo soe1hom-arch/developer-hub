@@ -7,7 +7,7 @@
   "documentation": "https://github.com/zellij-org/zellij#readme",
   "github_repository": "https://github.com/zellij-org/zellij",
   "license": "MIT",
-  "latest_version": "v0.45.0",
+  "latest_version": "v0.45.1",
   "programming_languages": [
     "Rust"
   ],
@@ -31,12 +31,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 35035,
-    "forks": 1398,
+    "stars": 35164,
+    "forks": 1411,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-22",
-  "last_updated": "2026-08-22",
+  "last_checked": "2026-08-29",
+  "last_updated": "2026-08-29",
   "source": "cli-github"
 }

@@ -7,7 +7,7 @@
   "documentation": "https://mui.com/material-ui",
   "github_repository": "https://github.com/mui/material-ui",
   "license": "MIT",
-  "latest_version": "v9.3.1",
+  "latest_version": "v9.4.0",
   "programming_languages": [
     "TypeScript",
     "JavaScript"
@@ -38,11 +38,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-08-22",
-  "last_updated": "2026-08-22",
+  "last_checked": "2026-08-29",
+  "last_updated": "2026-08-29",
   "repository_statistics": {
-    "stars": 98888,
-    "forks": 32560,
+    "stars": 98958,
+    "forks": 32550,
     "open_issues": 0,
     "watchers": 0
   }

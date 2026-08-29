@@ -36,12 +36,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 64429,
-    "forks": 5456,
+    "stars": 64618,
+    "forks": 5484,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-22",
-  "last_updated": "2026-08-22",
+  "last_checked": "2026-08-29",
+  "last_updated": "2026-08-29",
   "source": "cli-github"
 }

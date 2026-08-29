@@ -1,0 +1,45 @@
+{
+  "id": "slate",
+  "name": "slate",
+  "category": "frontend",
+  "description": "A completely customizable framework for building rich text editors. (Currently in beta.)",
+  "official_website": "http://slatejs.org",
+  "documentation": "https://github.com/ianstormtaylor/slate#readme",
+  "github_repository": "https://github.com/ianstormtaylor/slate",
+  "license": "MIT",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "browser",
+    "editor",
+    "framework",
+    "javascript",
+    "react",
+    "rich-text",
+    "slate",
+    "text-editor"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 31750,
+    "forks": 3308,
+    "open_issues": 650,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-29",
+  "last_updated": "2026-08-29",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

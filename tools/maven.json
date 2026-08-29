@@ -7,7 +7,7 @@
   "documentation": "https://maven.apache.org/guides",
   "github_repository": "https://github.com/apache/maven",
   "license": "Apache-2.0",
-  "latest_version": "maven-3.10.0-rc-1",
+  "latest_version": "maven-3.9.16",
   "programming_languages": [
     "Java"
   ],
@@ -43,11 +43,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-08-22",
-  "last_updated": "2026-08-22",
+  "last_checked": "2026-08-29",
+  "last_updated": "2026-08-29",
   "repository_statistics": {
-    "stars": 5319,
-    "forks": 3107,
+    "stars": 5325,
+    "forks": 3112,
     "open_issues": 0,
     "watchers": 0
   }

@@ -7,7 +7,7 @@
   "documentation": "https://laravel.com/docs",
   "github_repository": "https://github.com/laravel/laravel",
   "license": "MIT",
-  "latest_version": "v13.10.0",
+  "latest_version": "v13.10.1",
   "programming_languages": [
     "PHP",
     "JavaScript",
@@ -42,11 +42,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-08-22",
-  "last_updated": "2026-08-22",
+  "last_checked": "2026-08-29",
+  "last_updated": "2026-08-29",
   "repository_statistics": {
-    "stars": 84839,
-    "forks": 24895,
+    "stars": 84888,
+    "forks": 24889,
     "open_issues": 0,
     "watchers": 0
   }

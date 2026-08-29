@@ -7,7 +7,7 @@
   "documentation": "https://rollupjs.org/guide",
   "github_repository": "https://github.com/rollup/rollup",
   "license": "NOASSERTION",
-  "latest_version": "v4.62.5",
+  "latest_version": "v4.63.1",
   "programming_languages": [
     "JavaScript",
     "TypeScript"
@@ -38,11 +38,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-08-22",
-  "last_updated": "2026-08-22",
+  "last_checked": "2026-08-29",
+  "last_updated": "2026-08-29",
   "repository_statistics": {
-    "stars": 26307,
-    "forks": 1767,
+    "stars": 26305,
+    "forks": 1766,
     "open_issues": 0,
     "watchers": 0
   }

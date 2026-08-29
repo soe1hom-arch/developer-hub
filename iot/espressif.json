@@ -7,7 +7,7 @@
   "documentation": "https://docs.espressif.com/projects/esp-idf",
   "github_repository": "https://github.com/espressif/esp-idf",
   "license": "Apache-2.0",
-  "latest_version": "v6.0.2",
+  "latest_version": "v6.1",
   "programming_languages": [
     "C",
     "C++",
@@ -39,11 +39,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-08-22",
-  "last_updated": "2026-08-22",
+  "last_checked": "2026-08-29",
+  "last_updated": "2026-08-29",
   "repository_statistics": {
-    "stars": 18837,
-    "forks": 8441,
+    "stars": 18894,
+    "forks": 8456,
     "open_issues": 0,
     "watchers": 0
   }

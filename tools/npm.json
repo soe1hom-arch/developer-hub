@@ -7,7 +7,7 @@
   "documentation": "https://docs.npmjs.com",
   "github_repository": "https://github.com/npm/cli",
   "license": "NOASSERTION",
-  "latest_version": "libnpmpack-v10.0.2",
+  "latest_version": "libnpmpack-v9.1.13",
   "programming_languages": [
     "JavaScript",
     "Node.js"
@@ -40,11 +40,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-08-22",
-  "last_updated": "2026-08-22",
+  "last_checked": "2026-08-29",
+  "last_updated": "2026-08-29",
   "repository_statistics": {
-    "stars": 10050,
-    "forks": 4652,
+    "stars": 10074,
+    "forks": 4678,
     "open_issues": 0,
     "watchers": 0
   }

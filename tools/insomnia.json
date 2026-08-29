@@ -7,7 +7,7 @@
   "documentation": "https://docs.insomnia.rest",
   "github_repository": "https://github.com/Kong/insomnia",
   "license": "Apache-2.0",
-  "latest_version": "core@13.1.0",
+  "latest_version": "core@13.2.0",
   "programming_languages": [
     "TypeScript",
     "JavaScript"
@@ -46,11 +46,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-08-22",
-  "last_updated": "2026-08-22",
+  "last_checked": "2026-08-29",
+  "last_updated": "2026-08-29",
   "repository_statistics": {
-    "stars": 39957,
-    "forks": 2361,
+    "stars": 39958,
+    "forks": 2363,
     "open_issues": 0,
     "watchers": 0
   }

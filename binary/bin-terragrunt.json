@@ -7,7 +7,7 @@
   "documentation": "https://github.com/gruntwork-io/terragrunt#readme",
   "github_repository": "https://github.com/gruntwork-io/terragrunt",
   "license": "MIT",
-  "latest_version": "v1.1.3",
+  "latest_version": "v1.1.4",
   "programming_languages": [
     "Go"
   ],
@@ -34,12 +34,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 9791,
+    "stars": 9809,
     "forks": 1222,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-22",
-  "last_updated": "2026-08-22",
+  "last_checked": "2026-08-29",
+  "last_updated": "2026-08-29",
   "source": "binary-release"
 }

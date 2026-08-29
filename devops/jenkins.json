@@ -7,7 +7,7 @@
   "documentation": "https://www.jenkins.io/doc",
   "github_repository": "https://github.com/jenkinsci/jenkins",
   "license": "MIT",
-  "latest_version": "jenkins-2.578",
+  "latest_version": "jenkins-2.579",
   "programming_languages": [
     "Java",
     "Groovy"
@@ -46,11 +46,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-08-22",
-  "last_updated": "2026-08-22",
+  "last_checked": "2026-08-29",
+  "last_updated": "2026-08-29",
   "repository_statistics": {
-    "stars": 26480,
-    "forks": 9801,
+    "stars": 26513,
+    "forks": 9811,
     "open_issues": 0,
     "watchers": 0
   }

@@ -7,7 +7,7 @@
   "documentation": "https://github.com/parse-community/parse-server#readme",
   "github_repository": "https://github.com/parse-community/parse-server",
   "license": "Apache-2.0",
-  "latest_version": "9.10.0",
+  "latest_version": "8.6.88",
   "programming_languages": [
     "JavaScript"
   ],
@@ -42,11 +42,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 21410,
-    "forks": 4816,
+    "stars": 21411,
+    "forks": 4813,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-23",
-  "last_updated": "2026-08-23"
+  "last_checked": "2026-08-30",
+  "last_updated": "2026-08-30"
 }

@@ -41,13 +41,13 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 6490,
-    "forks": 553,
+    "stars": 6503,
+    "forks": 555,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-23",
-  "last_updated": "2026-08-23",
+  "last_checked": "2026-08-30",
+  "last_updated": "2026-08-30",
   "latest_version": "plugins-destination-azblob-v4.5.11",
   "auto_discovered": true,
   "quality_score": 85

@@ -7,7 +7,7 @@
   "documentation": "https://github.com/QuestPDF/QuestPDF#readme",
   "github_repository": "https://github.com/QuestPDF/QuestPDF",
   "license": "NOASSERTION",
-  "latest_version": "2026.7.3",
+  "latest_version": "2026.8.0",
   "programming_languages": [
     "C#"
   ],
@@ -35,11 +35,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 14159,
+    "stars": 14169,
     "forks": 768,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-23",
-  "last_updated": "2026-08-23"
+  "last_checked": "2026-08-30",
+  "last_updated": "2026-08-30"
 }

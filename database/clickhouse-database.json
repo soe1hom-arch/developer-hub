@@ -7,7 +7,7 @@
   "documentation": "https://github.com/ClickHouse/ClickHouse#readme",
   "github_repository": "https://github.com/ClickHouse/ClickHouse",
   "license": "Apache-2.0",
-  "latest_version": "v26.3.21.7-lts",
+  "latest_version": "v26.3.25.2-lts",
   "programming_languages": [
     "C++"
   ],
@@ -41,11 +41,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 49395,
-    "forks": 8846,
+    "stars": 49529,
+    "forks": 8873,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-23",
-  "last_updated": "2026-08-23"
+  "last_checked": "2026-08-30",
+  "last_updated": "2026-08-30"
 }

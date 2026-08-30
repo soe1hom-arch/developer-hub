@@ -7,7 +7,7 @@
   "documentation": "https://socket.io/docs",
   "github_repository": "https://github.com/locustio/locust",
   "license": "MIT",
-  "latest_version": "2.46.3",
+  "latest_version": "2.46.4",
   "programming_languages": [
     "Python",
     "TypeScript",
@@ -43,11 +43,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-08-23",
-  "last_updated": "2026-08-23",
+  "last_checked": "2026-08-30",
+  "last_updated": "2026-08-30",
   "repository_statistics": {
-    "stars": 28092,
-    "forks": 3238,
+    "stars": 28115,
+    "forks": 3237,
     "open_issues": 0,
     "watchers": 0
   }

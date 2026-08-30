@@ -7,7 +7,7 @@
   "documentation": "https://kotlinlang.org/docs/multiplatform",
   "github_repository": "https://github.com/JetBrains/compose-multiplatform",
   "license": "Apache-2.0",
-  "latest_version": "v1.11.1",
+  "latest_version": "v1.12.0",
   "programming_languages": [
     "Kotlin",
     "Shell",
@@ -47,11 +47,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-08-23",
-  "last_updated": "2026-08-23",
+  "last_checked": "2026-08-30",
+  "last_updated": "2026-08-30",
   "repository_statistics": {
-    "stars": 19311,
-    "forks": 1424,
+    "stars": 19328,
+    "forks": 1425,
     "open_issues": 0,
     "watchers": 0
   }

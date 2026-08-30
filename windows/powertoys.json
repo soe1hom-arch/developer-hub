@@ -7,7 +7,7 @@
   "documentation": "https://github.com/microsoft/PowerToys#readme",
   "github_repository": "https://github.com/microsoft/PowerToys",
   "license": "MIT",
-  "latest_version": "v0.100.2",
+  "latest_version": "v0.101.2362.0",
   "programming_languages": [
     "C"
   ],
@@ -39,11 +39,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 137970,
-    "forks": 8497,
+    "stars": 138210,
+    "forks": 8520,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-23",
-  "last_updated": "2026-08-23"
+  "last_checked": "2026-08-30",
+  "last_updated": "2026-08-30"
 }

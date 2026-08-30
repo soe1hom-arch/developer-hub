@@ -7,7 +7,7 @@
   "documentation": "https://github.com/ccxt/ccxt#readme",
   "github_repository": "https://github.com/ccxt/ccxt",
   "license": "MIT",
-  "latest_version": "v4.5.75",
+  "latest_version": "v4.5.76",
   "programming_languages": [
     "Python"
   ],
@@ -40,11 +40,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 43702,
-    "forks": 8815,
+    "stars": 43798,
+    "forks": 8818,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-23",
-  "last_updated": "2026-08-23"
+  "last_checked": "2026-08-30",
+  "last_updated": "2026-08-30"
 }

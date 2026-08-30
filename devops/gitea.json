@@ -7,7 +7,7 @@
   "documentation": "https://github.com/go-gitea/gitea#readme",
   "github_repository": "https://github.com/go-gitea/gitea",
   "license": "MIT",
-  "latest_version": "v1.27.2",
+  "latest_version": "v1.27.3",
   "programming_languages": [
     "Go"
   ],
@@ -42,11 +42,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 57546,
-    "forks": 7028,
+    "stars": 57677,
+    "forks": 7078,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-23",
-  "last_updated": "2026-08-23"
+  "last_checked": "2026-08-30",
+  "last_updated": "2026-08-30"
 }

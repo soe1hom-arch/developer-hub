@@ -7,7 +7,7 @@
   "documentation": "https://github.com/BabylonJS/Babylon.js#readme",
   "github_repository": "https://github.com/BabylonJS/Babylon.js",
   "license": "Apache-2.0",
-  "latest_version": "9.22.1",
+  "latest_version": "9.23.0",
   "programming_languages": [
     "TypeScript"
   ],
@@ -40,11 +40,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 25965,
-    "forks": 3678,
+    "stars": 25998,
+    "forks": 3681,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-23",
-  "last_updated": "2026-08-23"
+  "last_checked": "2026-08-30",
+  "last_updated": "2026-08-30"
 }

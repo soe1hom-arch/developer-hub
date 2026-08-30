@@ -7,7 +7,7 @@
   "documentation": "https://github.com/directus/directus#readme",
   "github_repository": "https://github.com/directus/directus",
   "license": "NOASSERTION",
-  "latest_version": "v12.3.0",
+  "latest_version": "v12.3.1",
   "programming_languages": [
     "TypeScript"
   ],
@@ -41,11 +41,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 37462,
-    "forks": 4903,
+    "stars": 37701,
+    "forks": 4916,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-23",
-  "last_updated": "2026-08-23"
+  "last_checked": "2026-08-30",
+  "last_updated": "2026-08-30"
 }

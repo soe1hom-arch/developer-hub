@@ -22,7 +22,8 @@
   "tags": [
     "framework",
     "spring",
-    "spring-framework"
+    "spring-framework",
+    "spring-mvc"
   ],
   "has_binaries": false,
   "alternatives": [],
@@ -31,11 +32,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 60206,
-    "forks": 38775,
+    "stars": 60211,
+    "forks": 38765,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-23",
-  "last_updated": "2026-08-23"
+  "last_checked": "2026-08-30",
+  "last_updated": "2026-08-30"
 }

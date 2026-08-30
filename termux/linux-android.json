@@ -1,0 +1,42 @@
+{
+  "id": "linux-android",
+  "name": "linux-android",
+  "category": "termux",
+  "description": "Turn an old Android phone into a GPU-accelerated Linux desktop (XFCE4 / KDE Plasma / LXQt / MATE) or a Home Assistant smart home server \u2014 using Termux. No root, no PC, no cloud.",
+  "official_website": "https://youtu.be/tYm2rQpkOcg",
+  "documentation": "https://github.com/mayukh4/linux-android#readme",
+  "github_repository": "https://github.com/mayukh4/linux-android",
+  "license": "MIT",
+  "latest_version": "main",
+  "programming_languages": [
+    "Shell"
+  ],
+  "platforms": [
+    "Termux",
+    "Android"
+  ],
+  "tags": [
+    "adreno",
+    "android",
+    "bash-script",
+    "desktop-environment",
+    "gpu-acceleration",
+    "home-assistant",
+    "kde-plasma",
+    "linux"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 2371,
+    "forks": 193,
+    "open_issues": 3,
+    "watchers": 0
+  },
+  "last_checked": "2026-08-30",
+  "last_updated": "2026-08-30",
+  "source": "termux-github"
+}

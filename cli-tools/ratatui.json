@@ -31,13 +31,13 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 22362,
-    "forks": 749,
+    "stars": 22463,
+    "forks": 760,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-25",
-  "last_updated": "2026-08-25",
+  "last_checked": "2026-09-01",
+  "last_updated": "2026-09-01",
   "latest_version": "ratatui-v0.30.2",
   "auto_discovered": true,
   "quality_score": 85

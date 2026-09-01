@@ -1,0 +1,45 @@
+{
+  "id": "nanopi",
+  "name": "nanopi",
+  "category": "cli-tools",
+  "description": "Tiny Rust port of Pi \u2014 a ~4 MB statically-linked coding agent CLI for old/low-resource Linux boxes. OpenAI + Anthropic providers, streaming tool calls (read/write/edit/bash), JSONL sessions, ratatui T",
+  "official_website": "https://github.com/ChrisZhangJin/nanopi",
+  "documentation": "https://github.com/ChrisZhangJin/nanopi#readme",
+  "github_repository": "https://github.com/ChrisZhangJin/nanopi",
+  "license": "MIT",
+  "programming_languages": [
+    "Rust"
+  ],
+  "platforms": [
+    "Linux",
+    "macOS",
+    "Windows",
+    "Termux"
+  ],
+  "tags": [
+    "agent-skills",
+    "ai-agent",
+    "anthropic",
+    "claude-code",
+    "cli",
+    "coding-agent",
+    "deepseek",
+    "jsonl"
+  ],
+  "alternatives": [],
+  "popularity": 5,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 24,
+    "forks": 1,
+    "open_issues": 1,
+    "watchers": 0
+  },
+  "last_checked": "2026-09-01",
+  "last_updated": "2026-09-01",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 50
+}

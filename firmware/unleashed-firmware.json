@@ -36,13 +36,13 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 22117,
-    "forks": 1933,
+    "stars": 22154,
+    "forks": 1936,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-25",
-  "last_updated": "2026-08-25",
+  "last_checked": "2026-09-01",
+  "last_updated": "2026-09-01",
   "latest_version": "unlshd-092",
   "auto_discovered": true,
   "quality_score": 80

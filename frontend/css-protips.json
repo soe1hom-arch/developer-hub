@@ -29,7 +29,12 @@
     "tips",
     "tips-and-tricks",
     "useful",
-    "learning-resources"
+    "learning-resources",
+    "accessibility",
+    "best-practices",
+    "cheatsheet",
+    "css-tips",
+    "frontend"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -37,13 +42,13 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 30259,
-    "forks": 2210,
+    "stars": 30261,
+    "forks": 2207,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-25",
-  "last_updated": "2026-08-25",
+  "last_checked": "2026-09-01",
+  "last_updated": "2026-09-01",
   "latest_version": "latest",
   "auto_discovered": true,
   "quality_score": 70

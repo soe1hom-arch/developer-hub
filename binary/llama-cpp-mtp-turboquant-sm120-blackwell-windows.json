@@ -22,7 +22,10 @@
     "prebuilt",
     "rtx-50",
     "rtx-5060ti",
-    "rtx-5090"
+    "rtx-5090",
+    "sm-120",
+    "turboquant",
+    "windows"
   ],
   "alternatives": [],
   "popularity": 5,
@@ -32,12 +35,12 @@
   "repository_statistics": {
     "stars": 10,
     "forks": 2,
-    "open_issues": 1,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-26",
-  "last_updated": "2026-08-26",
-  "latest_version": "latest",
+  "last_checked": "2026-09-02",
+  "last_updated": "2026-09-02",
+  "latest_version": "v1.0",
   "auto_discovered": true,
   "quality_score": 45
 }

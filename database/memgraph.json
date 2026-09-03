@@ -26,22 +26,27 @@
     "cypher",
     "enterprise-context",
     "graph",
-    "graph-algorithms"
+    "graph-algorithms",
+    "graph-database",
+    "graph-analysis",
+    "kafka",
+    "opencypher",
+    "graphrag"
   ],
   "alternatives": [],
-  "popularity": 9,
+  "popularity": 8,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 4364,
-    "forks": 259,
-    "open_issues": 798,
+    "stars": 4383,
+    "forks": 261,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-27",
-  "last_updated": "2026-08-27",
-  "latest_version": "latest",
+  "last_checked": "2026-09-03",
+  "last_updated": "2026-09-03",
+  "latest_version": "v3.12.0",
   "auto_discovered": true,
   "quality_score": 80
 }

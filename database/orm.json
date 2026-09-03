@@ -26,7 +26,14 @@
     "loggy-terminal",
     "mariadb",
     "mongodb",
-    "mssql"
+    "mssql",
+    "prisma",
+    "orm",
+    "typescript",
+    "nodejs",
+    "mysql",
+    "postgresql",
+    "sqlserver"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -34,14 +41,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 47564,
-    "forks": 2533,
-    "open_issues": 2569,
+    "stars": 47592,
+    "forks": 2532,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-27",
-  "last_updated": "2026-08-27",
-  "latest_version": "latest",
+  "last_checked": "2026-09-03",
+  "last_updated": "2026-09-03",
+  "latest_version": "v0.17.0",
   "auto_discovered": true,
   "quality_score": 90
 }

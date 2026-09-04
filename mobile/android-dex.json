@@ -25,22 +25,26 @@
     "desktop-environment",
     "flutter",
     "game",
-    "keymapper"
+    "keymapper",
+    "samsung-dex",
+    "scrcpy",
+    "scrcpy-gui",
+    "wireless-debugging"
   ],
   "alternatives": [],
-  "popularity": 7,
+  "popularity": 8,
   "maintained": true,
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 2081,
-    "forks": 156,
-    "open_issues": 15,
+    "stars": 2322,
+    "forks": 175,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-28",
-  "last_updated": "2026-08-28",
-  "latest_version": "latest",
+  "last_checked": "2026-09-04",
+  "last_updated": "2026-09-04",
+  "latest_version": "Android-Dex-v.1.2",
   "auto_discovered": true,
   "quality_score": 80
 }

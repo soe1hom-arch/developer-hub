@@ -1,0 +1,45 @@
+{
+  "id": "frontend-slides",
+  "name": "frontend-slides",
+  "category": "frontend",
+  "description": "Create beautiful slides on the web using a coding agent's frontend skills",
+  "official_website": "https://github.com/zarazhangrui/frontend-slides",
+  "documentation": "https://github.com/zarazhangrui/frontend-slides#readme",
+  "github_repository": "https://github.com/zarazhangrui/frontend-slides",
+  "license": "MIT",
+  "programming_languages": [
+    "JavaScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "ai-slides",
+    "anthropic",
+    "claude",
+    "claude-code",
+    "claude-skill",
+    "generative-ui",
+    "html",
+    "presentation"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 28697,
+    "forks": 2292,
+    "open_issues": 69,
+    "watchers": 0
+  },
+  "last_checked": "2026-09-04",
+  "last_updated": "2026-09-04",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 75
+}

@@ -7,7 +7,7 @@
   "documentation": "https://docs.sonarsource.com/sonarqube",
   "github_repository": "https://github.com/SonarSource/sonarqube",
   "license": "LGPL-3.0",
-  "latest_version": "26.8.0.126808",
+  "latest_version": "26.9.0.129388",
   "programming_languages": [
     "Java",
     "TypeScript",
@@ -41,11 +41,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-08-29",
-  "last_updated": "2026-08-29",
+  "last_checked": "2026-09-05",
+  "last_updated": "2026-09-05",
   "repository_statistics": {
-    "stars": 10937,
-    "forks": 2223,
+    "stars": 10953,
+    "forks": 2229,
     "open_issues": 0,
     "watchers": 0
   }

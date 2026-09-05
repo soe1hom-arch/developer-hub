@@ -32,14 +32,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 31750,
-    "forks": 3308,
-    "open_issues": 650,
+    "stars": 31753,
+    "forks": 3304,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-29",
-  "last_updated": "2026-08-29",
-  "latest_version": "latest",
+  "last_checked": "2026-09-05",
+  "last_updated": "2026-09-05",
+  "latest_version": "slate-react@0.126.4",
   "auto_discovered": true,
   "quality_score": 85
 }

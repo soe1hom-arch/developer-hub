@@ -7,7 +7,7 @@
   "documentation": "https://github.com/1jehuang/jcode#readme",
   "github_repository": "https://github.com/1jehuang/jcode",
   "license": "MIT",
-  "latest_version": "v0.81.2",
+  "latest_version": "v0.81.7",
   "programming_languages": [
     "Rust"
   ],
@@ -40,12 +40,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 18761,
-    "forks": 2130,
+    "stars": 19118,
+    "forks": 2200,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-29",
-  "last_updated": "2026-08-29",
+  "last_checked": "2026-09-05",
+  "last_updated": "2026-09-05",
   "source": "cli-github"
 }

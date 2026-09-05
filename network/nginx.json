@@ -7,7 +7,7 @@
   "documentation": "https://nginx.org/en/docs",
   "github_repository": "https://github.com/nginx/nginx",
   "license": "BSD-2-Clause",
-  "latest_version": "release-1.31.4",
+  "latest_version": "release-1.31.5",
   "programming_languages": [
     "C"
   ],
@@ -45,11 +45,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-08-29",
-  "last_updated": "2026-08-29",
+  "last_checked": "2026-09-05",
+  "last_updated": "2026-09-05",
   "repository_statistics": {
-    "stars": 31519,
-    "forks": 8283,
+    "stars": 31574,
+    "forks": 8304,
     "open_issues": 0,
     "watchers": 0
   }

@@ -1,0 +1,47 @@
+{
+  "id": "paperless-ngx",
+  "name": "paperless-ngx",
+  "category": "ai",
+  "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+  "official_website": "http://docs.paperless-ngx.com/",
+  "documentation": "https://github.com/paperless-ngx/paperless-ngx#readme",
+  "github_repository": "https://github.com/paperless-ngx/paperless-ngx",
+  "license": "GPL-3.0",
+  "programming_languages": [
+    "Python"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows",
+    "Android",
+    "Termux"
+  ],
+  "tags": [
+    "ai",
+    "angular",
+    "archiving",
+    "django",
+    "dms",
+    "document-management",
+    "document-management-system",
+    "llm"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 44856,
+    "forks": 3080,
+    "open_issues": 19,
+    "watchers": 0
+  },
+  "last_checked": "2026-09-05",
+  "last_updated": "2026-09-05",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 90
+}

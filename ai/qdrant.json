@@ -7,7 +7,7 @@
   "documentation": "https://qdrant.tech/documentation",
   "github_repository": "https://github.com/qdrant/qdrant",
   "license": "Apache-2.0",
-  "latest_version": "v1.19.0",
+  "latest_version": "v1.19.1",
   "programming_languages": [
     "Rust",
     "Python",
@@ -49,11 +49,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-08-29",
-  "last_updated": "2026-08-29",
+  "last_checked": "2026-09-05",
+  "last_updated": "2026-09-05",
   "repository_statistics": {
-    "stars": 34250,
-    "forks": 2624,
+    "stars": 34392,
+    "forks": 2638,
     "open_issues": 0,
     "watchers": 0
   }

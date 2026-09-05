@@ -7,7 +7,7 @@
   "documentation": "https://github.com/wasmi-labs/wasmi#readme",
   "github_repository": "https://github.com/wasmi-labs/wasmi",
   "license": "Apache-2.0",
-  "latest_version": "v1.1.0",
+  "latest_version": "v2.0.0",
   "programming_languages": [
     "Rust"
   ],
@@ -38,12 +38,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 2177,
-    "forks": 361,
+    "stars": 2283,
+    "forks": 365,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-29",
-  "last_updated": "2026-08-29",
+  "last_checked": "2026-09-05",
+  "last_updated": "2026-09-05",
   "source": "binary-release"
 }

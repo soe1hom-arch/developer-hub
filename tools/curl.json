@@ -7,7 +7,7 @@
   "documentation": "https://curl.se/docs",
   "github_repository": "https://github.com/curl/curl",
   "license": "NOASSERTION",
-  "latest_version": "curl-8_21_0",
+  "latest_version": "curl-8_22_0",
   "programming_languages": [
     "C"
   ],
@@ -47,11 +47,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-08-29",
-  "last_updated": "2026-08-29",
+  "last_checked": "2026-09-05",
+  "last_updated": "2026-09-05",
   "repository_statistics": {
-    "stars": 42708,
-    "forks": 7331,
+    "stars": 42754,
+    "forks": 7339,
     "open_issues": 0,
     "watchers": 0
   }

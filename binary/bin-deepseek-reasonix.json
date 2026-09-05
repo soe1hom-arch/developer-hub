@@ -7,7 +7,7 @@
   "documentation": "https://github.com/esengine/DeepSeek-Reasonix#readme",
   "github_repository": "https://github.com/esengine/DeepSeek-Reasonix",
   "license": "MIT",
-  "latest_version": "desktop-v1.33.0",
+  "latest_version": "desktop-v1.37.0",
   "programming_languages": [
     "Go"
   ],
@@ -43,12 +43,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 35235,
-    "forks": 2355,
+    "stars": 35396,
+    "forks": 2366,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-29",
-  "last_updated": "2026-08-29",
+  "last_checked": "2026-09-05",
+  "last_updated": "2026-09-05",
   "source": "binary-release"
 }

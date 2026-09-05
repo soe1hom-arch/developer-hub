@@ -7,7 +7,7 @@
   "documentation": "https://coil-kt.github.io/coil",
   "github_repository": "https://github.com/coil-kt/coil",
   "license": "Apache-2.0",
-  "latest_version": "3.6.0",
+  "latest_version": "3.6.2",
   "programming_languages": [
     "Kotlin"
   ],
@@ -40,10 +40,10 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-08-29",
-  "last_updated": "2026-08-29",
+  "last_checked": "2026-09-05",
+  "last_updated": "2026-09-05",
   "repository_statistics": {
-    "stars": 11882,
+    "stars": 11890,
     "forks": 787,
     "open_issues": 0,
     "watchers": 0

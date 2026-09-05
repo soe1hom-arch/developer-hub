@@ -7,7 +7,7 @@
   "documentation": "https://github.com/can1357/oh-my-pi#readme",
   "github_repository": "https://github.com/can1357/oh-my-pi",
   "license": "MIT",
-  "latest_version": "v18.0.10",
+  "latest_version": "v18.1.10",
   "programming_languages": [
     "TypeScript"
   ],
@@ -37,12 +37,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 28177,
-    "forks": 2816,
+    "stars": 29529,
+    "forks": 2995,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-29",
-  "last_updated": "2026-08-29",
+  "last_checked": "2026-09-05",
+  "last_updated": "2026-09-05",
   "source": "cli-github"
 }

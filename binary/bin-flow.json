@@ -7,7 +7,7 @@
   "documentation": "https://github.com/facebook/flow#readme",
   "github_repository": "https://github.com/facebook/flow",
   "license": "MIT",
-  "latest_version": "v0.329.0",
+  "latest_version": "v0.331.0",
   "programming_languages": [
     "Rust"
   ],
@@ -27,12 +27,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 22280,
-    "forks": 1890,
+    "stars": 22282,
+    "forks": 1891,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-29",
-  "last_updated": "2026-08-29",
+  "last_checked": "2026-09-05",
+  "last_updated": "2026-09-05",
   "source": "binary-release"
 }

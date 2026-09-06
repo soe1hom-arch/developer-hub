@@ -36,7 +36,9 @@
     "reproducibility",
     "git-worktree",
     "agent-fleet",
-    "agent-swarm"
+    "agent-swarm",
+    "orchestrator",
+    "parallel-agents"
   ],
   "alternatives": [],
   "popularity": 8,
@@ -44,14 +46,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 1035,
-    "forks": 137,
+    "stars": 1107,
+    "forks": 154,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-30",
-  "last_updated": "2026-08-30",
-  "latest_version": "v3.18.2",
+  "last_checked": "2026-09-06",
+  "last_updated": "2026-09-06",
+  "latest_version": "v3.19.1",
   "auto_discovered": true,
   "quality_score": 75
 }

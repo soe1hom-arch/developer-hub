@@ -7,7 +7,7 @@
   "documentation": "https://github.com/moby/moby#readme",
   "github_repository": "https://github.com/moby/moby",
   "license": "Apache-2.0",
-  "latest_version": "docker-v29.7.2",
+  "latest_version": "docker-v29.8.0",
   "programming_languages": [
     "Go"
   ],
@@ -32,11 +32,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 72015,
-    "forks": 19212,
+    "stars": 72044,
+    "forks": 19235,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-30",
-  "last_updated": "2026-08-30"
+  "last_checked": "2026-09-06",
+  "last_updated": "2026-09-06"
 }

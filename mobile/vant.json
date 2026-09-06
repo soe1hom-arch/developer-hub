@@ -7,7 +7,7 @@
   "documentation": "https://github.com/youzan/vant#readme",
   "github_repository": "https://github.com/youzan/vant",
   "license": "MIT",
-  "latest_version": "4.10.1",
+  "latest_version": "v4.10.2",
   "programming_languages": [
     "TypeScript"
   ],
@@ -34,11 +34,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 24380,
-    "forks": 9388,
+    "stars": 24382,
+    "forks": 9384,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-30",
-  "last_updated": "2026-08-30"
+  "last_checked": "2026-09-06",
+  "last_updated": "2026-09-06"
 }

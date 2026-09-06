@@ -7,7 +7,7 @@
   "documentation": "https://github.com/puppeteer/puppeteer#readme",
   "github_repository": "https://github.com/puppeteer/puppeteer",
   "license": "Apache-2.0",
-  "latest_version": "puppeteer-core-v25.9.0",
+  "latest_version": "browsers-v3.2.2",
   "programming_languages": [
     "TypeScript"
   ],
@@ -37,11 +37,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 95523,
-    "forks": 9574,
+    "stars": 95553,
+    "forks": 9579,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-30",
-  "last_updated": "2026-08-30"
+  "last_checked": "2026-09-06",
+  "last_updated": "2026-09-06"
 }

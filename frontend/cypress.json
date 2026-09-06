@@ -7,7 +7,7 @@
   "documentation": "https://docs.cypress.io",
   "github_repository": "https://github.com/cypress-io/cypress",
   "license": "MIT",
-  "latest_version": "v15.21.1",
+  "latest_version": "v16.0.0",
   "programming_languages": [
     "TypeScript",
     "JavaScript",
@@ -45,11 +45,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-08-30",
-  "last_updated": "2026-08-30",
+  "last_checked": "2026-09-06",
+  "last_updated": "2026-09-06",
   "repository_statistics": {
-    "stars": 51015,
-    "forks": 3649,
+    "stars": 51028,
+    "forks": 3653,
     "open_issues": 0,
     "watchers": 0
   }

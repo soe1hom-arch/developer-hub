@@ -7,7 +7,7 @@
   "documentation": "https://github.com/Significant-Gravitas/AutoGPT#readme",
   "github_repository": "https://github.com/Significant-Gravitas/AutoGPT",
   "license": "NOASSERTION",
-  "latest_version": "autogpt-platform-beta-v0.7.3",
+  "latest_version": "autogpt-platform-beta-v0.7.4",
   "programming_languages": [
     "Python"
   ],
@@ -39,11 +39,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 186994,
-    "forks": 46049,
+    "stars": 187162,
+    "forks": 46042,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-30",
-  "last_updated": "2026-08-30"
+  "last_checked": "2026-09-06",
+  "last_updated": "2026-09-06"
 }

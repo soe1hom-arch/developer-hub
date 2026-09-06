@@ -7,7 +7,7 @@
   "documentation": "https://github.com/iii-hq/iii#readme",
   "github_repository": "https://github.com/iii-hq/iii",
   "license": "MIT",
-  "latest_version": "iii/v0.22.1",
+  "latest_version": "iii/v0.23.0",
   "programming_languages": [
     "Rust"
   ],
@@ -37,11 +37,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 18641,
-    "forks": 1248,
+    "stars": 18676,
+    "forks": 1253,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-30",
-  "last_updated": "2026-08-30"
+  "last_checked": "2026-09-06",
+  "last_updated": "2026-09-06"
 }

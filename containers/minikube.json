@@ -7,7 +7,7 @@
   "documentation": "https://github.com/kubernetes/minikube#readme",
   "github_repository": "https://github.com/kubernetes/minikube",
   "license": "Apache-2.0",
-  "latest_version": "v1.38.1",
+  "latest_version": "v1.39.0",
   "programming_languages": [
     "Go"
   ],
@@ -34,11 +34,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 32076,
-    "forks": 5304,
+    "stars": 32101,
+    "forks": 5317,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-30",
-  "last_updated": "2026-08-30"
+  "last_checked": "2026-09-06",
+  "last_updated": "2026-09-06"
 }

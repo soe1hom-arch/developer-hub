@@ -7,7 +7,7 @@
   "documentation": "https://github.com/NousResearch/hermes-agent#readme",
   "github_repository": "https://github.com/NousResearch/hermes-agent",
   "license": "MIT",
-  "latest_version": "v2026.8.27",
+  "latest_version": "v2026.8.31",
   "programming_languages": [
     "Python"
   ],
@@ -39,11 +39,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 238201,
-    "forks": 48448,
+    "stars": 242071,
+    "forks": 49739,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-30",
-  "last_updated": "2026-08-30"
+  "last_checked": "2026-09-06",
+  "last_updated": "2026-09-06"
 }

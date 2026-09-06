@@ -7,7 +7,7 @@
   "documentation": "https://github.com/usestrix/strix#readme",
   "github_repository": "https://github.com/usestrix/strix",
   "license": "Apache-2.0",
-  "latest_version": "v1.5.3",
+  "latest_version": "v1.6.2",
   "programming_languages": [
     "Python"
   ],
@@ -40,11 +40,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 59337,
-    "forks": 6474,
+    "stars": 60767,
+    "forks": 6642,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-30",
-  "last_updated": "2026-08-30"
+  "last_checked": "2026-09-06",
+  "last_updated": "2026-09-06"
 }

@@ -41,14 +41,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 6503,
-    "forks": 555,
+    "stars": 6510,
+    "forks": 557,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-30",
-  "last_updated": "2026-08-30",
-  "latest_version": "plugins-destination-azblob-v4.5.11",
+  "last_checked": "2026-09-06",
+  "last_updated": "2026-09-06",
+  "latest_version": "cli-v6.42.2",
   "auto_discovered": true,
   "quality_score": 85
 }

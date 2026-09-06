@@ -7,7 +7,7 @@
   "documentation": "https://github.com/odin-lang/Odin#readme",
   "github_repository": "https://github.com/odin-lang/Odin",
   "license": "Zlib",
-  "latest_version": "dev-2026-08",
+  "latest_version": "dev-2026-09",
   "programming_languages": [
     "Odin"
   ],
@@ -32,11 +32,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 11812,
-    "forks": 1075,
+    "stars": 11872,
+    "forks": 1083,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-30",
-  "last_updated": "2026-08-30"
+  "last_checked": "2026-09-06",
+  "last_updated": "2026-09-06"
 }

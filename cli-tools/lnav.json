@@ -7,7 +7,7 @@
   "documentation": "https://github.com/tstack/lnav#readme",
   "github_repository": "https://github.com/tstack/lnav",
   "license": "BSD-2-Clause",
-  "latest_version": "v0.14.0",
+  "latest_version": "v0.14.1",
   "programming_languages": [
     "C++"
   ],
@@ -40,12 +40,12 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 10620,
-    "forks": 399,
+    "stars": 10636,
+    "forks": 401,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-30",
-  "last_updated": "2026-08-30",
+  "last_checked": "2026-09-06",
+  "last_updated": "2026-09-06",
   "source": "cli-github"
 }

@@ -25,7 +25,13 @@
     "kotlin",
     "kotlin-android",
     "material-design",
-    "material-ui"
+    "material-ui",
+    "material3",
+    "music",
+    "music-player",
+    "musicplayer",
+    "newpipe",
+    "newpipe-extractor"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -33,14 +39,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 12364,
-    "forks": 967,
-    "open_issues": 502,
+    "stars": 12537,
+    "forks": 995,
+    "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-30",
-  "last_updated": "2026-08-30",
-  "latest_version": "latest",
+  "last_checked": "2026-09-06",
+  "last_updated": "2026-09-06",
+  "latest_version": "v13.6.3",
   "auto_discovered": true,
   "quality_score": 80
 }

@@ -26,15 +26,15 @@
   "has_binaries": false,
   "alternatives": [],
   "popularity": 6,
-  "maintained": true,
-  "archived": false,
+  "maintained": false,
+  "archived": true,
   "open_source": true,
   "repository_statistics": {
-    "stars": 424,
-    "forks": 118,
+    "stars": 1,
+    "forks": 0,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-23",
-  "last_updated": "2026-08-23"
+  "last_checked": "2026-09-06",
+  "last_updated": "2026-09-06"
 }

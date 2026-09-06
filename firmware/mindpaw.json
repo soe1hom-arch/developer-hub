@@ -6,7 +6,7 @@
   "official_website": "https://github.com/ace-trump-tech/MindPaw",
   "documentation": "https://github.com/ace-trump-tech/MindPaw#readme",
   "github_repository": "https://github.com/ace-trump-tech/MindPaw",
-  "license": "MIT",
+  "license": "NOASSERTION",
   "programming_languages": [
     "C++"
   ],
@@ -25,13 +25,13 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 2445,
-    "forks": 2206,
+    "stars": 2473,
+    "forks": 2216,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-30",
-  "last_updated": "2026-08-30",
+  "last_checked": "2026-09-06",
+  "last_updated": "2026-09-06",
   "latest_version": "latest",
   "auto_discovered": true,
   "quality_score": 67

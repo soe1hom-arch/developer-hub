@@ -7,7 +7,7 @@
   "documentation": "https://github.com/kestra-io/kestra#readme",
   "github_repository": "https://github.com/kestra-io/kestra",
   "license": "Apache-2.0",
-  "latest_version": "v1.3.30",
+  "latest_version": "v1.3.37",
   "programming_languages": [
     "Java"
   ],
@@ -43,11 +43,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 27952,
-    "forks": 2954,
+    "stars": 27997,
+    "forks": 2975,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-30",
-  "last_updated": "2026-08-30"
+  "last_checked": "2026-09-06",
+  "last_updated": "2026-09-06"
 }

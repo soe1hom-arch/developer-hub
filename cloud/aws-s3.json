@@ -7,7 +7,7 @@
   "documentation": "https://docs.aws.amazon.com/s3",
   "github_repository": "https://github.com/floci-io/floci",
   "license": "MIT",
-  "latest_version": "1.7.0",
+  "latest_version": "2.0.1",
   "programming_languages": [
     "Java",
     "TypeScript",
@@ -42,11 +42,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-08-30",
-  "last_updated": "2026-08-30",
+  "last_checked": "2026-09-06",
+  "last_updated": "2026-09-06",
   "repository_statistics": {
-    "stars": 22720,
-    "forks": 2371,
+    "stars": 23331,
+    "forks": 2462,
     "open_issues": 0,
     "watchers": 0
   }

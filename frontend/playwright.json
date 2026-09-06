@@ -7,7 +7,7 @@
   "documentation": "https://playwright.dev/docs",
   "github_repository": "https://github.com/browser-use/browser-use",
   "license": "MIT",
-  "latest_version": "0.13.8",
+  "latest_version": "0.13.10",
   "programming_languages": [
     "Python",
     "Shell",
@@ -38,11 +38,11 @@
   "maintained": true,
   "archived": false,
   "open_source": true,
-  "last_checked": "2026-08-30",
-  "last_updated": "2026-08-30",
+  "last_checked": "2026-09-06",
+  "last_updated": "2026-09-06",
   "repository_statistics": {
-    "stars": 111682,
-    "forks": 12256,
+    "stars": 112411,
+    "forks": 12374,
     "open_issues": 0,
     "watchers": 0
   }

@@ -7,7 +7,7 @@
   "documentation": "https://github.com/emqx/emqx#readme",
   "github_repository": "https://github.com/emqx/emqx",
   "license": "NOASSERTION",
-  "latest_version": "6.2.3",
+  "latest_version": "6.3.0",
   "programming_languages": [
     "Erlang"
   ],
@@ -40,11 +40,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 16670,
-    "forks": 2547,
+    "stars": 16692,
+    "forks": 2549,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-30",
-  "last_updated": "2026-08-30"
+  "last_checked": "2026-09-06",
+  "last_updated": "2026-09-06"
 }

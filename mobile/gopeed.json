@@ -1,0 +1,46 @@
+{
+  "id": "gopeed",
+  "name": "gopeed",
+  "category": "mobile",
+  "description": "A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.",
+  "official_website": "https://gopeed.com",
+  "documentation": "https://github.com/GopeedLab/gopeed#readme",
+  "github_repository": "https://github.com/GopeedLab/gopeed",
+  "license": "GPL-3.0",
+  "programming_languages": [
+    "Dart"
+  ],
+  "platforms": [
+    "Android",
+    "iOS",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "android",
+    "bittorrent",
+    "cross-platform",
+    "debian",
+    "downloader",
+    "flutter",
+    "golang",
+    "http"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 26107,
+    "forks": 1696,
+    "open_issues": 327,
+    "watchers": 0
+  },
+  "last_checked": "2026-09-06",
+  "last_updated": "2026-09-06",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 90
+}

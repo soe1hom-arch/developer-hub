@@ -7,7 +7,7 @@
   "documentation": "https://github.com/n8n-io/n8n#readme",
   "github_repository": "https://github.com/n8n-io/n8n",
   "license": "NOASSERTION",
-  "latest_version": "n8n@2.36.8",
+  "latest_version": "n8n@2.37.10",
   "programming_languages": [
     "TypeScript"
   ],
@@ -42,11 +42,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 202823,
-    "forks": 60460,
+    "stars": 203491,
+    "forks": 60571,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-30",
-  "last_updated": "2026-08-30"
+  "last_checked": "2026-09-06",
+  "last_updated": "2026-09-06"
 }

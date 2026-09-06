@@ -7,7 +7,7 @@
   "documentation": "https://github.com/typeorm/typeorm#readme",
   "github_repository": "https://github.com/typeorm/typeorm",
   "license": "MIT",
-  "latest_version": "1.1.0",
+  "latest_version": "1.1.1",
   "programming_languages": [
     "TypeScript"
   ],
@@ -42,11 +42,11 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 36638,
-    "forks": 6657,
+    "stars": 36647,
+    "forks": 6666,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-30",
-  "last_updated": "2026-08-30"
+  "last_checked": "2026-09-06",
+  "last_updated": "2026-09-06"
 }

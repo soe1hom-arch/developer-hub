@@ -28,13 +28,13 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 24501,
-    "forks": 5130,
+    "stars": 24503,
+    "forks": 5132,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-31",
-  "last_updated": "2026-08-31",
+  "last_checked": "2026-09-07",
+  "last_updated": "2026-09-07",
   "latest_version": "@react-navigation/native@7.3.18",
   "auto_discovered": true,
   "quality_score": 82

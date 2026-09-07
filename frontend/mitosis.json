@@ -37,13 +37,13 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 13904,
-    "forks": 638,
+    "stars": 14359,
+    "forks": 667,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-08-31",
-  "last_updated": "2026-08-31",
+  "last_checked": "2026-09-07",
+  "last_updated": "2026-09-07",
   "latest_version": "@builder.io/mitosis-cli@0.14.0",
   "auto_discovered": true,
   "quality_score": 90

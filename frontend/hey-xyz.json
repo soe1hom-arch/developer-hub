@@ -1,0 +1,45 @@
+{
+  "id": "hey-xyz",
+  "name": "hey.xyz",
+  "category": "frontend",
+  "description": "Hey is a decentralized and permissionless social media app built with Lens Protocol \ud83c\udf3f",
+  "official_website": "https://hey.xyz",
+  "documentation": "https://github.com/slymnoyann/hey.xyz#readme",
+  "github_repository": "https://github.com/slymnoyann/hey.xyz",
+  "license": "GPL-3.0",
+  "programming_languages": [
+    "TypeScript"
+  ],
+  "platforms": [
+    "Web",
+    "Linux",
+    "macOS",
+    "Windows"
+  ],
+  "tags": [
+    "blockchain",
+    "crypto",
+    "dapp",
+    "graphql",
+    "hacktoberfest",
+    "lens-protocol",
+    "nextjs",
+    "react"
+  ],
+  "alternatives": [],
+  "popularity": 10,
+  "maintained": true,
+  "archived": false,
+  "open_source": true,
+  "repository_statistics": {
+    "stars": 29379,
+    "forks": 1805,
+    "open_issues": 7,
+    "watchers": 0
+  },
+  "last_checked": "2026-09-07",
+  "last_updated": "2026-09-07",
+  "latest_version": "latest",
+  "auto_discovered": true,
+  "quality_score": 85
+}

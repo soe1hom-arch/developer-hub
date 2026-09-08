@@ -30,14 +30,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 61460,
-    "forks": 2961,
+    "stars": 61757,
+    "forks": 2978,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-09-01",
-  "last_updated": "2026-09-01",
-  "latest_version": "@upstash/context7-mcp@4.0.4",
+  "last_checked": "2026-09-08",
+  "last_updated": "2026-09-08",
+  "latest_version": "@upstash/context7-sdk@0.4.0",
   "auto_discovered": true,
   "quality_score": 82
 }

@@ -38,14 +38,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 26516,
-    "forks": 5054,
+    "stars": 26633,
+    "forks": 5093,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-09-01",
-  "last_updated": "2026-09-01",
-  "latest_version": "@ai-sdk/workflow-harness@1.0.96",
+  "last_checked": "2026-09-08",
+  "last_updated": "2026-09-08",
+  "latest_version": "@ai-sdk/openai@4.0.60",
   "auto_discovered": true,
   "quality_score": 90
 }

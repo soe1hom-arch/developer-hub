@@ -39,14 +39,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 14514,
-    "forks": 1659,
+    "stars": 14659,
+    "forks": 1675,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-09-01",
-  "last_updated": "2026-09-01",
-  "latest_version": "tauri",
+  "last_checked": "2026-09-08",
+  "last_updated": "2026-09-08",
+  "latest_version": "v1.13.7",
   "auto_discovered": true,
   "quality_score": 90
 }

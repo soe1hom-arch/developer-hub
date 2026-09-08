@@ -31,17 +31,17 @@
   ],
   "alternatives": [],
   "popularity": 10,
-  "maintained": true,
-  "archived": false,
+  "maintained": false,
+  "archived": true,
   "open_source": true,
   "repository_statistics": {
-    "stars": 18026,
+    "stars": 18025,
     "forks": 1852,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-09-01",
-  "last_updated": "2026-09-01",
+  "last_checked": "2026-09-08",
+  "last_updated": "2026-09-08",
   "latest_version": "editor@3.2.2",
   "auto_discovered": true,
   "quality_score": 85

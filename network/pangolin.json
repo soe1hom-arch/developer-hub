@@ -32,7 +32,9 @@
     "single-sign-on",
     "self-hosted",
     "vpn",
-    "zero-trust"
+    "zero-trust",
+    "zero-trust-network-access",
+    "ztna"
   ],
   "alternatives": [],
   "popularity": 10,
@@ -40,14 +42,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 22566,
-    "forks": 769,
+    "stars": 22670,
+    "forks": 779,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-09-01",
-  "last_updated": "2026-09-01",
-  "latest_version": "1.22.0",
+  "last_checked": "2026-09-08",
+  "last_updated": "2026-09-08",
+  "latest_version": "1.22.2",
   "auto_discovered": true,
   "quality_score": 85
 }

@@ -33,14 +33,14 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 14411,
+    "stars": 14410,
     "forks": 662,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-09-01",
-  "last_updated": "2026-09-01",
-  "latest_version": "@marko/runtime-tags@6.3.46",
+  "last_checked": "2026-09-08",
+  "last_updated": "2026-09-08",
+  "latest_version": "@marko/compiler@5.42.4",
   "auto_discovered": true,
   "quality_score": 85
 }

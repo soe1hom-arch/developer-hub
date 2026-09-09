@@ -32,13 +32,13 @@
   "archived": false,
   "open_source": true,
   "repository_statistics": {
-    "stars": 2218,
-    "forks": 945,
+    "stars": 2237,
+    "forks": 948,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-09-02",
-  "last_updated": "2026-09-02",
+  "last_checked": "2026-09-09",
+  "last_updated": "2026-09-09",
   "latest_version": "mesa-freedreno-26.3.0-devel-20260824",
   "auto_discovered": true,
   "quality_score": 70

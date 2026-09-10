@@ -34,13 +34,13 @@
   "archived": true,
   "open_source": true,
   "repository_statistics": {
-    "stars": 12706,
-    "forks": 1353,
+    "stars": 12702,
+    "forks": 1354,
     "open_issues": 0,
     "watchers": 0
   },
-  "last_checked": "2026-09-03",
-  "last_updated": "2026-09-03",
+  "last_checked": "2026-09-10",
+  "last_updated": "2026-09-10",
   "latest_version": "vue-calendar@2.1.3",
   "auto_discovered": true,
   "quality_score": 85
